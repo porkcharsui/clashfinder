@@ -1,21 +1,18 @@
 # ClashFinder
 
-Tools to export raw data from festival applications and render [Clashfinder](https://clashfinder.com/)
+Tools to export raw data from festival applications and render [Clashfinder](https://clashfinder.com/) schedules
 
-## Supported Applications
+## Supported Festival Platforms
 
 * [Appmiral](https://appmiral.com/)
   * Shambhala Festival
+## Setup
 
-## Usage
-
-Required for use: 
+Required tools for use: 
 
 * curl
 * jq
 * python 3+
-
-### Setup
 
 Extract the application session key using a MITM proxy tool like [Charles Proxy](https://www.charlesproxy.com/) or [mitmproxy](https://mitmproxy.org/).
 
@@ -23,4 +20,18 @@ Within the desired festival application directory, add the extracted `SESSION_KE
 
 ```
 SESSION_KEY=VALUE_HERE
+```
+
+## Usage
+
+1. Extract all scheduling data by running an extract script
+```
+cd festivals/shambhalafestival
+./2022.sh
+```
+
+2. Render the scheduling data as Clashfinder markup.
+
+```
+TODO
 ```
