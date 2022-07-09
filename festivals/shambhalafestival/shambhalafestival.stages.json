@@ -1,0 +1,243 @@
+{
+  "data": [
+    {
+      "modified_at": "2022-07-07T20:29:29+00:00",
+      "external_id": "15977",
+      "id": 3350,
+      "name": "Fractal Forest",
+      "published": true,
+      "priority": 1,
+      "color": "#82bb49",
+      "tags": []
+    },
+    {
+      "modified_at": "2022-07-07T20:29:22+00:00",
+      "external_id": "15970",
+      "id": 3343,
+      "name": "Fractal Forest",
+      "published": true,
+      "priority": 1,
+      "color": "#82bb49",
+      "tags": []
+    },
+    {
+      "modified_at": "2022-07-07T20:29:08+00:00",
+      "external_id": "15980",
+      "id": 3353,
+      "name": "Pagoda",
+      "published": true,
+      "priority": 1,
+      "color": "#983685",
+      "tags": []
+    },
+    {
+      "modified_at": "2022-07-07T20:29:02+00:00",
+      "external_id": "15973",
+      "id": 3346,
+      "name": "Pagoda",
+      "published": true,
+      "priority": 1,
+      "color": "#983685",
+      "tags": []
+    },
+    {
+      "modified_at": "2022-07-07T20:28:45+00:00",
+      "external_id": "15981",
+      "id": 3354,
+      "name": "Village",
+      "published": true,
+      "priority": 1,
+      "color": "#27b3cc",
+      "tags": []
+    },
+    {
+      "modified_at": "2022-07-07T20:28:34+00:00",
+      "external_id": "15974",
+      "id": 3347,
+      "name": "Village",
+      "published": true,
+      "priority": 1,
+      "color": "#27b3cc",
+      "tags": []
+    },
+    {
+      "modified_at": "2022-07-07T20:08:00+00:00",
+      "external_id": "15978",
+      "id": 3351,
+      "name": "Grove",
+      "published": true,
+      "priority": 1,
+      "color": "#135f9d",
+      "tags": []
+    },
+    {
+      "modified_at": "2022-07-07T20:07:50+00:00",
+      "external_id": "15971",
+      "id": 3344,
+      "name": "Grove",
+      "published": true,
+      "priority": 1,
+      "color": "#135f9d",
+      "tags": []
+    },
+    {
+      "modified_at": "2022-07-07T20:07:27+00:00",
+      "external_id": "15976",
+      "id": 3349,
+      "name": "Cedar Lounge",
+      "published": true,
+      "priority": 1,
+      "color": "#115f79",
+      "tags": []
+    },
+    {
+      "modified_at": "2022-07-07T20:06:14+00:00",
+      "external_id": "15969",
+      "id": 3342,
+      "name": "Cedar Lounge",
+      "published": true,
+      "priority": 1,
+      "color": "#115f79",
+      "tags": []
+    },
+    {
+      "modified_at": "2022-07-07T20:06:02+00:00",
+      "external_id": "15979",
+      "id": 3352,
+      "name": "Living Room",
+      "published": true,
+      "priority": 1,
+      "color": "#676bad",
+      "tags": []
+    },
+    {
+      "modified_at": "2022-07-07T20:05:56+00:00",
+      "external_id": "15972",
+      "id": 3345,
+      "name": "Living Room",
+      "published": true,
+      "priority": 1,
+      "color": "#676bad",
+      "tags": []
+    },
+    {
+      "modified_at": "2022-07-07T20:05:50+00:00",
+      "external_id": "15965",
+      "id": 3338,
+      "name": "Living Room",
+      "published": true,
+      "priority": 1,
+      "color": "#676bad",
+      "tags": []
+    },
+    {
+      "modified_at": "2022-07-07T20:05:30+00:00",
+      "external_id": "15975",
+      "id": 3348,
+      "name": "AMP",
+      "published": true,
+      "priority": 1,
+      "color": "#ee8732",
+      "tags": []
+    },
+    {
+      "modified_at": "2022-07-07T20:05:22+00:00",
+      "external_id": "15968",
+      "id": 3341,
+      "name": "AMP",
+      "published": true,
+      "priority": 1,
+      "color": "#ee8732",
+      "tags": []
+    },
+    {
+      "modified_at": "2022-07-05T19:56:48+00:00",
+      "external_id": "15967",
+      "id": 3340,
+      "name": "Village",
+      "published": true,
+      "priority": 1,
+      "color": "#27b3cc",
+      "tags": []
+    },
+    {
+      "modified_at": "2022-07-05T19:56:40+00:00",
+      "external_id": "15966",
+      "id": 3339,
+      "name": "Pagoda",
+      "published": true,
+      "priority": 1,
+      "color": "#983685",
+      "tags": []
+    },
+    {
+      "modified_at": "2022-07-05T19:56:24+00:00",
+      "external_id": "15964",
+      "id": 3337,
+      "name": "Grove",
+      "published": true,
+      "priority": 1,
+      "color": "#135f9d",
+      "tags": []
+    },
+    {
+      "modified_at": "2022-07-05T19:56:12+00:00",
+      "external_id": "15963",
+      "id": 3336,
+      "name": "Fractal Forest",
+      "published": true,
+      "priority": 1,
+      "color": "#82bb49",
+      "tags": []
+    },
+    {
+      "modified_at": "2022-07-05T19:55:57+00:00",
+      "external_id": "15961",
+      "id": 3334,
+      "name": "AMP",
+      "published": true,
+      "priority": 1,
+      "color": "#ee8732",
+      "tags": []
+    },
+    {
+      "modified_at": "2022-07-05T19:55:45+00:00",
+      "external_id": "15962",
+      "id": 3335,
+      "name": "Cedar Lounge",
+      "published": true,
+      "priority": 1,
+      "color": "#115f79",
+      "tags": []
+    },
+    {
+      "modified_at": "2022-07-05T19:55:22+00:00",
+      "external_id": "15960",
+      "id": 3333,
+      "name": "Living Room",
+      "published": true,
+      "priority": 1,
+      "color": "#676bad",
+      "tags": []
+    },
+    {
+      "modified_at": "2022-07-05T19:53:58+00:00",
+      "external_id": "15959",
+      "id": 3332,
+      "name": "AMP",
+      "published": true,
+      "priority": 1,
+      "color": "#ee8732",
+      "tags": []
+    }
+  ],
+  "_links": {
+    "self": "https://app.appmiral.com/api/v6/events/shambhalafestival/editions/shambhalafestival2022/stages?includehistory=true&maxperpage=100"
+  },
+  "_meta": {
+    "page": 1,
+    "max_per_page": 100,
+    "page_count": 23,
+    "total_count": 23
+  }
+}
