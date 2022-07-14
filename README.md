@@ -40,7 +40,7 @@ pushd festivals/shambhalafestival
 popd
 ```
 
-* Render the scheduling data as Clashfinder markup and paste the output from the transform script into the Classfinder data field:
+* Render the scheduling data as Clashfinder markup and paste the output from the transform script into the Clashfinder data field:
 
 ```bash
 ./bin/appmiral_transform.py --artists festivals/shambhalafestival/shambhalafestival.artists.json --stages festivals/shambhalafestival/shambhalafestival.stages.json
