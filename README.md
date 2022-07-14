@@ -43,12 +43,16 @@ popd
 * Render the scheduling data as Clashfinder markup and paste the output from the transform script into the Clashfinder data field:
 
 ```bash
-./bin/appmiral_transform.py --artists festivals/shambhalafestival/shambhalafestival.artists.json --stages festivals/shambhalafestival/shambhalafestival.stages.json
+./bin/appmiral_transform.py --tz "US/Pacific" --artists festivals/shambhalafestival/shambhalafestival.artists.json --stages festivals/shambhalafestival/shambhalafestival.stages.json
 ```
 
 ## Clashfinder Data Format
 
 Each performance is composed of an `act` object with ` start`, `end`, `stage`, and `act` keys. 
 ```
+timezone = US/Pacific
+
 act = {"start": "2022-07-24 07:30", "end": "2022-07-24 09:00", "stage": "Pagoda", "act": "Justin Martin"}
 ```
+
+The schedule dictates the festival's local time zone. While performing a data transform, set the `--tz` flag to match this timezone to ensure accurate schedules are produced. TZ values are defined by the [TZ database](https://www.iana.org/time-zones).

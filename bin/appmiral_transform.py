@@ -8,7 +8,8 @@ ts_format = "YYYY-MM-DD HH:mm"
 @click.command()
 @click.option("--artists", required=True, type=click.File('rb'), help="Artist JSON")
 @click.option("--stages", required=True, type=click.File('rb'), help="Stage JSON")
-def transform(artists, stages):
+@click.option("--tz", default="GMT", help="TZ to convert act timestamps into")
+def transform(artists, stages, tz):
     artists = json.load(artists)
     stages = json.load(stages)
 
@@ -26,15 +27,16 @@ def transform(artists, stages):
             for p in artist['performances']:
                 # produce clashfinder act dict object
                 # e.g. act = {"start":"2016-06-24 18:15","end":"2016-06-24 19:15","stage":"Pyramid","act":"Jess Glynne"}
-                start_ts = arrow.get(p['start_time']).format(ts_format)
-                end_ts = arrow.get(p['end_time']).format(ts_format)
+                start_ts = arrow.get(p['start_time']).to(tz)
+                end_ts = arrow.get(p['end_time']).to(tz)
                 stage = stage_dict[p['stage_id']]
                 act = artist['name']
 
-                acts_list.append({"start": start_ts, "end": end_ts, "stage": stage, "act": act})
+                acts_list.append({"start": start_ts.format(ts_format), "end": end_ts.format(ts_format), "stage": stage, "act": act})
         else: 
             print(f"// no performances found for artist id={artist['id']}")
 
+    print(f"timezone = {tz}")
     print(f"// total acts found = {len(acts_list)}")
 
     for act in acts_list:
