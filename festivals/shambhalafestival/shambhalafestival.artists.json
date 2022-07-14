@@ -1,6 +1,807 @@
 {
   "data": [
     {
+      "id": 1921028,
+      "published": true,
+      "name": "Metafloor",
+      "priority": 100,
+      "biography": "",
+      "links": {},
+      "performances": [
+        {
+          "modified_at": "2022-07-14T03:30:23+00:00",
+          "external_id": "78746",
+          "edition_day_id": 1376,
+          "stage_id": 3349,
+          "id": 48244,
+          "published": true,
+          "priority": 100,
+          "start_time": "2022-07-25T08:30:00+00:00",
+          "end_time": "2022-07-25T10:00:00+00:00",
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_intake": true
+        }
+      ],
+      "tags": [],
+      "modified_at": "2022-07-14T03:30:23+00:00",
+      "external_id": "174095",
+      "tracks": [],
+      "lineup_image": {
+        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949992_performance_100.jpeg",
+        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949992_performance_120.jpeg",
+        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949992_performance_250.jpeg",
+        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949992_performance_500.jpeg",
+        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949992_performance_960.jpeg",
+        "1080": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949992_performance_1080.jpeg"
+      },
+      "genre": "DJ Set",
+      "country": "",
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never"
+    },
+    {
+      "id": 1921029,
+      "published": true,
+      "name": "JF Killah",
+      "priority": 100,
+      "biography": "",
+      "links": {},
+      "performances": [
+        {
+          "modified_at": "2022-07-14T03:30:23+00:00",
+          "external_id": "78747",
+          "edition_day_id": 1376,
+          "stage_id": 3349,
+          "id": 48245,
+          "published": true,
+          "priority": 100,
+          "start_time": "2022-07-25T10:00:00+00:00",
+          "end_time": "2022-07-25T11:30:00+00:00",
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_intake": true
+        }
+      ],
+      "tags": [],
+      "modified_at": "2022-07-14T03:30:23+00:00",
+      "external_id": "188027",
+      "tracks": [],
+      "lineup_image": {
+        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950545_performance_100.jpeg",
+        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950545_performance_120.jpeg",
+        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950545_performance_250.jpeg",
+        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950545_performance_500.jpeg",
+        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950545_performance_960.jpeg",
+        "1080": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950545_performance_1080.jpeg",
+        "1440": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950545_performance_1440.jpeg"
+      },
+      "genre": "DJ Set",
+      "country": "",
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never"
+    },
+    {
+      "id": 1921030,
+      "published": true,
+      "name": "Emrrld",
+      "priority": 100,
+      "biography": "",
+      "links": {},
+      "performances": [
+        {
+          "modified_at": "2022-07-14T03:30:23+00:00",
+          "external_id": "78748",
+          "edition_day_id": 1376,
+          "stage_id": 3349,
+          "id": 48246,
+          "published": true,
+          "priority": 100,
+          "start_time": "2022-07-25T07:00:00+00:00",
+          "end_time": "2022-07-25T08:30:00+00:00",
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_intake": true
+        }
+      ],
+      "tags": [],
+      "modified_at": "2022-07-14T03:30:23+00:00",
+      "external_id": "188028",
+      "tracks": [],
+      "lineup_image": {
+        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950574_performance_100.jpeg",
+        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950574_performance_120.jpeg",
+        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950574_performance_250.jpeg",
+        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950574_performance_500.jpeg",
+        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950574_performance_960.jpeg",
+        "1080": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950574_performance_1080.jpeg",
+        "1440": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950574_performance_1440.jpeg"
+      },
+      "genre": "DJ Set",
+      "country": "",
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never"
+    },
+    {
+      "id": 1921083,
+      "published": true,
+      "name": "Case of the Mondays",
+      "priority": 100,
+      "biography": "",
+      "links": {},
+      "performances": [
+        {
+          "modified_at": "2022-07-14T00:45:22+00:00",
+          "external_id": "78419",
+          "edition_day_id": 1374,
+          "stage_id": 3336,
+          "id": 48300,
+          "published": true,
+          "priority": 100,
+          "start_time": "2022-07-23T11:00:00+00:00",
+          "end_time": "2022-07-23T12:00:00+00:00",
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_intake": true
+        }
+      ],
+      "tags": [],
+      "modified_at": "2022-07-14T00:45:22+00:00",
+      "external_id": "187818",
+      "tracks": [],
+      "lineup_image": {
+        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/53/thumb_4952308_performance_100.jpeg",
+        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/53/thumb_4952308_performance_120.jpeg",
+        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/53/thumb_4952308_performance_250.jpeg",
+        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/53/thumb_4952308_performance_500.jpeg",
+        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/53/thumb_4952308_performance_960.jpeg",
+        "1080": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/53/thumb_4952308_performance_1080.jpeg"
+      },
+      "genre": "DJ Set",
+      "country": "",
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never"
+    },
+    {
+      "id": 1921823,
+      "published": true,
+      "name": "Church of Central Raving",
+      "priority": 100,
+      "biography": "",
+      "links": {},
+      "performances": [
+        {
+          "modified_at": "2022-07-13T19:00:23+00:00",
+          "external_id": "81998",
+          "edition_day_id": 1374,
+          "stage_id": 3335,
+          "id": 49245,
+          "published": true,
+          "priority": 100,
+          "start_time": "2022-07-22T22:00:00+00:00",
+          "end_time": "2022-07-22T23:30:00+00:00",
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_intake": true
+        }
+      ],
+      "tags": [],
+      "modified_at": "2022-07-13T19:00:23+00:00",
+      "external_id": "189076",
+      "tracks": [],
+      "lineup_image": {
+        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/53/thumb_4952265_performance_100.jpeg",
+        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/53/thumb_4952265_performance_120.jpeg",
+        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/53/thumb_4952265_performance_250.jpeg",
+        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/53/thumb_4952265_performance_500.jpeg"
+      },
+      "genre": "Workshop",
+      "country": "",
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never"
+    },
+    {
+      "id": 1920788,
+      "published": true,
+      "name": "Veil B2B NotLö'",
+      "priority": 100,
+      "biography": "",
+      "links": {},
+      "performances": [
+        {
+          "modified_at": "2022-07-13T18:30:21+00:00",
+          "external_id": "77806",
+          "edition_day_id": 1504,
+          "name": "Veil B2B Notlö",
+          "stage_id": 3332,
+          "id": 47967,
+          "published": true,
+          "priority": 100,
+          "start_time": "2022-07-22T04:15:00+00:00",
+          "end_time": "2022-07-22T06:00:00+00:00",
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_intake": true
+        }
+      ],
+      "tags": [],
+      "modified_at": "2022-07-13T18:30:21+00:00",
+      "external_id": "187444",
+      "tracks": [],
+      "lineup_image": {
+        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/53/thumb_4952263_performance_100.jpeg",
+        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/53/thumb_4952263_performance_120.jpeg",
+        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/53/thumb_4952263_performance_250.jpeg",
+        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/53/thumb_4952263_performance_500.jpeg"
+      },
+      "genre": "DJ Set",
+      "country": "",
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never"
+    },
+    {
+      "id": 1920958,
+      "published": true,
+      "name": "Dirt Monkey",
+      "priority": 100,
+      "biography": "",
+      "links": {},
+      "performances": [
+        {
+          "modified_at": "2022-07-12T04:00:21+00:00",
+          "external_id": "78475",
+          "edition_day_id": 1374,
+          "stage_id": 3340,
+          "id": 48173,
+          "published": true,
+          "priority": 100,
+          "start_time": "2022-07-23T09:00:00+00:00",
+          "end_time": "2022-07-23T10:00:00+00:00",
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_intake": true
+        }
+      ],
+      "tags": [],
+      "modified_at": "2022-07-12T04:00:21+00:00",
+      "external_id": "173971",
+      "tracks": [],
+      "lineup_image": {
+        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950590_performance_100.png",
+        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950590_performance_120.png",
+        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950590_performance_250.png",
+        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950590_performance_500.png",
+        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950590_performance_960.png"
+      },
+      "genre": "DJ Set",
+      "country": "",
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never"
+    },
+    {
+      "id": 1920959,
+      "published": true,
+      "name": "Dion Timmer",
+      "priority": 100,
+      "biography": "",
+      "links": {},
+      "performances": [
+        {
+          "modified_at": "2022-07-12T04:00:21+00:00",
+          "external_id": "78476",
+          "edition_day_id": 1374,
+          "stage_id": 3340,
+          "id": 48174,
+          "published": true,
+          "priority": 100,
+          "start_time": "2022-07-23T10:00:00+00:00",
+          "end_time": "2022-07-23T11:00:00+00:00",
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_intake": true
+        }
+      ],
+      "tags": [],
+      "modified_at": "2022-07-12T04:00:21+00:00",
+      "external_id": "187846",
+      "tracks": [],
+      "lineup_image": {
+        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950604_performance_100.jpeg",
+        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950604_performance_120.jpeg",
+        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950604_performance_250.jpeg",
+        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950604_performance_500.jpeg"
+      },
+      "genre": "DJ Set",
+      "country": "",
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never"
+    },
+    {
+      "id": 1920994,
+      "published": true,
+      "name": "Kytami w/ Phonik Ops",
+      "priority": 100,
+      "biography": "",
+      "links": {},
+      "performances": [
+        {
+          "modified_at": "2022-07-12T04:00:21+00:00",
+          "external_id": "78477",
+          "edition_day_id": 1374,
+          "stage_id": 3340,
+          "id": 48209,
+          "published": true,
+          "priority": 100,
+          "start_time": "2022-07-23T11:00:00+00:00",
+          "end_time": "2022-07-23T12:00:00+00:00",
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_intake": true
+        }
+      ],
+      "tags": [],
+      "modified_at": "2022-07-12T04:00:21+00:00",
+      "external_id": "187847",
+      "tracks": [],
+      "lineup_image": {
+        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950052_performance_100.png",
+        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950052_performance_120.png",
+        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950052_performance_250.png",
+        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950052_performance_500.png",
+        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950052_performance_960.png"
+      },
+      "genre": "DJ Set",
+      "country": "",
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never"
+    },
+    {
+      "id": 1920995,
+      "published": true,
+      "name": "Mr.B",
+      "priority": 100,
+      "biography": "",
+      "links": {},
+      "performances": [
+        {
+          "modified_at": "2022-07-12T04:00:21+00:00",
+          "external_id": "78478",
+          "edition_day_id": 1374,
+          "stage_id": 3340,
+          "id": 48210,
+          "published": true,
+          "priority": 100,
+          "start_time": "2022-07-23T12:00:00+00:00",
+          "end_time": "2022-07-23T13:00:00+00:00",
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_intake": true
+        }
+      ],
+      "tags": [],
+      "modified_at": "2022-07-12T04:00:21+00:00",
+      "external_id": "187848",
+      "tracks": [],
+      "lineup_image": {
+        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950616_performance_100.jpeg",
+        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950616_performance_120.jpeg",
+        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950616_performance_250.jpeg",
+        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950616_performance_500.jpeg",
+        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950616_performance_960.jpeg",
+        "1080": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950616_performance_1080.jpeg"
+      },
+      "genre": "DJ Set",
+      "country": "",
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never"
+    },
+    {
+      "id": 1920724,
+      "published": true,
+      "name": "A Hundred Drums",
+      "priority": 100,
+      "biography": "",
+      "links": {
+        "facebook_page_id": "ahundreddrums",
+        "instagram_user": "ahundreddrums"
+      },
+      "performances": [
+        {
+          "modified_at": "2022-07-12T03:45:21+00:00",
+          "external_id": "77798",
+          "edition_day_id": 1504,
+          "stage_id": 3332,
+          "id": 47893,
+          "published": true,
+          "priority": 100,
+          "start_time": "2022-07-22T03:00:00+00:00",
+          "end_time": "2022-07-22T04:15:00+00:00",
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_intake": true
+        }
+      ],
+      "tags": [],
+      "modified_at": "2022-07-12T03:45:21+00:00",
+      "external_id": "187438",
+      "tracks": [],
+      "lineup_image": {
+        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949888_performance_100.jpeg",
+        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949888_performance_120.jpeg",
+        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949888_performance_250.jpeg",
+        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949888_performance_500.jpeg"
+      },
+      "genre": "DJ Set",
+      "country": "",
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never"
+    },
+    {
+      "id": 1920919,
+      "published": true,
+      "name": "Stylust",
+      "priority": 100,
+      "biography": "",
+      "links": {},
+      "performances": [
+        {
+          "modified_at": "2022-07-12T03:45:21+00:00",
+          "external_id": "78469",
+          "edition_day_id": 1374,
+          "stage_id": 3340,
+          "id": 48134,
+          "published": true,
+          "priority": 100,
+          "start_time": "2022-07-23T03:00:00+00:00",
+          "end_time": "2022-07-23T04:15:00+00:00",
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_intake": true
+        }
+      ],
+      "tags": [],
+      "modified_at": "2022-07-12T03:45:21+00:00",
+      "external_id": "180912",
+      "tracks": [],
+      "lineup_image": {
+        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950588_performance_100.png",
+        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950588_performance_120.png",
+        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950588_performance_250.png",
+        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950588_performance_500.png",
+        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950588_performance_960.png"
+      },
+      "genre": "DJ Set",
+      "country": "",
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never"
+    },
+    {
+      "id": 1920927,
+      "published": true,
+      "name": "Le Cirque de la Nuit",
+      "priority": 100,
+      "biography": "",
+      "links": {},
+      "performances": [
+        {
+          "modified_at": "2022-07-12T03:45:21+00:00",
+          "external_id": "78470",
+          "edition_day_id": 1374,
+          "name": "Village Grand Opening Ceremony w/ Le Cirque de la Nuit",
+          "stage_id": 3340,
+          "id": 48142,
+          "published": true,
+          "priority": 100,
+          "start_time": "2022-07-23T04:15:00+00:00",
+          "end_time": "2022-07-23T05:00:00+00:00",
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_intake": true
+        }
+      ],
+      "tags": [],
+      "modified_at": "2022-07-12T03:45:21+00:00",
+      "external_id": "187842",
+      "tracks": [],
+      "lineup_image": {
+        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950565_performance_100.jpeg",
+        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950565_performance_120.jpeg",
+        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950565_performance_250.jpeg",
+        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950565_performance_500.jpeg"
+      },
+      "genre": "Other",
+      "country": "",
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never"
+    },
+    {
+      "id": 1920928,
+      "published": true,
+      "name": "Subvert",
+      "priority": 100,
+      "biography": "",
+      "links": {},
+      "performances": [
+        {
+          "modified_at": "2022-07-12T03:45:21+00:00",
+          "external_id": "78471",
+          "edition_day_id": 1374,
+          "stage_id": 3340,
+          "id": 48143,
+          "published": true,
+          "priority": 100,
+          "start_time": "2022-07-23T05:00:00+00:00",
+          "end_time": "2022-07-23T06:00:00+00:00",
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_intake": true
+        }
+      ],
+      "tags": [],
+      "modified_at": "2022-07-12T03:45:21+00:00",
+      "external_id": "167006",
+      "tracks": [],
+      "lineup_image": {
+        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950047_performance_100.jpeg",
+        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950047_performance_120.jpeg",
+        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950047_performance_250.jpeg",
+        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950047_performance_500.jpeg"
+      },
+      "genre": "DJ Set",
+      "country": "",
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never"
+    },
+    {
+      "id": 1920955,
+      "published": true,
+      "name": "Rudimental (DJ SET)",
+      "priority": 100,
+      "biography": "",
+      "links": {},
+      "performances": [
+        {
+          "modified_at": "2022-07-12T03:45:21+00:00",
+          "external_id": "78472",
+          "edition_day_id": 1374,
+          "stage_id": 3340,
+          "id": 48170,
+          "published": true,
+          "priority": 100,
+          "start_time": "2022-07-23T06:00:00+00:00",
+          "end_time": "2022-07-23T07:00:00+00:00",
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_intake": true
+        }
+      ],
+      "tags": [],
+      "modified_at": "2022-07-12T03:45:21+00:00",
+      "external_id": "187843",
+      "tracks": [],
+      "lineup_image": {
+        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950029_performance_100.jpeg",
+        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950029_performance_120.jpeg",
+        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950029_performance_250.jpeg",
+        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950029_performance_500.jpeg",
+        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950029_performance_960.jpeg",
+        "1080": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950029_performance_1080.jpeg",
+        "1440": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950029_performance_1440.jpeg"
+      },
+      "genre": "DJ Set",
+      "country": "",
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never"
+    },
+    {
+      "id": 1920956,
+      "published": true,
+      "name": "Surprise Set",
+      "priority": 100,
+      "biography": "",
+      "links": {},
+      "performances": [
+        {
+          "modified_at": "2022-07-12T03:45:21+00:00",
+          "external_id": "78473",
+          "edition_day_id": 1374,
+          "stage_id": 3340,
+          "id": 48171,
+          "published": true,
+          "priority": 100,
+          "start_time": "2022-07-23T07:00:00+00:00",
+          "end_time": "2022-07-23T08:00:00+00:00",
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_intake": true
+        }
+      ],
+      "tags": [],
+      "modified_at": "2022-07-12T03:45:21+00:00",
+      "external_id": "187844",
+      "tracks": [],
+      "genre": "DJ Set",
+      "country": "",
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never"
+    },
+    {
+      "id": 1920957,
+      "published": true,
+      "name": "Virtual Riot",
+      "priority": 100,
+      "biography": "",
+      "links": {},
+      "performances": [
+        {
+          "modified_at": "2022-07-12T03:45:21+00:00",
+          "external_id": "78474",
+          "edition_day_id": 1374,
+          "stage_id": 3340,
+          "id": 48172,
+          "published": true,
+          "priority": 100,
+          "start_time": "2022-07-23T08:00:00+00:00",
+          "end_time": "2022-07-23T09:00:00+00:00",
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_intake": true
+        }
+      ],
+      "tags": [],
+      "modified_at": "2022-07-12T03:45:21+00:00",
+      "external_id": "187845",
+      "tracks": [],
+      "lineup_image": {
+        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950589_performance_100.png",
+        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950589_performance_120.png",
+        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950589_performance_250.png",
+        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950589_performance_500.png",
+        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950589_performance_960.png"
+      },
+      "genre": "DJ Set",
+      "country": "",
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never"
+    },
+    {
+      "id": 1921057,
+      "published": true,
+      "name": "PAV4N (Foreign Beggars)",
+      "priority": 100,
+      "biography": "",
+      "links": {},
+      "performances": [
+        {
+          "modified_at": "2022-07-11T20:15:26+00:00",
+          "external_id": "78507",
+          "edition_day_id": 1375,
+          "stage_id": 3344,
+          "id": 48274,
+          "published": true,
+          "priority": 100,
+          "start_time": "2022-07-24T07:00:00+00:00",
+          "end_time": "2022-07-24T07:45:00+00:00",
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_intake": true
+        }
+      ],
+      "tags": [],
+      "modified_at": "2022-07-11T20:15:26+00:00",
+      "external_id": "187861",
+      "tracks": [],
+      "lineup_image": {
+        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950398_performance_100.png",
+        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950398_performance_120.png",
+        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950398_performance_250.png",
+        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950398_performance_500.png",
+        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950398_performance_960.png"
+      },
+      "genre": "Live Set",
+      "country": "",
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never"
+    },
+    {
+      "id": 1920942,
+      "published": true,
+      "name": "Zipper",
+      "priority": 100,
+      "biography": "",
+      "links": {},
+      "performances": [
+        {
+          "modified_at": "2022-07-11T19:45:22+00:00",
+          "external_id": "78774",
+          "edition_day_id": 1376,
+          "stage_id": 3354,
+          "id": 48157,
+          "published": true,
+          "priority": 100,
+          "start_time": "2022-07-25T02:00:00+00:00",
+          "end_time": "2022-07-25T03:00:00+00:00",
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_intake": true
+        }
+      ],
+      "tags": [],
+      "modified_at": "2022-07-11T19:45:22+00:00",
+      "external_id": "188041",
+      "tracks": [],
+      "lineup_image": {
+        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/52/thumb_4951884_performance_100.jpeg",
+        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/52/thumb_4951884_performance_120.jpeg",
+        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/52/thumb_4951884_performance_250.jpeg",
+        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/52/thumb_4951884_performance_500.jpeg",
+        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/52/thumb_4951884_performance_960.jpeg",
+        "1080": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/52/thumb_4951884_performance_1080.jpeg",
+        "1440": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/52/thumb_4951884_performance_1440.jpeg"
+      },
+      "genre": "DJ Set",
+      "country": "",
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never"
+    },
+    {
       "id": 1920725,
       "published": true,
       "name": "Marin Patenaude",
@@ -297,49 +1098,6 @@
         "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950620_performance_250.png"
       },
       "genre": "Other",
-      "country": "",
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never"
-    },
-    {
-      "id": 1920995,
-      "published": true,
-      "name": "Mr.B",
-      "priority": 100,
-      "biography": "",
-      "links": {},
-      "performances": [
-        {
-          "modified_at": "2022-07-08T06:00:22+00:00",
-          "external_id": "78478",
-          "edition_day_id": 1374,
-          "stage_id": 3340,
-          "id": 48210,
-          "published": true,
-          "priority": 100,
-          "start_time": "2022-07-23T11:30:00+00:00",
-          "end_time": "2022-07-23T12:30:00+00:00",
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_intake": true
-        }
-      ],
-      "tags": [],
-      "modified_at": "2022-07-08T06:00:22+00:00",
-      "external_id": "187848",
-      "tracks": [],
-      "lineup_image": {
-        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950616_performance_100.jpeg",
-        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950616_performance_120.jpeg",
-        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950616_performance_250.jpeg",
-        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950616_performance_500.jpeg",
-        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950616_performance_960.jpeg",
-        "1080": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950616_performance_1080.jpeg"
-      },
-      "genre": "DJ Set",
       "country": "",
       "show_in_artists": true,
       "show_in_intake": true,
@@ -942,47 +1700,6 @@
       "hide_image_on_detail": "never"
     },
     {
-      "id": 1920959,
-      "published": true,
-      "name": "Dion Timmer",
-      "priority": 100,
-      "biography": "",
-      "links": {},
-      "performances": [
-        {
-          "modified_at": "2022-07-07T22:00:23+00:00",
-          "external_id": "78476",
-          "edition_day_id": 1374,
-          "stage_id": 3340,
-          "id": 48174,
-          "published": true,
-          "priority": 100,
-          "start_time": "2022-07-23T09:30:00+00:00",
-          "end_time": "2022-07-23T10:30:00+00:00",
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_intake": true
-        }
-      ],
-      "tags": [],
-      "modified_at": "2022-07-07T22:00:23+00:00",
-      "external_id": "187846",
-      "tracks": [],
-      "lineup_image": {
-        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950604_performance_100.jpeg",
-        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950604_performance_120.jpeg",
-        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950604_performance_250.jpeg",
-        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950604_performance_500.jpeg"
-      },
-      "genre": "DJ Set",
-      "country": "",
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never"
-    },
-    {
       "id": 1920963,
       "published": true,
       "name": "Mythm",
@@ -1271,132 +1988,6 @@
         "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950596_performance_960.jpeg",
         "1080": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950596_performance_1080.jpeg",
         "1440": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950596_performance_1440.jpeg"
-      },
-      "genre": "DJ Set",
-      "country": "",
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never"
-    },
-    {
-      "id": 1920919,
-      "published": true,
-      "name": "Stylust",
-      "priority": 100,
-      "biography": "",
-      "links": {},
-      "performances": [
-        {
-          "modified_at": "2022-07-07T21:15:21+00:00",
-          "external_id": "78469",
-          "edition_day_id": 1374,
-          "stage_id": 3340,
-          "id": 48134,
-          "published": true,
-          "priority": 100,
-          "start_time": "2022-07-23T03:00:00+00:00",
-          "end_time": "2022-07-23T04:00:00+00:00",
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_intake": true
-        }
-      ],
-      "tags": [],
-      "modified_at": "2022-07-07T21:15:21+00:00",
-      "external_id": "180912",
-      "tracks": [],
-      "lineup_image": {
-        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950588_performance_100.png",
-        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950588_performance_120.png",
-        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950588_performance_250.png",
-        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950588_performance_500.png",
-        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950588_performance_960.png"
-      },
-      "genre": "DJ Set",
-      "country": "",
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never"
-    },
-    {
-      "id": 1920957,
-      "published": true,
-      "name": "Virtual Riot",
-      "priority": 100,
-      "biography": "",
-      "links": {},
-      "performances": [
-        {
-          "modified_at": "2022-07-07T21:15:21+00:00",
-          "external_id": "78474",
-          "edition_day_id": 1374,
-          "stage_id": 3340,
-          "id": 48172,
-          "published": true,
-          "priority": 100,
-          "start_time": "2022-07-23T07:30:00+00:00",
-          "end_time": "2022-07-23T08:30:00+00:00",
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_intake": true
-        }
-      ],
-      "tags": [],
-      "modified_at": "2022-07-07T21:15:21+00:00",
-      "external_id": "187845",
-      "tracks": [],
-      "lineup_image": {
-        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950589_performance_100.png",
-        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950589_performance_120.png",
-        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950589_performance_250.png",
-        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950589_performance_500.png",
-        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950589_performance_960.png"
-      },
-      "genre": "DJ Set",
-      "country": "",
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never"
-    },
-    {
-      "id": 1920958,
-      "published": true,
-      "name": "Dirt Monkey",
-      "priority": 100,
-      "biography": "",
-      "links": {},
-      "performances": [
-        {
-          "modified_at": "2022-07-07T21:15:21+00:00",
-          "external_id": "78475",
-          "edition_day_id": 1374,
-          "stage_id": 3340,
-          "id": 48173,
-          "published": true,
-          "priority": 100,
-          "start_time": "2022-07-23T08:30:00+00:00",
-          "end_time": "2022-07-23T09:30:00+00:00",
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_intake": true
-        }
-      ],
-      "tags": [],
-      "modified_at": "2022-07-07T21:15:21+00:00",
-      "external_id": "173971",
-      "tracks": [],
-      "lineup_image": {
-        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950590_performance_100.png",
-        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950590_performance_120.png",
-        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950590_performance_250.png",
-        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950590_performance_500.png",
-        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950590_performance_960.png"
       },
       "genre": "DJ Set",
       "country": "",
@@ -1711,50 +2302,6 @@
       "hide_image_on_detail": "never"
     },
     {
-      "id": 1920942,
-      "published": true,
-      "name": "Zipper",
-      "priority": 100,
-      "biography": "",
-      "links": {},
-      "performances": [
-        {
-          "modified_at": "2022-07-07T19:45:21+00:00",
-          "external_id": "78774",
-          "edition_day_id": 1376,
-          "stage_id": 3354,
-          "id": 48157,
-          "published": true,
-          "priority": 100,
-          "start_time": "2022-07-25T02:00:00+00:00",
-          "end_time": "2022-07-25T03:00:00+00:00",
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_intake": true
-        }
-      ],
-      "tags": [],
-      "modified_at": "2022-07-07T19:45:21+00:00",
-      "external_id": "188041",
-      "tracks": [],
-      "lineup_image": {
-        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950577_performance_100.jpeg",
-        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950577_performance_120.jpeg",
-        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950577_performance_250.jpeg",
-        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950577_performance_500.jpeg",
-        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950577_performance_960.jpeg",
-        "1080": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950577_performance_1080.jpeg",
-        "1440": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950577_performance_1440.jpeg"
-      },
-      "genre": "DJ Set",
-      "country": "",
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never"
-    },
-    {
       "id": 1921020,
       "published": true,
       "name": "Liz Arnason",
@@ -2031,50 +2578,6 @@
       "hide_image_on_detail": "never"
     },
     {
-      "id": 1921030,
-      "published": true,
-      "name": "Emrrld",
-      "priority": 100,
-      "biography": "",
-      "links": {},
-      "performances": [
-        {
-          "modified_at": "2022-07-07T19:30:24+00:00",
-          "external_id": "78748",
-          "edition_day_id": 1376,
-          "stage_id": 3349,
-          "id": 48246,
-          "published": true,
-          "priority": 100,
-          "start_time": "2022-07-25T10:00:00+00:00",
-          "end_time": "2022-07-25T11:30:00+00:00",
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_intake": true
-        }
-      ],
-      "tags": [],
-      "modified_at": "2022-07-07T19:30:24+00:00",
-      "external_id": "188028",
-      "tracks": [],
-      "lineup_image": {
-        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950574_performance_100.jpeg",
-        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950574_performance_120.jpeg",
-        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950574_performance_250.jpeg",
-        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950574_performance_500.jpeg",
-        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950574_performance_960.jpeg",
-        "1080": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950574_performance_1080.jpeg",
-        "1440": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950574_performance_1440.jpeg"
-      },
-      "genre": "DJ Set",
-      "country": "",
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never"
-    },
-    {
       "id": 1921038,
       "published": true,
       "name": "Ben Fox",
@@ -2196,48 +2699,6 @@
         "1080": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950564_performance_1080.jpeg"
       },
       "genre": "DJ Set",
-      "country": "",
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never"
-    },
-    {
-      "id": 1920927,
-      "published": true,
-      "name": "Le Cirque de la Nuit",
-      "priority": 100,
-      "biography": "",
-      "links": {},
-      "performances": [
-        {
-          "modified_at": "2022-07-07T19:15:25+00:00",
-          "external_id": "78470",
-          "edition_day_id": 1374,
-          "name": "Village Grand Opening Ceremony w/ Le Cirque de la Nuit",
-          "stage_id": 3340,
-          "id": 48142,
-          "published": true,
-          "priority": 100,
-          "start_time": "2022-07-23T04:00:00+00:00",
-          "end_time": "2022-07-23T04:30:00+00:00",
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_intake": true
-        }
-      ],
-      "tags": [],
-      "modified_at": "2022-07-07T19:15:25+00:00",
-      "external_id": "187842",
-      "tracks": [],
-      "lineup_image": {
-        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950565_performance_100.jpeg",
-        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950565_performance_120.jpeg",
-        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950565_performance_250.jpeg",
-        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950565_performance_500.jpeg"
-      },
-      "genre": "Other",
       "country": "",
       "show_in_artists": true,
       "show_in_intake": true,
@@ -2806,50 +3267,6 @@
         "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950544_performance_960.jpeg",
         "1080": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950544_performance_1080.jpeg",
         "1440": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950544_performance_1440.jpeg"
-      },
-      "genre": "DJ Set",
-      "country": "",
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never"
-    },
-    {
-      "id": 1921029,
-      "published": true,
-      "name": "JF Killah",
-      "priority": 100,
-      "biography": "",
-      "links": {},
-      "performances": [
-        {
-          "modified_at": "2022-07-07T18:30:23+00:00",
-          "external_id": "78747",
-          "edition_day_id": 1376,
-          "stage_id": 3349,
-          "id": 48245,
-          "published": true,
-          "priority": 100,
-          "start_time": "2022-07-25T08:30:00+00:00",
-          "end_time": "2022-07-25T10:00:00+00:00",
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_intake": true
-        }
-      ],
-      "tags": [],
-      "modified_at": "2022-07-07T18:30:23+00:00",
-      "external_id": "188027",
-      "tracks": [],
-      "lineup_image": {
-        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950545_performance_100.jpeg",
-        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950545_performance_120.jpeg",
-        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950545_performance_250.jpeg",
-        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950545_performance_500.jpeg",
-        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950545_performance_960.jpeg",
-        "1080": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950545_performance_1080.jpeg",
-        "1440": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950545_performance_1440.jpeg"
       },
       "genre": "DJ Set",
       "country": "",
@@ -3980,48 +4397,6 @@
       "hide_image_on_detail": "never"
     },
     {
-      "id": 1921057,
-      "published": true,
-      "name": "Pav4n",
-      "priority": 100,
-      "biography": "",
-      "links": {},
-      "performances": [
-        {
-          "modified_at": "2022-07-07T16:00:25+00:00",
-          "external_id": "78507",
-          "edition_day_id": 1375,
-          "stage_id": 3344,
-          "id": 48274,
-          "published": true,
-          "priority": 100,
-          "start_time": "2022-07-24T07:00:00+00:00",
-          "end_time": "2022-07-24T07:45:00+00:00",
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_intake": true
-        }
-      ],
-      "tags": [],
-      "modified_at": "2022-07-07T16:00:25+00:00",
-      "external_id": "187861",
-      "tracks": [],
-      "lineup_image": {
-        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950398_performance_100.png",
-        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950398_performance_120.png",
-        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950398_performance_250.png",
-        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950398_performance_500.png",
-        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950398_performance_960.png"
-      },
-      "genre": "Live Set",
-      "country": "",
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never"
-    },
-    {
       "id": 1920929,
       "published": true,
       "name": "Jasper Tygner",
@@ -4915,48 +5290,6 @@
       "hide_image_on_detail": "never"
     },
     {
-      "id": 1920994,
-      "published": true,
-      "name": "Kytami w/ Phonik Ops",
-      "priority": 100,
-      "biography": "",
-      "links": {},
-      "performances": [
-        {
-          "modified_at": "2022-07-07T00:45:21+00:00",
-          "external_id": "78477",
-          "edition_day_id": 1374,
-          "stage_id": 3340,
-          "id": 48209,
-          "published": true,
-          "priority": 100,
-          "start_time": "2022-07-23T10:30:00+00:00",
-          "end_time": "2022-07-23T11:30:00+00:00",
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_intake": true
-        }
-      ],
-      "tags": [],
-      "modified_at": "2022-07-07T00:45:21+00:00",
-      "external_id": "187847",
-      "tracks": [],
-      "lineup_image": {
-        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950052_performance_100.png",
-        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950052_performance_120.png",
-        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950052_performance_250.png",
-        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950052_performance_500.png",
-        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950052_performance_960.png"
-      },
-      "genre": "DJ Set",
-      "country": "",
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never"
-    },
-    {
       "id": 1921054,
       "published": true,
       "name": "Joluca",
@@ -5165,47 +5498,6 @@
         "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950046_performance_120.jpeg",
         "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950046_performance_250.jpeg",
         "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950046_performance_500.jpeg"
-      },
-      "genre": "DJ Set",
-      "country": "",
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never"
-    },
-    {
-      "id": 1920928,
-      "published": true,
-      "name": "Subvert",
-      "priority": 100,
-      "biography": "",
-      "links": {},
-      "performances": [
-        {
-          "modified_at": "2022-07-07T00:30:24+00:00",
-          "external_id": "78471",
-          "edition_day_id": 1374,
-          "stage_id": 3340,
-          "id": 48143,
-          "published": true,
-          "priority": 100,
-          "start_time": "2022-07-23T04:30:00+00:00",
-          "end_time": "2022-07-23T05:30:00+00:00",
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_intake": true
-        }
-      ],
-      "tags": [],
-      "modified_at": "2022-07-07T00:30:24+00:00",
-      "external_id": "167006",
-      "tracks": [],
-      "lineup_image": {
-        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950047_performance_100.jpeg",
-        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950047_performance_120.jpeg",
-        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950047_performance_250.jpeg",
-        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950047_performance_500.jpeg"
       },
       "genre": "DJ Set",
       "country": "",
@@ -5596,50 +5888,6 @@
         "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950028_performance_960.jpeg",
         "1080": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950028_performance_1080.jpeg",
         "1440": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950028_performance_1440.jpeg"
-      },
-      "genre": "DJ Set",
-      "country": "",
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never"
-    },
-    {
-      "id": 1920955,
-      "published": true,
-      "name": "Rudimental (DJ SET)",
-      "priority": 100,
-      "biography": "",
-      "links": {},
-      "performances": [
-        {
-          "modified_at": "2022-07-07T00:15:22+00:00",
-          "external_id": "78472",
-          "edition_day_id": 1374,
-          "stage_id": 3340,
-          "id": 48170,
-          "published": true,
-          "priority": 100,
-          "start_time": "2022-07-23T05:30:00+00:00",
-          "end_time": "2022-07-23T06:30:00+00:00",
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_intake": true
-        }
-      ],
-      "tags": [],
-      "modified_at": "2022-07-07T00:15:22+00:00",
-      "external_id": "187843",
-      "tracks": [],
-      "lineup_image": {
-        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950029_performance_100.jpeg",
-        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950029_performance_120.jpeg",
-        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950029_performance_250.jpeg",
-        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950029_performance_500.jpeg",
-        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950029_performance_960.jpeg",
-        "1080": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950029_performance_1080.jpeg",
-        "1440": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/51/thumb_4950029_performance_1440.jpeg"
       },
       "genre": "DJ Set",
       "country": "",
@@ -7240,49 +7488,6 @@
       "hide_image_on_detail": "never"
     },
     {
-      "id": 1920788,
-      "published": true,
-      "name": "Veil B2B NotLO",
-      "priority": 100,
-      "biography": "",
-      "links": {},
-      "performances": [
-        {
-          "modified_at": "2022-07-06T23:30:22+00:00",
-          "external_id": "77806",
-          "edition_day_id": 1504,
-          "name": "Veil B2B Notlö",
-          "stage_id": 3332,
-          "id": 47967,
-          "published": true,
-          "priority": 100,
-          "start_time": "2022-07-22T04:30:00+00:00",
-          "end_time": "2022-07-22T06:00:00+00:00",
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_intake": true
-        }
-      ],
-      "tags": [],
-      "modified_at": "2022-07-06T23:30:22+00:00",
-      "external_id": "187444",
-      "tracks": [],
-      "lineup_image": {
-        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949985_performance_100.png",
-        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949985_performance_120.png",
-        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949985_performance_250.png",
-        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949985_performance_500.png",
-        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949985_performance_960.png"
-      },
-      "genre": "DJ Set",
-      "country": "",
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never"
-    },
-    {
       "id": 1920795,
       "published": true,
       "name": "MonkeyTwerk",
@@ -7569,49 +7774,6 @@
         "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949991_performance_250.png",
         "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949991_performance_500.png",
         "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949991_performance_960.png"
-      },
-      "genre": "DJ Set",
-      "country": "",
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never"
-    },
-    {
-      "id": 1921028,
-      "published": true,
-      "name": "Metafloor",
-      "priority": 100,
-      "biography": "",
-      "links": {},
-      "performances": [
-        {
-          "modified_at": "2022-07-06T23:30:22+00:00",
-          "external_id": "78746",
-          "edition_day_id": 1376,
-          "stage_id": 3349,
-          "id": 48244,
-          "published": true,
-          "priority": 100,
-          "start_time": "2022-07-25T07:00:00+00:00",
-          "end_time": "2022-07-25T08:30:00+00:00",
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_intake": true
-        }
-      ],
-      "tags": [],
-      "modified_at": "2022-07-06T23:30:22+00:00",
-      "external_id": "174095",
-      "tracks": [],
-      "lineup_image": {
-        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949992_performance_100.jpeg",
-        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949992_performance_120.jpeg",
-        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949992_performance_250.jpeg",
-        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949992_performance_500.jpeg",
-        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949992_performance_960.jpeg",
-        "1080": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949992_performance_1080.jpeg"
       },
       "genre": "DJ Set",
       "country": "",
@@ -8329,85 +8491,6 @@
         "1440": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949974_performance_1440.jpeg"
       },
       "genre": "MC",
-      "country": "",
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never"
-    },
-    {
-      "id": 1920724,
-      "published": true,
-      "name": "A Hundred Drums",
-      "priority": 100,
-      "biography": "",
-      "links": {
-        "facebook_page_id": "ahundreddrums",
-        "instagram_user": "ahundreddrums"
-      },
-      "performances": [
-        {
-          "modified_at": "2022-07-06T22:45:23+00:00",
-          "external_id": "77798",
-          "edition_day_id": 1504,
-          "stage_id": 3332,
-          "id": 47893,
-          "published": true,
-          "priority": 100,
-          "start_time": "2022-07-22T03:00:00+00:00",
-          "end_time": "2022-07-22T04:30:00+00:00",
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_intake": true
-        }
-      ],
-      "tags": [],
-      "modified_at": "2022-07-06T22:45:23+00:00",
-      "external_id": "187438",
-      "tracks": [],
-      "lineup_image": {
-        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949888_performance_100.jpeg",
-        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949888_performance_120.jpeg",
-        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949888_performance_250.jpeg",
-        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949888_performance_500.jpeg"
-      },
-      "genre": "DJ Set",
-      "country": "",
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never"
-    },
-    {
-      "id": 1921083,
-      "published": true,
-      "name": "Case of the Mondays",
-      "priority": 100,
-      "biography": "",
-      "links": {},
-      "performances": [
-        {
-          "modified_at": "2022-07-06T22:45:22+00:00",
-          "external_id": "78419",
-          "edition_day_id": 1374,
-          "stage_id": 3336,
-          "id": 48300,
-          "published": true,
-          "priority": 100,
-          "start_time": "2022-07-23T11:00:00+00:00",
-          "end_time": "2022-07-23T12:00:00+00:00",
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_intake": true
-        }
-      ],
-      "tags": [],
-      "modified_at": "2022-07-06T22:45:22+00:00",
-      "external_id": "187818",
-      "tracks": [],
-      "genre": "DJ Set",
       "country": "",
       "show_in_artists": true,
       "show_in_intake": true,
@@ -9328,41 +9411,6 @@
       "hide_image_on_detail": "never"
     },
     {
-      "id": 1920956,
-      "published": true,
-      "name": "Surprise Set",
-      "priority": 100,
-      "biography": "",
-      "links": {},
-      "performances": [
-        {
-          "modified_at": "2022-07-06T21:45:20+00:00",
-          "external_id": "78473",
-          "edition_day_id": 1374,
-          "stage_id": 3340,
-          "id": 48171,
-          "published": true,
-          "priority": 100,
-          "start_time": "2022-07-23T06:30:00+00:00",
-          "end_time": "2022-07-23T07:30:00+00:00",
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_intake": true
-        }
-      ],
-      "tags": [],
-      "modified_at": "2022-07-06T21:45:20+00:00",
-      "external_id": "187844",
-      "tracks": [],
-      "genre": "DJ Set",
-      "country": "",
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never"
-    },
-    {
       "id": 1920960,
       "published": true,
       "name": "Zeplinn",
@@ -9961,7 +10009,7 @@
   "_meta": {
     "page": 1,
     "max_per_page": 500,
-    "page_count": 241,
-    "total_count": 241
+    "page_count": 242,
+    "total_count": 242
   }
 }
