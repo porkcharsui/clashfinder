@@ -1,6 +1,101 @@
 {
   "data": [
     {
+      "id": 1921047,
+      "deleted_at": "2022-07-19T18:30:35+00:00"
+    },
+    {
+      "id": 1920961,
+      "deleted_at": "2022-07-19T18:15:29+00:00"
+    },
+    {
+      "id": 1921051,
+      "published": true,
+      "name": "Muchi Mambo",
+      "priority": 100,
+      "biography": "",
+      "links": {},
+      "performances": [
+        {
+          "modified_at": "2022-07-17T19:30:22+00:00",
+          "external_id": "78522",
+          "edition_day_id": 1375,
+          "stage_id": 3345,
+          "id": 48268,
+          "published": true,
+          "priority": 100,
+          "start_time": "2022-07-24T01:00:00+00:00",
+          "end_time": "2022-07-24T03:00:00+00:00",
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_intake": true
+        }
+      ],
+      "tags": [],
+      "modified_at": "2022-07-17T19:30:22+00:00",
+      "external_id": "187872",
+      "tracks": [],
+      "lineup_image": {
+        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/54/thumb_4953624_performance_100.png",
+        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/54/thumb_4953624_performance_120.png",
+        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/54/thumb_4953624_performance_250.png",
+        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/54/thumb_4953624_performance_500.png",
+        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/54/thumb_4953624_performance_960.png",
+        "1080": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/54/thumb_4953624_performance_1080.png"
+      },
+      "genre": "DJ Set",
+      "country": "",
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never"
+    },
+    {
+      "id": 1921027,
+      "published": true,
+      "name": "Siadic",
+      "priority": 100,
+      "biography": "",
+      "links": {},
+      "performances": [
+        {
+          "modified_at": "2022-07-15T02:45:23+00:00",
+          "external_id": "78745",
+          "edition_day_id": 1376,
+          "stage_id": 3349,
+          "id": 48243,
+          "published": true,
+          "priority": 100,
+          "start_time": "2022-07-25T05:30:00+00:00",
+          "end_time": "2022-07-25T07:00:00+00:00",
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_intake": true
+        }
+      ],
+      "tags": [],
+      "modified_at": "2022-07-15T02:45:23+00:00",
+      "external_id": "167048",
+      "tracks": [],
+      "lineup_image": {
+        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/53/thumb_4952948_performance_100.png",
+        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/53/thumb_4952948_performance_120.png",
+        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/53/thumb_4952948_performance_250.png",
+        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/53/thumb_4952948_performance_500.png",
+        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/53/thumb_4952948_performance_960.png",
+        "1080": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/53/thumb_4952948_performance_1080.png",
+        "1440": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/53/thumb_4952948_performance_1440.png"
+      },
+      "genre": "DJ Set",
+      "country": "",
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never"
+    },
+    {
       "id": 1921028,
       "published": true,
       "name": "Metafloor",
@@ -7825,50 +7920,6 @@
       "hide_image_on_detail": "never"
     },
     {
-      "id": 1921047,
-      "published": true,
-      "name": "Breaka",
-      "priority": 100,
-      "biography": "",
-      "links": {},
-      "performances": [
-        {
-          "modified_at": "2022-07-06T23:30:22+00:00",
-          "external_id": "78509",
-          "edition_day_id": 1375,
-          "stage_id": 3344,
-          "id": 48264,
-          "published": true,
-          "priority": 100,
-          "start_time": "2022-07-24T09:00:00+00:00",
-          "end_time": "2022-07-24T10:15:00+00:00",
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_intake": true
-        }
-      ],
-      "tags": [],
-      "modified_at": "2022-07-06T23:30:22+00:00",
-      "external_id": "187863",
-      "tracks": [],
-      "lineup_image": {
-        "100": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949994_performance_100.jpeg",
-        "120": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949994_performance_120.jpeg",
-        "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949994_performance_250.jpeg",
-        "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949994_performance_500.jpeg",
-        "960": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949994_performance_960.jpeg",
-        "1080": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949994_performance_1080.jpeg",
-        "1440": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949994_performance_1440.jpeg"
-      },
-      "genre": "DJ Set",
-      "country": "",
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never"
-    },
-    {
       "id": 1921059,
       "published": true,
       "name": "Vinyl Ritchie",
@@ -8071,41 +8122,6 @@
         "250": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949978_performance_250.png",
         "500": "https://s3-eu-west-1.amazonaws.com/appmiral-sonata-media/prod/performance/0050/50/thumb_4949978_performance_500.png"
       },
-      "genre": "DJ Set",
-      "country": "",
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never"
-    },
-    {
-      "id": 1920961,
-      "published": true,
-      "name": "Dalek One",
-      "priority": 100,
-      "biography": "",
-      "links": {},
-      "performances": [
-        {
-          "modified_at": "2022-07-06T23:15:23+00:00",
-          "external_id": "78712",
-          "edition_day_id": 1376,
-          "stage_id": 3348,
-          "id": 48176,
-          "published": true,
-          "priority": 100,
-          "start_time": "2022-07-25T02:30:00+00:00",
-          "end_time": "2022-07-25T03:30:00+00:00",
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_intake": true
-        }
-      ],
-      "tags": [],
-      "modified_at": "2022-07-06T23:15:23+00:00",
-      "external_id": "188004",
-      "tracks": [],
       "genre": "DJ Set",
       "country": "",
       "show_in_artists": true,
@@ -8908,41 +8924,6 @@
       "hide_image_on_detail": "never"
     },
     {
-      "id": 1921051,
-      "published": true,
-      "name": "Muchi Mambo",
-      "priority": 100,
-      "biography": "",
-      "links": {},
-      "performances": [
-        {
-          "modified_at": "2022-07-06T22:15:21+00:00",
-          "external_id": "78522",
-          "edition_day_id": 1375,
-          "stage_id": 3345,
-          "id": 48268,
-          "published": true,
-          "priority": 100,
-          "start_time": "2022-07-24T01:00:00+00:00",
-          "end_time": "2022-07-24T03:00:00+00:00",
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_intake": true
-        }
-      ],
-      "tags": [],
-      "modified_at": "2022-07-06T22:15:21+00:00",
-      "external_id": "187872",
-      "tracks": [],
-      "genre": "DJ Set",
-      "country": "",
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never"
-    },
-    {
       "id": 1921053,
       "published": true,
       "name": "Just B",
@@ -9371,40 +9352,6 @@
       "tracks": [],
       "genre": "DJ Set",
       "country": "",
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never"
-    },
-    {
-      "id": 1921027,
-      "published": true,
-      "name": "Siadic",
-      "priority": 100,
-      "biography": "",
-      "links": {},
-      "performances": [
-        {
-          "modified_at": "2022-07-06T22:00:22+00:00",
-          "external_id": "78745",
-          "edition_day_id": 1376,
-          "stage_id": 3349,
-          "id": 48243,
-          "published": true,
-          "priority": 100,
-          "start_time": "2022-07-25T05:30:00+00:00",
-          "end_time": "2022-07-25T07:00:00+00:00",
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_intake": true
-        }
-      ],
-      "tags": [],
-      "modified_at": "2022-07-06T22:00:22+00:00",
-      "external_id": "167048",
-      "tracks": [],
-      "genre": "DJ Set",
       "show_in_artists": true,
       "show_in_intake": true,
       "hide_image_on_overview": "never",
