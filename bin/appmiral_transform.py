@@ -25,6 +25,10 @@ def transform(artists, stages, tz):
     for artist in artists['data']:
         if artist.get('performances'):
             for p in artist['performances']:
+                # skip deleted performances
+                if 'deleted_at' in p:
+                    continue
+
                 # produce clashfinder act dict object
                 # e.g. act = {"start":"2016-06-24 18:15","end":"2016-06-24 19:15","stage":"Pyramid","act":"Jess Glynne"}
                 start_ts = arrow.get(p['start_time']).to(tz)
