@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "args" : ["--artists", "festivals/shambhalafestival/2023/shambhalafestival.artists.json", "--stages", "festivals/shambhalafestival/2023/shambhalafestival.stages.json"],
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}

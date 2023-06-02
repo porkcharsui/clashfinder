@@ -36,14 +36,14 @@ pipenv shell
 
 ```bash
 pushd festivals/shambhalafestival
-./2022.sh
+./2023.sh
 popd
 ```
 
 * Render the scheduling data as Clashfinder markup and paste the output from the transform script into the Clashfinder data field:
 
 ```bash
-./bin/appmiral_transform.py --tz "US/Pacific" --artists festivals/shambhalafestival/shambhalafestival.artists.json --stages festivals/shambhalafestival/shambhalafestival.stages.json
+./bin/appmiral_transform.py --tz "US/Pacific" --artists festivals/shambhalafestival/2023/shambhalafestival.artists.json --stages festivals/shambhalafestival/2023/shambhalafestival.stages.json
 ```
 
 ## Clashfinder Data Format

@@ -1,0 +1,243 @@
+{
+  "data": [
+    {
+      "id": 5329,
+      "external_id": "18287",
+      "published": true,
+      "name": "Village",
+      "priority": 6,
+      "color": "#8877B7",
+      "tags": [],
+      "modified_at": "2023-05-31T22:00:36+00:00"
+    },
+    {
+      "id": 5331,
+      "external_id": "18293",
+      "published": true,
+      "name": "Secret Garden",
+      "priority": 7,
+      "color": "#163558",
+      "tags": [],
+      "modified_at": "2023-05-31T22:00:36+00:00"
+    },
+    {
+      "id": 5334,
+      "external_id": "18303",
+      "published": true,
+      "name": "Living Room",
+      "priority": 4,
+      "color": "#4CE6D7",
+      "tags": [],
+      "modified_at": "2023-05-31T22:00:36+00:00"
+    },
+    {
+      "id": 5335,
+      "external_id": "18306",
+      "published": true,
+      "name": "Pagoda",
+      "priority": 5,
+      "color": "#2D73B8",
+      "tags": [],
+      "modified_at": "2023-05-31T22:00:36+00:00"
+    },
+    {
+      "id": 5343,
+      "external_id": "18289",
+      "published": true,
+      "name": "Village",
+      "priority": 6,
+      "color": "#8877B7",
+      "tags": [],
+      "modified_at": "2023-05-31T22:00:36+00:00"
+    },
+    {
+      "id": 5345,
+      "external_id": "18295",
+      "published": true,
+      "name": "Secret Garden",
+      "priority": 7,
+      "color": "#163558",
+      "tags": [],
+      "modified_at": "2023-05-31T22:00:36+00:00"
+    },
+    {
+      "id": 5348,
+      "external_id": "18305",
+      "published": true,
+      "name": "Living Room",
+      "priority": 4,
+      "color": "#4CE6D7",
+      "tags": [],
+      "modified_at": "2023-05-31T22:00:36+00:00"
+    },
+    {
+      "id": 5349,
+      "external_id": "18308",
+      "published": true,
+      "name": "Pagoda",
+      "priority": 5,
+      "color": "#2D73B8",
+      "tags": [],
+      "modified_at": "2023-05-31T22:00:36+00:00"
+    },
+    {
+      "id": 5337,
+      "external_id": "18288",
+      "published": true,
+      "name": "Village",
+      "priority": 6,
+      "color": "#8877B7",
+      "tags": [],
+      "modified_at": "2023-05-31T20:15:34+00:00"
+    },
+    {
+      "id": 5338,
+      "external_id": "18294",
+      "published": true,
+      "name": "Secret Garden",
+      "priority": 7,
+      "color": "#163558",
+      "tags": [],
+      "modified_at": "2023-05-31T20:15:34+00:00"
+    },
+    {
+      "id": 5341,
+      "external_id": "18304",
+      "published": true,
+      "name": "Living Room",
+      "priority": 4,
+      "color": "#4CE6D7",
+      "tags": [],
+      "modified_at": "2023-05-31T20:15:34+00:00"
+    },
+    {
+      "id": 5342,
+      "external_id": "18307",
+      "published": true,
+      "name": "Pagoda",
+      "priority": 5,
+      "color": "#2D73B8",
+      "tags": [],
+      "modified_at": "2023-05-31T20:15:34+00:00"
+    },
+    {
+      "id": 5347,
+      "external_id": "18301",
+      "published": true,
+      "name": "Grove",
+      "priority": 3,
+      "color": "#61bc8f",
+      "tags": [],
+      "modified_at": "2023-05-16T17:24:37+00:00"
+    },
+    {
+      "id": 5340,
+      "external_id": "18300",
+      "published": true,
+      "name": "Grove",
+      "priority": 3,
+      "color": "#61bc8f",
+      "tags": [],
+      "modified_at": "2023-05-16T17:24:29+00:00"
+    },
+    {
+      "id": 5333,
+      "external_id": "18299",
+      "published": true,
+      "name": "Grove",
+      "priority": 3,
+      "color": "#61bc8f",
+      "tags": [],
+      "modified_at": "2023-05-16T17:24:21+00:00"
+    },
+    {
+      "id": 5346,
+      "external_id": "18298",
+      "published": true,
+      "name": "Fractal Forest",
+      "priority": 2,
+      "color": "#CFD771",
+      "tags": [],
+      "modified_at": "2023-05-16T17:24:09+00:00"
+    },
+    {
+      "id": 5339,
+      "external_id": "18297",
+      "published": true,
+      "name": "Fractal Forest",
+      "priority": 2,
+      "color": "#CFD771",
+      "tags": [],
+      "modified_at": "2023-05-16T17:24:02+00:00"
+    },
+    {
+      "id": 5332,
+      "external_id": "18296",
+      "published": true,
+      "name": "Fractal Forest",
+      "priority": 2,
+      "color": "#CFD771",
+      "tags": [],
+      "modified_at": "2023-05-16T17:23:55+00:00"
+    },
+    {
+      "id": 5344,
+      "external_id": "18292",
+      "published": true,
+      "name": "AMP",
+      "priority": 1,
+      "color": "#A55079",
+      "tags": [],
+      "modified_at": "2023-05-16T17:22:50+00:00"
+    },
+    {
+      "id": 5336,
+      "external_id": "18258",
+      "published": true,
+      "name": "AMP",
+      "priority": 1,
+      "color": "#A55079",
+      "tags": [],
+      "modified_at": "2023-05-16T17:22:41+00:00"
+    },
+    {
+      "id": 5330,
+      "external_id": "18291",
+      "published": true,
+      "name": "AMP",
+      "priority": 1,
+      "color": "#A55079",
+      "tags": [],
+      "modified_at": "2023-05-16T17:22:32+00:00"
+    },
+    {
+      "id": 5328,
+      "external_id": "18302",
+      "published": true,
+      "name": "Living Room",
+      "priority": 1,
+      "color": "#4CE6D7",
+      "tags": [],
+      "modified_at": "2023-05-16T17:22:09+00:00"
+    },
+    {
+      "id": 5327,
+      "external_id": "18290",
+      "published": true,
+      "name": "AMP",
+      "priority": 1,
+      "color": "#A55079",
+      "tags": [],
+      "modified_at": "2023-05-16T17:21:51+00:00"
+    }
+  ],
+  "_links": {
+    "self": "https://app.appmiral.com/api/v6/events/shambhalafestival/editions/shambhalafestival2023/stages?includehistory=true&maxperpage=100"
+  },
+  "_meta": {
+    "page": 1,
+    "max_per_page": 100,
+    "page_count": 23,
+    "total_count": 23
+  }
+}
