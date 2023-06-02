@@ -12,7 +12,7 @@ Required tools for use:
 
 * curl
 * jq
-* pipenv
+* poetry
 * python 3+
 
 Extract the application session key using a MITM proxy tool like [Charles Proxy](https://www.charlesproxy.com/) or [mitmproxy](https://mitmproxy.org/).
@@ -25,11 +25,11 @@ SESSION_KEY=VALUE_HERE
 
 ## Usage
 
-* Setup the python virtualenv using Pipenv
+* Setup the python virtualenv using Poetry
 
 ```bash
-pipenv install
-pipenv shell
+poetry install
+poetry shell
 ```
 
 * Extract all scheduling data by running an extract script
