@@ -2,15 +2,20 @@
 
 name: Shambhala schedule updates
 
+env:
+  FESTIVAL_YEAR: 2024
+  FESTIVAL_DATA_PATH: festivals/shambhalafestival
+
 on:
   # This only runs on default branch
   schedule:
     - cron: "12 */6 * 6 *"      # At minute 12 past every 6th hour in June.
     - cron: "12 */6 1-23 7 *"   # At minute 12 past every 6th hour on every day-of-month from 1 through 23 in July.
-  ## For testing/development
+  
   push:
     branches:
-      - "gh-automation"
+      - "main"
+      - "gh-automation" ## For testing/development
 
 permissions:
     # Give the default GITHUB_TOKEN write permission to commit and push the
@@ -44,18 +49,21 @@ jobs:
       run: poetry install --no-interaction --no-root
     -  name: Write secrets to .env file
        run: |
-        cat << EOF > festivals/shambhalafestival/.env
+        cat << EOF > ${FESTIVAL_DATA_PATH}/.env
         SESSION_KEY=${{ secrets.SHAMBHALA_SESSION_KEY }}
         EOF
-    - name: Fetch 2024 app data
+    - name: Fetch latest schedule data from API
       run: |
-        pushd festivals/shambhalafestival
-        ./2024.sh
+        pushd ${FESTIVAL_DATA_PATH}
+        ./${FESTIVAL_YEAR}.sh
         popd
+    - name: Transform data into clashfinder text format
+      run: | 
+        ./bin/appmiral_transform.py --tz "US/Pacific" --artists ${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/shambhalafestival.artists.json --stages ${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/shambhalafestival.stages.json > ${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/clashfinder.txt 
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: Automated Shambhala schedule changes
-        file_pattern: '*.json'
+        commit_message: Automated Shambhala festival data update
+        file_pattern: '*.json clashfinder.txt'
   
 
         
