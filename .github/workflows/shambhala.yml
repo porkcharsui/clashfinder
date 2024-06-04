@@ -1,12 +1,16 @@
 # This workflow fetches new Shambhala schedule data and commit and changes back to the repo
 
-name: Shambhala JSON update
+name: Shambhala schedule updates
 
 on:
+  # This only runs on default branch
+  schedule:
+    - cron: "12 */6 * 6 *"      # At minute 12 past every 6th hour in June.
+    - cron: "12 */6 1-23 7 *"   # At minute 12 past every 6th hour on every day-of-month from 1 through 23 in July.
+  ## For testing/development
   push:
     branches:
       - "gh-automation"
-      # - "main"
 
 permissions:
     # Give the default GITHUB_TOKEN write permission to commit and push the
@@ -50,7 +54,7 @@ jobs:
         popd
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: Automated Shambhala JSON data changes
+        commit_message: Automated Shambhala schedule changes
         file_pattern: '*.json'
   
 
