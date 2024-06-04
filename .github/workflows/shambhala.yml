@@ -58,7 +58,8 @@ jobs:
         ./${FESTIVAL_YEAR}.sh
         popd
     - name: Transform data into clashfinder text format
-      run: | 
+      run: |
+        source .venv/bin/activate
         ./bin/appmiral_transform.py --tz "US/Pacific" --artists ${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/shambhalafestival.artists.json --stages ${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/shambhalafestival.stages.json > ${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/clashfinder.txt 
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
