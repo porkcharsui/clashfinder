@@ -1,4 +1,4 @@
-# This workflow will attempt to fetch new Shambhala schedule data
+# This workflow fetches new Shambhala schedule data and commit and changes back to the repo
 
 name: Shambhala JSON update
 
@@ -7,11 +7,11 @@ on:
     branches:
       - "gh-automation"
       # - "main"
-  # pull_request:
-  #   branches: [ "main" ]
 
 permissions:
-  contents: read
+    # Give the default GITHUB_TOKEN write permission to commit and push the
+    # added or changed files to the repository.
+    contents: write
 
 jobs:
   build:
@@ -43,9 +43,15 @@ jobs:
         cat << EOF > festivals/shambhalafestival/.env
         SESSION_KEY=${{ secrets.SHAMBHALA_SESSION_KEY }}
         EOF
-    - name: Fetch 2024 data
+    - name: Fetch 2024 app data
       run: |
         pushd festivals/shambhalafestival
         ./2024.sh
         popd
+    - uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Automated Shambhala JSON data changes
+        file_pattern: '*.json'
+  
+
         
