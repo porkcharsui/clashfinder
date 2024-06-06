@@ -1,3 +1,4 @@
+// no performances found for artist id=1995541
 // no performances found for artist id=1995594
 timezone = US/Pacific
 // total acts found = 270
@@ -247,7 +248,7 @@ act = {"start": "2024-07-26 15:00", "end": "2024-07-26 19:00", "stage": "Village
 act = {"start": "2024-07-26 19:00", "end": "2024-07-26 20:00", "stage": "Village", "act": "Zipper"}
 act = {"start": "2024-07-26 20:00", "end": "2024-07-26 21:00", "stage": "Village", "act": "Stylust"}
 act = {"start": "2024-07-26 21:00", "end": "2024-07-26 22:00", "stage": "Village", "act": "OnDaMiKe"}
-act = {"start": "2024-07-26 22:00", "end": "2024-07-26 23:00", "stage": "Village", "act": "Armanni Reign"}
+act = {"start": "2024-07-26 22:00", "end": "2024-07-26 23:00", "stage": "Village", "act": "Subvert"}
 act = {"start": "2024-07-26 23:00", "end": "2024-07-27 00:30", "stage": "Village", "act": "Friction"}
 act = {"start": "2024-07-27 00:30", "end": "2024-07-27 02:00", "stage": "Village", "act": "Excision"}
 act = {"start": "2024-07-27 02:00", "end": "2024-07-27 03:00", "stage": "Village", "act": "Dion Timmer"}
