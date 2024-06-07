@@ -1,6 +1,438 @@
 {
   "data": [
     {
+      "id": 1995536,
+      "external_id": "174081",
+      "published": true,
+      "name": "Ben Fox",
+      "body": "Ben Fox has established himself as one of the go-to house DJs in Western Canada. Prolific on the stage and in the studio, this Shambhala Pagoda Stage DJ has had several Beatport charting tunes.  These songs included multiple #1 hits and his music has had thousands of streams across dozens of countries. He has consistently released music on reputable house labels including Country Club Disco, Curious Energy & House of Hustle just to name a few.  His music has also been featured by top tier blogs like This Song is Sick.  Most recently, Ben Fox was named one of the top nine artists to see at Shambhala Music Festival by EDM.com.  To top it off, Ben Fox has been invited to and tag-teamed on stage with artists like the legendary Z-Trip & Dr Fresch.\n\nA regular act on the Canadian festival circuit, Ben continues to level up his game and capture crowds with his versatile style as not only a house selector — but turntablist, and rapper. He is known to unleash live vocals and his turntable skills when you least expect it, sprinkling in a few surprises as he draws on a diverse catalog of house music.\n\n2024 is already shaping up to be BEN FOX’s best year yet with plenty of releases locked and loaded, another recent Beatport top 10 and a summer of bookings already confirmed.  Whether you’re lucky to catch him on a festival stage or intimate environment, you’ll be thrilled to encounter a selector who’s skilled at reading the crowd and playing for the moment while eliciting spacetime-altering vibrations, fox ears up!",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260919_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260919_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260919_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260919_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "benfoxmusic",
+        "instagram_user": "benfoxmusic/",
+        "soundcloud_user": "benfoxmusic",
+        "spotify_artist_id": "3kVZl3EDgcN4v01oxJwfO6"
+      },
+      "performances": [
+        {
+          "id": 183001,
+          "external_id": "856059",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995536,
+          "stage_id": 7941,
+          "date_id": 2878,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-07T00:02:00+00:00",
+          "start_time": "2024-07-27T11:45:00+00:00",
+          "end_time": "2024-07-27T13:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-07T00:02:00+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995447,
+      "external_id": "1917135",
+      "published": true,
+      "name": "Versa",
+      "body": "",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/65/thumb_5264091_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0053/65/thumb_5264091_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0053/65/thumb_5264091_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0053/65/thumb_5264091_performance_500.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {},
+      "performances": [
+        {
+          "id": 182912,
+          "external_id": "856639",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995447,
+          "stage_id": 7957,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-03T01:33:23+00:00",
+          "start_time": "2024-07-29T07:00:00+00:00",
+          "end_time": "2024-07-29T08:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-06T19:54:45+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995499,
+      "external_id": "167021",
+      "published": true,
+      "name": "Handsome Tiger",
+      "body": "Handsome Tiger is an Anishinaabe Métis, North African music producer/dj from Turtle Island, residing in Vancouver BC. His production blends traditional sounds from his culture alongside other Indigenous sounds, interwoven into the contemporary sounds of electronic bass music today. Named in CBC music’s 6 Indigenous artists you need to know in 2021 and CBC’s Reclaimed artists to watch in 2020. No stranger to the Vancouver and West Coast music community, Handsome Tiger has played countless shows and gathered numerous releases under his belt. With a love of bass music he’s been a strong advocate in supporting and contributing to many events in Vancouver’s underground Scene. Quickly becoming Canadian festival scene favourite with appearances at Bass Coast, Shambhala, Mutek to name a few. His DJ sets mix many flavours of sound system culture and Global bass sounds including dub, grime, dancehall, afrobeats, rap, reggaeton and more all woven together to light up any dance floor.\n\nHe's shared the stage with artists such as EarthGang, DJ Shub, Snotty Nose Rez Kids, Ky-Mani Marley, Sister Nancy, The Librarian, DJ MADD, TMSV, Madam X, D Double E, Lady Chann, Hypho, Distinct Motive & Lighta! Sound.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260886_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260886_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260886_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260886_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "HandsomeTigerMusic/",
+        "instagram_user": "handsome.tiger/",
+        "twitter_user": "handsometigerr",
+        "soundcloud_user": "handsometiger",
+        "spotify_artist_id": "5mse6hwiW0xtsv1XCPN4sU"
+      },
+      "performances": [
+        {
+          "id": 182964,
+          "external_id": "856074",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995499,
+          "stage_id": 7940,
+          "date_id": 2878,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-29T23:47:09+00:00",
+          "start_time": "2024-07-27T00:00:00+00:00",
+          "end_time": "2024-07-27T01:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-06T19:54:01+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995688,
+      "external_id": "1916451",
+      "published": true,
+      "name": "P Money x Whiney",
+      "body": "P Money (real name, Paris Moore-Williams) is an English grime MC known for his high-octane live performances, contributions to the grime crew Fatal Assassins, and his solo work, which traversed a myriad of styles and sounds including dubstep and garage. \n\nHailing from Lewisham, South London, he began his career appearing on a number of mixtapes with Fatal Assassins in the late 2000s, garnering widespread attention from national pirate radio shows for his fast, unwavering and scathing rhyme style. He eventually went on to co-found the grime crew, OGz and began writing his own rhymes, incorporating different types of urban electronica into his own solo work. \n\nWhiney first caught the attention of the drum & bass scene back in 2012 when he released the “Sweetest Sin” EP on Subsphere Recordings with longtime friend and now label mate, Keeno. Introduced to Drum & Bass at 14 and classical instruments at 7 Will focused his efforts on production, signing his first track ‘No More’ to Hospital Records at the age of 18. Already turning heads at a young age, Will signed exclusively to Hospital’s sister-label Med School Music just 2 years later. Twice heard on the imprint’s iconic ‘New Blood’ series, and following further appearances on the various artist albums “Sick Music 3” and “Hospitality 2015”, Whiney released his debut solo EP for Med School “Stranger Tides”. This release moved him away from the liquid licks he had become known for and introduced us to his darker, more dancefloor orientated tastes.\n\nHis 2017 album “Talisman” continued to showcase Whiney’s deeper sonic style and earned him recognition throughout the drum & bass scene. In that same year he was nominated in three categories in The Drum & Bass Arena Awards; Best Newcomer, Best Album and Best Track for the anthem that was ‘Flashlight’ feat. MC Inja. Of the album, ‘Flashlight’ stoked the most club support from legends like Randall. The track also reached the Beatport top spot for two weeks.\n\nNo longer viewed as a newcomer, Whiney’s second album “Waystone” cemented his name as one of the scene’s most well respected artists. There followed remix requests from S.P.Y, Etherwood, London Elektricity, BCee and Ecuador as well as radio and dancefloor support from DJ Target, Friction, Noisia, High Contrast, Rene LaVice, Annie Nightingale and Camo & Krooked, to name but a few. Whiney’s compositions are also included in diverse sync projects with BT Sports and Letterkenny and computer games like Need For Speed Heat, Forza Horizon 3 & 4, GRIP.\n\nWith over twelve years spent in choirs, orchestras and Grade 8 achievements in both violin and piano, it was inevitable Whiney’s life path would follow a musical route. After discovering a love for Pendulum and becoming inspired to delve into the world of music production, drum and bass became his calling.\n\nThese days Whiney can been seen playing sets across the globe, having had solo tours in Australia, New Zealand, China and South Korea, but his favourite shows have been closer to home as Whiney cites The Spider @ Arcadia, Printworks, Let It Roll and Boomtown as his personal highlights.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261056_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261056_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261056_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261056_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "whineymusic",
+        "instagram_user": "kingpmoney",
+        "youtube_user": "channel/UClxecxE761M24FzDUDFgKqA",
+        "soundcloud_user": "whineymusic",
+        "spotify_artist_id": "6WjX4pepHwXa85B9KMk0PY"
+      },
+      "performances": [
+        {
+          "id": 183160,
+          "external_id": "855481",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995688,
+          "stage_id": 7956,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-03T01:19:38+00:00",
+          "start_time": "2024-07-29T05:00:00+00:00",
+          "end_time": "2024-07-29T06:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-06T19:52:55+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995527,
+      "external_id": "187818",
+      "published": true,
+      "name": "Case of the Mondays",
+      "body": "Case of the Mondays is a classic story about two best friends friends making music in paradise...Joni T & La Dooda met in a dark basement nightclub fighting over a single vodka soda. The bartender saw their struggle and one free vodka soda later…they became best friends and started writing House Music. Not just any house music either. Their sound can be described as High-Energy-Bass-Driven-Tech-House. Since that doesn’t really roll off the tongue, the boys call their style of music = FUN HOUSE. If your looking for a good time you’ve come to the right place. Case of the Mondays transforms Dance Floors into Magical Worlds where its okay to dance all night, call in sick for work, and spill drinks. Everyday is a Monday! [Warner Music, DirtyBird, Box of Cats, Medium Rare, Westwood, COTM Records]",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260912_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260912_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260912_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260912_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "caseofthemondaysofficial",
+        "instagram_user": "caseofthemondayss/",
+        "soundcloud_user": "caseofthemondaysofficial",
+        "spotify_artist_id": "0TcmYfWCoJWqMBHWmLr3LL"
+      },
+      "performances": [
+        {
+          "id": 182992,
+          "external_id": "856062",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995527,
+          "stage_id": 7941,
+          "date_id": 2878,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-01T01:18:01+00:00",
+          "start_time": "2024-07-27T02:15:00+00:00",
+          "end_time": "2024-07-27T03:15:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-06T19:52:54+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995593,
+      "external_id": "1916776",
+      "published": true,
+      "name": "Pleasensations",
+      "body": "Pleasensations (Pronounced Ple-sen-say-shuns) emerges as the brainchild of Neon Steve, a leading figure in Canada's House music scene. Originating as a \"chill\" mixtape appropriately titled \"Pleasensations,\" Steve had no specific goal in mind other than to shed light on the other side of music he was enjoying outside of his club-oriented productions. Picture the serene vibes of a sunset, the invigorating atmosphere of sunrise, the pulsating energy of daytime festivals, and the romantic aura of date nights all merging in a sweating, dimly lit underground club – that's the essence of Pleasensations. Steve’s eclectic curation of smooth, sultry, feel good House, R’N’B, Hip-Hop and Indie Dance fused together in a forward-thinking approach led to its quick embrace by fans which prompted its evolution into a celebrated series which has since amassed over a million plays. As the series grew and evolved, so did the demand for live performances, leading Neon Steve to pioneer Pleasensations-branded club nights, festival appearances and even special pop-up performances showcasing beautiful outdoor locations around Western Canada. What began as an experimental departure from his harder-hitting productions blossomed into a dynamic project that took on a life of its own. Through this evolution, Steve demonstrated his adaptability and creativity, solidifying Pleasensations as a vibrant presence within Canada's electronic music community.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260972_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260972_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260972_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260972_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "pleasensations/"
+      },
+      "performances": [
+        {
+          "id": 183060,
+          "external_id": "856090",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995593,
+          "stage_id": 7944,
+          "date_id": 2879,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-29T23:47:10+00:00",
+          "start_time": "2024-07-28T02:00:00+00:00",
+          "end_time": "2024-07-28T03:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-06T19:52:32+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995652,
+      "external_id": "187855",
+      "published": true,
+      "name": "Pineo & Loeb",
+      "body": "Uplifting, High-Energy good vibes and unstoppable on the global stage, PINEO & LOEB are the Canadian powerhouse shaping the electronic music scene. With over 100 shows annually across international hotspots, this dynamic DJ duo thrives on high-octane performances that have rocked festivals like Shambhala and Escapade.\n\nSurpassing 10 million streams online, they've become a force to reckon with, seamlessly blending dance, hip-hop, and rock influences. Their official remixes for A-listers like Sabrina Carpenter showcase their production prowess, while collaborations with major labels and independent artists such as Kiesza, GROUPLOVE and Olivia O'Brien underscore their versatility. Music placements include Netflix & HBO with radio support from BBC Radio 1 and numerous Sirius XM channels. \n\nPINEO & LOEB's sonic journey transcends boundaries, sharing the stage with icons like Steve Aoki and Dr. Fresch. With a magnetic mix of timeless classics and cutting-edge beats, they bring an electric atmosphere wherever they go—uniting fans and leaving an indelible mark on the global music scene.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261020_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261020_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261020_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261020_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "PINEOANDLOEB/",
+        "instagram_user": "pineoandloeb/",
+        "youtube_user": "user/PINEOMusic",
+        "soundcloud_user": "pineo-and-loeb/",
+        "spotify_artist_id": "7LildCOU5me58NKlvsLVRI"
+      },
+      "performances": [
+        {
+          "id": 183122,
+          "external_id": "855968",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995652,
+          "stage_id": 7953,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-29T23:47:10+00:00",
+          "start_time": "2024-07-29T02:00:00+00:00",
+          "end_time": "2024-07-29T03:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-06T19:52:11+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995508,
+      "external_id": "167173",
+      "published": true,
+      "name": "The Librarian",
+      "body": "Andrea Graham, better known by her stage name The Librarian, is a celebrated DJ, producer, and curator. She is the co-founder and music director of Bass Coast Music Festival – known internationally for its innovative music programming and installation art – and is widely considered one of bass music’s leading creative minds and tastemakers. Equally an artist and entrepreneur, Andrea’s reputation as an inclusive community-builder in the electronic world has brought her a legion of fans and industry followers across the globe.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260895_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260895_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260895_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260895_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "LibrarianMusic",
+        "instagram_user": "LibrarianMusic/",
+        "twitter_user": "LibrarianMusic",
+        "youtube_user": "LibrarianMusic",
+        "soundcloud_user": "the-librarian"
+      },
+      "performances": [
+        {
+          "id": 182973,
+          "external_id": "855978",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995508,
+          "stage_id": 7940,
+          "date_id": 2878,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-31T06:48:12+00:00",
+          "start_time": "2024-07-27T11:00:00+00:00",
+          "end_time": "2024-07-27T12:15:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-06T19:51:52+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995611,
+      "external_id": "187998",
+      "published": true,
+      "name": "DNB Girls Takeover Hosted By Crystal Fresh",
+      "body": "",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260989_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260989_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260989_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260989_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {},
+      "performances": [
+        {
+          "id": 183078,
+          "external_id": "856640",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995611,
+          "stage_id": 7949,
+          "date_id": 2879,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-06T19:47:23+00:00",
+          "start_time": "2024-07-28T01:00:00+00:00",
+          "end_time": "2024-07-28T03:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-06T19:47:23+00:00",
+      "show_section_titles": true
+    },
+    {
       "id": 1996612,
       "external_id": "167006",
       "published": true,
@@ -3788,50 +4220,6 @@
       "show_section_titles": true
     },
     {
-      "id": 1995447,
-      "external_id": "1917135",
-      "published": true,
-      "name": "Versa",
-      "body": "",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/65/thumb_5264091_performance_100.png",
-        "120": "https://media.appmiral.com/prod/performance/0053/65/thumb_5264091_performance_120.png",
-        "250": "https://media.appmiral.com/prod/performance/0053/65/thumb_5264091_performance_250.png",
-        "500": "https://media.appmiral.com/prod/performance/0053/65/thumb_5264091_performance_500.png"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {},
-      "performances": [
-        {
-          "id": 182912,
-          "external_id": "856639",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995447,
-          "stage_id": 7957,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-03T01:33:23+00:00",
-          "start_time": "2024-07-29T07:00:00+00:00",
-          "end_time": "2024-07-29T08:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-06T14:13:39+00:00",
-      "show_section_titles": true
-    },
-    {
       "id": 1995501,
       "external_id": "174095",
       "published": true,
@@ -4123,55 +4511,6 @@
       "show_in_intake": true,
       "show_in_artists": true,
       "modified_at": "2024-06-06T14:13:39+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995536,
-      "external_id": "174081",
-      "published": true,
-      "name": "Ben Fox",
-      "body": "COUNTRY CLUB DISCO | DATA TRANSMISSION | ROCKBOTTOM | CURIOUS ENERGY | HOUSEOFHUSTLE | WYLDCARD & MORE\n\nBEN FOX has established himself as one of the go-to house DJs in Western Canada. Prolific on the stage and in the studio, this Shambhala Pagoda Stage DJ has had several Beatport charting tunes.  These songs included multiple #1 hits and his music has had thousands of streams across dozens of countries. He has consistently released music on reputable house labels including Country Club Disco, Curious Energy & House of Hustle just to name a few.  His music has also been featured by top tier blogs like This Song is Sick.  Most recently, Ben Fox was named one of the top nine artists to see at Shambhala Music Festival by EDM.com.  To top it off, Ben Fox has been invited to and tag-teamed on stage with artists like the legendary Z-Trip & Dr Fresch.\n\nA regular act on the Canadian festival circuit, Ben continues to level up his game and capture crowds with his versatile style as not only a house selector — but turntablist, and rapper. He is known to unleash live vocals and his turntable skills when you least expect it, sprinkling in a few surprises as he draws on a diverse catalog of house music.\n\n2024 is already shaping up to be BEN FOX’s best year yet with plenty of releases locked and loaded, another recent Beatport top 10 and a summer of bookings already confirmed.  Whether you’re lucky to catch him on a festival stage or intimate environment, you’ll be thrilled to encounter a selector who’s skilled at reading the crowd and playing for the moment while eliciting spacetime-altering vibrations, fox ears up!",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260919_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260919_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260919_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260919_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "benfoxmusic",
-        "instagram_user": "benfoxmusic/",
-        "soundcloud_user": "benfoxmusic",
-        "spotify_artist_id": "3kVZl3EDgcN4v01oxJwfO6"
-      },
-      "performances": [
-        {
-          "id": 183001,
-          "external_id": "856059",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995536,
-          "stage_id": 7941,
-          "date_id": 2878,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-31T06:48:12+00:00",
-          "start_time": "2024-07-27T11:45:00+00:00",
-          "end_time": "2024-07-27T13:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-06T14:13:32+00:00",
       "show_section_titles": true
     },
     {
@@ -4728,56 +5067,6 @@
           "modified_at": "2024-05-29T23:47:09+00:00",
           "start_time": "2024-07-27T02:00:00+00:00",
           "end_time": "2024-07-27T03:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-06T14:13:02+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995499,
-      "external_id": "167021",
-      "published": true,
-      "name": "Handsome Tiger",
-      "body": "Handsome Tiger is an Anishinaabe Métis, North African music producer/dj from Turtle Island, residing in Vancouver BC. His production blends traditional sounds from his culture alongside other Indigenous sounds, interwoven into the contemporary sounds of electronic bass music today. Named in CBC music’s 6 Indigenous artists you need to know in 2021 and CBC’s Reclaimed artists to watch in 2020. No stranger to the Vancouver and West Coast music community, Handsome Tiger has played countless shows and gathered numerous releases under his belt. With a love of bass music he’s been a strong advocate in supporting and contributing to many events in Vancouver’s underground Scene. Quickly becoming Canadian festival scene favourite with appearances at Bass Coast, Shambhala, Mutek to name a few. His DJ sets mix many flavours of sound system culture and Global bass sounds including dub, grime, dancehall, afrobeats, rap, reggaeton and more all woven together to light up any dance floor.\n\nHe's shared the stage with artists such as EarthGang, DJ Shub, Snotty Nose Rez Kids, Ky-Mani Marley, Sister Nancy, The Librarian, DJ MADD, TMSV, Madam X, D Double E, Lady Chann, Hypho, Distinct Motive & Lighta! Sound.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260886_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260886_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260886_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260886_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "HandsomeTigerMusic/",
-        "instagram_user": "handsome.tiger/",
-        "twitter_user": "handsometigerr",
-        "soundcloud_user": "handsometiger",
-        "spotify_artist_id": "5mse6hwiW0xtsv1XCPN4sU"
-      },
-      "performances": [
-        {
-          "id": 182964,
-          "external_id": "856074",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995499,
-          "stage_id": 7940,
-          "date_id": 2878,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-29T23:47:09+00:00",
-          "start_time": "2024-07-27T00:00:00+00:00",
-          "end_time": "2024-07-27T01:00:00+00:00",
           "show_image_in_schedule": true,
           "hide_end_time": false
         }
@@ -6427,105 +6716,6 @@
       "show_section_titles": true
     },
     {
-      "id": 1995688,
-      "external_id": "1916451",
-      "published": true,
-      "name": "P Money x Whiney",
-      "body": "P Money (real name, Paris Moore-Williams) is an English grime MC known for his high-octane live performances, contributions to the grime crew Fatal Assassins, and his solo work, which traversed a myriad of styles and sounds including dubstep and garage. \n\nHailing from Lewisham, South London, he began his career appearing on a number of mixtapes with Fatal Assassins in the late 2000s, garnering widespread attention from national pirate radio shows for his fast, unwavering and scathing rhyme style. He eventually went on to co-found the grime crew, OGz and began writing his own rhymes, incorporating different types of urban electronica into his own solo work. \n\nWhiney first caught the attention of the drum & bass scene back in 2012 when he released the “Sweetest Sin” EP on Subsphere Recordings with longtime friend and now label mate, Keeno. Introduced to Drum & Bass at 14 and classical instruments at 7 Will focused his efforts on production, signing his first track ‘No More’ to Hospital Records at the age of 18. Already turning heads at a young age, Will signed exclusively to Hospital’s sister-label Med School Music just 2 years later. Twice heard on the imprint’s iconic ‘New Blood’ series, and following further appearances on the various artist albums “Sick Music 3” and “Hospitality 2015”, Whiney released his debut solo EP for Med School “Stranger Tides”. This release moved him away from the liquid licks he had become known for and introduced us to his darker, more dancefloor orientated tastes.\n\nHis 2017 album “Talisman” continued to showcase Whiney’s deeper sonic style and earned him recognition throughout the drum & bass scene. In that same year he was nominated in three categories in The Drum & Bass Arena Awards; Best Newcomer, Best Album and Best Track for the anthem that was ‘Flashlight’ feat. MC Inja. Of the album, ‘Flashlight’ stoked the most club support from legends like Randall. The track also reached the Beatport top spot for two weeks.\n\nNo longer viewed as a newcomer, Whiney’s second album “Waystone” cemented his name as one of the scene’s most well respected artists. There followed remix requests from S.P.Y, Etherwood, London Elektricity, BCee and Ecuador as well as radio and dancefloor support from DJ Target, Friction, Noisia, High Contrast, Rene LaVice, Annie Nightingale and Camo & Krooked, to name but a few. Whiney’s compositions are also included in diverse sync projects with BT Sports and Letterkenny and computer games like Need For Speed Heat, Forza Horizon 3 & 4, GRIP.\n\nWith over twelve years spent in choirs, orchestras and Grade 8 achievements in both violin and piano, it was inevitable Whiney’s life path would follow a musical route. After discovering a love for Pendulum and becoming inspired to delve into the world of music production, drum and bass became his calling.\n\nThese days Whiney can been seen playing sets across the globe, having had solo tours in Australia, New Zealand, China and South Korea, but his favourite shows have been closer to home as Whiney cites The Spider @ Arcadia, Printworks, Let It Roll and Boomtown as his personal highlights.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261056_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261056_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261056_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261056_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "whineymusic",
-        "instagram_user": "kingpmoney",
-        "youtube_user": "channel/UClxecxE761M24FzDUDFgKqA",
-        "soundcloud_user": "whineymusic",
-        "spotify_artist_id": "6WjX4pepHwXa85B9KMk0PY"
-      },
-      "performances": [
-        {
-          "id": 183160,
-          "external_id": "855481",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995688,
-          "stage_id": 7956,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-03T01:19:38+00:00",
-          "start_time": "2024-07-29T05:00:00+00:00",
-          "end_time": "2024-07-29T06:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-06T14:11:56+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995527,
-      "external_id": "187818",
-      "published": true,
-      "name": "Case of the Mondays",
-      "body": "Case of the Mondays is a classic story about two best friends friends making music in paradise...Joni T & La Dooda met in a dark basement nightclub fighting over a single vodka soda. The bartender saw their struggle and one free vodka soda later…they became best friends and started writing House Music. Not just any house music either. Their sound can be described as High-Energy-Bass-Driven-Tech-House. Since that doesn’t really roll off the tongue, the boys call their style of music = FUN HOUSE. If your looking for a good time you’ve come to the right place. Case of the Mondays transforms Dance Floors into Magical Worlds where its okay to dance all night, call in sick for work, and spill drinks. Everyday is a Monday! [Warner Music, DirtyBird, Box of Cats, Medium Rare, Westwood, COTM Records]",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260912_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260912_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260912_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260912_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "caseofthemondaysofficial",
-        "instagram_user": "caseofthemondayss/",
-        "soundcloud_user": "caseofthemondaysofficial",
-        "spotify_artist_id": "0TcmYfWCoJWqMBHWmLr3LL"
-      },
-      "performances": [
-        {
-          "id": 182992,
-          "external_id": "856062",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995527,
-          "stage_id": 7941,
-          "date_id": 2878,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-01T01:18:01+00:00",
-          "start_time": "2024-07-27T02:15:00+00:00",
-          "end_time": "2024-07-27T03:15:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-06T14:11:55+00:00",
-      "show_section_titles": true
-    },
-    {
       "id": 1995456,
       "external_id": "1916747",
       "published": true,
@@ -7010,52 +7200,6 @@
       "show_section_titles": true
     },
     {
-      "id": 1995593,
-      "external_id": "1916776",
-      "published": true,
-      "name": "Pleasensations",
-      "body": "Pleasensations (Pronounced Ple-sen-say-shuns) emerges as the brainchild of Neon Steve, a leading figure in Canada's House music scene. Originating as a \"chill\" mixtape appropriately titled \"Pleasensations,\" Steve had no specific goal in mind other than to shed light on the other side of music he was enjoying outside of his club-oriented productions. Picture the serene vibes of a sunset, the invigorating atmosphere of sunrise, the pulsating energy of daytime festivals, and the romantic aura of date nights all merging in a sweating, dimly lit underground club – that's the essence of Pleasensations. Steve’s eclectic curation of smooth, sultry, feel good House, R’N’B, Hip-Hop and Indie Dance fused together in a forward-thinking approach led to its quick embrace by fans which prompted its evolution into a celebrated series which has since amassed over a million plays. As the series grew and evolved, so did the demand for live performances, leading Neon Steve to pioneer Pleasensations-branded club nights, festival appearances and even special pop-up performances showcasing beautiful outdoor locations around Western Canada. What began as an experimental departure from his harder-hitting productions blossomed into a dynamic project that took on a life of its own. Through this evolution, Steve demonstrated his adaptability and creativity, solidifying Pleasensations as a vibrant presence within Canada's electronic music community.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260972_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260972_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260972_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260972_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "pleasensations/"
-      },
-      "performances": [
-        {
-          "id": 183060,
-          "external_id": "856090",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995593,
-          "stage_id": 7944,
-          "date_id": 2879,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-29T23:47:10+00:00",
-          "start_time": "2024-07-28T02:00:00+00:00",
-          "end_time": "2024-07-28T03:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-06T14:11:34+00:00",
-      "show_section_titles": true
-    },
-    {
       "id": 1995645,
       "external_id": "1916740",
       "published": true,
@@ -7354,100 +7498,6 @@
       "show_section_titles": true
     },
     {
-      "id": 1995652,
-      "external_id": "187855",
-      "published": true,
-      "name": "Pineo & Loeb",
-      "body": "Uplifting, High-Energy good vibes and unstoppable on the global stage, PINEO & LOEB are the Canadian powerhouse shaping the electronic music scene. With over 100 shows annually across international hotspots, this dynamic DJ duo thrives on high-octane performances that have rocked festivals like Shambhala and Escapade.\n\nSurpassing 10 million streams online, they've become a force to reckon with, seamlessly blending dance, hip-hop, and rock influences. Their official remixes for A-listers like Sabrina Carpenter showcase their production prowess, while collaborations with major labels and independent artists such as Kiesza, GROUPLOVE and Olivia O'Brien underscore their versatility. Music placements include Netflix & HBO with radio support from BBC Radio 1 and numerous Sirius XM channels. \n\nPINEO & LOEB's sonic journey transcends boundaries, sharing the stage with icons like Steve Aoki and Dr. Fresch. With a magnetic mix of timeless classics and cutting-edge beats, they bring an electric atmosphere wherever they go—uniting fans and leaving an indelible mark on the global music scene.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261020_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261020_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261020_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261020_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "PINEOANDLOEB/",
-        "instagram_user": "pineoandloeb/",
-        "youtube_user": "user/PINEOMusic",
-        "soundcloud_user": "pineo-and-loeb/",
-        "spotify_artist_id": "7LildCOU5me58NKlvsLVRI"
-      },
-      "performances": [
-        {
-          "id": 183122,
-          "external_id": "855968",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995652,
-          "stage_id": 7953,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-29T23:47:10+00:00",
-          "start_time": "2024-07-29T02:00:00+00:00",
-          "end_time": "2024-07-29T03:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-06T14:11:13+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995611,
-      "external_id": "187998",
-      "published": true,
-      "name": "DNB Girls Takeover Hosted By Crystal Fresh",
-      "body": "",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260989_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260989_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260989_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260989_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {},
-      "performances": [
-        {
-          "id": 183078,
-          "external_id": "856640",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995611,
-          "stage_id": 7949,
-          "date_id": 2879,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-29T23:47:10+00:00",
-          "start_time": "2024-07-28T01:00:00+00:00",
-          "end_time": "2024-07-28T03:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-06T14:11:12+00:00",
-      "show_section_titles": true
-    },
-    {
       "id": 1995654,
       "external_id": "167147",
       "published": true,
@@ -7645,56 +7695,6 @@
       "show_in_intake": true,
       "show_in_artists": true,
       "modified_at": "2024-06-06T14:10:59+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995508,
-      "external_id": "167173",
-      "published": true,
-      "name": "The Librarian",
-      "body": "Andrea Graham, better known by her stage name The Librarian, is a celebrated DJ, producer, and curator. She is the co-founder and music director of Bass Coast Music Festival – known internationally for its innovative music programming and installation art – and is widely considered one of bass music’s leading creative minds and tastemakers. Equally an artist and entrepreneur, Andrea’s reputation as an inclusive community-builder in the electronic world has brought her a legion of fans and industry followers across the globe.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260895_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260895_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260895_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260895_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "LibrarianMusic",
-        "instagram_user": "LibrarianMusic/",
-        "twitter_user": "LibrarianMusic",
-        "youtube_user": "LibrarianMusic",
-        "soundcloud_user": "the-librarian"
-      },
-      "performances": [
-        {
-          "id": 182973,
-          "external_id": "855978",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995508,
-          "stage_id": 7940,
-          "date_id": 2878,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-31T06:48:12+00:00",
-          "start_time": "2024-07-27T11:00:00+00:00",
-          "end_time": "2024-07-27T12:15:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-06T14:10:58+00:00",
       "show_section_titles": true
     },
     {
