@@ -1,6 +1,57 @@
 {
   "data": [
     {
+      "id": 1995448,
+      "external_id": "167134",
+      "published": true,
+      "name": "kLL sMTH",
+      "body": "kLL sMTH is an artist who has taken his love of hip-hop and expanded it into a vast array of genres, from glitch-hop and drum and bass to dubstep and bass music. His DJing roots in turntablism have influenced his production style, with scratching and mixing vinyl being some of the first things he learned. He takes inspiration from experimentation, immersing himself in music, nature, and anything life throws his way.\n\nKris is a member of collaborative projects, including glitch-hop and half-time trio Ultrasloth (BioLumigen x Duffrey x kLL sMTH), ‘kLL Bill’ (kLL sMTH x Mr. Bill), a hype electronic project, and gRLL sMTH which aims to spotlight up-and-coming artists, have a good time and bring people together with food. With a constantly evolving sound and a commitment to breaking away from the predictable, kLL sMTH promises to keep his fans on their toes with every new set.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260839_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260839_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260839_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260839_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "kllsmth",
+        "instagram_user": "kllsmth",
+        "twitter_user": "kllsmthmusic",
+        "youtube_channel_id": "UCMbfoCAh2v9w0_eTz1sw7Xg",
+        "soundcloud_user": "kllsmth",
+        "spotify_artist_id": "5vKYp6eOOHPKfb8UX5nUXK"
+      },
+      "performances": [
+        {
+          "id": 182913,
+          "external_id": "855994",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995448,
+          "stage_id": 7936,
+          "date_id": 3213,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-08T19:48:12+00:00",
+          "start_time": "2024-07-25T21:00:00+00:00",
+          "end_time": "2024-07-25T22:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-08T19:48:12+00:00",
+      "show_section_titles": true
+    },
+    {
       "id": 1995564,
       "external_id": "166950",
       "published": true,
@@ -3427,57 +3478,6 @@
       "show_in_intake": true,
       "show_in_artists": true,
       "modified_at": "2024-06-08T15:52:50+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995448,
-      "external_id": "167134",
-      "published": true,
-      "name": "kLL sMTH",
-      "body": "kLL sMTH is an artist who has taken his love of hip-hop and expanded it into a vast array of genres, from glitch-hop and drum and bass to dubstep and bass music. His DJing roots in turntablism have influenced his production style, with scratching and mixing vinyl being some of the first things he learned. He takes inspiration from experimentation, immersing himself in music, nature, and anything life throws his way.\n\nKris is a member of collaborative projects, including glitch-hop and half-time trio Ultrasloth (BioLumigen x Duffrey x kLL sMTH), ‘kLL Bill’ (kLL sMTH x Mr. Bill), a hype electronic project, and gRLL sMTH which aims to spotlight up-and-coming artists, have a good time and bring people together with food. With a constantly evolving sound and a commitment to breaking away from the predictable, kLL sMTH promises to keep his fans on their toes with every new set.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260839_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260839_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260839_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260839_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "kllsmth",
-        "instagram_user": "kllsmth",
-        "twitter_user": "kllsmthmusic",
-        "youtube_channel_id": "UCMbfoCAh2v9w0_eTz1sw7Xg",
-        "soundcloud_user": "kllsmth",
-        "spotify_artist_id": "5vKYp6eOOHPKfb8UX5nUXK"
-      },
-      "performances": [
-        {
-          "id": 182913,
-          "external_id": "855994",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995448,
-          "stage_id": 7936,
-          "date_id": 3213,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-29T23:47:09+00:00",
-          "start_time": "2024-07-25T21:00:00+00:00",
-          "end_time": "2024-07-25T22:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-08T15:52:49+00:00",
       "show_section_titles": true
     },
     {
