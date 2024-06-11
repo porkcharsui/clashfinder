@@ -1,6 +1,52 @@
 {
   "data": [
     {
+      "id": 1995624,
+      "external_id": "1916935",
+      "published": true,
+      "name": "Mr. Wu",
+      "body": "Hailing from Portland, Oregon, Mr. Wu's sound blends a variety of genres and tempos while staying in the pocket. Focused on storytelling through music and cultivating an inspiring dance floor.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/73/thumb_5272037_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/73/thumb_5272037_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/73/thumb_5272037_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/73/thumb_5272037_performance_500.jpeg",
+        "960": "https://media.appmiral.com/prod/performance/0053/73/thumb_5272037_performance_960.jpeg",
+        "1080": "https://media.appmiral.com/prod/performance/0053/73/thumb_5272037_performance_1080.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {},
+      "performances": [
+        {
+          "id": 183091,
+          "external_id": "856331",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995624,
+          "stage_id": 7950,
+          "date_id": 2879,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-11T04:32:35+00:00",
+          "start_time": "2024-07-28T05:30:00+00:00",
+          "end_time": "2024-07-28T07:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-11T04:32:35+00:00",
+      "show_section_titles": true
+    },
+    {
       "id": 1995684,
       "external_id": "166972",
       "published": true,
@@ -12638,50 +12684,6 @@
       "show_in_intake": true,
       "show_in_artists": true,
       "modified_at": "2024-06-05T14:03:29+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995624,
-      "external_id": "1916935",
-      "published": true,
-      "name": "Mr. Wu",
-      "body": "Hailing from Portland, Oregon, Mr. Wu's sound blends a variety of genres and tempos while staying in the pocket. Focused on storytelling through music and cultivating an inspiring dance floor.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/65/thumb_5264079_performance_100.png",
-        "120": "https://media.appmiral.com/prod/performance/0053/65/thumb_5264079_performance_120.png",
-        "250": "https://media.appmiral.com/prod/performance/0053/65/thumb_5264079_performance_250.png",
-        "500": "https://media.appmiral.com/prod/performance/0053/65/thumb_5264079_performance_500.png"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {},
-      "performances": [
-        {
-          "id": 183091,
-          "external_id": "856331",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995624,
-          "stage_id": 7950,
-          "date_id": 2879,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-03T00:48:48+00:00",
-          "start_time": "2024-07-28T05:30:00+00:00",
-          "end_time": "2024-07-28T07:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-05T14:02:46+00:00",
       "show_section_titles": true
     },
     {
