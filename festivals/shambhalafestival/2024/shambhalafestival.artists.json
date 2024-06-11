@@ -34,7 +34,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-11T12:32:55+00:00",
+          "modified_at": "2024-06-11T18:17:10+00:00",
           "start_time": "2024-07-26T22:00:00+00:00",
           "end_time": "2024-07-27T02:00:00+00:00",
           "show_image_in_schedule": true,
@@ -46,7 +46,326 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-11T12:32:55+00:00",
+      "modified_at": "2024-06-11T18:17:10+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995580,
+      "external_id": "1916739",
+      "published": true,
+      "name": "TF Marz B2B parkbreezy",
+      "body": "TF Marz, a luminary and founding member of the Denver-based all:Lo Collective, stands at the intersection of Hip Hop and R&B sensibilities, weaving those sensibilities seamlessly with the lush and deep sounds of bass music. Imbued with the influence of Northwest’s rich bass music\nculture, TF’s cutting-edge selections and moody productions are like a breath of fresh air\nfor every dance floor he rocks.\n\nParker Williams, also known as parkbreezy, is a talented instrumentalist, producer, and artist who creates soulful and emotive beats. His music is a fusion of various genres, including Hip Hop, R&B, Soul, Jazz, and Electronic Music. Parker's style incorporates resampling, syncopated percussion, propulsive bass lines, and affectional melodies. He continues to progress and shape his style, incorporating new knowledge and past inspirations into his musical compositions.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260959_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260959_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260959_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260959_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "parkbreezy",
+        "instagram_user": "parkbreezy",
+        "twitter_user": "parkbreezy_",
+        "soundcloud_user": "parkbreezy",
+        "spotify_artist_id": "3iaq6BFgf3TeH9gQfIoyUH"
+      },
+      "performances": [
+        {
+          "id": 183047,
+          "external_id": "856012",
+          "published": true,
+          "name": "TF Marz B2B Parkbreezy",
+          "priority": 100,
+          "artist_id": 1995580,
+          "stage_id": 7947,
+          "date_id": 2879,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-11T18:17:10+00:00",
+          "start_time": "2024-07-28T03:00:00+00:00",
+          "end_time": "2024-07-28T04:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [
+        {
+          "track_id": "1dNZTwOGGOedEJ8lNSicCD",
+          "streaming_service": "spotify",
+          "title": "Cluttered Time Machine",
+          "artist_name": "parkbreezy, pheel.",
+          "duration": 163770,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02aeb9f18754c68f36ebca20df",
+          "preview_url": "https://p.scdn.co/mp3-preview/503469ba3f7195a92108daf94f8db7b2564c74c7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:51+00:00"
+        },
+        {
+          "track_id": "6EAN3AHTW99eM8T25RdQyq",
+          "streaming_service": "spotify",
+          "title": "Smiley Face",
+          "artist_name": "parkbreezy",
+          "duration": 148805,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e026115e33dbab59ea57f08d5f3",
+          "preview_url": "https://p.scdn.co/mp3-preview/3e847afc2eda2416e159940a22ab2fef9e680488?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:51+00:00"
+        },
+        {
+          "track_id": "4oQs24qyOOFEOLaSn2E01C",
+          "streaming_service": "spotify",
+          "title": "Milkshakes",
+          "artist_name": "parkbreezy, pheel.",
+          "duration": 192000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02aeb9f18754c68f36ebca20df",
+          "preview_url": "https://p.scdn.co/mp3-preview/8f7b4d2806ab2083a0b6ac906fe0ff99e93f5e35?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:51+00:00"
+        },
+        {
+          "track_id": "7HEVA9nzePVsBIbdr2UG2r",
+          "streaming_service": "spotify",
+          "title": "Keep It Cool",
+          "artist_name": "parkbreezy",
+          "duration": 181714,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a96c4b86360383c7a0e05bf8",
+          "preview_url": "https://p.scdn.co/mp3-preview/0d0a94c2ec1417c20b628d7d07458f4097accb03?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:51+00:00"
+        },
+        {
+          "track_id": "0cCrsXUyzZFjmTJbhtfwY6",
+          "streaming_service": "spotify",
+          "title": "BITR",
+          "artist_name": "Alex Unger, parkbreezy",
+          "duration": 166956,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0239a00f23954e89a8278a66e7",
+          "preview_url": "https://p.scdn.co/mp3-preview/9eb8ce07d23dfccb102f6dec203dc0db6da085f4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:51+00:00"
+        },
+        {
+          "track_id": "0Ca6PBdIsulFP7r1dRkA7e",
+          "streaming_service": "spotify",
+          "title": "Mind",
+          "artist_name": "parkbreezy",
+          "duration": 172235,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e020dc14313245891bbb5ea617f",
+          "preview_url": "https://p.scdn.co/mp3-preview/60aeb4619130e60de2d6d1baec2cd8506db1e837?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:51+00:00"
+        },
+        {
+          "track_id": "2pAeCfDadT2hp2BVN1dydY",
+          "streaming_service": "spotify",
+          "title": "Jazzercise 95",
+          "artist_name": "parkbreezy",
+          "duration": 136421,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0251ac155d3100f43916e97d6b",
+          "preview_url": "https://p.scdn.co/mp3-preview/223918de23fd24a0c0505044bb8c89cf8afee9a7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:51+00:00"
+        },
+        {
+          "track_id": "1ZJA6r6rkeHFBNLhJvtyrS",
+          "streaming_service": "spotify",
+          "title": "Friday",
+          "artist_name": "parkbreezy",
+          "duration": 118595,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0236bc0fc819c3ff4882064016",
+          "preview_url": "https://p.scdn.co/mp3-preview/f5b016c43e1bfd42006fe4f0fb1fba01bd082e08?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:51+00:00"
+        },
+        {
+          "track_id": "4FEGZ7qZSLfGyd4orz15gW",
+          "streaming_service": "spotify",
+          "title": "Liminal Reality",
+          "artist_name": "parkbreezy",
+          "duration": 204878,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e020dc14313245891bbb5ea617f",
+          "preview_url": "https://p.scdn.co/mp3-preview/62910b19f7f6d5871342d2ee6ed745308be19d44?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:51+00:00"
+        },
+        {
+          "track_id": "6u3RU76kW39nXRRg7RzJYY",
+          "streaming_service": "spotify",
+          "title": "Cravings",
+          "artist_name": "Thought Process, parkbreezy",
+          "duration": 192352,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ed6fc52e64053b024f74551e",
+          "preview_url": "https://p.scdn.co/mp3-preview/83855a7a53d662ce19e2c3eccad1182ca4d00e9f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:51+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-11T18:17:10+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995597,
+      "external_id": "1916900",
+      "published": true,
+      "name": "EVeryman & JoaqoPelli",
+      "body": "Evan Shafran, A.K.A. EVeryman, is a multi-talented artist who has made a name for himself in the worlds of comedy, acting, and music. His unique blend of talents has made him a versatile performer, allowing him to entertain audiences around the world in a variety of mediums. \nEVeryman delivers a fluid flow, with conscious optimistic lyricism. His high energy beats convey influences from old school hip hop and reggae which brings the crowd to life up on their feet. As a DJ, Everyman drops anything from breaks, glitch hop, sexy house, to drum and bass. Everyman is one half of 'Little Giants', a hip hop group formed with the late great, LA DJ/ Producer Pumpkin aka Nick Alvarado.\n\nAs a comedian, Shafran has been praised for his ability to bring humor to complex social issues. His stand-up sets are characterized by their insightful and thought-provoking commentary, often touching on topics such as politics, race, and inequality. In addition to his work as a comedian, Shafran has also appeared in a number of films and television shows. \n\nThrough his work in comedy, acting, and music, Shafran has established himself as a unique and versatile performer. He has used his platform to speak out about important social and environmental issues, and his dedication to promoting diversity and representation in media has made him a respected figure in the entertainment industry.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263441_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263441_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263441_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263441_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "joaqopelli",
+        "soundcloud_user": "everyman_music",
+        "spotify_artist_id": "6krNDVOGgGBzGJdhevtPiP"
+      },
+      "performances": [
+        {
+          "id": 183064,
+          "external_id": "856299",
+          "published": true,
+          "name": "Everyman & JoaqoPelli",
+          "priority": 100,
+          "artist_id": 1995597,
+          "stage_id": 7944,
+          "date_id": 2879,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-11T18:17:10+00:00",
+          "start_time": "2024-07-28T08:30:00+00:00",
+          "end_time": "2024-07-28T09:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        },
+        {
+          "id": 183097,
+          "external_id": "856300",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995597,
+          "stage_id": 7951,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-11T18:17:10+00:00",
+          "start_time": "2024-07-28T21:00:00+00:00",
+          "end_time": "2024-07-28T21:15:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [
+        {
+          "track_id": "7kLoHBrMVQrBiz9QlUXQX4",
+          "streaming_service": "spotify",
+          "title": "Summertime Jam",
+          "artist_name": "George Stephenson, Lee James, Sonny Chunk, Everyman",
+          "duration": 135644,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c5d6b951005689bfc714c3af",
+          "preview_url": "https://p.scdn.co/mp3-preview/9d9f84c677f08e08f1deceffa3e951d5afc99388?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:55+00:00"
+        },
+        {
+          "track_id": "3EQ6ZUALvdD8HXuRLGUBLZ",
+          "streaming_service": "spotify",
+          "title": "Average Joes Resized - Spiltmilk Remix",
+          "artist_name": "Little Giants, Pumpkin, Everyman, Spiltmilk",
+          "duration": 282666,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c6a28ac8675bdecfeb5de202",
+          "preview_url": "https://p.scdn.co/mp3-preview/13d689b3e4373f2cc47e0f43b9e0802b35360126?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:55+00:00"
+        },
+        {
+          "track_id": "4Es04HbdbcF1YswxUaYz3m",
+          "streaming_service": "spotify",
+          "title": "Pickelodeon",
+          "artist_name": "Little Giants, Everyman",
+          "duration": 174029,
+          "image_url": "https://i.scdn.co/image/f17b80aabb77f3d61beec79dd135237c99826676",
+          "preview_url": "https://p.scdn.co/mp3-preview/c6f60d16bfc37b70746a67c95fe18fcb3d8e6ba9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:55+00:00"
+        },
+        {
+          "track_id": "5SqQ7oBWOwaOJyCYf4vjlV",
+          "streaming_service": "spotify",
+          "title": "Average Joes - JPOD Remix",
+          "artist_name": "Little Giants, Everyman, JPOD",
+          "duration": 231192,
+          "image_url": "https://i.scdn.co/image/aabdd5ad5b412152c0e1229f6cf79fbb11e8b27b",
+          "preview_url": "https://p.scdn.co/mp3-preview/b0935e893625123b1daf67491dc768a3b20c300d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:55+00:00"
+        },
+        {
+          "track_id": "5xysR6pDoAhbFfr8ceGiaM",
+          "streaming_service": "spotify",
+          "title": "Prologue: Good Deeds Part I.",
+          "artist_name": "Everyman, Kat Factor",
+          "duration": 460434,
+          "image_url": "https://i.scdn.co/image/af74b9e437822e5a2b55f48acb28c039b4413edd",
+          "preview_url": "https://p.scdn.co/mp3-preview/3360ea01ecb4277cadee455627aab99885405727?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:55+00:00"
+        },
+        {
+          "track_id": "34zjCRgYTY7AyoPsNUBzF0",
+          "streaming_service": "spotify",
+          "title": "Portrait Of Self - Beat Burglar Remix",
+          "artist_name": "Little Giants, Pumpkin, Everyman, Beat Burglar",
+          "duration": 295729,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0211e370465d9f05c9ab0f37f0",
+          "preview_url": "https://p.scdn.co/mp3-preview/73570efd2b931aec1709a36842f50b5068829ab3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:55+00:00"
+        },
+        {
+          "track_id": "0smydWBpcMAyRnuhkxGpBF",
+          "streaming_service": "spotify",
+          "title": "Consumption Junkies",
+          "artist_name": "UrgeTo, Everyman",
+          "duration": 200470,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0291007de45356a3a41bc9a397",
+          "preview_url": "https://p.scdn.co/mp3-preview/22cd7133220ab06c896f1d267a43f8e986456d56?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:55+00:00"
+        },
+        {
+          "track_id": "6S6CIDfrckd4RnsSfPYAXU",
+          "streaming_service": "spotify",
+          "title": "Mind The Gap - Friskie Business Remix",
+          "artist_name": "Little Giants, Pumpkin, Everyman, Friskie Business",
+          "duration": 178750,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c880837831952334b094ec85",
+          "preview_url": "https://p.scdn.co/mp3-preview/b8cef2fb8f0f014790d332b67239c561249b6344?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:55+00:00"
+        },
+        {
+          "track_id": "0nwx3o2KBSkXgkhjaWJS1B",
+          "streaming_service": "spotify",
+          "title": "Rapparat",
+          "artist_name": "Little Giants, Pumpkin, Everyman",
+          "duration": 241956,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a20f0f17984c00bb9ef0afb3",
+          "preview_url": "https://p.scdn.co/mp3-preview/d2fd4049b512b2cff507005fd65b49c633e51079?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:55+00:00"
+        },
+        {
+          "track_id": "36bfdDeAdqiEc7YiGtg8LZ",
+          "streaming_service": "spotify",
+          "title": "Bounced Back",
+          "artist_name": "UrgeTo, Everyman",
+          "duration": 121600,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0291007de45356a3a41bc9a397",
+          "preview_url": "https://p.scdn.co/mp3-preview/5e30fdc3dd1a2cfe429601cbec688c242fc395d9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:55+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-11T18:17:10+00:00",
       "show_section_titles": true
     },
     {
@@ -84,7 +403,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-11T12:32:55+00:00",
+          "modified_at": "2024-06-11T18:17:10+00:00",
           "start_time": "2024-07-28T02:30:00+00:00",
           "end_time": "2024-07-28T04:00:00+00:00",
           "show_image_in_schedule": true,
@@ -197,7 +516,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-11T12:32:55+00:00",
+      "modified_at": "2024-06-11T18:17:10+00:00",
       "show_section_titles": true
     },
     {
@@ -229,7 +548,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-11T12:32:55+00:00",
+          "modified_at": "2024-06-11T18:17:10+00:00",
           "start_time": "2024-07-28T01:00:00+00:00",
           "end_time": "2024-07-28T03:30:00+00:00",
           "show_image_in_schedule": true,
@@ -241,7 +560,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-11T12:32:55+00:00",
+      "modified_at": "2024-06-11T18:17:10+00:00",
       "show_section_titles": true
     },
     {
@@ -279,7 +598,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-11T12:32:55+00:00",
+          "modified_at": "2024-06-11T18:17:10+00:00",
           "start_time": "2024-07-28T10:30:00+00:00",
           "end_time": "2024-07-28T13:00:00+00:00",
           "show_image_in_schedule": true,
@@ -392,7 +711,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-11T12:32:55+00:00",
+      "modified_at": "2024-06-11T18:17:10+00:00",
       "show_section_titles": true
     },
     {
@@ -426,7 +745,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-11T12:32:55+00:00",
+          "modified_at": "2024-06-11T18:17:10+00:00",
           "start_time": "2024-07-28T21:15:00+00:00",
           "end_time": "2024-07-28T22:00:00+00:00",
           "show_image_in_schedule": true,
@@ -438,7 +757,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-11T12:32:55+00:00",
+      "modified_at": "2024-06-11T18:17:10+00:00",
       "show_section_titles": true
     },
     {
@@ -470,7 +789,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-11T12:32:55+00:00",
+          "modified_at": "2024-06-11T18:17:10+00:00",
           "start_time": "2024-07-29T14:00:00+00:00",
           "end_time": "2024-07-29T15:00:00+00:00",
           "show_image_in_schedule": true,
@@ -482,7 +801,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-11T12:32:55+00:00",
+      "modified_at": "2024-06-11T18:17:10+00:00",
       "show_section_titles": true
     },
     {
@@ -514,7 +833,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-11T12:32:55+00:00",
+          "modified_at": "2024-06-11T18:17:10+00:00",
           "start_time": "2024-07-28T21:00:00+00:00",
           "end_time": "2024-07-29T02:00:00+00:00",
           "show_image_in_schedule": true,
@@ -526,7 +845,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-11T12:32:55+00:00",
+      "modified_at": "2024-06-11T18:17:10+00:00",
       "show_section_titles": true
     },
     {
@@ -562,7 +881,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-11T12:32:55+00:00",
+          "modified_at": "2024-06-11T18:17:10+00:00",
           "start_time": "2024-07-27T09:45:00+00:00",
           "end_time": "2024-07-27T11:45:00+00:00",
           "show_image_in_schedule": true,
@@ -574,7 +893,67 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-11T12:32:55+00:00",
+      "modified_at": "2024-06-11T18:17:10+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1997253,
+      "external_id": "1909295",
+      "published": true,
+      "name": "TF Marz",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/73/thumb_5272890_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/73/thumb_5272890_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/73/thumb_5272890_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/73/thumb_5272890_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "TFMarz",
+        "instagram_user": "tfmarz/",
+        "twitter_user": "tfmarz_",
+        "soundcloud_user": "tfmarz"
+      },
+      "performances": [],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-11T15:17:12+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1997254,
+      "external_id": "1916916",
+      "published": true,
+      "name": "Parkbreezy",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/73/thumb_5272891_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/73/thumb_5272891_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/73/thumb_5272891_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/73/thumb_5272891_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "parkbreezy",
+        "instagram_user": "parkbreezy",
+        "twitter_user": "parkbreezy_",
+        "spotify_artist_id": "3iaq6BFgf3TeH9gQfIoyUH"
+      },
+      "performances": [],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-11T15:17:12+00:00",
       "show_section_titles": true
     },
     {
@@ -1996,7 +2375,7 @@
           "artist_name": "LION BABE",
           "duration": 250706,
           "image_url": "https://i.scdn.co/image/ab67616d00001e026454cc79bc32f309749b019b",
-          "modified_at": "2024-06-11T08:20:18+00:00"
+          "modified_at": "2024-06-11T13:28:19+00:00"
         },
         {
           "track_id": "5LWKsMeXaYBoKzCHk8syQy",
@@ -5297,158 +5676,6 @@
       "show_section_titles": true
     },
     {
-      "id": 1995580,
-      "external_id": "1916739",
-      "published": true,
-      "name": "TF Marz B2B parkbreezy",
-      "body": "TF Marz, a luminary and founding member of the Denver-based all:Lo Collective, stands at the intersection of Hip Hop and R&B sensibilities, weaving those sensibilities seamlessly with the lush and deep sounds of bass music. Imbued with the influence of Northwest’s rich bass music\nculture, TF’s cutting-edge selections and moody productions are like a breath of fresh air\nfor every dance floor he rocks.\n\nParker Williams, also known as parkbreezy, is a talented instrumentalist, producer, and artist who creates soulful and emotive beats. His music is a fusion of various genres, including Hip Hop, R&B, Soul, Jazz, and Electronic Music. Parker's style incorporates resampling, syncopated percussion, propulsive bass lines, and affectional melodies. He continues to progress and shape his style, incorporating new knowledge and past inspirations into his musical compositions.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260959_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260959_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260959_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260959_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "parkbreezy",
-        "instagram_user": "parkbreezy",
-        "twitter_user": "parkbreezy_",
-        "soundcloud_user": "parkbreezy",
-        "spotify_artist_id": "3iaq6BFgf3TeH9gQfIoyUH"
-      },
-      "performances": [
-        {
-          "id": 183047,
-          "external_id": "856012",
-          "published": true,
-          "name": "TF Marz B2B Parkbreezy",
-          "priority": 100,
-          "artist_id": 1995580,
-          "stage_id": 7947,
-          "date_id": 2879,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-11T08:19:52+00:00",
-          "start_time": "2024-07-28T03:00:00+00:00",
-          "end_time": "2024-07-28T04:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [
-        {
-          "track_id": "1dNZTwOGGOedEJ8lNSicCD",
-          "streaming_service": "spotify",
-          "title": "Cluttered Time Machine",
-          "artist_name": "parkbreezy, pheel.",
-          "duration": 163770,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02aeb9f18754c68f36ebca20df",
-          "preview_url": "https://p.scdn.co/mp3-preview/503469ba3f7195a92108daf94f8db7b2564c74c7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:51+00:00"
-        },
-        {
-          "track_id": "6EAN3AHTW99eM8T25RdQyq",
-          "streaming_service": "spotify",
-          "title": "Smiley Face",
-          "artist_name": "parkbreezy",
-          "duration": 148805,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e026115e33dbab59ea57f08d5f3",
-          "preview_url": "https://p.scdn.co/mp3-preview/3e847afc2eda2416e159940a22ab2fef9e680488?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:51+00:00"
-        },
-        {
-          "track_id": "4oQs24qyOOFEOLaSn2E01C",
-          "streaming_service": "spotify",
-          "title": "Milkshakes",
-          "artist_name": "parkbreezy, pheel.",
-          "duration": 192000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02aeb9f18754c68f36ebca20df",
-          "preview_url": "https://p.scdn.co/mp3-preview/8f7b4d2806ab2083a0b6ac906fe0ff99e93f5e35?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:51+00:00"
-        },
-        {
-          "track_id": "7HEVA9nzePVsBIbdr2UG2r",
-          "streaming_service": "spotify",
-          "title": "Keep It Cool",
-          "artist_name": "parkbreezy",
-          "duration": 181714,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a96c4b86360383c7a0e05bf8",
-          "preview_url": "https://p.scdn.co/mp3-preview/0d0a94c2ec1417c20b628d7d07458f4097accb03?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:51+00:00"
-        },
-        {
-          "track_id": "0cCrsXUyzZFjmTJbhtfwY6",
-          "streaming_service": "spotify",
-          "title": "BITR",
-          "artist_name": "Alex Unger, parkbreezy",
-          "duration": 166956,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0239a00f23954e89a8278a66e7",
-          "preview_url": "https://p.scdn.co/mp3-preview/9eb8ce07d23dfccb102f6dec203dc0db6da085f4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:51+00:00"
-        },
-        {
-          "track_id": "0Ca6PBdIsulFP7r1dRkA7e",
-          "streaming_service": "spotify",
-          "title": "Mind",
-          "artist_name": "parkbreezy",
-          "duration": 172235,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e020dc14313245891bbb5ea617f",
-          "preview_url": "https://p.scdn.co/mp3-preview/60aeb4619130e60de2d6d1baec2cd8506db1e837?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:51+00:00"
-        },
-        {
-          "track_id": "2pAeCfDadT2hp2BVN1dydY",
-          "streaming_service": "spotify",
-          "title": "Jazzercise 95",
-          "artist_name": "parkbreezy",
-          "duration": 136421,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0251ac155d3100f43916e97d6b",
-          "preview_url": "https://p.scdn.co/mp3-preview/223918de23fd24a0c0505044bb8c89cf8afee9a7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:51+00:00"
-        },
-        {
-          "track_id": "1ZJA6r6rkeHFBNLhJvtyrS",
-          "streaming_service": "spotify",
-          "title": "Friday",
-          "artist_name": "parkbreezy",
-          "duration": 118595,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0236bc0fc819c3ff4882064016",
-          "preview_url": "https://p.scdn.co/mp3-preview/f5b016c43e1bfd42006fe4f0fb1fba01bd082e08?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:51+00:00"
-        },
-        {
-          "track_id": "4FEGZ7qZSLfGyd4orz15gW",
-          "streaming_service": "spotify",
-          "title": "Liminal Reality",
-          "artist_name": "parkbreezy",
-          "duration": 204878,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e020dc14313245891bbb5ea617f",
-          "preview_url": "https://p.scdn.co/mp3-preview/62910b19f7f6d5871342d2ee6ed745308be19d44?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:51+00:00"
-        },
-        {
-          "track_id": "6u3RU76kW39nXRRg7RzJYY",
-          "streaming_service": "spotify",
-          "title": "Cravings",
-          "artist_name": "Thought Process, parkbreezy",
-          "duration": 192352,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ed6fc52e64053b024f74551e",
-          "preview_url": "https://p.scdn.co/mp3-preview/83855a7a53d662ce19e2c3eccad1182ca4d00e9f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:51+00:00"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-11T11:53:02+00:00",
-      "show_section_titles": true
-    },
-    {
       "id": 1995661,
       "external_id": "166955",
       "published": true,
@@ -5544,7 +5771,7 @@
           "duration": 190386,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0200d4ceb4ecd3fe3f522f887c",
           "preview_url": "https://p.scdn.co/mp3-preview/b2658234fee36fa3dafbaeee6cd7da2606b2785a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:32+00:00"
+          "modified_at": "2024-06-11T13:43:17+00:00"
         },
         {
           "track_id": "08zyNOVHfjQQOedMlMmjOP",
@@ -5554,7 +5781,7 @@
           "duration": 220340,
           "image_url": "https://i.scdn.co/image/ab67616d00001e029dc0c8d57c5de5cbc9af7365",
           "preview_url": "https://p.scdn.co/mp3-preview/1f125c59dfbb7d9a6beb132ad70adee9d576e55c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:32+00:00"
+          "modified_at": "2024-06-11T13:43:17+00:00"
         },
         {
           "track_id": "1h26Q8xX0TpDBM8v4YqAfd",
@@ -5723,7 +5950,7 @@
           "duration": 240641,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0286b8b53201f9b79b6efbec37",
           "preview_url": "https://p.scdn.co/mp3-preview/0bbde1b735d18765e82a0b74e81f9350af37c6f3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:32+00:00"
+          "modified_at": "2024-06-11T13:42:43+00:00"
         },
         {
           "track_id": "2DRseaSh4DaV064X5qj7MR",
@@ -5862,7 +6089,7 @@
           "duration": 306453,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02dfdbee03d17b4dc53f1a1a69",
           "preview_url": "https://p.scdn.co/mp3-preview/b2899013c5c91e632a8e4cca61557e932114f7de?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:52+00:00"
+          "modified_at": "2024-06-11T13:42:43+00:00"
         },
         {
           "track_id": "3LWEhJL5SNZG0Qur9VRd9V",
@@ -6507,7 +6734,7 @@
           "duration": 179091,
           "image_url": "https://i.scdn.co/image/ab67616d00001e021ae637ce50f99e049ffb304f",
           "preview_url": "https://p.scdn.co/mp3-preview/7996839181c66e222c60a70f3f17439c64af6443?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:37+00:00"
+          "modified_at": "2024-06-11T13:42:43+00:00"
         },
         {
           "track_id": "0ZflVxcHweYxD4Dm5xt6KS",
@@ -7545,7 +7772,7 @@
           "duration": 169047,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02073bc15f4b5df074f098fef5",
           "preview_url": "https://p.scdn.co/mp3-preview/3516b2d8b088bd8666c2442df0443025ee061d77?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:07+00:00"
+          "modified_at": "2024-06-11T13:42:43+00:00"
         },
         {
           "track_id": "7pV752OB7nN6l9QjDqpVCH",
@@ -7854,7 +8081,7 @@
           "duration": 255360,
           "image_url": "https://i.scdn.co/image/ab67616d00001e029b93ca3db4287c4b8595afeb",
           "preview_url": "https://p.scdn.co/mp3-preview/31ee20c6441ac63dd5b47f55ac8386b10bacc604?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:17+00:00"
+          "modified_at": "2024-06-11T13:50:11+00:00"
         },
         {
           "track_id": "25vG6krgfp2FQGNXzP4ZFV",
@@ -8650,7 +8877,7 @@
           "duration": 197647,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02b0d4648b8a49754e29ac7a77",
           "preview_url": "https://p.scdn.co/mp3-preview/c5754f981aa833c23b677ca0b13b8aa5ed3a8625?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:39+00:00"
+          "modified_at": "2024-06-11T13:52:41+00:00"
         },
         {
           "track_id": "6qKEuKSyMEhzrMHn53Qqmg",
@@ -8669,7 +8896,7 @@
           "artist_name": "Nia Archives",
           "duration": 152558,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02ed8761730439da61f8a67ae3",
-          "modified_at": "2024-06-11T08:19:39+00:00"
+          "modified_at": "2024-06-11T13:33:07+00:00"
         },
         {
           "track_id": "29LpCEcWnk9lFfzR2o3YVW",
@@ -8687,7 +8914,7 @@
           "artist_name": "Nia Archives",
           "duration": 166356,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0216132328227419b223f68121",
-          "modified_at": "2024-06-11T08:19:39+00:00"
+          "modified_at": "2024-06-11T13:33:37+00:00"
         },
         {
           "track_id": "0YbYNOaIOr9Hs4YEPBOSP5",
@@ -8715,7 +8942,7 @@
           "artist_name": "Nia Archives",
           "duration": 196133,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0216132328227419b223f68121",
-          "modified_at": "2024-06-11T08:19:39+00:00"
+          "modified_at": "2024-06-11T13:33:07+00:00"
         },
         {
           "track_id": "0JH3rxj9e7cY8T1QFgr5mQ",
@@ -9997,7 +10224,7 @@
           "artist_name": "James Blake",
           "duration": 223600,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02d134dbb0fad78dda23d777ff",
-          "modified_at": "2024-06-11T08:20:17+00:00"
+          "modified_at": "2024-06-11T13:33:27+00:00"
         },
         {
           "track_id": "51rXHuKN8Loc4sUlKPODgH",
@@ -10006,7 +10233,7 @@
           "artist_name": "Jay Rock, Kendrick Lamar, Future, James Blake",
           "duration": 229670,
           "image_url": "https://i.scdn.co/image/ab67616d00001e029edc391d911405ea9f5c320e",
-          "modified_at": "2024-06-11T08:20:17+00:00"
+          "modified_at": "2024-06-11T13:19:44+00:00"
         },
         {
           "track_id": "4cQrSREMqBSvJ8ZzBZjVb8",
@@ -10015,7 +10242,7 @@
           "artist_name": "James Blake, Travis Scott, Metro Boomin",
           "duration": 193600,
           "image_url": "https://i.scdn.co/image/ab67616d00001e029af56a54edacb6237b49fa2e",
-          "modified_at": "2024-06-11T08:20:17+00:00"
+          "modified_at": "2024-06-11T13:19:44+00:00"
         },
         {
           "track_id": "3hX0ilh84w2KGaiNw2rRCV",
@@ -10033,7 +10260,7 @@
           "artist_name": "James Blake, SZA",
           "duration": 195905,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0238d030048ec770b15633dbc1",
-          "modified_at": "2024-06-11T08:20:17+00:00"
+          "modified_at": "2024-06-11T13:45:45+00:00"
         },
         {
           "track_id": "2k6OpEcFV2VvXdVmPRNCiw",
@@ -10071,7 +10298,7 @@
           "duration": 314836,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02881d8d8378cd01099babcd44",
           "preview_url": "https://p.scdn.co/mp3-preview/fb6ed2aac94b5f412d6e407317df02d2ede71534?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:17+00:00"
+          "modified_at": "2024-06-11T13:19:46+00:00"
         },
         {
           "track_id": "6hEiEWEgAuFvEJduuSQLiw",
@@ -10081,7 +10308,7 @@
           "duration": 260407,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02f46f1920e6e03351ef53ddbd",
           "preview_url": "https://p.scdn.co/mp3-preview/58eb60c6145127fbc3d42e34bd7e52491f5205dd?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:17+00:00"
+          "modified_at": "2024-06-11T13:31:44+00:00"
         }
       ],
       "show_in_search": true,
@@ -10292,7 +10519,7 @@
           "duration": 239853,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02a5c1582e2b2b087ee7862758",
           "preview_url": "https://p.scdn.co/mp3-preview/df4cd25e3fe93b489e81b0ace76cc112fedb0192?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:06+00:00"
+          "modified_at": "2024-06-11T13:46:31+00:00"
         },
         {
           "track_id": "7uSZPbd8DxdkmSauCKnITY",
@@ -10302,7 +10529,7 @@
           "duration": 266482,
           "image_url": "https://i.scdn.co/image/ab67616d00001e028d5c2b2e93cf42bf6d9337db",
           "preview_url": "https://p.scdn.co/mp3-preview/1de777954296fe464bfbe3c05c961ffc9e659f79?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:06+00:00"
+          "modified_at": "2024-06-11T13:13:54+00:00"
         },
         {
           "track_id": "1k3J7o5b0tDUzbllLycVUJ",
@@ -10443,7 +10670,7 @@
           "duration": 274693,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0255fa09a768d1ef5ea5d279f9",
           "preview_url": "https://p.scdn.co/mp3-preview/285a7ede10711f47bda4a6b18e322ee6604e5fee?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:10+00:00"
+          "modified_at": "2024-06-11T13:08:06+00:00"
         },
         {
           "track_id": "5DAjrJqXqYtgr67pVhmUeR",
@@ -10453,7 +10680,7 @@
           "duration": 237546,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0255fa09a768d1ef5ea5d279f9",
           "preview_url": "https://p.scdn.co/mp3-preview/daf3cfc5f503a37c84daa3ea63dec82bb42460e3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:10+00:00"
+          "modified_at": "2024-06-11T13:07:27+00:00"
         },
         {
           "track_id": "2lJ4d8MCT6ZlDRHKJ1br14",
@@ -10463,7 +10690,7 @@
           "duration": 352246,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02b033087945225272e885808c",
           "preview_url": "https://p.scdn.co/mp3-preview/a720a36357f4d52380c2a5d756c9265a56cfd132?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:10+00:00"
+          "modified_at": "2024-06-11T13:43:17+00:00"
         },
         {
           "track_id": "7Cg3F9ZsZ2TYUnlza49NYh",
@@ -10493,7 +10720,7 @@
           "duration": 242773,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02226e702d1878d4a44b273980",
           "preview_url": "https://p.scdn.co/mp3-preview/ddfdc2b6fc9b4a8eb160adbff337b4b2dde19bcc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:10+00:00"
+          "modified_at": "2024-06-11T13:07:22+00:00"
         },
         {
           "track_id": "7aLYQgzGLy8duSSdTJa1ik",
@@ -10595,7 +10822,7 @@
           "duration": 184615,
           "image_url": "https://i.scdn.co/image/ab67616d00001e024a46e1c15703dbea0a7954f3",
           "preview_url": "https://p.scdn.co/mp3-preview/33d6531afb0d09dff48d451252423a73bfe5b351?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:35+00:00"
+          "modified_at": "2024-06-11T13:28:38+00:00"
         },
         {
           "track_id": "4FKxRe40M52eYZ3yI86FCy",
@@ -10754,7 +10981,7 @@
           "duration": 363000,
           "image_url": "https://i.scdn.co/image/ab67616d00001e020c1fa569ac644717298f01e7",
           "preview_url": "https://p.scdn.co/mp3-preview/02e2e2cdf66f24e7f6abfa7eff72cc0e73a28a03?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:43+00:00"
+          "modified_at": "2024-06-11T13:42:43+00:00"
         },
         {
           "track_id": "4hLYzmObqNcO0YBUXCI41c",
@@ -10764,7 +10991,7 @@
           "duration": 406451,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02fee0ed9deb5df039e656e6ca",
           "preview_url": "https://p.scdn.co/mp3-preview/5c9b3a6428b3fbcfb7773ee92749aeb08788cb2a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:43+00:00"
+          "modified_at": "2024-06-11T13:42:43+00:00"
         },
         {
           "track_id": "788Nt0ULoPf0F497rQw6bU",
@@ -10774,7 +11001,7 @@
           "duration": 372019,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02d75dca8c3e9152de25436bd2",
           "preview_url": "https://p.scdn.co/mp3-preview/220fb322b16fd5cddcaf061275b4b253b5accb47?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:43+00:00"
+          "modified_at": "2024-06-11T13:42:43+00:00"
         },
         {
           "track_id": "37xNgM3oHq4l8ax6I8uveb",
@@ -11185,7 +11412,7 @@
           "artist_name": "Chee, Tsuruda",
           "duration": 204943,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02553ad8a1ada17d05afa1b51c",
-          "modified_at": "2024-06-11T08:26:08+00:00"
+          "modified_at": "2024-06-11T13:42:43+00:00"
         },
         {
           "track_id": "7wzSJugrLHQ5rZ5wuZE3Xl",
@@ -11503,7 +11730,7 @@
           "duration": 222720,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02287b62abe84bf4f59cb56533",
           "preview_url": "https://p.scdn.co/mp3-preview/96346876259d26565543dcf3fa1bafe357f50872?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:31+00:00"
+          "modified_at": "2024-06-11T13:13:50+00:00"
         },
         {
           "track_id": "2NjeiZqZSRyCdL8xbQehNL",
@@ -12638,7 +12865,7 @@
           "artist_name": "Sammy Virji, Flowdan",
           "duration": 163934,
           "image_url": "https://i.scdn.co/image/ab67616d00001e023edbd638d73631f434fe755a",
-          "modified_at": "2024-06-11T08:20:06+00:00"
+          "modified_at": "2024-06-11T13:33:28+00:00"
         },
         {
           "track_id": "1Bdy0uirk0pou8GjuhDciX",
@@ -12684,7 +12911,7 @@
           "artist_name": "Chris Lake, Sammy Virji, Nathan Nicholson",
           "duration": 251201,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02f3b42c0ca1c479b251e1b393",
-          "modified_at": "2024-06-11T08:19:35+00:00"
+          "modified_at": "2024-06-11T14:03:42+00:00"
         },
         {
           "track_id": "3gVks4tc3TzqQYdDCPj7f2",
@@ -12916,7 +13143,7 @@
           "duration": 363000,
           "image_url": "https://i.scdn.co/image/ab67616d00001e020c1fa569ac644717298f01e7",
           "preview_url": "https://p.scdn.co/mp3-preview/02e2e2cdf66f24e7f6abfa7eff72cc0e73a28a03?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:43+00:00"
+          "modified_at": "2024-06-11T13:42:43+00:00"
         },
         {
           "track_id": "4hLYzmObqNcO0YBUXCI41c",
@@ -12926,7 +13153,7 @@
           "duration": 406451,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02fee0ed9deb5df039e656e6ca",
           "preview_url": "https://p.scdn.co/mp3-preview/5c9b3a6428b3fbcfb7773ee92749aeb08788cb2a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:43+00:00"
+          "modified_at": "2024-06-11T13:42:43+00:00"
         },
         {
           "track_id": "788Nt0ULoPf0F497rQw6bU",
@@ -12936,7 +13163,7 @@
           "duration": 372019,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02d75dca8c3e9152de25436bd2",
           "preview_url": "https://p.scdn.co/mp3-preview/220fb322b16fd5cddcaf061275b4b253b5accb47?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:43+00:00"
+          "modified_at": "2024-06-11T13:42:43+00:00"
         },
         {
           "track_id": "37xNgM3oHq4l8ax6I8uveb",
@@ -13259,7 +13486,7 @@
           "duration": 202665,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0266c67ea4d5d50b84c060faf4",
           "preview_url": "https://p.scdn.co/mp3-preview/621a2867e93962c140484d949ebb5e30ae45d1cf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:26:31+00:00"
+          "modified_at": "2024-06-11T13:56:24+00:00"
         },
         {
           "track_id": "2YhEJoYccyE5wpdAkZWbPk",
@@ -13668,7 +13895,7 @@
           "artist_name": "Sub Focus, Dimension",
           "duration": 215172,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02967e9fb8c9f5bb2e9ce2f1bc",
-          "modified_at": "2024-06-11T08:20:15+00:00"
+          "modified_at": "2024-06-11T13:16:38+00:00"
         },
         {
           "track_id": "6a6m9cezKuRGoiHH11bU4Z",
@@ -13707,7 +13934,7 @@
           "artist_name": "Sub Focus, Dimension",
           "duration": 205480,
           "image_url": "https://i.scdn.co/image/ab67616d00001e027254cbdd38715a0a822b577f",
-          "modified_at": "2024-06-11T08:20:15+00:00"
+          "modified_at": "2024-06-11T14:01:37+00:00"
         },
         {
           "track_id": "185mPScSGRuSVx3vRWhfhg",
@@ -13747,7 +13974,7 @@
           "duration": 205116,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0238fad8114e54b15520366e44",
           "preview_url": "https://p.scdn.co/mp3-preview/0ea5256d5406f5469a82694ac38adce154f12562?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:25:58+00:00"
+          "modified_at": "2024-06-11T13:56:38+00:00"
         },
         {
           "track_id": "5f69wzvle0b9ColR7wuvEK",
@@ -13901,7 +14128,7 @@
           "artist_name": "Chase & Status, Bou, Flowdan, IRAH, Trigga, Takura",
           "duration": 177291,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02adfadf345224340773549507",
-          "modified_at": "2024-06-11T08:20:06+00:00"
+          "modified_at": "2024-06-11T14:01:37+00:00"
         },
         {
           "track_id": "2aoWvGMW6W40WelevwsOUx",
@@ -13910,7 +14137,7 @@
           "artist_name": "Sammy Virji, Flowdan",
           "duration": 163934,
           "image_url": "https://i.scdn.co/image/ab67616d00001e023edbd638d73631f434fe755a",
-          "modified_at": "2024-06-11T08:20:06+00:00"
+          "modified_at": "2024-06-11T13:33:28+00:00"
         },
         {
           "track_id": "0OCFIEsSrmKueOiPK6S3xq",
@@ -13920,7 +14147,7 @@
           "duration": 148965,
           "image_url": "https://i.scdn.co/image/ab67616d00001e023dd3e0a8ed152be2fdfce926",
           "preview_url": "https://p.scdn.co/mp3-preview/a87199869b16741cf0bd394ace77c65d1248a89b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:06+00:00"
+          "modified_at": "2024-06-11T13:33:28+00:00"
         },
         {
           "track_id": "5lQnTSIZcjhzOsuJhIMQlA",
@@ -14202,7 +14429,7 @@
           "duration": 404080,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02bd4a1098dd7c86d8aa4580f5",
           "preview_url": "https://p.scdn.co/mp3-preview/4038491c4b37a57c24897277f0aa574386327def?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:41+00:00"
+          "modified_at": "2024-06-11T13:43:28+00:00"
         },
         {
           "track_id": "4lteJuSjb9Jt9W1W7PIU2U",
@@ -14332,7 +14559,7 @@
           "duration": 281375,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02cf26f4240d86081628b83dc4",
           "preview_url": "https://p.scdn.co/mp3-preview/d966caf658ebeb0849920efc015036aa61716d4a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:25:46+00:00"
+          "modified_at": "2024-06-11T13:42:43+00:00"
         },
         {
           "track_id": "0hP3476bWSUkS4Dz6vFAQT",
@@ -14483,7 +14710,7 @@
           "duration": 281375,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02cf26f4240d86081628b83dc4",
           "preview_url": "https://p.scdn.co/mp3-preview/d966caf658ebeb0849920efc015036aa61716d4a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:25:46+00:00"
+          "modified_at": "2024-06-11T13:42:43+00:00"
         },
         {
           "track_id": "0Vb2naU2kBlWsniIbfXRsG",
@@ -14635,7 +14862,7 @@
           "duration": 177658,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02a3d67ccc06d8929df12a2ed1",
           "preview_url": "https://p.scdn.co/mp3-preview/2fbf86fe405779212ae2c686deab10f797c10bd4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:07+00:00"
+          "modified_at": "2024-06-11T13:28:38+00:00"
         },
         {
           "track_id": "6m3ZWIXhjoV76syT1j2oE9",
@@ -14655,7 +14882,7 @@
           "duration": 219200,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0237422e424f7e93330acc5719",
           "preview_url": "https://p.scdn.co/mp3-preview/33873598c0ad50f7b3851219c0cf5f284bf813c2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:07+00:00"
+          "modified_at": "2024-06-11T13:13:54+00:00"
         },
         {
           "track_id": "17yOpPoiu2Ue962Do8LsdS",
@@ -14704,7 +14931,7 @@
           "duration": 157500,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02b42c1ad088d0c0e0d086b68d",
           "preview_url": "https://p.scdn.co/mp3-preview/99996459a82b55315366046249ba685c5e6fddf9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:07+00:00"
+          "modified_at": "2024-06-11T14:03:42+00:00"
         },
         {
           "track_id": "3oZoXyU0SkDldgS7AcN4y4",
@@ -14793,7 +15020,7 @@
           "artist_name": "Hannah Wants, Chris Lorenzo",
           "duration": 200005,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02823349c9546161f25941b7c9",
-          "modified_at": "2024-06-11T08:19:43+00:00"
+          "modified_at": "2024-06-11T13:42:43+00:00"
         },
         {
           "track_id": "64vBCC1lpjEnF10CkDiDhv",
@@ -14812,7 +15039,7 @@
           "artist_name": "Chris Lorenzo, High Jinx",
           "duration": 196899,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0227b52d52b3673bd8ce243184",
-          "modified_at": "2024-06-11T08:19:43+00:00"
+          "modified_at": "2024-06-11T13:58:14+00:00"
         },
         {
           "track_id": "19lT0l1OBkLtWI5iE5zORl",
@@ -15840,7 +16067,7 @@
           "duration": 167600,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02961172170d711644d793850d",
           "preview_url": "https://p.scdn.co/mp3-preview/86da6f3f9158743c9d1435c85f79d4efe712dd7d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:59+00:00"
+          "modified_at": "2024-06-11T14:02:09+00:00"
         }
       ],
       "show_in_search": true,
@@ -15901,7 +16128,7 @@
           "artist_name": "GRiZ, Subtronics",
           "duration": 198400,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0283046e046407ae9b6e629956",
-          "modified_at": "2024-06-11T08:25:59+00:00"
+          "modified_at": "2024-06-11T13:07:54+00:00"
         },
         {
           "track_id": "2il9NDpW87Hk2L9AjeDf8r",
@@ -15920,7 +16147,7 @@
           "artist_name": "Rezz, Subtronics",
           "duration": 212210,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02743479ac66260626a234fe8c",
-          "modified_at": "2024-06-11T08:25:59+00:00"
+          "modified_at": "2024-06-11T13:45:16+00:00"
         },
         {
           "track_id": "0yotOi6EFaBal5Gy7YVcuI",
@@ -15930,7 +16157,7 @@
           "duration": 168000,
           "image_url": "https://i.scdn.co/image/ab67616d00001e021d3c06f26fdacb59741828e5",
           "preview_url": "https://p.scdn.co/mp3-preview/fa89304710c1153432cfe25d351bd1d6819a142f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:25:59+00:00"
+          "modified_at": "2024-06-11T13:42:43+00:00"
         },
         {
           "track_id": "6JsidMhbuAQV5QPBEibouw",
@@ -15940,7 +16167,7 @@
           "duration": 260001,
           "image_url": "https://i.scdn.co/image/ab67616d00001e026c65c9a96c54a01be2396a93",
           "preview_url": "https://p.scdn.co/mp3-preview/d8872d602d7d455ec5e6ce8b94395914897bae4d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:25:59+00:00"
+          "modified_at": "2024-06-11T13:33:37+00:00"
         },
         {
           "track_id": "0i3NZpE5KwC70tf0GSKekx",
@@ -16051,7 +16278,7 @@
           "duration": 197487,
           "image_url": "https://i.scdn.co/image/ab67616d00001e020eb47b2eec859a783ceb72c8",
           "preview_url": "https://p.scdn.co/mp3-preview/f63f47b2ed5c3f81c303c630af40b2fad0d14a9c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:57+00:00"
+          "modified_at": "2024-06-11T13:40:48+00:00"
         },
         {
           "track_id": "3whmx5Ptrqzx2c101FJFi3",
@@ -16060,7 +16287,7 @@
           "artist_name": "Disclosure, London Grammar",
           "duration": 244174,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02d3462d1395189dc76a326031",
-          "modified_at": "2024-06-11T08:19:57+00:00"
+          "modified_at": "2024-06-11T13:08:51+00:00"
         },
         {
           "track_id": "0TrPqhAMoaKUFLR7iYDokf",
@@ -16070,7 +16297,7 @@
           "duration": 181436,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02b9cff3f017498dd08950775c",
           "preview_url": "https://p.scdn.co/mp3-preview/cadf00b884c08538b1e70d92d9eaab94d3e1a0e5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:57+00:00"
+          "modified_at": "2024-06-11T13:40:26+00:00"
         },
         {
           "track_id": "3W2ZcrRsInZbjWylOi6KhZ",
@@ -16079,7 +16306,7 @@
           "artist_name": "Disclosure, Eliza Doolittle, Flume",
           "duration": 282812,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02786201dca187d2b0c956c24b",
-          "modified_at": "2024-06-11T08:19:56+00:00"
+          "modified_at": "2024-06-11T14:06:36+00:00"
         },
         {
           "track_id": "0csz09qS2n8Jo7LogHKu7j",
@@ -16106,7 +16333,7 @@
           "artist_name": "Disclosure, Sam Smith",
           "duration": 255631,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02786201dca187d2b0c956c24b",
-          "modified_at": "2024-06-11T08:26:25+00:00"
+          "modified_at": "2024-06-11T13:46:30+00:00"
         },
         {
           "track_id": "5EWFuo4ObEnfndc57sTuIo",
@@ -16124,7 +16351,7 @@
           "artist_name": "Disclosure, Eliza Doolittle, Rivo",
           "duration": 208524,
           "image_url": "https://i.scdn.co/image/ab67616d00001e029b18753eb7552e25b7f134c4",
-          "modified_at": "2024-06-11T08:19:56+00:00"
+          "modified_at": "2024-06-11T14:03:42+00:00"
         },
         {
           "track_id": "29I9dv9Nq704w0Oc5yFGsR",
@@ -16134,7 +16361,7 @@
           "duration": 226773,
           "image_url": "https://i.scdn.co/image/ab67616d00001e020b6d4c43fe3e8485148e4872",
           "preview_url": "https://p.scdn.co/mp3-preview/3bfc7f59c9107ad87fd8521e40c3a461ad921574?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:57+00:00"
+          "modified_at": "2024-06-11T14:03:42+00:00"
         }
       ],
       "show_in_search": true,
@@ -16341,7 +16568,7 @@
           "duration": 250125,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02702b58d925e428bddf806f0e",
           "preview_url": "https://p.scdn.co/mp3-preview/6b4d034e1e29f5deb364cfb24286c82abb1b236f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:12+00:00"
+          "modified_at": "2024-06-11T13:45:16+00:00"
         },
         {
           "track_id": "5nQRjPmBn5foHzXI78qv5K",
@@ -16351,7 +16578,7 @@
           "duration": 253376,
           "image_url": "https://i.scdn.co/image/ab67616d00001e022219dba86625e6f3e75c5105",
           "preview_url": "https://p.scdn.co/mp3-preview/5650d650261586d6842d1061bcdf1fa05a4b094e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:12+00:00"
+          "modified_at": "2024-06-11T13:45:16+00:00"
         },
         {
           "track_id": "6Rqbg1ME7T7DinH88nd5Ig",
@@ -16867,173 +17094,6 @@
       "show_in_intake": true,
       "show_in_artists": true,
       "modified_at": "2024-06-11T10:56:46+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995597,
-      "external_id": "1916900",
-      "published": true,
-      "name": "EVeryman & JoaqoPelli",
-      "body": "Evan Shafran, A.K.A. EVeryman, is a multi-talented artist who has made a name for himself in the worlds of comedy, acting, and music. His unique blend of talents has made him a versatile performer, allowing him to entertain audiences around the world in a variety of mediums. \nEVeryman delivers a fluid flow, with conscious optimistic lyricism. His high energy beats convey influences from old school hip hop and reggae which brings the crowd to life up on their feet. As a DJ, Everyman drops anything from breaks, glitch hop, sexy house, to drum and bass. Everyman is one half of 'Little Giants', a hip hop group formed with the late great, LA DJ/ Producer Pumpkin aka Nick Alvarado.\n\nAs a comedian, Shafran has been praised for his ability to bring humor to complex social issues. His stand-up sets are characterized by their insightful and thought-provoking commentary, often touching on topics such as politics, race, and inequality. In addition to his work as a comedian, Shafran has also appeared in a number of films and television shows. \n\nThrough his work in comedy, acting, and music, Shafran has established himself as a unique and versatile performer. He has used his platform to speak out about important social and environmental issues, and his dedication to promoting diversity and representation in media has made him a respected figure in the entertainment industry.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263441_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263441_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263441_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263441_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "joaqopelli",
-        "soundcloud_user": "everyman_music",
-        "spotify_artist_id": "6krNDVOGgGBzGJdhevtPiP"
-      },
-      "performances": [
-        {
-          "id": 183064,
-          "external_id": "856299",
-          "published": true,
-          "name": "Everyman & JoaqoPelli",
-          "priority": 100,
-          "artist_id": 1995597,
-          "stage_id": 7944,
-          "date_id": 2879,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-11T08:19:55+00:00",
-          "start_time": "2024-07-28T08:30:00+00:00",
-          "end_time": "2024-07-28T09:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        },
-        {
-          "id": 183097,
-          "external_id": "856300",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995597,
-          "stage_id": 7951,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-11T08:19:55+00:00",
-          "start_time": "2024-07-28T21:00:00+00:00",
-          "end_time": "2024-07-28T21:15:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [
-        {
-          "track_id": "7kLoHBrMVQrBiz9QlUXQX4",
-          "streaming_service": "spotify",
-          "title": "Summertime Jam",
-          "artist_name": "George Stephenson, Lee James, Sonny Chunk, Everyman",
-          "duration": 135644,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c5d6b951005689bfc714c3af",
-          "preview_url": "https://p.scdn.co/mp3-preview/9d9f84c677f08e08f1deceffa3e951d5afc99388?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:55+00:00"
-        },
-        {
-          "track_id": "3EQ6ZUALvdD8HXuRLGUBLZ",
-          "streaming_service": "spotify",
-          "title": "Average Joes Resized - Spiltmilk Remix",
-          "artist_name": "Little Giants, Pumpkin, Everyman, Spiltmilk",
-          "duration": 282666,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c6a28ac8675bdecfeb5de202",
-          "preview_url": "https://p.scdn.co/mp3-preview/13d689b3e4373f2cc47e0f43b9e0802b35360126?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:55+00:00"
-        },
-        {
-          "track_id": "4Es04HbdbcF1YswxUaYz3m",
-          "streaming_service": "spotify",
-          "title": "Pickelodeon",
-          "artist_name": "Little Giants, Everyman",
-          "duration": 174029,
-          "image_url": "https://i.scdn.co/image/f17b80aabb77f3d61beec79dd135237c99826676",
-          "preview_url": "https://p.scdn.co/mp3-preview/c6f60d16bfc37b70746a67c95fe18fcb3d8e6ba9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:55+00:00"
-        },
-        {
-          "track_id": "5SqQ7oBWOwaOJyCYf4vjlV",
-          "streaming_service": "spotify",
-          "title": "Average Joes - JPOD Remix",
-          "artist_name": "Little Giants, Everyman, JPOD",
-          "duration": 231192,
-          "image_url": "https://i.scdn.co/image/aabdd5ad5b412152c0e1229f6cf79fbb11e8b27b",
-          "preview_url": "https://p.scdn.co/mp3-preview/b0935e893625123b1daf67491dc768a3b20c300d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:55+00:00"
-        },
-        {
-          "track_id": "5xysR6pDoAhbFfr8ceGiaM",
-          "streaming_service": "spotify",
-          "title": "Prologue: Good Deeds Part I.",
-          "artist_name": "Everyman, Kat Factor",
-          "duration": 460434,
-          "image_url": "https://i.scdn.co/image/af74b9e437822e5a2b55f48acb28c039b4413edd",
-          "preview_url": "https://p.scdn.co/mp3-preview/3360ea01ecb4277cadee455627aab99885405727?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:55+00:00"
-        },
-        {
-          "track_id": "34zjCRgYTY7AyoPsNUBzF0",
-          "streaming_service": "spotify",
-          "title": "Portrait Of Self - Beat Burglar Remix",
-          "artist_name": "Little Giants, Pumpkin, Everyman, Beat Burglar",
-          "duration": 295729,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0211e370465d9f05c9ab0f37f0",
-          "preview_url": "https://p.scdn.co/mp3-preview/73570efd2b931aec1709a36842f50b5068829ab3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:55+00:00"
-        },
-        {
-          "track_id": "0smydWBpcMAyRnuhkxGpBF",
-          "streaming_service": "spotify",
-          "title": "Consumption Junkies",
-          "artist_name": "UrgeTo, Everyman",
-          "duration": 200470,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0291007de45356a3a41bc9a397",
-          "preview_url": "https://p.scdn.co/mp3-preview/22cd7133220ab06c896f1d267a43f8e986456d56?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:55+00:00"
-        },
-        {
-          "track_id": "6S6CIDfrckd4RnsSfPYAXU",
-          "streaming_service": "spotify",
-          "title": "Mind The Gap - Friskie Business Remix",
-          "artist_name": "Little Giants, Pumpkin, Everyman, Friskie Business",
-          "duration": 178750,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c880837831952334b094ec85",
-          "preview_url": "https://p.scdn.co/mp3-preview/b8cef2fb8f0f014790d332b67239c561249b6344?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:55+00:00"
-        },
-        {
-          "track_id": "0nwx3o2KBSkXgkhjaWJS1B",
-          "streaming_service": "spotify",
-          "title": "Rapparat",
-          "artist_name": "Little Giants, Pumpkin, Everyman",
-          "duration": 241956,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a20f0f17984c00bb9ef0afb3",
-          "preview_url": "https://p.scdn.co/mp3-preview/d2fd4049b512b2cff507005fd65b49c633e51079?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:55+00:00"
-        },
-        {
-          "track_id": "36bfdDeAdqiEc7YiGtg8LZ",
-          "streaming_service": "spotify",
-          "title": "Bounced Back",
-          "artist_name": "UrgeTo, Everyman",
-          "duration": 121600,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0291007de45356a3a41bc9a397",
-          "preview_url": "https://p.scdn.co/mp3-preview/5e30fdc3dd1a2cfe429601cbec688c242fc395d9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:55+00:00"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-11T10:56:31+00:00",
       "show_section_titles": true
     },
     {
@@ -19581,7 +19641,7 @@
           "duration": 276008,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02eec05a19db1f69581760fb88",
           "preview_url": "https://p.scdn.co/mp3-preview/90598cea3c358b5dd129994e5f1d5c8c928933bd?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:09+00:00"
+          "modified_at": "2024-06-11T13:45:45+00:00"
         },
         {
           "track_id": "0M5nj7eG7QcDrdlzOv86c3",
@@ -19733,7 +19793,7 @@
           "duration": 193893,
           "image_url": "https://i.scdn.co/image/ab67616d00001e024dbbb55c56c489b38115fc3e",
           "preview_url": "https://p.scdn.co/mp3-preview/e2d4addc455cf73cdfded83793818244175548a3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:10+00:00"
+          "modified_at": "2024-06-11T13:45:16+00:00"
         },
         {
           "track_id": "2yQweA8nCYuzFj15LiOb41",
@@ -19743,7 +19803,7 @@
           "duration": 172129,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0242c4510f3e7c313f64df045b",
           "preview_url": "https://p.scdn.co/mp3-preview/7a607f815cd2ad98727c93d558c2da91d684602e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:10+00:00"
+          "modified_at": "2024-06-11T13:45:16+00:00"
         },
         {
           "track_id": "2WpiqjVC1CP89KVQfxOfol",
@@ -21130,7 +21190,7 @@
           "duration": 218437,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02bd5d802e3220afac98263b5b",
           "preview_url": "https://p.scdn.co/mp3-preview/4400d36d7f9ccc1cdf2cfb77043b8298b8f381b3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:57+00:00"
+          "modified_at": "2024-06-11T13:56:38+00:00"
         },
         {
           "track_id": "4WAKHKHloHdmPPfxgW8HAn",
@@ -21459,7 +21519,7 @@
           "duration": 326977,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02e7b1fbdd65c217c75cb16aa6",
           "preview_url": "https://p.scdn.co/mp3-preview/3921c97a18db56578074bf194bd1a18db7ca58db?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:34+00:00"
+          "modified_at": "2024-06-11T13:45:16+00:00"
         },
         {
           "track_id": "7GG6MVvBndthjec7YBhz0I",
@@ -21469,7 +21529,7 @@
           "duration": 318000,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02c8057287730c1de63a94fc52",
           "preview_url": "https://p.scdn.co/mp3-preview/fa88abc70757c1437e4eb25db6a58c0b543ed5be?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:34+00:00"
+          "modified_at": "2024-06-11T13:45:16+00:00"
         },
         {
           "track_id": "6Z9VJYXNPM5NPbC24L3DRp",
@@ -21600,7 +21660,7 @@
           "duration": 167314,
           "image_url": "https://i.scdn.co/image/ab67616d00001e027845dea2cc6e338bded22fe7",
           "preview_url": "https://p.scdn.co/mp3-preview/78792776318d07e8c3b692087e6d01fe6ca065bf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:14+00:00"
+          "modified_at": "2024-06-11T13:33:37+00:00"
         },
         {
           "track_id": "51uRkSahJICiVwrPe7GgzY",
@@ -22100,7 +22160,7 @@
           "duration": 265017,
           "image_url": "https://i.scdn.co/image/ab67616d00001e027766926ef2153e8ce1bc54ca",
           "preview_url": "https://p.scdn.co/mp3-preview/619026444c0cc9f97834325474a5e3fa425a4d34?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:56+00:00"
+          "modified_at": "2024-06-11T13:07:22+00:00"
         },
         {
           "track_id": "5VDnV2q6OrlrPsHsDZtIP1",
@@ -22343,7 +22403,7 @@
           "duration": 213500,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02825b1117fff3caf78573329a",
           "preview_url": "https://p.scdn.co/mp3-preview/58cc3e465230dfaa864f37ddc9f3097bfbcc8cbb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:26:10+00:00"
+          "modified_at": "2024-06-11T13:11:37+00:00"
         },
         {
           "track_id": "3iMYKoUsn5X0ctIAXvgmSf",
@@ -22491,7 +22551,7 @@
           "duration": 206616,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0270bef918a513d36c8370fb99",
           "preview_url": "https://p.scdn.co/mp3-preview/bc08f0297ce902e892a725aed8c776682c2efac4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:45+00:00"
+          "modified_at": "2024-06-11T13:20:33+00:00"
         },
         {
           "track_id": "5lrwPi7WwJ1HbuKtx4ktIK",
@@ -22501,7 +22561,7 @@
           "duration": 194368,
           "image_url": "https://i.scdn.co/image/ab67616d00001e023db70e3a52c0a4a1cd499828",
           "preview_url": "https://p.scdn.co/mp3-preview/e1ea5c351da1fb13cc5104acafeca972003136cc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:45+00:00"
+          "modified_at": "2024-06-11T13:16:38+00:00"
         },
         {
           "track_id": "3q2uX1BAjCiKmhEQiqWZTD",
@@ -22693,7 +22753,7 @@
           "duration": 176693,
           "image_url": "https://i.scdn.co/image/ab67616d00001e025e149abf2d24cd29e40c6b84",
           "preview_url": "https://p.scdn.co/mp3-preview/a400f5ad425f90b372fcb7dadee763558e10e7fd?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:50+00:00"
+          "modified_at": "2024-06-11T13:40:48+00:00"
         },
         {
           "track_id": "2JUQ7mV1AHk2owXLydmN4Z",
@@ -22772,7 +22832,7 @@
           "duration": 226677,
           "image_url": "https://i.scdn.co/image/ab67616d00001e021f51ec0adeeff5a6095b13cc",
           "preview_url": "https://p.scdn.co/mp3-preview/5b88860880098db9aa4e97703179baf8a5269393?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:50+00:00"
+          "modified_at": "2024-06-11T14:02:09+00:00"
         },
         {
           "track_id": "1kJK2dkXbMw8yOMFEuJUm7",
@@ -27977,7 +28037,7 @@
   "_meta": {
     "page": 1,
     "max_per_page": 500,
-    "page_count": 289,
-    "total_count": 289
+    "page_count": 291,
+    "total_count": 291
   }
 }
