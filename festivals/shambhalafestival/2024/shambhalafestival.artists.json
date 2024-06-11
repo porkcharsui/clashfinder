@@ -1,6 +1,1152 @@
 {
   "data": [
     {
+      "id": 1995684,
+      "external_id": "166972",
+      "published": true,
+      "name": "DLB",
+      "body": "DLB (Leevon Dance- yes that's his real last name) comes from Calgary, Alberta, and has been playing all things drum and bass since he could walk. \n\nHe has been promoting shows for 8 years under The Dojo, bringing all sorts of talent to Calgary's music scene. \n\nNot an act to miss, don't forget your beach ball!",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261052_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261052_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261052_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261052_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {},
+      "performances": [
+        {
+          "id": 183156,
+          "external_id": "856338",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995684,
+          "stage_id": 7956,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-30T00:02:11+00:00",
+          "start_time": "2024-07-29T01:00:00+00:00",
+          "end_time": "2024-07-29T02:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:57:18+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995630,
+      "external_id": "1916928",
+      "published": true,
+      "name": "HOOLAANDTHEGANG",
+      "body": "Born within days and a few blocks away from where the Apache break was recorded Hoola was off to a good start at a very young age. When he was gifted Michael Jacksons “Off the Wall” album in 94 it started a serious life long obsession with acquiring every disco funk record ever made in the world. Also that year moved to Van city from Nelson to experience the heyday of the “rave” scene and witness the impact that House music had on a culture that was happening on a fairly large scale. Dickie Doo,T-Bone, Minute Maid, Markem, Doc Martin, Ali, Czech, Little T, Lace, Tripwire, Hebegebe ,Dee Lite, Garth, Jeno, Spun-K (aka Vinyl Richie) and all the other DJ’s who played the legendary Lux Theatre on Hastings were the earliest inspirations and introduction to the underground. Quite soon after tried to teach himself how to make people dance to disco records in 95/96 in Victoria B.C. where djs Koosh, Rennie dubnut foster, tyger dhula, and Wood and the original boomtown records were holding it down. In 97 back in Nelson Hoola , with a crafty business plan made his mom somehow convinced the government and community futures to give him a loan to be a DJ because there was only 1 other in town back then. The next year he packed up and moved out east to Halifax to help throw the first full moon outdoor parties and work at Vitamin Tribe Imports record store with then future wife and super dj Lion-S Also at the same time headlining the first Shambhala with a cassette tape?!? While in Halifax he hooked up with east coast hip hop guru and funk soul digger legend Jorun who taught him the ropes in deep digging and the original funk breaks. There he would learn about the roots of it all and build an empire of old school even Vader would envy. As the decade came to an end Y2K and the end of the world was looming and Hoola, scared to die on the East, ran back to the hills of B.C. just in time to headline Shambhala 1999 and the 1st yr of the Fractal Forest. By 2001 he started doing the scheduling for a very unorganized yet undeniably wicked party and by 2002 took on all the artist bookings with partner Lion-S. Holding a 8 yr residency In Nelson at club Avalon that later turned into the Legendary Fluid would turn out to be home for Shambhala all year round and a place for underground music to exist in Nelson for years to come. This is where and when Vitamin Tribe evolved into The Pride and promoting djs year round came about. Thanks to them RaSoul, Buck, Garth, Metro Area, Doc Martin,Soul of Man, Adam Freeland, Krafty Kuts ,Solomonic Sound,John Howard, Freq Nasty, Mat the Alien, Vinyl Ritchie, Smalltown djs, Bassnectar,Skream, Glitch Mob and basically everyone from A-Skills to Z-trip have experienced the Kootenay Vibe. Around 2003 till the present The Pride took the reigns of the beach stage at Shambhala and called it the Living Room.The rest has become the stuff legends are made of",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/65/thumb_5264973_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/65/thumb_5264973_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/65/thumb_5264973_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/65/thumb_5264973_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "hoola_and_the_gang"
+      },
+      "performances": [
+        {
+          "id": 183098,
+          "external_id": "856324",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995630,
+          "stage_id": 7951,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-03T16:47:45+00:00",
+          "start_time": "2024-07-28T21:15:00+00:00",
+          "end_time": "2024-07-28T22:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:56:57+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995526,
+      "external_id": "1916897",
+      "published": true,
+      "name": "Double Trouble",
+      "body": "Get ready for double the vibes, and double the fun as DeBlock and Mihajic Touch, your favourite house music selecta's, join forces to unleash twice the party and double the heat!",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260911_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260911_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260911_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260911_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "profile.php",
+        "instagram_user": "doubletroublex2fun/",
+        "soundcloud_user": "doubletroublex2"
+      },
+      "performances": [
+        {
+          "id": 182991,
+          "external_id": "856290",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995526,
+          "stage_id": 7941,
+          "date_id": 2878,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-03T01:33:23+00:00",
+          "start_time": "2024-07-27T01:00:00+00:00",
+          "end_time": "2024-07-27T02:15:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:56:45+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995632,
+      "external_id": "187454",
+      "published": true,
+      "name": "Mark Woodyard",
+      "body": "Often referred to as a “Human Jukebox”, Mark Woodyard’s knowledge of music spans effortlessly across eras and genres. A multi-talented musician who uses looping machines, his voice and guitar, Woodyard is best known for his wide array of genre-bending covers that showcase his vocal range and eclectic sound creating truly unique and dance-inspiring performances. With no two shows sounding the same, Woodyard’s improv-esque style is reminiscent of a Reggie Watts and Marc Rebillet lovechild - a multi-instrumentalist who captivates audiences and sparks dancefloors seconds after taking to the stage.\n\nBorn and raised in North Vancouver, Mark Woodyard is no rookie to the live music scene having played live for the better part of the last two decades reaching some of the worlds most unique festival stages including BassCoast, Shambhala, and Envision, as well as becoming a mainstay at private events frequently requested by some of the countries most iconic brands.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261000_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261000_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261000_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261000_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "woodyardmusic",
+        "instagram_user": "markwoodyard/",
+        "youtube_user": "markjameswoodyard",
+        "soundcloud_user": "woodyard"
+      },
+      "performances": [
+        {
+          "id": 183100,
+          "external_id": "855961",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995632,
+          "stage_id": 7951,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-29T23:47:10+00:00",
+          "start_time": "2024-07-28T23:30:00+00:00",
+          "end_time": "2024-07-29T00:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:54:59+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995487,
+      "external_id": "1916436",
+      "published": true,
+      "name": "Blu DeTiger (DJ Set)",
+      "body": "Blu DeTiger is proof that bassists are main character material. The New York City born-and-raised artist picked up the bass guitar at age seven and soon after played her first gig at the legendary punk venue CBGB. Fueled by the hustle mentality of her environment, she was a fixture in the Lower Manhattan music scene by age 17, playing in various bands and DJing clubs while adding her live bass to her crowd-moving sets. The energy of this fast-paced nightlife world manifests through her pulsating bass lines that serve as the emotional anchor of her eclectic songs melding art pop, electroclash, funk, disco, and alternative rock.\n\nNow with the arrival of her debut Capitol Records studio album All I Ever Want Is Everything, Blu is claiming her spotlight as a rising pop icon who's not afraid to feel it all. \"This album is about really enjoying the high moments in life, but also learning how to talk yourself out of the low moments and become your own best friend,\" she says. \"I want to let people know that you can feel it all and do it all. Wherever you're at is cool.\" It's also the culmination of the past few years in which she has grown tremendously. She built her profile opening for artists like Sabrina Carpenter and Jungle, her own headline tours around the US and Europe, and becoming one of her generation's most sought-after bass players, lending her talents to Bleachers (with whom she appeared on Saturday Night Live), Olivia Rodrigo, Dominic Fike, Caroline Polachek, Chromeo, and Fletcher among others.\n\nAll I Ever Want Is Everything is a portrait of Blu at her most unstoppable and her most vulnerable, as she captures the thrillingly unpredictable process of coming into one's own. Inspired by sleepless nights out on the town and memories of her thumping DJ sets, the album sees Blu staking a claim to her desires and transforming into the messy protagonist of her fantasies. On the thumping \"Dangerous Game,\" she playfully pledges to someone that she'll \"break up the band\" so the two can have an unforgettable evening of dancing and indulgence. \"Let's blow our money / Let's go all night,\" she sings. \"I wanted a song that portrayed this fun character who doesn't give a fuck, who wants to go out and experience life -- which is a big part of my personality,\" she explains.\n\nThese hedonistic and infectiously groovy songs are balanced out with mature introspection, in which she admits to feeling imposter syndrome and the loneliness of growing up in the digital age. Yet Blu's more melancholy songs are still upbeat, as on the Mallrat-featuring dance track \"Cut Me Down.\" Laughing off memories of past detractors and critics, her pitched-up vocals have a canny robotic effect, adding to the track's layered emotions. \"The high-pitched vocals sound like angels talking to you, or this encouraging part of yourself trying to bring yourself out of feeling down,\" Blu explains. \"I love songs that have a sad tinge, but make you feel good at the same time -- where a DJ could play it and everyone's dancing and screaming along.\"\n\nThe album captures the spirit of New York, but it was created in Los Angeles, where Blu moved in 2022. Since it was her first time living in an entirely different city, she found herself having to adjust to the newfound independence during a period of immense growth. Newly signed to Capitol Records and adjusting to the Los Angeles songwriting circuit for the first time, she also embarked on her first headlining tour across North America behind her debut EP, How did we get here?\n\nSupporting Blu in the making of All I Ever Want Is Everything was a star-studded group of friends and collaborators. The album features co-writes from rising pop stars Chappell Roan and Alexander 23, as well as indie sleaze originator Uffie and soul aficionado Mayer Hawthorne and Blu's frequent collaborator, her brother, Rex. Meanwhile, \"Disappearing\" was made in collaboration with Magdalena Bay, with whom Blu immediately bonded over being producers and multi-instrumentalists.\n\nBlu also worked alongside GRAMMY-winning producer John Hill and Sam Homaee in experimenting with different bass tones and vocal effects, making the album more multifaceted. She strived to expand the range of her vocal delivery, too -- from falsettos to sing-speak sections. All of these elements are captured compellingly on her single \"Kiss.\" \"I wanted my voice to feel like another instrument,\" she explains. \"Just like how we manipulated the bass in cool ways with pedals, we processed the voice to get a bigger range of emotion.\"\n\nAfter studying at NYU's Clive Davis Institute of Recorded Music for two years, she left in 2019, which allowed her the space to fully become the solo artist she was always meant to be. \"I was putting out singles while I was running around New York hustling -- playing gigs, doing sessions, DJing, and saying yes to every opportunity that came my way,\" she says. Then during the early pandemic, her bass cover videos started to gain steam on TikTok, where \"Figure It Out\" ultimately went viral, and where she now has more than 1.4 million followers. In 2023, she was named one of Forbes' 30 Under 30 for music and on the cover. Blu is expanding her entrepreneurial footprint with Fender and Bose partnerships.\n\nNow, with her electric-blue bass and effortlessly cool head-banging, Blu is inspiring a new generation of fans to take up the bass. \"When I was young, I didn't have any archetypes to follow,\" she says. \"Then once I started doing more, I was like, honestly, I'm making my own lane. Now there are young people who are messaging me saying, 'I started playing bass and making music because of you.'\" This line of thinking is part of what inspired her, during her last headline tour, to bring someone from the audience up on stage each night to jam on the bass alongside her.\n\n\"My motivation as an artist is to help the younger generation discover their passion, pick up an instrument, and find an outlet to express themselves,\" Blu concludes.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260874_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260874_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260874_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260874_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "bludetiger",
+        "instagram_user": "bludetiger",
+        "twitter_user": "bludetiger",
+        "youtube_channel_id": "UCsvWmnNTLqrNF26vFBgJsKQ",
+        "soundcloud_user": "bludetiger"
+      },
+      "performances": [
+        {
+          "id": 182952,
+          "external_id": "855458",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995487,
+          "stage_id": 7939,
+          "date_id": 2878,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-06T08:35:09+00:00",
+          "start_time": "2024-07-27T05:00:00+00:00",
+          "end_time": "2024-07-27T06:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:54:53+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995668,
+      "external_id": "1916435",
+      "published": true,
+      "name": "Ben UFO",
+      "body": "Over the past five years, Ben UFO has acquired a deserved reputation as one of contemporary dance music’s most daring and wide-ranging selectors, with his keen ear and razor-sharp technical abilities enabling him to cut between eras, lineages and mixing styles with dazzling ease and fluidity. \n\nHaving cut his teeth in early dubstep and drum ’n’ bass, his roots lie in UK rave culture - yet his selections cast the net wider, drawing new mutations of this culture into the orbit of house, techno and other global dancefloor sounds. In the club, his sets somehow manage to be simultaneously considered and raucous, sliding from sidewinding broken rhythms into an irresistible four-to-the-floor groove, or broadsiding you with unexpected tangents, old favourites and bizarre secret weapons.\n\nThomson’s development as a DJ has been inextricably linked to the maturing of Hessle Audio, the label he co-founded in 2007 alongside Pearson Sound and Pangaea. Just as dubstep was starting to unfurl into a sprawling, globalised festival sound, Hessle Audio, in stark contrast, emerged with a strikingly focused, spacious and percussive aesthetic. As the scene continued to unravel, they went on to become one of the most coherent focal points within a rapidly diverging UK dance music community, through their DJ sets, label releases and radio shows on London station Rinse FM. Listening back to Ben’s two official mix CD releases, 2011’s Rinse:16 and 2013’s Fabriclive.67, you can hear snapshots of that evolutionary process in action; they plot subtle and often surprising connections between the pirate radio-borne genres he grew up with, and the worldwide house and techno scene.\n\nIt’s refreshingly difficult to pin down what makes Ben’s DJing distinctive and exciting, whether you encounter it on the radio, in a recorded mix or on the dancefloor. If there’s a core characteristic of his approach it’s an infectious warmth and restless love of exploration, exemplified by his habit of meshing mind-bendingly strange tracks into peak-time sets, and by the way his Thursday night shows on Rinse FM weave together jacking unreleased dance cuts with new finds and dubbed-out oddities from across the globe. In the club, he shapes these elements into something rich and unpredictable, interspersing phases of driving momentum with joyful curveballs and ruptures in the flow that jolt you back to your senses — moments, as he describes it, that feel like coming up for air on the dancefloor.\n\nThis fascination with the possibilities of dance music, stemming from Thomson’s formative years spent absorbing the sound-system weight of London’s Plastic People club, extends to his desire to continue playing for huge crowds as well as in tiny, sweaty basements — from large-scale outdoor festivals and world-renowned clubs such as Fabric and Panoramabar, to the intimate spaces of Hamburg’s Golden Pudel, Tokyo’s Air, or Freerotation festival, where the Hessle Audio trio are annual residents. The appeal of his fluid and open-minded approach is self-evident in the way it crosses genre crowds and spans nominal divides between underground and mainsteam. In recent years, for example, he’s played back-to-back with DJs as varied in style as Jackmaster, Morphosis, Gerd Janson, Joy Orbison and DJ Nobu, as well as recording mixes for both staunchly independent platforms like The Trilogy Tapes and Truants, and for widely-acclaimed series such as Resident Advisor and BBC Radio 1’s long-running Essential Mix.\n\nFrom their early years in Leeds, Ben UFO and Hessle Audio have evolved into core figures in an increasingly globally-connected dance music scene. Having provided an early platform for music from kindred innovative spirits such as Blawan, Peverelist, Untold and Joe, the label continues to release new music from both its founders and emerging new artists. This openness marks the cornerstone of Ben’s approach: drawing connections, exploring new ideas, and feeding some of Hessle Audio’s energy and enthusiasm back into the musical communities of which they are an integral part.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261037_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261037_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261037_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261037_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "BenUFO.DJ",
+        "instagram_user": "ben___ufo",
+        "twitter_user": "benufo",
+        "soundcloud_user": "benufo"
+      },
+      "performances": [
+        {
+          "id": 183140,
+          "external_id": "855457",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995668,
+          "stage_id": 7954,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-31T06:48:12+00:00",
+          "start_time": "2024-07-29T08:00:00+00:00",
+          "end_time": "2024-07-29T09:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:54:53+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995665,
+      "external_id": "1916717",
+      "published": true,
+      "name": "Five Alarm Funk",
+      "body": "Five Alarm Funk is Canada's premiere sonic and visual assault. With 20 years experience, in high voltage Funk infusion, FAF has carved a new path of live entertainment. The engagement, the hilarity, the precision and execution have heralded these manic Funk Bots with eight studio albums, two JUNO nominations, three Western Canadian Music Awards and a rap sheet of positive reviews. Over the last 20 years, the band has toured premiere festivals across the globe in Canada, USA, Taiwan and even all the way to Mali, Africa at the UN headquarters. Five Alarm is ready to take this fun, energized, atomic economic sonic and visual ritual to your doorstep. In the words of front man & drummer Tayo Branston: \"Let's Funkin’ GO!!\"",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261034_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261034_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261034_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261034_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "fivealarmfunk",
+        "instagram_user": "fivealarmfunk",
+        "youtube_user": "user/FiveAlarmFunk"
+      },
+      "performances": [
+        {
+          "id": 183136,
+          "external_id": "855980",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995665,
+          "stage_id": 7954,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-30T00:02:11+00:00",
+          "start_time": "2024-07-29T03:00:00+00:00",
+          "end_time": "2024-07-29T04:15:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:54:30+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995527,
+      "external_id": "187818",
+      "published": true,
+      "name": "Case of the Mondays",
+      "body": "Case of the Mondays is a classic story about two best friends friends making music in paradise...Joni T & La Dooda met in a dark basement nightclub fighting over a single vodka soda. The bartender saw their struggle and one free vodka soda later…they became best friends and started writing House Music. Not just any house music either. Their sound can be described as High-Energy-Bass-Driven-Tech-House. Since that doesn’t really roll off the tongue, the boys call their style of music = FUN HOUSE. If your looking for a good time you’ve come to the right place. Case of the Mondays transforms Dance Floors into Magical Worlds where its okay to dance all night, call in sick for work, and spill drinks. Everyday is a Monday! [Warner Music, DirtyBird, Box of Cats, Medium Rare, Westwood, COTM Records]",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260912_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260912_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260912_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260912_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "caseofthemondaysofficial",
+        "instagram_user": "caseofthemondayss/",
+        "soundcloud_user": "caseofthemondaysofficial",
+        "spotify_artist_id": "0TcmYfWCoJWqMBHWmLr3LL"
+      },
+      "performances": [
+        {
+          "id": 182992,
+          "external_id": "856062",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995527,
+          "stage_id": 7941,
+          "date_id": 2878,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-01T01:18:01+00:00",
+          "start_time": "2024-07-27T02:15:00+00:00",
+          "end_time": "2024-07-27T03:15:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:53:14+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995584,
+      "external_id": "1916455",
+      "published": true,
+      "name": "Shlohmo",
+      "body": "Shlohmo, born Henry Laufer, is an artist and musician from Los Angeles. \n\nRenowned for his experimental productions that fuse far-ranging elements of shoegaze, R&B, doom metal, screw, and IDM, he has released 3 studio albums to critical acclaim, Bad Vibes (2011), Dark Red (2015), and The End (2019), along with several popular EP’s, collaborative projects (Jeremih “No More” EP), and a vast catalogue of remixes (Drake & The Weeknd’s “Crew Love”). \n\nFounder of LA-based record label and artist collective, Wedidit Records, Laufer first received attention for his early releases, his first full-length LP, 2011’s 'Bad Vibes', becoming an early staple of the lo-fi bedroom producer genre. \n\nSoon, Shlohmo’s signature ominous, occult soundscape became immediately identifiable on increasingly prominent production credits. 2014’s collaborative “No More” EP with Jeremih helped solidify this unique sound into becoming a contemporary pop production mainstay. Shlohmo has since produced for names such as, Corbin, Yung Lean, Post Malone, Drake,  Joji, Banks and more.\n\n2020 brought Shlohmo’s latest project, 'Heaven Inc.’, a four song EP expanding on last years ‘The End’ LP.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260963_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260963_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260963_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260963_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "shlohmo/",
+        "soundcloud_user": "shlohmo",
+        "spotify_artist_id": "6y80I9YZi4DOpbaSUlL725"
+      },
+      "performances": [
+        {
+          "id": 183051,
+          "external_id": "855486",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995584,
+          "stage_id": 7947,
+          "date_id": 2879,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-31T06:48:12+00:00",
+          "start_time": "2024-07-28T09:30:00+00:00",
+          "end_time": "2024-07-28T11:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:53:13+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995646,
+      "external_id": "1916732",
+      "published": true,
+      "name": "Moore Kismet",
+      "body": "The alias Moore Kismet (meaning \"more than fate\") is a representation of 18-year-old musician and Omar Davis that expresses their continual creative journey. Moore Kismet has garnered support from some of the biggest media platforms in the world. Constantly leading the charge, they were included in Billboard's 21 Under 21 list three vears in a row (2020/2021/2022) and were named the youngest artist to ever perform at both Lollapalooza and EDC Las Vegas in 2021. Moore Kismet excels as a multidisciplinary creative with a focus on visual arts, filmmaking and graphic design. Moore Kismet’s unique production style and stage presence is anything but predictable, which has set them apart from the crowd. Releasing their debut album UNIVERSE this past June, the world of Moore Kismet exploded.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261014_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261014_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261014_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261014_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "moorekismet",
+        "instagram_user": "moorekismet",
+        "twitter_user": "moorekismet",
+        "spotify_artist_id": "50uPj85gZxHFuFOlNBnnr5"
+      },
+      "performances": [
+        {
+          "id": 183115,
+          "external_id": "856003",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995646,
+          "stage_id": 7952,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-29T23:47:10+00:00",
+          "start_time": "2024-07-29T03:30:00+00:00",
+          "end_time": "2024-07-29T04:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:53:08+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995675,
+      "external_id": "187851",
+      "published": true,
+      "name": "ColtCuts",
+      "body": "Colton has quickly become an internationally recognized producer with releases on many of the most prestigious labels in the scene (Deep, Dark & Dangerous/Dank n’ Dirty Dubz/Duploc/Hatched/Sleeveless Records). With a full release schedule through 2020, this is one young producer to keep your ears open for. ColtCuts is known for his variety of productions ranging from deep dubstep all the way to more modern halftime, giving a wide array of sounds to his live performance. His sound has captured the interest of countless industry heavyweights with a no-nonsense approach, impeccable sound design and tasteful balance of light and dark.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261044_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261044_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261044_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261044_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "ColtCutsMusic",
+        "instagram_user": "coltcutsmusic",
+        "soundcloud_user": "coltcutsmusic"
+      },
+      "performances": [
+        {
+          "id": 183147,
+          "external_id": "856066",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995675,
+          "stage_id": 7955,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-30T00:02:11+00:00",
+          "start_time": "2024-07-29T02:00:00+00:00",
+          "end_time": "2024-07-29T03:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:53:06+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995605,
+      "external_id": "1916456",
+      "published": true,
+      "name": "Totally Enormous Extinct Dinosaurs",
+      "body": "Whatever you’re feeling, be sure to feel it deeply. This seems to be the prevailing sentiment of Totally Enormous Extinct Dinosaurs' latest full-length offering – an ambitious, complex body of work nestled within simple, powerful storytelling. With the versatility to provide listening experiences across every environment and a central focus on songwriting over dancefloor tracks, ‘When The Lights Go’ delivers a compilation of genres where the internal world is observed, pondered, and shared outwards. Since the release of his debut album ‘Trouble’ a decade ago, Totally Enormous Extinct Dinosaurs has toured the globe, settled in LA for seven years, worked behind-the-scenes producing for a range of top-tier acts, and earned himself a Grammy nomination. Earlier this year, Orlando wrapped his ‘I Have A Dream’ Club Tour, delighting fans with his dynamic DJ Sets at venues and festivals such as the DoLab Stage at Coachella. He is currently embarking on a sold out live tour across the UK, Europe, and North America, introducing his new album to the world.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260983_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260983_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260983_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260983_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "teedinosaurs/",
+        "twitter_user": "TEEDinosaurs",
+        "youtube_user": "channel/UCIzUuNT1-rqqfJCdRRVGBBA",
+        "soundcloud_user": "t-e-e-d",
+        "spotify_artist_id": "0g3NiCRhEv7M4SEDMrpItN"
+      },
+      "performances": [
+        {
+          "id": 183072,
+          "external_id": "855488",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995605,
+          "stage_id": 7948,
+          "date_id": 2879,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-29T23:47:10+00:00",
+          "start_time": "2024-07-28T05:15:00+00:00",
+          "end_time": "2024-07-28T06:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:52:52+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995596,
+      "external_id": "166927",
+      "published": true,
+      "name": "Moontricks",
+      "body": "Based in the rustic Kootenay mountains of Western Canada, Nathan Gurley and Sean Rodman of nationally renowned electro-folk duo Moontricks draw inspiration from the ongoing cycles of the natural world. Both volatile and constant—like nature’s best offerings—the band finds solace and beauty in the fusion of seemingly disparate elements. There’s a kind of technicolor campfire quality to their uniquely hybrid sound: Each track is steeped in tradition and polished with a futuristic sheen, mixing organic folk, roots rock, and old-time blues with modern electronic production. Since its initial release, the band’s breakout hit “Home” has reached over 5 million streaming plays, and their original tracks have been licensed for a wide range of television networks, including Netflix and Fox Sports. With the release of their debut full-length album Currents, the duo reveals an ever-evolving, cohesive blend of introspective writing, soulful, gritty blues, boot-stomping basslines, and intricate electronic arrangements.\n \nGurley and Rodman first connected at a music festival in rural BC, then collaborated on a series of rhythmic, instrumental soundscapes that eventually developed into their signature electro-folk sound. After dropping their debut single “Home” in 2013, they joined international tours and festivals in Australia, Costa Rica, and across the USA, gaining a loyal following for their dynamic live shows, which feature a rotating assortment of guitar, keys, banjo, and vocals accented with original electronic elements. Now with their debut album Currents released September 09, 2022 via Westwood Recordings, Moontricks honor the steadfast cycles of nature that carry the world forward, despite the chaos around and inside us. “The solace found in reaching past our personal confines into the vastness beyond them is something we return to again and again—in nature and in our music,” says lead singer and songwriter Rodman. Gurley, who focuses on production, views the album as a series of paths leading into unknown territory. Vast, intimate, and dazzling, Currents is an album about settling into feeling comfortably lost, and being okay with not knowing it all. It’s about finding joy and inspiration in the act of seeking.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260975_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260975_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260975_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260975_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "Moontricks",
+        "instagram_user": "moontricks_music/",
+        "twitter_user": "moontricksmusic",
+        "youtube_user": "channel/UCvV_EDcjQ7dunN6crjdazkQ",
+        "soundcloud_user": "moontricks",
+        "spotify_artist_id": "6o52orvClP7ba1qV4zMVlg"
+      },
+      "performances": [
+        {
+          "id": 183063,
+          "external_id": "855963",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995596,
+          "stage_id": 7944,
+          "date_id": 2879,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-29T23:47:10+00:00",
+          "start_time": "2024-07-28T07:00:00+00:00",
+          "end_time": "2024-07-28T08:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:52:24+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995653,
+      "external_id": "188009",
+      "published": true,
+      "name": "The Sponges",
+      "body": "From the deepest and darkest soul-snatching pits of the inescapable swampy hellscape known as Florida, arose an unlikely glimmer of light… The Sponges. Blending classic scrunchy-faced funk with next level bass house production, The Sponges have carved their own lane in electronic music.\n\nHaving gained support from artists such as GRiZ, Zeds Dead, Tchami, AC Slater, The Floozies, Manic Focus and Jauz, it’s clear that their infectious sound is the perfect addition to peak party hours.\n\nDue to their deep-rooted love for hippie fests and nightclub debauchery, the duo’s mission has always been to blend sounds, bend bodies, and deliver the most fun and energetic listening experiences to audiences everywhere. After FIVE #1 records on Beatport, The Sponges are well on their way to establishing themselves as one of the greatest acts to ever grace the sonic wasteland known as the electronic music industry. Prepare your playlists for the dukes of disco, the future of funk, the lords of the low-end, the czars of certified bangers, the emperors of ecstasy, the rulers of the rave, the bassline bastards, and the gods of groove as they gear up for an explosive year in 2024!",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261021_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261021_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261021_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261021_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "thespongesmusic",
+        "instagram_user": "thesponges/",
+        "twitter_user": "thespongesrback",
+        "youtube_user": "channel/UCJrWLS2B7ZPRZNawbRjvrsw",
+        "soundcloud_user": "thesponges",
+        "spotify_artist_id": "3cj6O7NrjS5l0CVo8LhpV1"
+      },
+      "performances": [
+        {
+          "id": 183124,
+          "external_id": "856028",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995653,
+          "stage_id": 7953,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-29T23:47:10+00:00",
+          "start_time": "2024-07-29T04:00:00+00:00",
+          "end_time": "2024-07-29T05:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:52:05+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995676,
+      "external_id": "1916728",
+      "published": true,
+      "name": "LYNY",
+      "body": "“Music has always been a big part of my life. I’ve been producing and writing music for as long as I can remember and it has become an essential form of self expression. I started the LYNY project in 2016 with a vision and goals in mind as I wanted to start fresh on a project with direction. It’s been a non-stop grind of learning the art of production, focusing on creating my own sound, and making tracks that are unusually unique while stressing on keeping them high-quality and clean. There is nothing I would rather be doing and I am super thankful for my journey thus far” - LYNY",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261045_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261045_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261045_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261045_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "lynyofficial",
+        "twitter_user": "lynyofficial",
+        "soundcloud_user": "lynyofficial",
+        "spotify_artist_id": "7xqIp1044Z2vd9v9ZphjLa"
+      },
+      "performances": [
+        {
+          "id": 183148,
+          "external_id": "855999",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995676,
+          "stage_id": 7955,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-01T07:34:16+00:00",
+          "start_time": "2024-07-29T03:00:00+00:00",
+          "end_time": "2024-07-29T04:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:52:04+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995503,
+      "external_id": "167266",
+      "published": true,
+      "name": "ATYYA",
+      "body": "ATYYA [pronounced ah-tie-ah] is the music project of Canadian Producer Tyy Clark. ATYYA’s illustrious sound features dark alluring baselines, mesmerising percussive grooves, and other worldly atmospheres. Tyy Started producing music in 2006, Launched ATYYA in 2012, and began touring internationally in 2013. As of now, he has more than 100 tracks released, and more than 10 million plays. ATYYA’s signature sound is recognised globally which has brought him on tour throughout North America, as well as many exotic destinations including Turkey, Israel, The Netherlands, New Zealand, Colombia, Guatemala, Costa Rica and more.\nTyy is the founder and CEO of Production Labs, an online brand selling Sample Packs, Courses, and more. Additionally, he is a professional mixing & Mastering engineer. “ATYYA Mastering” has been active for over 6 years with nearly 1000 songs mastered for his clients to date.\n\nTyy is also a Trained Keyboardist & Percussionist who studied at the Victoria Conservatory of Music. His technical understanding of music combined with his boundless artistic passion fuel his success in the studio. ATYYA’s fans have much to look forward to this year with an array of new music releases, live mixes, and tour dates, supporting ATYYA’s motive to bring people together through music.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260890_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260890_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260890_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260890_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "tyymusic",
+        "instagram_user": "_atyya_/",
+        "soundcloud_user": "atyya",
+        "spotify_artist_id": "36NAuk7D3nO0JFfgZf3XI7"
+      },
+      "performances": [
+        {
+          "id": 182968,
+          "external_id": "855511",
+          "published": true,
+          "name": "Atyya",
+          "priority": 100,
+          "artist_id": 1995503,
+          "stage_id": 7940,
+          "date_id": 2878,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-29T23:47:09+00:00",
+          "start_time": "2024-07-27T04:30:00+00:00",
+          "end_time": "2024-07-27T05:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:52:03+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995476,
+      "external_id": "1916513",
+      "published": true,
+      "name": "Chef Boyarbeatz",
+      "body": "Denver's newest resident by way of Los Angeles, Chef Boyarbeatz offers a unique perspective on underground bass production. The Icon Collective grad earns recognition from both mainstream and underground production elites with his nostalgic take on heavy breaks and UK-inspired soundscapes.\n\nWith releases on a variety of notable labels including Deep Dark and Dangerous, Deadbeats, and Bassrush, Chef Boyarbeatz takes obscure sounds to new heights. Not only known for his production prowess, his unique DJ sets have captivated fans at every stop. The last two years have seen exponential growth for the project both in the studio and on stage. In 2022, his track “Steady Slurkin'” was voted the #1 dubstep song of the year, and landed him headlining dates across the country. The following year saw a surge in festival dates with breakout performances at Infrasound, Okeechobee, and Insomniac's Apocalypse. With support from Skream, Zeds Dead, Of The Trees, Ternion Sound, and many more, this year ushers in the dawn of Chef's hand-crafted curated lineups, major tour support for Boogie T, and more iconic festival appearances.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260864_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260864_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260864_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260864_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "chef_boyarbeatz/",
+        "twitter_user": "chef_boyarbeatz",
+        "soundcloud_user": "chef_boyarbeatz",
+        "spotify_artist_id": "7nSk3iFPogRCOokrMliejt"
+      },
+      "performances": [
+        {
+          "id": 182941,
+          "external_id": "855606",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995476,
+          "stage_id": 7938,
+          "date_id": 2878,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-29T23:47:09+00:00",
+          "start_time": "2024-07-27T04:30:00+00:00",
+          "end_time": "2024-07-27T05:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:51:57+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995532,
+      "external_id": "1916737",
+      "published": true,
+      "name": "Justin Martin B2B Chris Lorenzo",
+      "body": "As the late Oscar Wilde once said: “life is too important to be taken seriously”, an ethos that Justin Martin is sticking with despite achieving soaring success over the last six years as a producer and international DJ. Justin initially pricked the ears of the electronic music community in 2003 with his first record ‘The Sad Piano’ on Ben Watt’s Buzzin’ Fly label.\n\nFeeding off the energy of the San Francisco underground, Justin was intrinsically involved with the development of Dirtybird records, appearing on its first four releases. Justin was soon ready to take flight, releasing a string of solo EPs that flaunted a very unique sound and garnered further respect among fellow DJs and heavyweights of the scene.\n\nMusic journalists typically describe Justin’s sound as ‘melodic and tough’ with his music encapsulating both melody and emotional depth yet always with enough undeniable ass-shaking properties to translate to the floor.\n\n“I’m always trying to find music for my DJ sets that rattles sound systems, but still has enough melody and interesting texture to expand your mind even if you’re sitting at home on a snowy or rainy day.”\n\nLast year, Justin released his extremely well-received remixes for Rüfüs Du Sol and Ultraísta, as well as a collaborative project with fellow producer Ardalan, which was put out on his brother Christian Martin’s label, Trippy Ass Technologies.\n\nIn 2020, Justin launched his new label ‘What To Do...’, kicking things off with his first single ‘Needs’. The label will focus on his distinctive sound and include special collaborative works. With these upcoming releases, there will be no holding back. Justin launched his new project with the intention of diving deeper creatively and pushing the limits of his sound. To everyone who is curious about what’s to come, “expect music with emotional depth combined with raw dancefloor grit.”\n\nChris Lorenzo's rise to the upper echelons of the house and bass scene is one of electronic music's more notable success stories. Widely acknowledged for pioneering a sound that has become increasingly prominent throughout the UK, US and many other parts of the world, Lorenzo's flawless production and high-octane DJ sets have earned him a fanatical and ever-growing global following.\n\n2022 saw career highs across the board for Lorenzo -- on the live front, playing the Main Stage at EDC Vegas where he went b2b with AC Slater as well as making his debut at Bonnaroo, Lollapalooza and Rock in Rio. Lorenzo rounded off the year with sold-out performances at The Shrine for his Fly With Us project with AC Slater, along with his own 12-date North American 'Places & Faces' headline tour.\n\nKey releases include 'California Dreamin' -- Beatport No.1 and surpassing 100 million streams across all platforms. His remix of J Balvin & Skrillex -- 'In Da Getto,' which was the most played remix of 2021 according to 1001 Tracklists' 'A State of Dance Music Report' (SDMR) sustained its momentum, making it #3 Most Heard Track of 2022. Lorenzo's remix resonated so well with audiences across the globe that J Balvin opted to perform this version over the original track on Good Morning America, which broadcast to +3 million people. 'Chromatic' -- Lorenzo's collaboration with Chris Lake under their Anti Up alias and another Beatport No.1 was the #1 Most Heard Track of 2022 according to the latest 'SDMR.' The overwhelming support for his music this last year has seen Lorenzo become Beatport's 9th best-selling artist globally and hold #13 position in 1001 Tracklists Top 101 Producers of 2022.\n\nLorenzo's latest impact on the electronic music landscape is his ground-breaking single 'MAMI,' on which he teamed up with one of electronic music's most exciting and innovative artists -- COBRAH. The incendiary collab which burned its way to #3 Bass House Track of 2022 has consistently been setting dancefloors alight as a staple feature in the sets of Fisher, Dom Dolla, Chris Lake and continues to be an unrelenting favourite amongst the wider DJ circuit and fans alike.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263446_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263446_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263446_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263446_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "justinmartinmusic",
+        "instagram_user": "chrislorenzo66",
+        "soundcloud_user": "chris-lorenzo-1",
+        "spotify_artist_id": "4FN8WHqUbwkd97WEjoCu7B"
+      },
+      "performances": [
+        {
+          "id": 182997,
+          "external_id": "856009",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995532,
+          "stage_id": 7941,
+          "date_id": 2878,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-10T06:48:04+00:00",
+          "start_time": "2024-07-27T07:00:00+00:00",
+          "end_time": "2024-07-27T07:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:51:57+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995682,
+      "external_id": "174072",
+      "published": true,
+      "name": "Koan Sound",
+      "body": "Armed with diligence, musical prowess, and a progressive vision, KOAN Sound portray the future of electronic music. Fueled by a penchant for groove and precision, Jim Bastow and Will Weeks\neach grew up with a forward-thinking musical identity that led to collaboration during their\nformative years. Representing Bristol’s celebrated lineage of cutting-edge musicians, KOAN\nSound made their introduction to the scene in 2008, turning the heads of underground\nenthusiasts. With 10 years and a bulk of releases under their belt, KOAN Sound’s capacity to\nmove the needle in electronic music is stronger than ever.\n\nThumbing through their diverse discography, KOAN Sound’s ability to deliver a catalogue ranging\nfrom opulent productions to volatile dancefloor weapons demonstrates their innovation and impact across the industry. The duo’s meticulous approach to production gave listeners heavy,\nfully-loaded releases like 2011’s Funk Blaster EP and ambient, cinematic cuts like 2013’s\nSanctuary EP, both released via Skrillex’s renowned imprint OWSLA.\n\nHalting their release schedule for three years beginning in 2015, the return of KOAN Sound\nignited fans and tastemakers alike in 2018 with the announcement of their debut full-length record,\nPolychrome. The duo crafted this project with a hands-on style of production; beyond their mettle\nin the studio, KOAN Sound took on self-funding, manufacturing, promoting, and releasing the\nalbum independently through their own label, Shoshin. Spanning 11 contemporary electronic\ntracks and a sophisticated visual aesthetic, Polychrome speaks for the duo’s innovative legacy.\n\nGraduating from their beginnings as a support act on tour with artists like Skrillex and Bassnectar\nto developing their own audio-visual headlining tour across North America, KOAN Sound now\noffer a new experience for fans through live performance. The duo took their audiovisual show\nacross the UK and North America throughout fall 2019, playing ambitious gigs in cities such as\nLondon, Los Angeles and a sold-out show in Denver’s ‘The Mission Ballroom’ with Opiuo. Looking\nahead, KOAN Sound are approaching 2020 with a busy release schedule and plenty of surprises\nfor longtime fans — in true KOAN Sound fashion, their next move is certain to ripple across the\nscene",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261051_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261051_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261051_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261051_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "koansound",
+        "instagram_user": "koansound",
+        "twitter_user": "koansound",
+        "youtube_user": "channel/UCazuZ5iU8LfQ6-IucPhctKQ",
+        "soundcloud_user": "koan-sound",
+        "spotify_artist_id": "1NCLweIUpq8knzemBwAwoo"
+      },
+      "performances": [
+        {
+          "id": 183154,
+          "external_id": "855995",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995682,
+          "stage_id": 7955,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-31T06:48:12+00:00",
+          "start_time": "2024-07-29T10:30:00+00:00",
+          "end_time": "2024-07-29T12:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:51:51+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995613,
+      "external_id": "173968",
+      "published": true,
+      "name": "Phibes",
+      "body": "Having worked meticulously to earn their place at Drum & Bass' elite table, brothers Scott and Ryan Wild continue to eclipse expectations with their groundbreaking sound. Having been the top-selling Drum & Bass duo on Beatport, topping 100k followers on SoundCloud and touring multiple continents, Phibes continue to solidify their position as one of the most in-demand hard ticket acts in the genre.\n\nTheir output is evident in a stellar touring and release schedule, further reinforced by their 7 Beatport No.1's and 7 months as the world’s No.1 DnB artist on the platfom.\n\nA testament to their veteran status and undeniable on-stage chemistry, Phibes have fast become favourites on the festival circuit. Highlights include Boomtown, Let It Roll, Boardmasters, Sundown Festival, Shambala, Glastonbury, Rampage, Bassfest, High Tea Festival, Balter Festival, Fearfest, Hive Festival, U-Fest, Boundary Festival, Isle of Wight Festival, Trident Festival, Noisily Festival.\n\nAs the world eagerly awaits their next sonic revelation, Phibes stand tall as a testament to the power of passion and innovation in music.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260991_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260991_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260991_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260991_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "phibesaday",
+        "instagram_user": "phibesuk/",
+        "youtube_user": "playlist",
+        "soundcloud_user": "PHIBES",
+        "spotify_artist_id": "21VZgcYa29ZVvRQzmUNakx"
+      },
+      "performances": [
+        {
+          "id": 183080,
+          "external_id": "856013",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995613,
+          "stage_id": 7949,
+          "date_id": 2879,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-29T23:47:10+00:00",
+          "start_time": "2024-07-28T04:30:00+00:00",
+          "end_time": "2024-07-28T05:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:51:37+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995531,
+      "external_id": "167131",
+      "published": true,
+      "name": "Justin Martin",
+      "body": "As the late Oscar Wilde once said: “life is too important to be taken seriously”, an ethos that Justin Martin is sticking with despite achieving soaring success over the last six years as a producer and international DJ. Justin initially pricked the ears of the electronic music community in 2003 with his first record ‘The Sad Piano’ on Ben Watt’s Buzzin’ Fly label.\n\nFeeding off the energy of the San Francisco underground, Justin was intrinsically involved with the development of Dirtybird records, appearing on its first four releases. Justin was soon ready to take flight, releasing a string of solo EPs that flaunted a very unique sound and garnered further respect among fellow DJs and heavyweights of the scene.\n\nMusic journalists typically describe Justin’s sound as ‘melodic and tough’ with his music encapsulating both melody and emotional depth yet always with enough undeniable ass-shaking properties to translate to the floor.\n\n“I’m always trying to find music for my DJ sets that rattles sound systems, but still has enough melody and interesting texture to expand your mind even if you’re sitting at home on a snowy or rainy day.”\n\nLast year, Justin released his extremely well-received remixes for Rüfüs Du Sol and Ultraísta, as well as a collaborative project with fellow producer Ardalan, which was put out on his brother Christian Martin’s label, Trippy Ass Technologies.\n\nIn 2020, Justin launched his new label ‘What To Do...’, kicking things off with his first single ‘Needs’. The label will focus on his distinctive sound and include special collaborative works. With these upcoming releases, there will be no holding back. Justin launched his new project with the intention of diving deeper creatively and pushing the limits of his sound. To everyone who is curious about what’s to come, “expect music with emotional depth combined with raw dancefloor grit.”",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260915_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260915_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260915_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260915_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "justinmartinmusic",
+        "instagram_user": "justinmartin/",
+        "twitter_user": "justinmartin",
+        "soundcloud_user": "justin-martin-music",
+        "spotify_artist_id": "4FN8WHqUbwkd97WEjoCu7B"
+      },
+      "performances": [
+        {
+          "id": 182996,
+          "external_id": "855474",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995531,
+          "stage_id": 7941,
+          "date_id": 2878,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-01T21:49:26+00:00",
+          "start_time": "2024-07-27T06:00:00+00:00",
+          "end_time": "2024-07-27T07:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:51:36+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995563,
+      "external_id": "1916442",
+      "published": true,
+      "name": "Eprom",
+      "body": "EPROM is one of the vibrant West-Coast scene’s most colourful characters and an important cog in the international Rwina machine. He’s a consummate post-millennial producer, and his sound varies from toxic hip-hop to searing garage mutations to bizarre concoctions somewhere in between. His beats jiggle and drip and contort wildly, always in some perpetual state of melting, churning, and mutation. He’s had releases on Warp, Surefire, and Bristol-based Bad Acid, but it’s his Rwina releases that have been the most visible and enduring, whether it’s the timestretch torture and fierce melodic geysers of “Humanoid” or deconstructionist mayhem of his “Pipe Dream” EP, where dubstep and grime collide for a staggering beast that shakes off heavy blotches of radioactive fluorescent sludge with every beat that lands. His live sets are something to behold as well, emphasizing the hip-hop roots that lurk underneath his sewer beats, and an hour of EPROM is bound to turn your brain into to the same sort of goo that gums the gears of his distinctive beats.\n\nFans and supporters of Eprom include Flying Lotus, ?uestlove, DJ Shadow, Rustie, The Gaslamp Killer, The Glitch Mob and BBC Radio One’s Mary Anne Hobbs, and the producer has shared the stage with many of the international electronic music community’s hottest artists. With his new album, Metahuman, garnering critical acclaim from all corners, Eprom is finally getting the recognition he has earned as an integral part of the giant bouncing backbone of West Coast Sound.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260942_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260942_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260942_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260942_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "eprombeats",
+        "instagram_user": "eprombeats",
+        "twitter_user": "eprombeats",
+        "youtube_user": "c/Eprombeats",
+        "soundcloud_user": "epromofficial",
+        "spotify_artist_id": "2c2X6dr1PHctH24BxNOjHi"
+      },
+      "performances": [
+        {
+          "id": 183029,
+          "external_id": "855468",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995563,
+          "stage_id": 7945,
+          "date_id": 2879,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-31T06:48:12+00:00",
+          "start_time": "2024-07-28T10:00:00+00:00",
+          "end_time": "2024-07-28T11:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:51:36+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995592,
+      "external_id": "1916433",
+      "published": true,
+      "name": "Tipper",
+      "body": "Tipper is a British composer and producer specializing in electronic music that ranges from ambient, through trip hop, to uptempo nu skool breaks. His live performances consist largely of his own unreleased compositions, and he is noted for scratching his own sounds over his music, creating a live element of turntablism stemming from prowess early in his career as a vinyl DJ.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260971_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260971_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260971_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260971_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "tippermusic",
+        "instagram_user": "tippermusic/",
+        "twitter_user": "tippermusic",
+        "soundcloud_user": "tippermusic",
+        "spotify_artist_id": "1soJ22UMyjIw6SYFtoFJwe"
+      },
+      "performances": [
+        {
+          "id": 183059,
+          "external_id": "855454",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995592,
+          "stage_id": 7944,
+          "date_id": 2879,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-29T23:47:10+00:00",
+          "start_time": "2024-07-28T01:00:00+00:00",
+          "end_time": "2024-07-28T02:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        },
+        {
+          "id": 183119,
+          "external_id": "855453",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995592,
+          "stage_id": 7952,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-31T06:48:12+00:00",
+          "start_time": "2024-07-29T08:30:00+00:00",
+          "end_time": "2024-07-29T09:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-10T19:51:02+00:00",
+      "show_section_titles": true
+    },
+    {
       "id": 1995626,
       "external_id": "1909884",
       "published": true,
@@ -183,52 +1329,6 @@
       "show_in_intake": true,
       "show_in_artists": true,
       "modified_at": "2024-06-10T12:57:33+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995630,
-      "external_id": "1916928",
-      "published": true,
-      "name": "HOOLAANDTHEGANG",
-      "body": "Born within days and a few blocks away from where the Apache break was recorded Hoola was off to a good start at a very young age. When he was gifted Michael Jacksons “Off the Wall” album in 94 it started a serious life long obsession with acquiring every disco funk record ever made in the world. Also that year moved to Van city from Nelson to experience the heyday of the “rave” scene and witness the impact that House music had on a culture that was happening on a fairly large scale. Dickie Doo,T-Bone, Minute Maid, Markem, Doc Martin, Ali, Czech, Little T, Lace, Tripwire, Hebegebe ,Dee Lite, Garth, Jeno, Spun-K (aka Vinyl Richie) and all the other DJ’s who played the legendary Lux Theatre on Hastings were the earliest inspirations and introduction to the underground. Quite soon after tried to teach himself how to make people dance to disco records in 95/96 in Victoria B.C. where djs Koosh, Rennie dubnut foster, tyger dhula, and Wood and the original boomtown records were holding it down. In 97 back in Nelson Hoola , with a crafty business plan made his mom somehow convinced the government and community futures to give him a loan to be a DJ because there was only 1 other in town back then. The next year he packed up and moved out east to Halifax to help throw the first full moon outdoor parties and work at Vitamin Tribe Imports record store with then future wife and super dj Lion-S Also at the same time headlining the first Shambhala with a cassette tape?!? While in Halifax he hooked up with east coast hip hop guru and funk soul digger legend Jorun who taught him the ropes in deep digging and the original funk breaks. There he would learn about the roots of it all and build an empire of old school even Vader would envy. As the decade came to an end Y2K and the end of the world was looming and Hoola, scared to die on the East, ran back to the hills of B.C. just in time to headline Shambhala 1999 and the 1st yr of the Fractal Forest. By 2001 he started doing the scheduling for a very unorganized yet undeniably wicked party and by 2002 took on all the artist bookings with partner Lion-S. Holding a 8 yr residency In Nelson at club Avalon that later turned into the Legendary Fluid would turn out to be home for Shambhala all year round and a place for underground music to exist in Nelson for years to come. This is where and when Vitamin Tribe evolved into The Pride and promoting djs year round came about. Thanks to them RaSoul, Buck, Garth, Metro Area, Doc Martin,Soul of Man, Adam Freeland, Krafty Kuts ,Solomonic Sound,John Howard, Freq Nasty, Mat the Alien, Vinyl Ritchie, Smalltown djs, Bassnectar,Skream, Glitch Mob and basically everyone from A-Skills to Z-trip have experienced the Kootenay Vibe. Around 2003 till the present The Pride took the reigns of the beach stage at Shambhala and called it the Living Room.The rest has become the stuff legends are made of",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/65/thumb_5264973_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/65/thumb_5264973_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/65/thumb_5264973_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/65/thumb_5264973_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "hoola_and_the_gang"
-      },
-      "performances": [
-        {
-          "id": 183098,
-          "external_id": "856324",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995630,
-          "stage_id": 7951,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-03T16:47:45+00:00",
-          "start_time": "2024-07-28T21:15:00+00:00",
-          "end_time": "2024-07-28T22:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-10T12:57:17+00:00",
       "show_section_titles": true
     },
     {
@@ -2039,104 +3139,6 @@
       "show_section_titles": true
     },
     {
-      "id": 1995632,
-      "external_id": "187454",
-      "published": true,
-      "name": "Mark Woodyard",
-      "body": "Often referred to as a “Human Jukebox”, Mark Woodyard’s knowledge of music spans effortlessly across eras and genres. A multi-talented musician who uses looping machines, his voice and guitar, Woodyard is best known for his wide array of genre-bending covers that showcase his vocal range and eclectic sound creating truly unique and dance-inspiring performances. With no two shows sounding the same, Woodyard’s improv-esque style is reminiscent of a Reggie Watts and Marc Rebillet lovechild - a multi-instrumentalist who captivates audiences and sparks dancefloors seconds after taking to the stage.\n\nBorn and raised in North Vancouver, Mark Woodyard is no rookie to the live music scene having played live for the better part of the last two decades reaching some of the worlds most unique festival stages including BassCoast, Shambhala, and Envision, as well as becoming a mainstay at private events frequently requested by some of the countries most iconic brands.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261000_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261000_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261000_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261000_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "woodyardmusic",
-        "instagram_user": "markwoodyard/",
-        "youtube_user": "markjameswoodyard",
-        "soundcloud_user": "woodyard"
-      },
-      "performances": [
-        {
-          "id": 183100,
-          "external_id": "855961",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995632,
-          "stage_id": 7951,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-29T23:47:10+00:00",
-          "start_time": "2024-07-28T23:30:00+00:00",
-          "end_time": "2024-07-29T00:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-10T12:55:34+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995668,
-      "external_id": "1916435",
-      "published": true,
-      "name": "Ben UFO",
-      "body": "Over the past five years, Ben UFO has acquired a deserved reputation as one of contemporary dance music’s most daring and wide-ranging selectors, with his keen ear and razor-sharp technical abilities enabling him to cut between eras, lineages and mixing styles with dazzling ease and fluidity. \n\nHaving cut his teeth in early dubstep and drum ’n’ bass, his roots lie in UK rave culture - yet his selections cast the net wider, drawing new mutations of this culture into the orbit of house, techno and other global dancefloor sounds. In the club, his sets somehow manage to be simultaneously considered and raucous, sliding from sidewinding broken rhythms into an irresistible four-to-the-floor groove, or broadsiding you with unexpected tangents, old favourites and bizarre secret weapons.\n\nThomson’s development as a DJ has been inextricably linked to the maturing of Hessle Audio, the label he co-founded in 2007 alongside Pearson Sound and Pangaea. Just as dubstep was starting to unfurl into a sprawling, globalised festival sound, Hessle Audio, in stark contrast, emerged with a strikingly focused, spacious and percussive aesthetic. As the scene continued to unravel, they went on to become one of the most coherent focal points within a rapidly diverging UK dance music community, through their DJ sets, label releases and radio shows on London station Rinse FM. Listening back to Ben’s two official mix CD releases, 2011’s Rinse:16 and 2013’s Fabriclive.67, you can hear snapshots of that evolutionary process in action; they plot subtle and often surprising connections between the pirate radio-borne genres he grew up with, and the worldwide house and techno scene.\n\nIt’s refreshingly difficult to pin down what makes Ben’s DJing distinctive and exciting, whether you encounter it on the radio, in a recorded mix or on the dancefloor. If there’s a core characteristic of his approach it’s an infectious warmth and restless love of exploration, exemplified by his habit of meshing mind-bendingly strange tracks into peak-time sets, and by the way his Thursday night shows on Rinse FM weave together jacking unreleased dance cuts with new finds and dubbed-out oddities from across the globe. In the club, he shapes these elements into something rich and unpredictable, interspersing phases of driving momentum with joyful curveballs and ruptures in the flow that jolt you back to your senses — moments, as he describes it, that feel like coming up for air on the dancefloor.\n\nThis fascination with the possibilities of dance music, stemming from Thomson’s formative years spent absorbing the sound-system weight of London’s Plastic People club, extends to his desire to continue playing for huge crowds as well as in tiny, sweaty basements — from large-scale outdoor festivals and world-renowned clubs such as Fabric and Panoramabar, to the intimate spaces of Hamburg’s Golden Pudel, Tokyo’s Air, or Freerotation festival, where the Hessle Audio trio are annual residents. The appeal of his fluid and open-minded approach is self-evident in the way it crosses genre crowds and spans nominal divides between underground and mainsteam. In recent years, for example, he’s played back-to-back with DJs as varied in style as Jackmaster, Morphosis, Gerd Janson, Joy Orbison and DJ Nobu, as well as recording mixes for both staunchly independent platforms like The Trilogy Tapes and Truants, and for widely-acclaimed series such as Resident Advisor and BBC Radio 1’s long-running Essential Mix.\n\nFrom their early years in Leeds, Ben UFO and Hessle Audio have evolved into core figures in an increasingly globally-connected dance music scene. Having provided an early platform for music from kindred innovative spirits such as Blawan, Peverelist, Untold and Joe, the label continues to release new music from both its founders and emerging new artists. This openness marks the cornerstone of Ben’s approach: drawing connections, exploring new ideas, and feeding some of Hessle Audio’s energy and enthusiasm back into the musical communities of which they are an integral part.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261037_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261037_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261037_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261037_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "BenUFO.DJ",
-        "instagram_user": "ben___ufo",
-        "twitter_user": "benufo",
-        "soundcloud_user": "benufo"
-      },
-      "performances": [
-        {
-          "id": 183140,
-          "external_id": "855457",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995668,
-          "stage_id": 7954,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-31T06:48:12+00:00",
-          "start_time": "2024-07-29T08:00:00+00:00",
-          "end_time": "2024-07-29T09:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-10T12:55:29+00:00",
-      "show_section_titles": true
-    },
-    {
       "id": 1995536,
       "external_id": "174081",
       "published": true,
@@ -3616,152 +4618,6 @@
       "show_section_titles": true
     },
     {
-      "id": 1995527,
-      "external_id": "187818",
-      "published": true,
-      "name": "Case of the Mondays",
-      "body": "Case of the Mondays is a classic story about two best friends friends making music in paradise...Joni T & La Dooda met in a dark basement nightclub fighting over a single vodka soda. The bartender saw their struggle and one free vodka soda later…they became best friends and started writing House Music. Not just any house music either. Their sound can be described as High-Energy-Bass-Driven-Tech-House. Since that doesn’t really roll off the tongue, the boys call their style of music = FUN HOUSE. If your looking for a good time you’ve come to the right place. Case of the Mondays transforms Dance Floors into Magical Worlds where its okay to dance all night, call in sick for work, and spill drinks. Everyday is a Monday! [Warner Music, DirtyBird, Box of Cats, Medium Rare, Westwood, COTM Records]",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260912_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260912_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260912_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260912_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "caseofthemondaysofficial",
-        "instagram_user": "caseofthemondayss/",
-        "soundcloud_user": "caseofthemondaysofficial",
-        "spotify_artist_id": "0TcmYfWCoJWqMBHWmLr3LL"
-      },
-      "performances": [
-        {
-          "id": 182992,
-          "external_id": "856062",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995527,
-          "stage_id": 7941,
-          "date_id": 2878,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-01T01:18:01+00:00",
-          "start_time": "2024-07-27T02:15:00+00:00",
-          "end_time": "2024-07-27T03:15:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-10T12:53:58+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995584,
-      "external_id": "1916455",
-      "published": true,
-      "name": "Shlohmo",
-      "body": "Shlohmo, born Henry Laufer, is an artist and musician from Los Angeles. \n\nRenowned for his experimental productions that fuse far-ranging elements of shoegaze, R&B, doom metal, screw, and IDM, he has released 3 studio albums to critical acclaim, Bad Vibes (2011), Dark Red (2015), and The End (2019), along with several popular EP’s, collaborative projects (Jeremih “No More” EP), and a vast catalogue of remixes (Drake & The Weeknd’s “Crew Love”). \n\nFounder of LA-based record label and artist collective, Wedidit Records, Laufer first received attention for his early releases, his first full-length LP, 2011’s 'Bad Vibes', becoming an early staple of the lo-fi bedroom producer genre. \n\nSoon, Shlohmo’s signature ominous, occult soundscape became immediately identifiable on increasingly prominent production credits. 2014’s collaborative “No More” EP with Jeremih helped solidify this unique sound into becoming a contemporary pop production mainstay. Shlohmo has since produced for names such as, Corbin, Yung Lean, Post Malone, Drake,  Joji, Banks and more.\n\n2020 brought Shlohmo’s latest project, 'Heaven Inc.’, a four song EP expanding on last years ‘The End’ LP.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260963_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260963_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260963_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260963_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "shlohmo/",
-        "soundcloud_user": "shlohmo",
-        "spotify_artist_id": "6y80I9YZi4DOpbaSUlL725"
-      },
-      "performances": [
-        {
-          "id": 183051,
-          "external_id": "855486",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995584,
-          "stage_id": 7947,
-          "date_id": 2879,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-31T06:48:12+00:00",
-          "start_time": "2024-07-28T09:30:00+00:00",
-          "end_time": "2024-07-28T11:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-10T12:53:57+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995646,
-      "external_id": "1916732",
-      "published": true,
-      "name": "Moore Kismet",
-      "body": "The alias Moore Kismet (meaning \"more than fate\") is a representation of 18-year-old musician and Omar Davis that expresses their continual creative journey. Moore Kismet has garnered support from some of the biggest media platforms in the world. Constantly leading the charge, they were included in Billboard's 21 Under 21 list three vears in a row (2020/2021/2022) and were named the youngest artist to ever perform at both Lollapalooza and EDC Las Vegas in 2021. Moore Kismet excels as a multidisciplinary creative with a focus on visual arts, filmmaking and graphic design. Moore Kismet’s unique production style and stage presence is anything but predictable, which has set them apart from the crowd. Releasing their debut album UNIVERSE this past June, the world of Moore Kismet exploded.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261014_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261014_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261014_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261014_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "moorekismet",
-        "instagram_user": "moorekismet",
-        "twitter_user": "moorekismet",
-        "spotify_artist_id": "50uPj85gZxHFuFOlNBnnr5"
-      },
-      "performances": [
-        {
-          "id": 183115,
-          "external_id": "856003",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995646,
-          "stage_id": 7952,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-29T23:47:10+00:00",
-          "start_time": "2024-07-29T03:30:00+00:00",
-          "end_time": "2024-07-29T04:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-10T12:53:57+00:00",
-      "show_section_titles": true
-    },
-    {
       "id": 1995671,
       "external_id": "167112",
       "published": true,
@@ -3858,54 +4714,6 @@
       "show_in_intake": true,
       "show_in_artists": true,
       "modified_at": "2024-06-10T12:53:56+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995675,
-      "external_id": "187851",
-      "published": true,
-      "name": "ColtCuts",
-      "body": "Colton has quickly become an internationally recognized producer with releases on many of the most prestigious labels in the scene (Deep, Dark & Dangerous/Dank n’ Dirty Dubz/Duploc/Hatched/Sleeveless Records). With a full release schedule through 2020, this is one young producer to keep your ears open for. ColtCuts is known for his variety of productions ranging from deep dubstep all the way to more modern halftime, giving a wide array of sounds to his live performance. His sound has captured the interest of countless industry heavyweights with a no-nonsense approach, impeccable sound design and tasteful balance of light and dark.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261044_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261044_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261044_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261044_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "ColtCutsMusic",
-        "instagram_user": "coltcutsmusic",
-        "soundcloud_user": "coltcutsmusic"
-      },
-      "performances": [
-        {
-          "id": 183147,
-          "external_id": "856066",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995675,
-          "stage_id": 7955,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-30T00:02:11+00:00",
-          "start_time": "2024-07-29T02:00:00+00:00",
-          "end_time": "2024-07-29T03:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-10T12:53:51+00:00",
       "show_section_titles": true
     },
     {
@@ -4586,57 +5394,6 @@
       "show_section_titles": true
     },
     {
-      "id": 1995596,
-      "external_id": "166927",
-      "published": true,
-      "name": "Moontricks",
-      "body": "Based in the rustic Kootenay mountains of Western Canada, Nathan Gurley and Sean Rodman of nationally renowned electro-folk duo Moontricks draw inspiration from the ongoing cycles of the natural world. Both volatile and constant—like nature’s best offerings—the band finds solace and beauty in the fusion of seemingly disparate elements. There’s a kind of technicolor campfire quality to their uniquely hybrid sound: Each track is steeped in tradition and polished with a futuristic sheen, mixing organic folk, roots rock, and old-time blues with modern electronic production. Since its initial release, the band’s breakout hit “Home” has reached over 5 million streaming plays, and their original tracks have been licensed for a wide range of television networks, including Netflix and Fox Sports. With the release of their debut full-length album Currents, the duo reveals an ever-evolving, cohesive blend of introspective writing, soulful, gritty blues, boot-stomping basslines, and intricate electronic arrangements.\n \nGurley and Rodman first connected at a music festival in rural BC, then collaborated on a series of rhythmic, instrumental soundscapes that eventually developed into their signature electro-folk sound. After dropping their debut single “Home” in 2013, they joined international tours and festivals in Australia, Costa Rica, and across the USA, gaining a loyal following for their dynamic live shows, which feature a rotating assortment of guitar, keys, banjo, and vocals accented with original electronic elements. Now with their debut album Currents released September 09, 2022 via Westwood Recordings, Moontricks honor the steadfast cycles of nature that carry the world forward, despite the chaos around and inside us. “The solace found in reaching past our personal confines into the vastness beyond them is something we return to again and again—in nature and in our music,” says lead singer and songwriter Rodman. Gurley, who focuses on production, views the album as a series of paths leading into unknown territory. Vast, intimate, and dazzling, Currents is an album about settling into feeling comfortably lost, and being okay with not knowing it all. It’s about finding joy and inspiration in the act of seeking.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260975_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260975_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260975_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260975_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "Moontricks",
-        "instagram_user": "moontricks_music/",
-        "twitter_user": "moontricksmusic",
-        "youtube_user": "channel/UCvV_EDcjQ7dunN6crjdazkQ",
-        "soundcloud_user": "moontricks",
-        "spotify_artist_id": "6o52orvClP7ba1qV4zMVlg"
-      },
-      "performances": [
-        {
-          "id": 183063,
-          "external_id": "855963",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995596,
-          "stage_id": 7944,
-          "date_id": 2879,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-29T23:47:10+00:00",
-          "start_time": "2024-07-28T07:00:00+00:00",
-          "end_time": "2024-07-28T08:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-10T12:53:14+00:00",
-      "show_section_titles": true
-    },
-    {
       "id": 1995506,
       "external_id": "1916450",
       "published": true,
@@ -4985,106 +5742,6 @@
       "show_section_titles": true
     },
     {
-      "id": 1995653,
-      "external_id": "188009",
-      "published": true,
-      "name": "The Sponges",
-      "body": "From the deepest and darkest soul-snatching pits of the inescapable swampy hellscape known as Florida, arose an unlikely glimmer of light… The Sponges. Blending classic scrunchy-faced funk with next level bass house production, The Sponges have carved their own lane in electronic music.\n\nHaving gained support from artists such as GRiZ, Zeds Dead, Tchami, AC Slater, The Floozies, Manic Focus and Jauz, it’s clear that their infectious sound is the perfect addition to peak party hours.\n\nDue to their deep-rooted love for hippie fests and nightclub debauchery, the duo’s mission has always been to blend sounds, bend bodies, and deliver the most fun and energetic listening experiences to audiences everywhere. After FIVE #1 records on Beatport, The Sponges are well on their way to establishing themselves as one of the greatest acts to ever grace the sonic wasteland known as the electronic music industry. Prepare your playlists for the dukes of disco, the future of funk, the lords of the low-end, the czars of certified bangers, the emperors of ecstasy, the rulers of the rave, the bassline bastards, and the gods of groove as they gear up for an explosive year in 2024!",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261021_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261021_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261021_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261021_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "thespongesmusic",
-        "instagram_user": "thesponges/",
-        "twitter_user": "thespongesrback",
-        "youtube_user": "channel/UCJrWLS2B7ZPRZNawbRjvrsw",
-        "soundcloud_user": "thesponges",
-        "spotify_artist_id": "3cj6O7NrjS5l0CVo8LhpV1"
-      },
-      "performances": [
-        {
-          "id": 183124,
-          "external_id": "856028",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995653,
-          "stage_id": 7953,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-29T23:47:10+00:00",
-          "start_time": "2024-07-29T04:00:00+00:00",
-          "end_time": "2024-07-29T05:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-10T12:53:00+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995676,
-      "external_id": "1916728",
-      "published": true,
-      "name": "LYNY",
-      "body": "“Music has always been a big part of my life. I’ve been producing and writing music for as long as I can remember and it has become an essential form of self expression. I started the LYNY project in 2016 with a vision and goals in mind as I wanted to start fresh on a project with direction. It’s been a non-stop grind of learning the art of production, focusing on creating my own sound, and making tracks that are unusually unique while stressing on keeping them high-quality and clean. There is nothing I would rather be doing and I am super thankful for my journey thus far” - LYNY",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261045_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261045_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261045_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261045_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "lynyofficial",
-        "twitter_user": "lynyofficial",
-        "soundcloud_user": "lynyofficial",
-        "spotify_artist_id": "7xqIp1044Z2vd9v9ZphjLa"
-      },
-      "performances": [
-        {
-          "id": 183148,
-          "external_id": "855999",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995676,
-          "stage_id": 7955,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-01T07:34:16+00:00",
-          "start_time": "2024-07-29T03:00:00+00:00",
-          "end_time": "2024-07-29T04:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-10T12:53:00+00:00",
-      "show_section_titles": true
-    },
-    {
       "id": 1995479,
       "external_id": "1916721",
       "published": true,
@@ -5123,56 +5780,6 @@
           "modified_at": "2024-06-03T01:19:38+00:00",
           "start_time": "2024-07-27T08:30:00+00:00",
           "end_time": "2024-07-27T10:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-10T12:52:55+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995503,
-      "external_id": "167266",
-      "published": true,
-      "name": "ATYYA",
-      "body": "ATYYA [pronounced ah-tie-ah] is the music project of Canadian Producer Tyy Clark. ATYYA’s illustrious sound features dark alluring baselines, mesmerising percussive grooves, and other worldly atmospheres. Tyy Started producing music in 2006, Launched ATYYA in 2012, and began touring internationally in 2013. As of now, he has more than 100 tracks released, and more than 10 million plays. ATYYA’s signature sound is recognised globally which has brought him on tour throughout North America, as well as many exotic destinations including Turkey, Israel, The Netherlands, New Zealand, Colombia, Guatemala, Costa Rica and more.\nTyy is the founder and CEO of Production Labs, an online brand selling Sample Packs, Courses, and more. Additionally, he is a professional mixing & Mastering engineer. “ATYYA Mastering” has been active for over 6 years with nearly 1000 songs mastered for his clients to date.\n\nTyy is also a Trained Keyboardist & Percussionist who studied at the Victoria Conservatory of Music. His technical understanding of music combined with his boundless artistic passion fuel his success in the studio. ATYYA’s fans have much to look forward to this year with an array of new music releases, live mixes, and tour dates, supporting ATYYA’s motive to bring people together through music.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260890_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260890_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260890_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260890_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "tyymusic",
-        "instagram_user": "_atyya_/",
-        "soundcloud_user": "atyya",
-        "spotify_artist_id": "36NAuk7D3nO0JFfgZf3XI7"
-      },
-      "performances": [
-        {
-          "id": 182968,
-          "external_id": "855511",
-          "published": true,
-          "name": "Atyya",
-          "priority": 100,
-          "artist_id": 1995503,
-          "stage_id": 7940,
-          "date_id": 2878,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-29T23:47:09+00:00",
-          "start_time": "2024-07-27T04:30:00+00:00",
-          "end_time": "2024-07-27T05:30:00+00:00",
           "show_image_in_schedule": true,
           "hide_end_time": false
         }
@@ -5389,55 +5996,6 @@
       "show_section_titles": true
     },
     {
-      "id": 1995476,
-      "external_id": "1916513",
-      "published": true,
-      "name": "Chef Boyarbeatz",
-      "body": "Denver's newest resident by way of Los Angeles, Chef Boyarbeatz offers a unique perspective on underground bass production. The Icon Collective grad earns recognition from both mainstream and underground production elites with his nostalgic take on heavy breaks and UK-inspired soundscapes.\n\nWith releases on a variety of notable labels including Deep Dark and Dangerous, Deadbeats, and Bassrush, Chef Boyarbeatz takes obscure sounds to new heights. Not only known for his production prowess, his unique DJ sets have captivated fans at every stop. The last two years have seen exponential growth for the project both in the studio and on stage. In 2022, his track “Steady Slurkin'” was voted the #1 dubstep song of the year, and landed him headlining dates across the country. The following year saw a surge in festival dates with breakout performances at Infrasound, Okeechobee, and Insomniac's Apocalypse. With support from Skream, Zeds Dead, Of The Trees, Ternion Sound, and many more, this year ushers in the dawn of Chef's hand-crafted curated lineups, major tour support for Boogie T, and more iconic festival appearances.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260864_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260864_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260864_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260864_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "chef_boyarbeatz/",
-        "twitter_user": "chef_boyarbeatz",
-        "soundcloud_user": "chef_boyarbeatz",
-        "spotify_artist_id": "7nSk3iFPogRCOokrMliejt"
-      },
-      "performances": [
-        {
-          "id": 182941,
-          "external_id": "855606",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995476,
-          "stage_id": 7938,
-          "date_id": 2878,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-29T23:47:09+00:00",
-          "start_time": "2024-07-27T04:30:00+00:00",
-          "end_time": "2024-07-27T05:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-10T12:52:53+00:00",
-      "show_section_titles": true
-    },
-    {
       "id": 1995530,
       "external_id": "174063",
       "published": true,
@@ -5475,55 +6033,6 @@
           "modified_at": "2024-05-29T23:47:09+00:00",
           "start_time": "2024-07-27T04:45:00+00:00",
           "end_time": "2024-07-27T06:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-10T12:52:53+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995532,
-      "external_id": "1916737",
-      "published": true,
-      "name": "Justin Martin B2B Chris Lorenzo",
-      "body": "As the late Oscar Wilde once said: “life is too important to be taken seriously”, an ethos that Justin Martin is sticking with despite achieving soaring success over the last six years as a producer and international DJ. Justin initially pricked the ears of the electronic music community in 2003 with his first record ‘The Sad Piano’ on Ben Watt’s Buzzin’ Fly label.\n\nFeeding off the energy of the San Francisco underground, Justin was intrinsically involved with the development of Dirtybird records, appearing on its first four releases. Justin was soon ready to take flight, releasing a string of solo EPs that flaunted a very unique sound and garnered further respect among fellow DJs and heavyweights of the scene.\n\nMusic journalists typically describe Justin’s sound as ‘melodic and tough’ with his music encapsulating both melody and emotional depth yet always with enough undeniable ass-shaking properties to translate to the floor.\n\n“I’m always trying to find music for my DJ sets that rattles sound systems, but still has enough melody and interesting texture to expand your mind even if you’re sitting at home on a snowy or rainy day.”\n\nLast year, Justin released his extremely well-received remixes for Rüfüs Du Sol and Ultraísta, as well as a collaborative project with fellow producer Ardalan, which was put out on his brother Christian Martin’s label, Trippy Ass Technologies.\n\nIn 2020, Justin launched his new label ‘What To Do...’, kicking things off with his first single ‘Needs’. The label will focus on his distinctive sound and include special collaborative works. With these upcoming releases, there will be no holding back. Justin launched his new project with the intention of diving deeper creatively and pushing the limits of his sound. To everyone who is curious about what’s to come, “expect music with emotional depth combined with raw dancefloor grit.”\n\nChris Lorenzo's rise to the upper echelons of the house and bass scene is one of electronic music's more notable success stories. Widely acknowledged for pioneering a sound that has become increasingly prominent throughout the UK, US and many other parts of the world, Lorenzo's flawless production and high-octane DJ sets have earned him a fanatical and ever-growing global following.\n\n2022 saw career highs across the board for Lorenzo -- on the live front, playing the Main Stage at EDC Vegas where he went b2b with AC Slater as well as making his debut at Bonnaroo, Lollapalooza and Rock in Rio. Lorenzo rounded off the year with sold-out performances at The Shrine for his Fly With Us project with AC Slater, along with his own 12-date North American 'Places & Faces' headline tour.\n\nKey releases include 'California Dreamin' -- Beatport No.1 and surpassing 100 million streams across all platforms. His remix of J Balvin & Skrillex -- 'In Da Getto,' which was the most played remix of 2021 according to 1001 Tracklists' 'A State of Dance Music Report' (SDMR) sustained its momentum, making it #3 Most Heard Track of 2022. Lorenzo's remix resonated so well with audiences across the globe that J Balvin opted to perform this version over the original track on Good Morning America, which broadcast to +3 million people. 'Chromatic' -- Lorenzo's collaboration with Chris Lake under their Anti Up alias and another Beatport No.1 was the #1 Most Heard Track of 2022 according to the latest 'SDMR.' The overwhelming support for his music this last year has seen Lorenzo become Beatport's 9th best-selling artist globally and hold #13 position in 1001 Tracklists Top 101 Producers of 2022.\n\nLorenzo's latest impact on the electronic music landscape is his ground-breaking single 'MAMI,' on which he teamed up with one of electronic music's most exciting and innovative artists -- COBRAH. The incendiary collab which burned its way to #3 Bass House Track of 2022 has consistently been setting dancefloors alight as a staple feature in the sets of Fisher, Dom Dolla, Chris Lake and continues to be an unrelenting favourite amongst the wider DJ circuit and fans alike.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263446_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263446_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263446_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263446_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "justinmartinmusic",
-        "instagram_user": "chrislorenzo66",
-        "soundcloud_user": "chris-lorenzo-1",
-        "spotify_artist_id": "4FN8WHqUbwkd97WEjoCu7B"
-      },
-      "performances": [
-        {
-          "id": 182997,
-          "external_id": "856009",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995532,
-          "stage_id": 7941,
-          "date_id": 2878,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-10T06:48:04+00:00",
-          "start_time": "2024-07-27T07:00:00+00:00",
-          "end_time": "2024-07-27T07:30:00+00:00",
           "show_image_in_schedule": true,
           "hide_end_time": false
         }
@@ -5796,57 +6305,6 @@
       "show_in_intake": true,
       "show_in_artists": true,
       "modified_at": "2024-06-10T12:52:47+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995682,
-      "external_id": "174072",
-      "published": true,
-      "name": "Koan Sound",
-      "body": "Armed with diligence, musical prowess, and a progressive vision, KOAN Sound portray the future of electronic music. Fueled by a penchant for groove and precision, Jim Bastow and Will Weeks\neach grew up with a forward-thinking musical identity that led to collaboration during their\nformative years. Representing Bristol’s celebrated lineage of cutting-edge musicians, KOAN\nSound made their introduction to the scene in 2008, turning the heads of underground\nenthusiasts. With 10 years and a bulk of releases under their belt, KOAN Sound’s capacity to\nmove the needle in electronic music is stronger than ever.\n\nThumbing through their diverse discography, KOAN Sound’s ability to deliver a catalogue ranging\nfrom opulent productions to volatile dancefloor weapons demonstrates their innovation and impact across the industry. The duo’s meticulous approach to production gave listeners heavy,\nfully-loaded releases like 2011’s Funk Blaster EP and ambient, cinematic cuts like 2013’s\nSanctuary EP, both released via Skrillex’s renowned imprint OWSLA.\n\nHalting their release schedule for three years beginning in 2015, the return of KOAN Sound\nignited fans and tastemakers alike in 2018 with the announcement of their debut full-length record,\nPolychrome. The duo crafted this project with a hands-on style of production; beyond their mettle\nin the studio, KOAN Sound took on self-funding, manufacturing, promoting, and releasing the\nalbum independently through their own label, Shoshin. Spanning 11 contemporary electronic\ntracks and a sophisticated visual aesthetic, Polychrome speaks for the duo’s innovative legacy.\n\nGraduating from their beginnings as a support act on tour with artists like Skrillex and Bassnectar\nto developing their own audio-visual headlining tour across North America, KOAN Sound now\noffer a new experience for fans through live performance. The duo took their audiovisual show\nacross the UK and North America throughout fall 2019, playing ambitious gigs in cities such as\nLondon, Los Angeles and a sold-out show in Denver’s ‘The Mission Ballroom’ with Opiuo. Looking\nahead, KOAN Sound are approaching 2020 with a busy release schedule and plenty of surprises\nfor longtime fans — in true KOAN Sound fashion, their next move is certain to ripple across the\nscene",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261051_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261051_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261051_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261051_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "koansound",
-        "instagram_user": "koansound",
-        "twitter_user": "koansound",
-        "youtube_user": "channel/UCazuZ5iU8LfQ6-IucPhctKQ",
-        "soundcloud_user": "koan-sound",
-        "spotify_artist_id": "1NCLweIUpq8knzemBwAwoo"
-      },
-      "performances": [
-        {
-          "id": 183154,
-          "external_id": "855995",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995682,
-          "stage_id": 7955,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-31T06:48:12+00:00",
-          "start_time": "2024-07-29T10:30:00+00:00",
-          "end_time": "2024-07-29T12:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-10T12:52:46+00:00",
       "show_section_titles": true
     },
     {
@@ -6155,56 +6613,6 @@
       "show_section_titles": true
     },
     {
-      "id": 1995613,
-      "external_id": "173968",
-      "published": true,
-      "name": "Phibes",
-      "body": "Having worked meticulously to earn their place at Drum & Bass' elite table, brothers Scott and Ryan Wild continue to eclipse expectations with their groundbreaking sound. Having been the top-selling Drum & Bass duo on Beatport, topping 100k followers on SoundCloud and touring multiple continents, Phibes continue to solidify their position as one of the most in-demand hard ticket acts in the genre.\n\nTheir output is evident in a stellar touring and release schedule, further reinforced by their 7 Beatport No.1's and 7 months as the world’s No.1 DnB artist on the platfom.\n\nA testament to their veteran status and undeniable on-stage chemistry, Phibes have fast become favourites on the festival circuit. Highlights include Boomtown, Let It Roll, Boardmasters, Sundown Festival, Shambala, Glastonbury, Rampage, Bassfest, High Tea Festival, Balter Festival, Fearfest, Hive Festival, U-Fest, Boundary Festival, Isle of Wight Festival, Trident Festival, Noisily Festival.\n\nAs the world eagerly awaits their next sonic revelation, Phibes stand tall as a testament to the power of passion and innovation in music.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260991_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260991_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260991_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260991_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "phibesaday",
-        "instagram_user": "phibesuk/",
-        "youtube_user": "playlist",
-        "soundcloud_user": "PHIBES",
-        "spotify_artist_id": "21VZgcYa29ZVvRQzmUNakx"
-      },
-      "performances": [
-        {
-          "id": 183080,
-          "external_id": "856013",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995613,
-          "stage_id": 7949,
-          "date_id": 2879,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-29T23:47:10+00:00",
-          "start_time": "2024-07-28T04:30:00+00:00",
-          "end_time": "2024-07-28T05:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-10T12:52:34+00:00",
-      "show_section_titles": true
-    },
-    {
       "id": 1995681,
       "external_id": "173939",
       "published": true,
@@ -6250,57 +6658,6 @@
       "show_in_intake": true,
       "show_in_artists": true,
       "modified_at": "2024-06-10T12:52:34+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995563,
-      "external_id": "1916442",
-      "published": true,
-      "name": "Eprom",
-      "body": "EPROM is one of the vibrant West-Coast scene’s most colourful characters and an important cog in the international Rwina machine. He’s a consummate post-millennial producer, and his sound varies from toxic hip-hop to searing garage mutations to bizarre concoctions somewhere in between. His beats jiggle and drip and contort wildly, always in some perpetual state of melting, churning, and mutation. He’s had releases on Warp, Surefire, and Bristol-based Bad Acid, but it’s his Rwina releases that have been the most visible and enduring, whether it’s the timestretch torture and fierce melodic geysers of “Humanoid” or deconstructionist mayhem of his “Pipe Dream” EP, where dubstep and grime collide for a staggering beast that shakes off heavy blotches of radioactive fluorescent sludge with every beat that lands. His live sets are something to behold as well, emphasizing the hip-hop roots that lurk underneath his sewer beats, and an hour of EPROM is bound to turn your brain into to the same sort of goo that gums the gears of his distinctive beats.\n\nFans and supporters of Eprom include Flying Lotus, ?uestlove, DJ Shadow, Rustie, The Gaslamp Killer, The Glitch Mob and BBC Radio One’s Mary Anne Hobbs, and the producer has shared the stage with many of the international electronic music community’s hottest artists. With his new album, Metahuman, garnering critical acclaim from all corners, Eprom is finally getting the recognition he has earned as an integral part of the giant bouncing backbone of West Coast Sound.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260942_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260942_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260942_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260942_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "eprombeats",
-        "instagram_user": "eprombeats",
-        "twitter_user": "eprombeats",
-        "youtube_user": "c/Eprombeats",
-        "soundcloud_user": "epromofficial",
-        "spotify_artist_id": "2c2X6dr1PHctH24BxNOjHi"
-      },
-      "performances": [
-        {
-          "id": 183029,
-          "external_id": "855468",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995563,
-          "stage_id": 7945,
-          "date_id": 2879,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-31T06:48:12+00:00",
-          "start_time": "2024-07-28T10:00:00+00:00",
-          "end_time": "2024-07-28T11:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-10T12:52:33+00:00",
       "show_section_titles": true
     },
     {
@@ -7179,73 +7536,6 @@
       "show_in_intake": true,
       "show_in_artists": true,
       "modified_at": "2024-06-10T12:52:04+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995592,
-      "external_id": "1916433",
-      "published": true,
-      "name": "Tipper",
-      "body": "Tipper is a British composer and producer specializing in electronic music that ranges from ambient, through trip hop, to uptempo nu skool breaks. His live performances consist largely of his own unreleased compositions, and he is noted for scratching his own sounds over his music, creating a live element of turntablism stemming from prowess early in his career as a vinyl DJ.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260971_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260971_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260971_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260971_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "tippermusic",
-        "instagram_user": "tippermusic/",
-        "twitter_user": "tippermusic",
-        "soundcloud_user": "tippermusic",
-        "spotify_artist_id": "1soJ22UMyjIw6SYFtoFJwe"
-      },
-      "performances": [
-        {
-          "id": 183059,
-          "external_id": "855454",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995592,
-          "stage_id": 7944,
-          "date_id": 2879,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-29T23:47:10+00:00",
-          "start_time": "2024-07-28T01:00:00+00:00",
-          "end_time": "2024-07-28T02:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        },
-        {
-          "id": 183119,
-          "external_id": "855453",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995592,
-          "stage_id": 7952,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-31T06:48:12+00:00",
-          "start_time": "2024-07-29T08:30:00+00:00",
-          "end_time": "2024-07-29T09:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-10T12:51:59+00:00",
       "show_section_titles": true
     },
     {
@@ -8955,56 +9245,6 @@
       "show_section_titles": true
     },
     {
-      "id": 1995487,
-      "external_id": "1916436",
-      "published": true,
-      "name": "Blu DeTiger (DJ Set)",
-      "body": "Blu DeTiger is proof that bassists are main character material. The New York City born-and-raised artist picked up the bass guitar at age seven and soon after played her first gig at the legendary punk venue CBGB. Fueled by the hustle mentality of her environment, she was a fixture in the Lower Manhattan music scene by age 17, playing in various bands and DJing clubs while adding her live bass to her crowd-moving sets. The energy of this fast-paced nightlife world manifests through her pulsating bass lines that serve as the emotional anchor of her eclectic songs melding art pop, electroclash, funk, disco, and alternative rock.\n\nNow with the arrival of her debut Capitol Records studio album All I Ever Want Is Everything, Blu is claiming her spotlight as a rising pop icon who's not afraid to feel it all. \"This album is about really enjoying the high moments in life, but also learning how to talk yourself out of the low moments and become your own best friend,\" she says. \"I want to let people know that you can feel it all and do it all. Wherever you're at is cool.\" It's also the culmination of the past few years in which she has grown tremendously. She built her profile opening for artists like Sabrina Carpenter and Jungle, her own headline tours around the US and Europe, and becoming one of her generation's most sought-after bass players, lending her talents to Bleachers (with whom she appeared on Saturday Night Live), Olivia Rodrigo, Dominic Fike, Caroline Polachek, Chromeo, and Fletcher among others.\n\nAll I Ever Want Is Everything is a portrait of Blu at her most unstoppable and her most vulnerable, as she captures the thrillingly unpredictable process of coming into one's own. Inspired by sleepless nights out on the town and memories of her thumping DJ sets, the album sees Blu staking a claim to her desires and transforming into the messy protagonist of her fantasies. On the thumping \"Dangerous Game,\" she playfully pledges to someone that she'll \"break up the band\" so the two can have an unforgettable evening of dancing and indulgence. \"Let's blow our money / Let's go all night,\" she sings. \"I wanted a song that portrayed this fun character who doesn't give a fuck, who wants to go out and experience life -- which is a big part of my personality,\" she explains.\n\nThese hedonistic and infectiously groovy songs are balanced out with mature introspection, in which she admits to feeling imposter syndrome and the loneliness of growing up in the digital age. Yet Blu's more melancholy songs are still upbeat, as on the Mallrat-featuring dance track \"Cut Me Down.\" Laughing off memories of past detractors and critics, her pitched-up vocals have a canny robotic effect, adding to the track's layered emotions. \"The high-pitched vocals sound like angels talking to you, or this encouraging part of yourself trying to bring yourself out of feeling down,\" Blu explains. \"I love songs that have a sad tinge, but make you feel good at the same time -- where a DJ could play it and everyone's dancing and screaming along.\"\n\nThe album captures the spirit of New York, but it was created in Los Angeles, where Blu moved in 2022. Since it was her first time living in an entirely different city, she found herself having to adjust to the newfound independence during a period of immense growth. Newly signed to Capitol Records and adjusting to the Los Angeles songwriting circuit for the first time, she also embarked on her first headlining tour across North America behind her debut EP, How did we get here?\n\nSupporting Blu in the making of All I Ever Want Is Everything was a star-studded group of friends and collaborators. The album features co-writes from rising pop stars Chappell Roan and Alexander 23, as well as indie sleaze originator Uffie and soul aficionado Mayer Hawthorne and Blu's frequent collaborator, her brother, Rex. Meanwhile, \"Disappearing\" was made in collaboration with Magdalena Bay, with whom Blu immediately bonded over being producers and multi-instrumentalists.\n\nBlu also worked alongside GRAMMY-winning producer John Hill and Sam Homaee in experimenting with different bass tones and vocal effects, making the album more multifaceted. She strived to expand the range of her vocal delivery, too -- from falsettos to sing-speak sections. All of these elements are captured compellingly on her single \"Kiss.\" \"I wanted my voice to feel like another instrument,\" she explains. \"Just like how we manipulated the bass in cool ways with pedals, we processed the voice to get a bigger range of emotion.\"\n\nAfter studying at NYU's Clive Davis Institute of Recorded Music for two years, she left in 2019, which allowed her the space to fully become the solo artist she was always meant to be. \"I was putting out singles while I was running around New York hustling -- playing gigs, doing sessions, DJing, and saying yes to every opportunity that came my way,\" she says. Then during the early pandemic, her bass cover videos started to gain steam on TikTok, where \"Figure It Out\" ultimately went viral, and where she now has more than 1.4 million followers. In 2023, she was named one of Forbes' 30 Under 30 for music and on the cover. Blu is expanding her entrepreneurial footprint with Fender and Bose partnerships.\n\nNow, with her electric-blue bass and effortlessly cool head-banging, Blu is inspiring a new generation of fans to take up the bass. \"When I was young, I didn't have any archetypes to follow,\" she says. \"Then once I started doing more, I was like, honestly, I'm making my own lane. Now there are young people who are messaging me saying, 'I started playing bass and making music because of you.'\" This line of thinking is part of what inspired her, during her last headline tour, to bring someone from the audience up on stage each night to jam on the bass alongside her.\n\n\"My motivation as an artist is to help the younger generation discover their passion, pick up an instrument, and find an outlet to express themselves,\" Blu concludes.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260874_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260874_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260874_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260874_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "bludetiger",
-        "instagram_user": "bludetiger",
-        "twitter_user": "bludetiger",
-        "youtube_channel_id": "UCsvWmnNTLqrNF26vFBgJsKQ",
-        "soundcloud_user": "bludetiger"
-      },
-      "performances": [
-        {
-          "id": 182952,
-          "external_id": "855458",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995487,
-          "stage_id": 7939,
-          "date_id": 2878,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-06T08:35:09+00:00",
-          "start_time": "2024-07-27T05:00:00+00:00",
-          "end_time": "2024-07-27T06:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-10T10:56:25+00:00",
-      "show_section_titles": true
-    },
-    {
       "id": 1995573,
       "external_id": "167168",
       "published": true,
@@ -9149,54 +9389,6 @@
       "show_in_intake": true,
       "show_in_artists": true,
       "modified_at": "2024-06-10T10:56:02+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995665,
-      "external_id": "1916717",
-      "published": true,
-      "name": "Five Alarm Funk",
-      "body": "Five Alarm Funk is Canada's premiere sonic and visual assault. With 20 years experience, in high voltage Funk infusion, FAF has carved a new path of live entertainment. The engagement, the hilarity, the precision and execution have heralded these manic Funk Bots with eight studio albums, two JUNO nominations, three Western Canadian Music Awards and a rap sheet of positive reviews. Over the last 20 years, the band has toured premiere festivals across the globe in Canada, USA, Taiwan and even all the way to Mali, Africa at the UN headquarters. Five Alarm is ready to take this fun, energized, atomic economic sonic and visual ritual to your doorstep. In the words of front man & drummer Tayo Branston: \"Let's Funkin’ GO!!\"",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261034_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261034_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261034_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261034_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "fivealarmfunk",
-        "instagram_user": "fivealarmfunk",
-        "youtube_user": "user/FiveAlarmFunk"
-      },
-      "performances": [
-        {
-          "id": 183136,
-          "external_id": "855980",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995665,
-          "stage_id": 7954,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-30T00:02:11+00:00",
-          "start_time": "2024-07-29T03:00:00+00:00",
-          "end_time": "2024-07-29T04:15:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-10T10:55:57+00:00",
       "show_section_titles": true
     },
     {
@@ -9837,56 +10029,6 @@
       "show_section_titles": true
     },
     {
-      "id": 1995605,
-      "external_id": "1916456",
-      "published": true,
-      "name": "Totally Enormous Extinct Dinosaurs",
-      "body": "Whatever you’re feeling, be sure to feel it deeply. This seems to be the prevailing sentiment of Totally Enormous Extinct Dinosaurs' latest full-length offering – an ambitious, complex body of work nestled within simple, powerful storytelling. With the versatility to provide listening experiences across every environment and a central focus on songwriting over dancefloor tracks, ‘When The Lights Go’ delivers a compilation of genres where the internal world is observed, pondered, and shared outwards. Since the release of his debut album ‘Trouble’ a decade ago, Totally Enormous Extinct Dinosaurs has toured the globe, settled in LA for seven years, worked behind-the-scenes producing for a range of top-tier acts, and earned himself a Grammy nomination. Earlier this year, Orlando wrapped his ‘I Have A Dream’ Club Tour, delighting fans with his dynamic DJ Sets at venues and festivals such as the DoLab Stage at Coachella. He is currently embarking on a sold out live tour across the UK, Europe, and North America, introducing his new album to the world.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260983_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260983_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260983_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260983_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "teedinosaurs/",
-        "twitter_user": "TEEDinosaurs",
-        "youtube_user": "channel/UCIzUuNT1-rqqfJCdRRVGBBA",
-        "soundcloud_user": "t-e-e-d",
-        "spotify_artist_id": "0g3NiCRhEv7M4SEDMrpItN"
-      },
-      "performances": [
-        {
-          "id": 183072,
-          "external_id": "855488",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995605,
-          "stage_id": 7948,
-          "date_id": 2879,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-29T23:47:10+00:00",
-          "start_time": "2024-07-28T05:15:00+00:00",
-          "end_time": "2024-07-28T06:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-10T10:54:05+00:00",
-      "show_section_titles": true
-    },
-    {
       "id": 1995652,
       "external_id": "187855",
       "published": true,
@@ -10085,56 +10227,6 @@
       "show_section_titles": true
     },
     {
-      "id": 1995531,
-      "external_id": "167131",
-      "published": true,
-      "name": "Justin Martin",
-      "body": "As the late Oscar Wilde once said: “life is too important to be taken seriously”, an ethos that Justin Martin is sticking with despite achieving soaring success over the last six years as a producer and international DJ. Justin initially pricked the ears of the electronic music community in 2003 with his first record ‘The Sad Piano’ on Ben Watt’s Buzzin’ Fly label.\n\nFeeding off the energy of the San Francisco underground, Justin was intrinsically involved with the development of Dirtybird records, appearing on its first four releases. Justin was soon ready to take flight, releasing a string of solo EPs that flaunted a very unique sound and garnered further respect among fellow DJs and heavyweights of the scene.\n\nMusic journalists typically describe Justin’s sound as ‘melodic and tough’ with his music encapsulating both melody and emotional depth yet always with enough undeniable ass-shaking properties to translate to the floor.\n\n“I’m always trying to find music for my DJ sets that rattles sound systems, but still has enough melody and interesting texture to expand your mind even if you’re sitting at home on a snowy or rainy day.”\n\nLast year, Justin released his extremely well-received remixes for Rüfüs Du Sol and Ultraísta, as well as a collaborative project with fellow producer Ardalan, which was put out on his brother Christian Martin’s label, Trippy Ass Technologies.\n\nIn 2020, Justin launched his new label ‘What To Do...’, kicking things off with his first single ‘Needs’. The label will focus on his distinctive sound and include special collaborative works. With these upcoming releases, there will be no holding back. Justin launched his new project with the intention of diving deeper creatively and pushing the limits of his sound. To everyone who is curious about what’s to come, “expect music with emotional depth combined with raw dancefloor grit.”",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260915_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260915_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260915_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260915_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "justinmartinmusic",
-        "instagram_user": "justinmartin/",
-        "twitter_user": "justinmartin",
-        "soundcloud_user": "justin-martin-music",
-        "spotify_artist_id": "4FN8WHqUbwkd97WEjoCu7B"
-      },
-      "performances": [
-        {
-          "id": 182996,
-          "external_id": "855474",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995531,
-          "stage_id": 7941,
-          "date_id": 2878,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-01T21:49:26+00:00",
-          "start_time": "2024-07-27T06:00:00+00:00",
-          "end_time": "2024-07-27T07:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-10T10:52:41+00:00",
-      "show_section_titles": true
-    },
-    {
       "id": 1995463,
       "external_id": "1916888",
       "published": true,
@@ -10294,54 +10386,6 @@
       "show_in_intake": true,
       "show_in_artists": true,
       "modified_at": "2024-06-10T08:59:12+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995526,
-      "external_id": "1916897",
-      "published": true,
-      "name": "Double Trouble",
-      "body": "Get ready for double the vibes, and double the fun as DeBlock and Mihajic Touch, your favourite house music selecta's, join forces to unleash twice the party and double the heat!",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260911_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260911_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260911_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260911_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "profile.php",
-        "instagram_user": "doubletroublex2fun/",
-        "soundcloud_user": "doubletroublex2"
-      },
-      "performances": [
-        {
-          "id": 182991,
-          "external_id": "856290",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995526,
-          "stage_id": 7941,
-          "date_id": 2878,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-03T01:33:23+00:00",
-          "start_time": "2024-07-27T01:00:00+00:00",
-          "end_time": "2024-07-27T02:15:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-10T08:58:36+00:00",
       "show_section_titles": true
     },
     {
@@ -12013,50 +12057,6 @@
       "show_in_intake": true,
       "show_in_artists": true,
       "modified_at": "2024-06-08T08:57:55+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995684,
-      "external_id": "166972",
-      "published": true,
-      "name": "DLB",
-      "body": "DLB (Leevon Dance- yes that's his real last name) comes from Calgary, Alberta, and has been playing all things drum and bass since he could walk. \n\nHe has been promoting shows for 8 years under The Dojo, bringing all sorts of talent to Calgary's music scene. \n\nNot an act to miss, don't forget your beach ball!",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261052_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261052_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261052_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261052_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {},
-      "performances": [
-        {
-          "id": 183156,
-          "external_id": "856338",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995684,
-          "stage_id": 7956,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-30T00:02:11+00:00",
-          "start_time": "2024-07-29T01:00:00+00:00",
-          "end_time": "2024-07-29T02:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-08T08:57:06+00:00",
       "show_section_titles": true
     },
     {
