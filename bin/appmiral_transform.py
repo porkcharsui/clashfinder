@@ -35,8 +35,24 @@ def transform(artists, stages, tz):
                 end_ts = arrow.get(p['end_time']).to(tz)
                 stage = stage_dict[p['stage_id']]
                 act = artist['name']
+                blurb = artist['body']
+                
+                # select a primary URL to use for the act; prefer spotify, if not found fallback to others
+                if 'links' in artist:
+                    if 'spotify_artist_id' in artist['links']:
+                        url = f"https://open.spotify.com/artist/{artist['links']['spotify_artist_id']}"
+                    elif 'soundcloud_user' in artist['links']:
+                        url = f"https://soundcloud.com/{artist['links']['soundcloud_user']}"
+                    elif 'youtube_user' in artist['links']:
+                        url = f"https://youtube.com/@{artist['links']['youtube_user']}"
+                    elif 'instagram_user' in artist['links']:
+                        url = f"https://instagram.com/{artist['links']['instagram_user']}"
+                    elif 'facebook_page_id' in artist['links']:
+                        url = f"https://facebook.com/{artist['links']['facebook_page_id']}"
+                    else:
+                        url = ""
 
-                acts_list.append({"start": start_ts.format(ts_format), "end": end_ts.format(ts_format), "stage": stage, "act": act})
+                acts_list.append({"start": start_ts.format(ts_format), "end": end_ts.format(ts_format), "stage": stage, "act": act, "url": url, "blurb": blurb})
         else: 
             print(f"// no performances found for artist id={artist['id']}")
 
