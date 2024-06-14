@@ -35,7 +35,11 @@ def transform(artists, stages, tz):
                 end_ts = arrow.get(p['end_time']).to(tz)
                 stage = stage_dict[p['stage_id']]
                 act = artist['name']
-                blurb = artist['body']
+                
+                if 'body' in artist:
+                    blurb = artist['body']
+                else: 
+                    blurb = ""
                 
                 # select a primary URL to use for the act; prefer spotify, if not found fallback to others
                 if 'links' in artist:
