@@ -34,7 +34,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-14T18:47:22+00:00",
+          "modified_at": "2024-06-15T01:32:37+00:00",
           "start_time": "2024-07-26T22:00:00+00:00",
           "end_time": "2024-07-27T02:00:00+00:00",
           "show_image_in_schedule": true,
@@ -46,7 +46,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-14T18:47:22+00:00",
+      "modified_at": "2024-06-15T01:32:37+00:00",
       "show_section_titles": true
     },
     {
@@ -58,10 +58,13 @@
       "priority": 100,
       "category": "regular",
       "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260959_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260959_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260959_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260959_performance_500.jpeg"
+        "100": "https://media.appmiral.com/prod/performance/0053/80/thumb_5279132_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/80/thumb_5279132_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/80/thumb_5279132_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/80/thumb_5279132_performance_500.jpeg",
+        "960": "https://media.appmiral.com/prod/performance/0053/80/thumb_5279132_performance_960.jpeg",
+        "1080": "https://media.appmiral.com/prod/performance/0053/80/thumb_5279132_performance_1080.jpeg",
+        "1440": "https://media.appmiral.com/prod/performance/0053/80/thumb_5279132_performance_1440.jpeg"
       },
       "hide_image_on_overview": "never",
       "hide_image_on_detail": "never",
@@ -85,7 +88,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-14T18:47:22+00:00",
+          "modified_at": "2024-06-15T01:32:37+00:00",
           "start_time": "2024-07-28T03:00:00+00:00",
           "end_time": "2024-07-28T04:30:00+00:00",
           "show_image_in_schedule": true,
@@ -198,7 +201,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-14T18:47:22+00:00",
+      "modified_at": "2024-06-15T01:32:37+00:00",
       "show_section_titles": true
     },
     {
@@ -235,7 +238,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-14T18:47:22+00:00",
+          "modified_at": "2024-06-15T01:32:37+00:00",
           "start_time": "2024-07-28T08:30:00+00:00",
           "end_time": "2024-07-28T09:00:00+00:00",
           "show_image_in_schedule": true,
@@ -252,7 +255,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-14T18:47:22+00:00",
+          "modified_at": "2024-06-15T01:32:37+00:00",
           "start_time": "2024-07-28T21:00:00+00:00",
           "end_time": "2024-07-28T21:15:00+00:00",
           "show_image_in_schedule": true,
@@ -365,7 +368,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-14T18:47:22+00:00",
+      "modified_at": "2024-06-15T01:32:37+00:00",
       "show_section_titles": true
     },
     {
@@ -403,7 +406,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-14T18:47:22+00:00",
+          "modified_at": "2024-06-15T01:32:37+00:00",
           "start_time": "2024-07-28T02:30:00+00:00",
           "end_time": "2024-07-28T04:00:00+00:00",
           "show_image_in_schedule": true,
@@ -516,7 +519,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-14T18:47:22+00:00",
+      "modified_at": "2024-06-15T01:32:37+00:00",
       "show_section_titles": true
     },
     {
@@ -548,7 +551,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-14T18:47:22+00:00",
+          "modified_at": "2024-06-15T01:32:37+00:00",
           "start_time": "2024-07-28T00:30:00+00:00",
           "end_time": "2024-07-28T03:30:00+00:00",
           "show_image_in_schedule": true,
@@ -560,7 +563,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-14T18:47:22+00:00",
+      "modified_at": "2024-06-15T01:32:37+00:00",
       "show_section_titles": true
     },
     {
@@ -598,7 +601,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-14T18:47:22+00:00",
+          "modified_at": "2024-06-15T01:32:37+00:00",
           "start_time": "2024-07-28T10:30:00+00:00",
           "end_time": "2024-07-28T13:00:00+00:00",
           "show_image_in_schedule": true,
@@ -711,7 +714,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-14T18:47:22+00:00",
+      "modified_at": "2024-06-15T01:32:37+00:00",
       "show_section_titles": true
     },
     {
@@ -745,7 +748,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-14T18:47:22+00:00",
+          "modified_at": "2024-06-15T01:32:37+00:00",
           "start_time": "2024-07-28T21:15:00+00:00",
           "end_time": "2024-07-28T22:00:00+00:00",
           "show_image_in_schedule": true,
@@ -757,7 +760,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-14T18:47:22+00:00",
+      "modified_at": "2024-06-15T01:32:37+00:00",
       "show_section_titles": true
     },
     {
@@ -789,7 +792,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-14T18:47:22+00:00",
+          "modified_at": "2024-06-15T01:32:37+00:00",
           "start_time": "2024-07-29T14:00:00+00:00",
           "end_time": "2024-07-29T15:00:00+00:00",
           "show_image_in_schedule": true,
@@ -801,7 +804,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-14T18:47:22+00:00",
+      "modified_at": "2024-06-15T01:32:37+00:00",
       "show_section_titles": true
     },
     {
@@ -833,7 +836,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-14T18:47:22+00:00",
+          "modified_at": "2024-06-15T01:32:37+00:00",
           "start_time": "2024-07-28T21:00:00+00:00",
           "end_time": "2024-07-29T02:00:00+00:00",
           "show_image_in_schedule": true,
@@ -845,7 +848,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-14T18:47:22+00:00",
+      "modified_at": "2024-06-15T01:32:37+00:00",
       "show_section_titles": true
     },
     {
@@ -881,7 +884,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-14T18:47:22+00:00",
+          "modified_at": "2024-06-15T01:32:37+00:00",
           "start_time": "2024-07-27T09:45:00+00:00",
           "end_time": "2024-07-27T11:45:00+00:00",
           "show_image_in_schedule": true,
@@ -893,7 +896,306 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-14T18:47:22+00:00",
+      "modified_at": "2024-06-15T01:32:37+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995760,
+      "external_id": "1916447",
+      "published": true,
+      "name": "Marten Hørger",
+      "body": "HØUSE MUSIC\n\nGermany's MARTEN HØRGER is one of the leading forces in house music.  \nHe combines influences from classic house, techno and bass music to create his very own trademark sound, which UK's DJMag simply calls \"The Future“. \nAs a result, Marten has recently collaborated with producers such as David Guetta, Tchami, Apashe and Habstrakt; and is named the #33 most influential electronic artist of the year by \"1001 Tracklists\" in 2021. \n\nThe music portal Beatport crowns him the most successful bass house act of all time in 2022. In his home country, too, he finally achieves a breakthrough, and the readers of Faze magazine vote him National Breakthrough Act of the Year in 2023. \n\nIn addition to a multitude of sold-out club tours in America, Europe, Asia and Australia, Marten is a regular guest on the big stages of festivals such as Tomorrowland, EDC, Glastonbury, Burning Man, Shambhala and Fusion.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261949_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261949_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261949_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261949_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "marten.horger/",
+        "instagram_user": "marten_horger/",
+        "youtube_user": "user/MARTENHORGER",
+        "soundcloud_user": "marten-horger",
+        "spotify_artist_id": "0EdUwJSqkMmsH6Agg3G8Ls"
+      },
+      "performances": [
+        {
+          "id": 183280,
+          "external_id": "855477",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995760,
+          "stage_id": 7953,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-11T08:20:18+00:00",
+          "start_time": "2024-07-29T08:00:00+00:00",
+          "end_time": "2024-07-29T09:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [
+        {
+          "track_id": "0g3wIOS5bf02UcjK33xUoB",
+          "streaming_service": "spotify",
+          "title": "WE'RE BACK",
+          "artist_name": "Marten Hørger, Neon Steve",
+          "duration": 195483,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d5a3f4bda9343aff9c35c935",
+          "preview_url": "https://p.scdn.co/mp3-preview/635680ff1af23c2d5fc99e820f87e1ce7d252c99?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:17+00:00"
+        },
+        {
+          "track_id": "4NoJpQvvjVJ2m8S72eIDaF",
+          "streaming_service": "spotify",
+          "title": "The Freaks",
+          "artist_name": "David Guetta, Marten Hørger",
+          "duration": 255360,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e029b93ca3db4287c4b8595afeb",
+          "preview_url": "https://p.scdn.co/mp3-preview/31ee20c6441ac63dd5b47f55ac8386b10bacc604?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-14T13:54:05+00:00"
+        },
+        {
+          "track_id": "25vG6krgfp2FQGNXzP4ZFV",
+          "streaming_service": "spotify",
+          "title": "Take A Step Back",
+          "artist_name": "Dr. Fresch, Marten Hørger",
+          "duration": 160000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e020c05d8ed5b58f7b28d56ac2a",
+          "preview_url": "https://p.scdn.co/mp3-preview/98a2573416d43d9b00ea0f3a4c67b1d3ca258a3a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:17+00:00"
+        },
+        {
+          "track_id": "6a7Vnxz6aezPxdKPTF72Yb",
+          "streaming_service": "spotify",
+          "title": "I Know",
+          "artist_name": "Marten Hørger, BIJOU",
+          "duration": 202560,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02afd02367594683792773156e",
+          "preview_url": "https://p.scdn.co/mp3-preview/8e2bdcf537d900cd578090bd12dd48e238d855c1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:17+00:00"
+        },
+        {
+          "track_id": "0NPTpdVrseb7YGggATplQn",
+          "streaming_service": "spotify",
+          "title": "Want You",
+          "artist_name": "NITTI, Marten Hørger",
+          "duration": 181935,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02647ae65f953144654f0dcd4d",
+          "preview_url": "https://p.scdn.co/mp3-preview/0d8aaf24e14367e93398c3fbd784c86b121f6164?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:17+00:00"
+        },
+        {
+          "track_id": "0rLWyaC6vkht17t0EjO71Y",
+          "streaming_service": "spotify",
+          "title": "Ill Behavior",
+          "artist_name": "Marten Hørger",
+          "duration": 156428,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028e23734ecd3373923088b3c9",
+          "preview_url": "https://p.scdn.co/mp3-preview/26dbc7ca8ce75dac190152c47f8deaf73a499675?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:17+00:00"
+        },
+        {
+          "track_id": "6cNgfzIce1Qu0b9sO0ibxn",
+          "streaming_service": "spotify",
+          "title": "Lets Try It",
+          "artist_name": "Marten Hørger, BRANDON",
+          "duration": 167040,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02fc625a7d8bbd21cc317b4d42",
+          "preview_url": "https://p.scdn.co/mp3-preview/dceedc488b397bc167e8b5d7aaf303e57cc69dc9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:21:25+00:00"
+        },
+        {
+          "track_id": "18o6r7yB7rxFoLV5rcrWTa",
+          "streaming_service": "spotify",
+          "title": "Levitate",
+          "artist_name": "Sonny Fodera, Marten Hørger",
+          "duration": 165000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a369fa00783b020a202cb95b",
+          "preview_url": "https://p.scdn.co/mp3-preview/cf6d4b6108cbd5423de69aae02510e8a5e05eee2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:17+00:00"
+        },
+        {
+          "track_id": "4BSMp7GnQYmqPEkDKLCnOD",
+          "streaming_service": "spotify",
+          "title": "The Calling",
+          "artist_name": "Tchami, Marten Hørger",
+          "duration": 197760,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025e0af6f1f992ab6d3fa513e1",
+          "preview_url": "https://p.scdn.co/mp3-preview/db5b9adebcfe6ab1c2154d7be642e47febc6b14d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:17+00:00"
+        },
+        {
+          "track_id": "2qr2xnzLGcdXGJgxQWUPIo",
+          "streaming_service": "spotify",
+          "title": "Beat Of Your Heart - Marten Hørger Remix",
+          "artist_name": "Purple Disco Machine, ÁSDÍS, Marten Hørger",
+          "duration": 242893,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024a0b93485bf04b2b6443d90d",
+          "preview_url": "https://p.scdn.co/mp3-preview/a43f1efe2d1935d3b491bcabf8a7ff08713b951c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:17+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-14T20:51:18+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995570,
+      "external_id": "1916427",
+      "published": true,
+      "name": "DJ Pee Wee (Anderson .Paak)",
+      "body": "Born Brandon Paak Anderson in Oxnard, California, as a teen he played drums in his church Band. \nHis transformation into Anderson .Paak, with debut album Venice and the 2016 sophomore release Malibu, was met with universal rave reviews. .Paak is now an 8x GRAMMY Award winner, producer, songwriter, artist & director. Anderson released his highly regarded 2020 single “Lockdown” on Juneteenth, inspired from his participation in a Los Angeles protest against police brutality. The record garnered him a Grammy for Best Melodic Rap Performance. He’s also one half of the R&B superduo, Silk Sonic with fellow artist Bruno Mars. Their debut single “Leave The Door Open” garnered over a billion streams. The album’s November 12, 2021 release received worldwide critical acclaim and earned the duo 4 Grammys and a sold out Vegas residency. A multi hyphenate superstar, Anderson .Paak intends to use his platform to propel new talent into the spotlight with the creation of his very own label APESHIT teaming with UMG. However, .Paak’s creative endeavors extend past just music — he’s directed countless music videos over the past few years, and won the Best Director Award at the 2022 BET Awards. His directing credits now include the highly regarded Bonnie and Clyde-esque music video for Leon Bridges’ “Motorbike.” Currently, .Paak is in production on his feature film directorial debut K-POPS, a dramatic comedy that takes inspiration from his life, bridging family lineages and cultures. .Paak also continues his philanthropic efforts with the Brandon Anderson Foundation with his annual .Paak House event which benefits underserved youth in areas of art & music.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260949_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260949_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260949_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260949_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "djpee.wee/",
+        "soundcloud_user": "andersonpaak",
+        "spotify_artist_id": "3jK9MiCrA42lLAdMGUZpwa"
+      },
+      "performances": [
+        {
+          "id": 183036,
+          "external_id": "855435",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995570,
+          "stage_id": 7946,
+          "date_id": 2879,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-11T08:19:50+00:00",
+          "start_time": "2024-07-28T06:00:00+00:00",
+          "end_time": "2024-07-28T07:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [
+        {
+          "track_id": "6h5IlvRJ2ZNPloCOdzUmyW",
+          "streaming_service": "spotify",
+          "title": "Come Down",
+          "artist_name": "Anderson .Paak",
+          "duration": 176693,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025e149abf2d24cd29e40c6b84",
+          "preview_url": "https://p.scdn.co/mp3-preview/a400f5ad425f90b372fcb7dadee763558e10e7fd?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-15T01:25:33+00:00"
+        },
+        {
+          "track_id": "2JUQ7mV1AHk2owXLydmN4Z",
+          "streaming_service": "spotify",
+          "title": "Love's Train",
+          "artist_name": "Bruno Mars, Anderson .Paak, Silk Sonic",
+          "duration": 307014,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02fcf75ead8a32ac0020d2ce86",
+          "preview_url": "https://p.scdn.co/mp3-preview/9078325a05c0fe6bb9e72089844273a7f376f330?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:50+00:00"
+        },
+        {
+          "track_id": "02VBYrHfVwfEWXk5DXyf0T",
+          "streaming_service": "spotify",
+          "title": "Leave The Door Open",
+          "artist_name": "Bruno Mars, Anderson .Paak, Silk Sonic",
+          "duration": 242096,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02fcf75ead8a32ac0020d2ce86",
+          "preview_url": "https://p.scdn.co/mp3-preview/2f06384101ad1a5aa6b02f6fc24b59789c2ab54d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:50+00:00"
+        },
+        {
+          "track_id": "3xVZYkcuWalGudeKl861wb",
+          "streaming_service": "spotify",
+          "title": "Smokin Out The Window",
+          "artist_name": "Bruno Mars, Anderson .Paak, Silk Sonic",
+          "duration": 197442,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02fcf75ead8a32ac0020d2ce86",
+          "preview_url": "https://p.scdn.co/mp3-preview/03985ea0f5b53660c352773875ba5159533fe692?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:50+00:00"
+        },
+        {
+          "track_id": "7jvCeWOSnJs2N3spqobWnO",
+          "streaming_service": "spotify",
+          "title": "Skate",
+          "artist_name": "Bruno Mars, Anderson .Paak, Silk Sonic",
+          "duration": 203122,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02fcf75ead8a32ac0020d2ce86",
+          "preview_url": "https://p.scdn.co/mp3-preview/3e93cbec6eb68471b1c027bd057175cdb7590dfc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:50+00:00"
+        },
+        {
+          "track_id": "3jiKUMXqwEodB7gVv1RMZU",
+          "streaming_service": "spotify",
+          "title": "After Last Night (with Thundercat & Bootsy Collins)",
+          "artist_name": "Bruno Mars, Anderson .Paak, Silk Sonic, Thundercat, Bootsy Collins",
+          "duration": 249444,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02fcf75ead8a32ac0020d2ce86",
+          "preview_url": "https://p.scdn.co/mp3-preview/3e85cec2c59de46689a7ca0839342d97d3aef008?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:50+00:00"
+        },
+        {
+          "track_id": "3a6FcTyvSf0ED3VXeH3PJ5",
+          "streaming_service": "spotify",
+          "title": "Fly As Me",
+          "artist_name": "Bruno Mars, Anderson .Paak, Silk Sonic",
+          "duration": 219389,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02fcf75ead8a32ac0020d2ce86",
+          "preview_url": "https://p.scdn.co/mp3-preview/e4a561c3113a1cc27843ca644c35c8a9c87b90f1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:50+00:00"
+        },
+        {
+          "track_id": "1l4iQsOZ5sOXZPMQLvouaB",
+          "streaming_service": "spotify",
+          "title": "Coast (feat. Anderson .Paak)",
+          "artist_name": "Hailee Steinfeld, Anderson .Paak",
+          "duration": 166720,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f5397a412658c978232a1c10",
+          "modified_at": "2024-06-11T08:19:50+00:00"
+        },
+        {
+          "track_id": "561pBFcFL2Pwb9HPO9tU8J",
+          "streaming_service": "spotify",
+          "title": "places to be",
+          "artist_name": "Fred again.., Anderson .Paak, CHIKA",
+          "duration": 226677,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021f51ec0adeeff5a6095b13cc",
+          "preview_url": "https://p.scdn.co/mp3-preview/0485c508a17969139aed4c19c22c24abe08c04b9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-15T01:14:36+00:00"
+        },
+        {
+          "track_id": "1kJK2dkXbMw8yOMFEuJUm7",
+          "streaming_service": "spotify",
+          "title": "FromHere (feat. Snoop Dogg & October London)",
+          "artist_name": "NxWorries, Anderson .Paak, Knxwledge, Snoop Dogg, October London",
+          "duration": 241511,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025c5ae6195143c171b7585beb",
+          "preview_url": "https://p.scdn.co/mp3-preview/14a056228da89fa0bac952fdc614f006a31b07bc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:50+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-14T20:50:15+00:00",
       "show_section_titles": true
     },
     {
@@ -6876,7 +7178,7 @@
           "duration": 239853,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02a5c1582e2b2b087ee7862758",
           "preview_url": "https://p.scdn.co/mp3-preview/df4cd25e3fe93b489e81b0ace76cc112fedb0192?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T13:50:20+00:00"
+          "modified_at": "2024-06-15T01:13:49+00:00"
         },
         {
           "track_id": "7uSZPbd8DxdkmSauCKnITY",
@@ -6886,7 +7188,7 @@
           "duration": 266482,
           "image_url": "https://i.scdn.co/image/ab67616d00001e028d5c2b2e93cf42bf6d9337db",
           "preview_url": "https://p.scdn.co/mp3-preview/1de777954296fe464bfbe3c05c961ffc9e659f79?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T13:14:42+00:00"
+          "modified_at": "2024-06-15T01:14:12+00:00"
         },
         {
           "track_id": "1k3J7o5b0tDUzbllLycVUJ",
@@ -7027,7 +7329,7 @@
           "duration": 274693,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0255fa09a768d1ef5ea5d279f9",
           "preview_url": "https://p.scdn.co/mp3-preview/285a7ede10711f47bda4a6b18e322ee6604e5fee?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T13:08:20+00:00"
+          "modified_at": "2024-06-15T01:08:08+00:00"
         },
         {
           "track_id": "5DAjrJqXqYtgr67pVhmUeR",
@@ -7037,7 +7339,7 @@
           "duration": 237546,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0255fa09a768d1ef5ea5d279f9",
           "preview_url": "https://p.scdn.co/mp3-preview/daf3cfc5f503a37c84daa3ea63dec82bb42460e3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T13:07:32+00:00"
+          "modified_at": "2024-06-15T01:07:30+00:00"
         },
         {
           "track_id": "2lJ4d8MCT6ZlDRHKJ1br14",
@@ -7047,7 +7349,7 @@
           "duration": 352246,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02b033087945225272e885808c",
           "preview_url": "https://p.scdn.co/mp3-preview/a720a36357f4d52380c2a5d756c9265a56cfd132?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T13:46:47+00:00"
+          "modified_at": "2024-06-15T01:29:30+00:00"
         },
         {
           "track_id": "7Cg3F9ZsZ2TYUnlza49NYh",
@@ -7077,7 +7379,7 @@
           "duration": 242773,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02226e702d1878d4a44b273980",
           "preview_url": "https://p.scdn.co/mp3-preview/ddfdc2b6fc9b4a8eb160adbff337b4b2dde19bcc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T13:07:26+00:00"
+          "modified_at": "2024-06-15T01:07:23+00:00"
         },
         {
           "track_id": "7aLYQgzGLy8duSSdTJa1ik",
@@ -7769,7 +8071,7 @@
           "duration": 206616,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0270bef918a513d36c8370fb99",
           "preview_url": "https://p.scdn.co/mp3-preview/bc08f0297ce902e892a725aed8c776682c2efac4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T13:22:26+00:00"
+          "modified_at": "2024-06-15T01:21:36+00:00"
         },
         {
           "track_id": "5lrwPi7WwJ1HbuKtx4ktIK",
@@ -7779,7 +8081,7 @@
           "duration": 194368,
           "image_url": "https://i.scdn.co/image/ab67616d00001e023db70e3a52c0a4a1cd499828",
           "preview_url": "https://p.scdn.co/mp3-preview/e1ea5c351da1fb13cc5104acafeca972003136cc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T13:17:37+00:00"
+          "modified_at": "2024-06-15T01:16:58+00:00"
         },
         {
           "track_id": "3q2uX1BAjCiKmhEQiqWZTD",
@@ -7937,7 +8239,7 @@
           "duration": 222720,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02287b62abe84bf4f59cb56533",
           "preview_url": "https://p.scdn.co/mp3-preview/96346876259d26565543dcf3fa1bafe357f50872?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T13:14:38+00:00"
+          "modified_at": "2024-06-15T01:14:08+00:00"
         },
         {
           "track_id": "2NjeiZqZSRyCdL8xbQehNL",
@@ -8774,7 +9076,7 @@
           "artist_name": "Sammy Virji, Flowdan",
           "duration": 163934,
           "image_url": "https://i.scdn.co/image/ab67616d00001e023edbd638d73631f434fe755a",
-          "modified_at": "2024-06-14T13:36:18+00:00"
+          "modified_at": "2024-06-15T01:34:36+00:00"
         },
         {
           "track_id": "1Bdy0uirk0pou8GjuhDciX",
@@ -8820,7 +9122,7 @@
           "artist_name": "Chris Lake, Sammy Virji, Nathan Nicholson",
           "duration": 251201,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02f3b42c0ca1c479b251e1b393",
-          "modified_at": "2024-06-14T14:00:55+00:00"
+          "modified_at": "2024-06-15T01:14:36+00:00"
         },
         {
           "track_id": "3gVks4tc3TzqQYdDCPj7f2",
@@ -9218,7 +9520,7 @@
           "artist_name": "Sammy Virji, Flowdan",
           "duration": 163934,
           "image_url": "https://i.scdn.co/image/ab67616d00001e023edbd638d73631f434fe755a",
-          "modified_at": "2024-06-14T13:36:18+00:00"
+          "modified_at": "2024-06-15T01:34:36+00:00"
         },
         {
           "track_id": "0OCFIEsSrmKueOiPK6S3xq",
@@ -9228,7 +9530,7 @@
           "duration": 148965,
           "image_url": "https://i.scdn.co/image/ab67616d00001e023dd3e0a8ed152be2fdfce926",
           "preview_url": "https://p.scdn.co/mp3-preview/a87199869b16741cf0bd394ace77c65d1248a89b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T13:36:18+00:00"
+          "modified_at": "2024-06-15T01:34:36+00:00"
         },
         {
           "track_id": "5lQnTSIZcjhzOsuJhIMQlA",
@@ -10009,7 +10311,7 @@
           "duration": 177658,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02a3d67ccc06d8929df12a2ed1",
           "preview_url": "https://p.scdn.co/mp3-preview/2fbf86fe405779212ae2c686deab10f797c10bd4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T13:31:05+00:00"
+          "modified_at": "2024-06-15T01:29:49+00:00"
         },
         {
           "track_id": "6m3ZWIXhjoV76syT1j2oE9",
@@ -10029,7 +10331,7 @@
           "duration": 219200,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0237422e424f7e93330acc5719",
           "preview_url": "https://p.scdn.co/mp3-preview/33873598c0ad50f7b3851219c0cf5f284bf813c2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T13:14:42+00:00"
+          "modified_at": "2024-06-15T01:14:12+00:00"
         },
         {
           "track_id": "17yOpPoiu2Ue962Do8LsdS",
@@ -10078,7 +10380,7 @@
           "duration": 157500,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02b42c1ad088d0c0e0d086b68d",
           "preview_url": "https://p.scdn.co/mp3-preview/99996459a82b55315366046249ba685c5e6fddf9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T14:01:10+00:00"
+          "modified_at": "2024-06-15T01:14:52+00:00"
         },
         {
           "track_id": "3oZoXyU0SkDldgS7AcN4y4",
@@ -10255,154 +10557,6 @@
       "show_in_intake": true,
       "show_in_artists": true,
       "modified_at": "2024-06-14T12:50:54+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995570,
-      "external_id": "1916427",
-      "published": true,
-      "name": "DJ Pee Wee (Anderson .Paak)",
-      "body": "Born Brandon Paak Anderson in Oxnard, California, as a teen he played drums in his church Band. \nHis transformation into Anderson .Paak, with debut album Venice and the 2016 sophomore release Malibu, was met with universal rave reviews. .Paak is now an 8x GRAMMY Award winner, producer, songwriter, artist & director. Anderson released his highly regarded 2020 single “Lockdown” on Juneteenth, inspired from his participation in a Los Angeles protest against police brutality. The record garnered him a Grammy for Best Melodic Rap Performance. He’s also one half of the R&B superduo, Silk Sonic with fellow artist Bruno Mars. Their debut single “Leave The Door Open” garnered over a billion streams. The album’s November 12, 2021 release received worldwide critical acclaim and earned the duo 4 Grammys and a sold out Vegas residency. A multi hyphenate superstar, Anderson .Paak intends to use his platform to propel new talent into the spotlight with the creation of his very own label APESHIT teaming with UMG. However, .Paak’s creative endeavors extend past just music — he’s directed countless music videos over the past few years, and won the Best Director Award at the 2022 BET Awards. His directing credits now include the highly regarded Bonnie and Clyde-esque music video for Leon Bridges’ “Motorbike.” Currently, .Paak is in production on his feature film directorial debut K-POPS, a dramatic comedy that takes inspiration from his life, bridging family lineages and cultures. .Paak also continues his philanthropic efforts with the Brandon Anderson Foundation with his annual .Paak House event which benefits underserved youth in areas of art & music.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260949_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260949_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260949_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260949_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "djpee.wee/",
-        "soundcloud_user": "andersonpaak",
-        "spotify_artist_id": "3jK9MiCrA42lLAdMGUZpwa"
-      },
-      "performances": [
-        {
-          "id": 183036,
-          "external_id": "855435",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995570,
-          "stage_id": 7946,
-          "date_id": 2879,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-11T08:19:50+00:00",
-          "start_time": "2024-07-28T06:00:00+00:00",
-          "end_time": "2024-07-28T07:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [
-        {
-          "track_id": "6h5IlvRJ2ZNPloCOdzUmyW",
-          "streaming_service": "spotify",
-          "title": "Come Down",
-          "artist_name": "Anderson .Paak",
-          "duration": 176693,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025e149abf2d24cd29e40c6b84",
-          "preview_url": "https://p.scdn.co/mp3-preview/a400f5ad425f90b372fcb7dadee763558e10e7fd?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T13:44:06+00:00"
-        },
-        {
-          "track_id": "2JUQ7mV1AHk2owXLydmN4Z",
-          "streaming_service": "spotify",
-          "title": "Love's Train",
-          "artist_name": "Bruno Mars, Anderson .Paak, Silk Sonic",
-          "duration": 307014,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02fcf75ead8a32ac0020d2ce86",
-          "preview_url": "https://p.scdn.co/mp3-preview/9078325a05c0fe6bb9e72089844273a7f376f330?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:50+00:00"
-        },
-        {
-          "track_id": "02VBYrHfVwfEWXk5DXyf0T",
-          "streaming_service": "spotify",
-          "title": "Leave The Door Open",
-          "artist_name": "Bruno Mars, Anderson .Paak, Silk Sonic",
-          "duration": 242096,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02fcf75ead8a32ac0020d2ce86",
-          "preview_url": "https://p.scdn.co/mp3-preview/2f06384101ad1a5aa6b02f6fc24b59789c2ab54d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:50+00:00"
-        },
-        {
-          "track_id": "3xVZYkcuWalGudeKl861wb",
-          "streaming_service": "spotify",
-          "title": "Smokin Out The Window",
-          "artist_name": "Bruno Mars, Anderson .Paak, Silk Sonic",
-          "duration": 197442,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02fcf75ead8a32ac0020d2ce86",
-          "preview_url": "https://p.scdn.co/mp3-preview/03985ea0f5b53660c352773875ba5159533fe692?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:50+00:00"
-        },
-        {
-          "track_id": "7jvCeWOSnJs2N3spqobWnO",
-          "streaming_service": "spotify",
-          "title": "Skate",
-          "artist_name": "Bruno Mars, Anderson .Paak, Silk Sonic",
-          "duration": 203122,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02fcf75ead8a32ac0020d2ce86",
-          "preview_url": "https://p.scdn.co/mp3-preview/3e93cbec6eb68471b1c027bd057175cdb7590dfc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:50+00:00"
-        },
-        {
-          "track_id": "3jiKUMXqwEodB7gVv1RMZU",
-          "streaming_service": "spotify",
-          "title": "After Last Night (with Thundercat & Bootsy Collins)",
-          "artist_name": "Bruno Mars, Anderson .Paak, Silk Sonic, Thundercat, Bootsy Collins",
-          "duration": 249444,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02fcf75ead8a32ac0020d2ce86",
-          "preview_url": "https://p.scdn.co/mp3-preview/3e85cec2c59de46689a7ca0839342d97d3aef008?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:50+00:00"
-        },
-        {
-          "track_id": "3a6FcTyvSf0ED3VXeH3PJ5",
-          "streaming_service": "spotify",
-          "title": "Fly As Me",
-          "artist_name": "Bruno Mars, Anderson .Paak, Silk Sonic",
-          "duration": 219389,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02fcf75ead8a32ac0020d2ce86",
-          "preview_url": "https://p.scdn.co/mp3-preview/e4a561c3113a1cc27843ca644c35c8a9c87b90f1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:50+00:00"
-        },
-        {
-          "track_id": "1l4iQsOZ5sOXZPMQLvouaB",
-          "streaming_service": "spotify",
-          "title": "Coast (feat. Anderson .Paak)",
-          "artist_name": "Hailee Steinfeld, Anderson .Paak",
-          "duration": 166720,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f5397a412658c978232a1c10",
-          "modified_at": "2024-06-11T08:19:50+00:00"
-        },
-        {
-          "track_id": "561pBFcFL2Pwb9HPO9tU8J",
-          "streaming_service": "spotify",
-          "title": "places to be",
-          "artist_name": "Fred again.., Anderson .Paak, CHIKA",
-          "duration": 226677,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021f51ec0adeeff5a6095b13cc",
-          "preview_url": "https://p.scdn.co/mp3-preview/0485c508a17969139aed4c19c22c24abe08c04b9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T14:00:55+00:00"
-        },
-        {
-          "track_id": "1kJK2dkXbMw8yOMFEuJUm7",
-          "streaming_service": "spotify",
-          "title": "FromHere (feat. Snoop Dogg & October London)",
-          "artist_name": "NxWorries, Anderson .Paak, Knxwledge, Snoop Dogg, October London",
-          "duration": 241511,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025c5ae6195143c171b7585beb",
-          "preview_url": "https://p.scdn.co/mp3-preview/14a056228da89fa0bac952fdc614f006a31b07bc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:50+00:00"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-14T12:50:52+00:00",
       "show_section_titles": true
     },
     {
@@ -11275,7 +11429,7 @@
           "artist_name": "GRiZ, Subtronics",
           "duration": 198400,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0283046e046407ae9b6e629956",
-          "modified_at": "2024-06-14T13:08:04+00:00"
+          "modified_at": "2024-06-15T01:07:55+00:00"
         },
         {
           "track_id": "2il9NDpW87Hk2L9AjeDf8r",
@@ -11294,7 +11448,7 @@
           "artist_name": "Rezz, Subtronics",
           "duration": 212210,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02743479ac66260626a234fe8c",
-          "modified_at": "2024-06-14T13:49:00+00:00"
+          "modified_at": "2024-06-15T01:34:36+00:00"
         },
         {
           "track_id": "0yotOi6EFaBal5Gy7YVcuI",
@@ -11425,7 +11579,7 @@
           "duration": 197487,
           "image_url": "https://i.scdn.co/image/ab67616d00001e020eb47b2eec859a783ceb72c8",
           "preview_url": "https://p.scdn.co/mp3-preview/f63f47b2ed5c3f81c303c630af40b2fad0d14a9c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T13:44:06+00:00"
+          "modified_at": "2024-06-15T01:08:51+00:00"
         },
         {
           "track_id": "3whmx5Ptrqzx2c101FJFi3",
@@ -11434,7 +11588,7 @@
           "artist_name": "Disclosure, London Grammar",
           "duration": 244174,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02d3462d1395189dc76a326031",
-          "modified_at": "2024-06-14T13:09:02+00:00"
+          "modified_at": "2024-06-15T01:08:51+00:00"
         },
         {
           "track_id": "0TrPqhAMoaKUFLR7iYDokf",
@@ -11453,7 +11607,7 @@
           "artist_name": "Disclosure, Eliza Doolittle, Flume",
           "duration": 282812,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02786201dca187d2b0c956c24b",
-          "modified_at": "2024-06-14T13:46:17+00:00"
+          "modified_at": "2024-06-15T01:15:48+00:00"
         },
         {
           "track_id": "0csz09qS2n8Jo7LogHKu7j",
@@ -11480,7 +11634,7 @@
           "artist_name": "Disclosure, Sam Smith",
           "duration": 255631,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02786201dca187d2b0c956c24b",
-          "modified_at": "2024-06-14T13:50:19+00:00"
+          "modified_at": "2024-06-15T01:26:12+00:00"
         },
         {
           "track_id": "5EWFuo4ObEnfndc57sTuIo",
@@ -11508,7 +11662,7 @@
           "duration": 226773,
           "image_url": "https://i.scdn.co/image/ab67616d00001e020b6d4c43fe3e8485148e4872",
           "preview_url": "https://p.scdn.co/mp3-preview/3bfc7f59c9107ad87fd8521e40c3a461ad921574?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T14:00:54+00:00"
+          "modified_at": "2024-06-15T01:14:36+00:00"
         }
       ],
       "show_in_search": true,
@@ -13246,7 +13400,7 @@
           "artist_name": "LION BABE",
           "duration": 250706,
           "image_url": "https://i.scdn.co/image/ab67616d00001e026454cc79bc32f309749b019b",
-          "modified_at": "2024-06-14T13:30:45+00:00"
+          "modified_at": "2024-06-15T01:29:30+00:00"
         },
         {
           "track_id": "5LWKsMeXaYBoKzCHk8syQy",
@@ -14466,7 +14620,7 @@
           "duration": 218437,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02bd5d802e3220afac98263b5b",
           "preview_url": "https://p.scdn.co/mp3-preview/4400d36d7f9ccc1cdf2cfb77043b8298b8f381b3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T14:01:10+00:00"
+          "modified_at": "2024-06-15T01:14:52+00:00"
         },
         {
           "track_id": "4WAKHKHloHdmPPfxgW8HAn",
@@ -15736,7 +15890,7 @@
           "artist_name": "Nia Archives",
           "duration": 152558,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02ed8761730439da61f8a67ae3",
-          "modified_at": "2024-06-14T13:35:57+00:00"
+          "modified_at": "2024-06-15T01:34:36+00:00"
         },
         {
           "track_id": "29LpCEcWnk9lFfzR2o3YVW",
@@ -15754,7 +15908,7 @@
           "artist_name": "Nia Archives",
           "duration": 166356,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0216132328227419b223f68121",
-          "modified_at": "2024-06-14T13:36:28+00:00"
+          "modified_at": "2024-06-15T01:34:36+00:00"
         },
         {
           "track_id": "0YbYNOaIOr9Hs4YEPBOSP5",
@@ -15782,7 +15936,7 @@
           "artist_name": "Nia Archives",
           "duration": 196133,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0216132328227419b223f68121",
-          "modified_at": "2024-06-14T13:35:56+00:00"
+          "modified_at": "2024-06-15T01:34:36+00:00"
         },
         {
           "track_id": "0JH3rxj9e7cY8T1QFgr5mQ",
@@ -16013,7 +16167,7 @@
           "duration": 184615,
           "image_url": "https://i.scdn.co/image/ab67616d00001e024a46e1c15703dbea0a7954f3",
           "preview_url": "https://p.scdn.co/mp3-preview/33d6531afb0d09dff48d451252423a73bfe5b351?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T13:31:05+00:00"
+          "modified_at": "2024-06-15T01:29:49+00:00"
         },
         {
           "track_id": "4FKxRe40M52eYZ3yI86FCy",
@@ -17023,7 +17177,7 @@
           "artist_name": "Hannah Wants, Chris Lorenzo",
           "duration": 200005,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02823349c9546161f25941b7c9",
-          "modified_at": "2024-06-14T13:46:04+00:00"
+          "modified_at": "2024-06-15T01:16:58+00:00"
         },
         {
           "track_id": "64vBCC1lpjEnF10CkDiDhv",
@@ -17204,157 +17358,6 @@
       "show_in_intake": true,
       "show_in_artists": true,
       "modified_at": "2024-06-14T08:56:18+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995760,
-      "external_id": "1916447",
-      "published": true,
-      "name": "Marten Hørger",
-      "body": "HØUSE MUSIC\n\nGermany's MARTEN HØRGER is one of the leading forces in house music.  \nHe combines influences from classic house, techno and bass music to create his very own trademark sound, which UK's DJMag simply calls \"The Future“. \nAs a result, Marten has recently collaborated with producers such as David Guetta, Tchami, Apashe and Habstrakt; and is named the #33 most influential electronic artist of the year by \"1001 Tracklists\" in 2021. \n\nThe music portal Beatport crowns him the most successful bass house act of all time in 2022. In his home country, too, he finally achieves a breakthrough, and the readers of Faze magazine vote him National Breakthrough Act of the Year in 2023. \n\nIn addition to a multitude of sold-out club tours in America, Europe, Asia and Australia, Marten is a regular guest on the big stages of festivals such as Tomorrowland, EDC, Glastonbury, Burning Man, Shambhala and Fusion.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261949_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261949_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261949_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261949_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "marten.horger/",
-        "instagram_user": "marten_horger/",
-        "youtube_user": "user/MARTENHORGER",
-        "soundcloud_user": "marten-horger",
-        "spotify_artist_id": "0EdUwJSqkMmsH6Agg3G8Ls"
-      },
-      "performances": [
-        {
-          "id": 183280,
-          "external_id": "855477",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995760,
-          "stage_id": 7953,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-11T08:20:18+00:00",
-          "start_time": "2024-07-29T08:00:00+00:00",
-          "end_time": "2024-07-29T09:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [
-        {
-          "track_id": "0g3wIOS5bf02UcjK33xUoB",
-          "streaming_service": "spotify",
-          "title": "WE'RE BACK",
-          "artist_name": "Marten Hørger, Neon Steve",
-          "duration": 195483,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d5a3f4bda9343aff9c35c935",
-          "preview_url": "https://p.scdn.co/mp3-preview/635680ff1af23c2d5fc99e820f87e1ce7d252c99?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:17+00:00"
-        },
-        {
-          "track_id": "4NoJpQvvjVJ2m8S72eIDaF",
-          "streaming_service": "spotify",
-          "title": "The Freaks",
-          "artist_name": "David Guetta, Marten Hørger",
-          "duration": 255360,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e029b93ca3db4287c4b8595afeb",
-          "preview_url": "https://p.scdn.co/mp3-preview/31ee20c6441ac63dd5b47f55ac8386b10bacc604?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T13:54:05+00:00"
-        },
-        {
-          "track_id": "25vG6krgfp2FQGNXzP4ZFV",
-          "streaming_service": "spotify",
-          "title": "Take A Step Back",
-          "artist_name": "Dr. Fresch, Marten Hørger",
-          "duration": 160000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e020c05d8ed5b58f7b28d56ac2a",
-          "preview_url": "https://p.scdn.co/mp3-preview/98a2573416d43d9b00ea0f3a4c67b1d3ca258a3a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:17+00:00"
-        },
-        {
-          "track_id": "6a7Vnxz6aezPxdKPTF72Yb",
-          "streaming_service": "spotify",
-          "title": "I Know",
-          "artist_name": "Marten Hørger, BIJOU",
-          "duration": 202560,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02afd02367594683792773156e",
-          "preview_url": "https://p.scdn.co/mp3-preview/8e2bdcf537d900cd578090bd12dd48e238d855c1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:17+00:00"
-        },
-        {
-          "track_id": "0NPTpdVrseb7YGggATplQn",
-          "streaming_service": "spotify",
-          "title": "Want You",
-          "artist_name": "NITTI, Marten Hørger",
-          "duration": 181935,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02647ae65f953144654f0dcd4d",
-          "preview_url": "https://p.scdn.co/mp3-preview/0d8aaf24e14367e93398c3fbd784c86b121f6164?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:17+00:00"
-        },
-        {
-          "track_id": "0rLWyaC6vkht17t0EjO71Y",
-          "streaming_service": "spotify",
-          "title": "Ill Behavior",
-          "artist_name": "Marten Hørger",
-          "duration": 156428,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028e23734ecd3373923088b3c9",
-          "preview_url": "https://p.scdn.co/mp3-preview/26dbc7ca8ce75dac190152c47f8deaf73a499675?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:17+00:00"
-        },
-        {
-          "track_id": "6cNgfzIce1Qu0b9sO0ibxn",
-          "streaming_service": "spotify",
-          "title": "Lets Try It",
-          "artist_name": "Marten Hørger, BRANDON",
-          "duration": 167040,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02fc625a7d8bbd21cc317b4d42",
-          "preview_url": "https://p.scdn.co/mp3-preview/dceedc488b397bc167e8b5d7aaf303e57cc69dc9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:21:25+00:00"
-        },
-        {
-          "track_id": "18o6r7yB7rxFoLV5rcrWTa",
-          "streaming_service": "spotify",
-          "title": "Levitate",
-          "artist_name": "Sonny Fodera, Marten Hørger",
-          "duration": 165000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a369fa00783b020a202cb95b",
-          "preview_url": "https://p.scdn.co/mp3-preview/cf6d4b6108cbd5423de69aae02510e8a5e05eee2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:17+00:00"
-        },
-        {
-          "track_id": "4BSMp7GnQYmqPEkDKLCnOD",
-          "streaming_service": "spotify",
-          "title": "The Calling",
-          "artist_name": "Tchami, Marten Hørger",
-          "duration": 197760,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025e0af6f1f992ab6d3fa513e1",
-          "preview_url": "https://p.scdn.co/mp3-preview/db5b9adebcfe6ab1c2154d7be642e47febc6b14d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:17+00:00"
-        },
-        {
-          "track_id": "2qr2xnzLGcdXGJgxQWUPIo",
-          "streaming_service": "spotify",
-          "title": "Beat Of Your Heart - Marten Hørger Remix",
-          "artist_name": "Purple Disco Machine, ÁSDÍS, Marten Hørger",
-          "duration": 242893,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024a0b93485bf04b2b6443d90d",
-          "preview_url": "https://p.scdn.co/mp3-preview/a43f1efe2d1935d3b491bcabf8a7ff08713b951c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:17+00:00"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-14T08:52:13+00:00",
       "show_section_titles": true
     },
     {
@@ -19494,7 +19497,7 @@
           "artist_name": "James Blake",
           "duration": 223600,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02d134dbb0fad78dda23d777ff",
-          "modified_at": "2024-06-14T13:36:18+00:00"
+          "modified_at": "2024-06-15T01:34:36+00:00"
         },
         {
           "track_id": "51rXHuKN8Loc4sUlKPODgH",
@@ -19503,7 +19506,7 @@
           "artist_name": "Jay Rock, Kendrick Lamar, Future, James Blake",
           "duration": 229670,
           "image_url": "https://i.scdn.co/image/ab67616d00001e029edc391d911405ea9f5c320e",
-          "modified_at": "2024-06-14T13:21:32+00:00"
+          "modified_at": "2024-06-15T01:20:43+00:00"
         },
         {
           "track_id": "4cQrSREMqBSvJ8ZzBZjVb8",
@@ -19512,7 +19515,7 @@
           "artist_name": "James Blake, Travis Scott, Metro Boomin",
           "duration": 193600,
           "image_url": "https://i.scdn.co/image/ab67616d00001e029af56a54edacb6237b49fa2e",
-          "modified_at": "2024-06-14T13:21:32+00:00"
+          "modified_at": "2024-06-15T01:20:43+00:00"
         },
         {
           "track_id": "3hX0ilh84w2KGaiNw2rRCV",
@@ -19568,7 +19571,7 @@
           "duration": 314836,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02881d8d8378cd01099babcd44",
           "preview_url": "https://p.scdn.co/mp3-preview/fb6ed2aac94b5f412d6e407317df02d2ede71534?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T13:21:34+00:00"
+          "modified_at": "2024-06-15T01:20:44+00:00"
         },
         {
           "track_id": "6hEiEWEgAuFvEJduuSQLiw",
@@ -19578,7 +19581,7 @@
           "duration": 260407,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02f46f1920e6e03351ef53ddbd",
           "preview_url": "https://p.scdn.co/mp3-preview/58eb60c6145127fbc3d42e34bd7e52491f5205dd?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T13:34:27+00:00"
+          "modified_at": "2024-06-15T01:33:09+00:00"
         }
       ],
       "show_in_search": true,
@@ -19639,7 +19642,7 @@
           "duration": 213500,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02825b1117fff3caf78573329a",
           "preview_url": "https://p.scdn.co/mp3-preview/58cc3e465230dfaa864f37ddc9f3097bfbcc8cbb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T13:12:12+00:00"
+          "modified_at": "2024-06-15T01:11:48+00:00"
         },
         {
           "track_id": "3iMYKoUsn5X0ctIAXvgmSf",
@@ -19988,7 +19991,7 @@
           "duration": 202665,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0266c67ea4d5d50b84c060faf4",
           "preview_url": "https://p.scdn.co/mp3-preview/621a2867e93962c140484d949ebb5e30ae45d1cf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T14:00:55+00:00"
+          "modified_at": "2024-06-15T01:14:36+00:00"
         },
         {
           "track_id": "2YhEJoYccyE5wpdAkZWbPk",
@@ -20247,7 +20250,7 @@
           "artist_name": "Sub Focus, Dimension",
           "duration": 215172,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02967e9fb8c9f5bb2e9ce2f1bc",
-          "modified_at": "2024-06-14T13:17:37+00:00"
+          "modified_at": "2024-06-15T01:16:57+00:00"
         },
         {
           "track_id": "6a6m9cezKuRGoiHH11bU4Z",
@@ -20326,7 +20329,7 @@
           "duration": 205116,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0238fad8114e54b15520366e44",
           "preview_url": "https://p.scdn.co/mp3-preview/0ea5256d5406f5469a82694ac38adce154f12562?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T14:01:10+00:00"
+          "modified_at": "2024-06-15T01:14:52+00:00"
         },
         {
           "track_id": "5f69wzvle0b9ColR7wuvEK",
@@ -23431,7 +23434,7 @@
           "duration": 265017,
           "image_url": "https://i.scdn.co/image/ab67616d00001e027766926ef2153e8ce1bc54ca",
           "preview_url": "https://p.scdn.co/mp3-preview/619026444c0cc9f97834325474a5e3fa425a4d34?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-14T13:07:26+00:00"
+          "modified_at": "2024-06-15T01:07:24+00:00"
         },
         {
           "track_id": "5VDnV2q6OrlrPsHsDZtIP1",
