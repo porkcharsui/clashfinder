@@ -1,3 +1,4 @@
+// no performances found for artist id=1997136
 // no performances found for artist id=1999993
 // no performances found for artist id=1999994
 // no performances found for artist id=1995621
@@ -21,7 +22,6 @@
 // no performances found for artist id=1997155
 // no performances found for artist id=1997134
 // no performances found for artist id=1997135
-// no performances found for artist id=1997136
 // no performances found for artist id=1997137
 // no performances found for artist id=1997139
 // no performances found for artist id=1997140
