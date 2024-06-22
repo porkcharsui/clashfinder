@@ -1,53 +1,6 @@
 {
   "data": [
     {
-      "id": 1995510,
-      "external_id": "1916926",
-      "published": true,
-      "name": "Yoga w/ Celeste",
-      "body": "Celeste White's introduction to yoga was quite unexpected. In 2008, at the urging of a friend, she took her first class and was hooked!  Inspired to learn more, releasing any former misconceptions she had about Yoga being \"\"for the flexible people\"\", she went on to take her levels one, two and three Yoga Teacher Trainings as well as having participated in 3 Yoga Teacher co-creates, and is now facilitating the One Love Yoga Teacher Training. \n\nFuelled by her love of teaching, music, and creative expression, Celeste has fused her knowledge of yoga and brought it into her other passion...Hula Hooping! She has developed and facilitated six I Love Hoola Hoops/ One Love Yoga International Teacher Trainings in Costa Rica/ Okotoks and continues to teach ongoing classes.\n\nA free spirit, with a strong desire to share what Yoga has done for her both inside and out, she stays true to Yogic philosophy while creating space for her students to explore their own possibilities and challenging themselves and having fun! Her mantra of \"\"Live for yourself...you will live in vain. Live for others...you will live again\"\" by Bob Marley & the Wailers is demonstrated in her teaching approach and fosters trust and connectivity between herself and her students. Celeste's classes are for everyone and anyone, no matter what their background. She is here to shake things up a bit and have some fun with life, music, and possibility!",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263443_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263443_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263443_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263443_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "groups/171122176395056/",
-        "instagram_user": "ilovehoolahoops"
-      },
-      "performances": [
-        {
-          "id": 182975,
-          "external_id": "856314",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995510,
-          "stage_id": 7937,
-          "date_id": 2878,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-21T18:17:21+00:00",
-          "start_time": "2024-07-26T19:00:00+00:00",
-          "end_time": "2024-07-26T20:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-21T18:17:21+00:00",
-      "show_section_titles": true
-    },
-    {
       "id": 1995537,
       "external_id": "1916772",
       "published": true,
@@ -81,7 +34,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-21T18:17:21+00:00",
+          "modified_at": "2024-06-22T01:32:43+00:00",
           "start_time": "2024-07-26T22:00:00+00:00",
           "end_time": "2024-07-27T02:00:00+00:00",
           "show_image_in_schedule": true,
@@ -93,7 +46,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-21T18:17:21+00:00",
+      "modified_at": "2024-06-22T01:32:43+00:00",
       "show_section_titles": true
     },
     {
@@ -135,7 +88,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-21T18:17:21+00:00",
+          "modified_at": "2024-06-22T01:32:43+00:00",
           "start_time": "2024-07-28T03:00:00+00:00",
           "end_time": "2024-07-28T04:30:00+00:00",
           "show_image_in_schedule": true,
@@ -248,7 +201,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-21T18:17:21+00:00",
+      "modified_at": "2024-06-22T01:32:43+00:00",
       "show_section_titles": true
     },
     {
@@ -285,7 +238,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-21T18:17:21+00:00",
+          "modified_at": "2024-06-22T01:32:43+00:00",
           "start_time": "2024-07-28T08:30:00+00:00",
           "end_time": "2024-07-28T09:00:00+00:00",
           "show_image_in_schedule": true,
@@ -302,7 +255,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-21T18:17:21+00:00",
+          "modified_at": "2024-06-22T01:32:43+00:00",
           "start_time": "2024-07-28T21:00:00+00:00",
           "end_time": "2024-07-28T21:15:00+00:00",
           "show_image_in_schedule": true,
@@ -415,7 +368,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-21T18:17:21+00:00",
+      "modified_at": "2024-06-22T01:32:43+00:00",
       "show_section_titles": true
     },
     {
@@ -453,7 +406,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-21T18:17:21+00:00",
+          "modified_at": "2024-06-22T01:32:43+00:00",
           "start_time": "2024-07-28T02:30:00+00:00",
           "end_time": "2024-07-28T04:00:00+00:00",
           "show_image_in_schedule": true,
@@ -566,7 +519,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-21T18:17:21+00:00",
+      "modified_at": "2024-06-22T01:32:43+00:00",
       "show_section_titles": true
     },
     {
@@ -598,7 +551,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-21T18:17:21+00:00",
+          "modified_at": "2024-06-22T01:32:43+00:00",
           "start_time": "2024-07-28T00:30:00+00:00",
           "end_time": "2024-07-28T03:30:00+00:00",
           "show_image_in_schedule": true,
@@ -610,7 +563,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-21T18:17:21+00:00",
+      "modified_at": "2024-06-22T01:32:43+00:00",
       "show_section_titles": true
     },
     {
@@ -648,7 +601,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-21T18:17:21+00:00",
+          "modified_at": "2024-06-22T01:32:43+00:00",
           "start_time": "2024-07-28T10:30:00+00:00",
           "end_time": "2024-07-28T13:00:00+00:00",
           "show_image_in_schedule": true,
@@ -761,7 +714,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-21T18:17:21+00:00",
+      "modified_at": "2024-06-22T01:32:43+00:00",
       "show_section_titles": true
     },
     {
@@ -795,7 +748,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-21T18:17:21+00:00",
+          "modified_at": "2024-06-22T01:32:43+00:00",
           "start_time": "2024-07-28T21:15:00+00:00",
           "end_time": "2024-07-28T22:00:00+00:00",
           "show_image_in_schedule": true,
@@ -807,7 +760,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-21T18:17:21+00:00",
+      "modified_at": "2024-06-22T01:32:43+00:00",
       "show_section_titles": true
     },
     {
@@ -839,7 +792,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-21T18:17:21+00:00",
+          "modified_at": "2024-06-22T01:32:43+00:00",
           "start_time": "2024-07-29T14:00:00+00:00",
           "end_time": "2024-07-29T15:00:00+00:00",
           "show_image_in_schedule": true,
@@ -851,7 +804,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-21T18:17:21+00:00",
+      "modified_at": "2024-06-22T01:32:43+00:00",
       "show_section_titles": true
     },
     {
@@ -883,7 +836,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-21T18:17:21+00:00",
+          "modified_at": "2024-06-22T01:32:43+00:00",
           "start_time": "2024-07-28T21:00:00+00:00",
           "end_time": "2024-07-29T02:00:00+00:00",
           "show_image_in_schedule": true,
@@ -895,7 +848,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-21T18:17:21+00:00",
+      "modified_at": "2024-06-22T01:32:43+00:00",
       "show_section_titles": true
     },
     {
@@ -933,7 +886,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-21T18:17:21+00:00",
+          "modified_at": "2024-06-22T01:32:43+00:00",
           "start_time": "2024-07-29T02:00:00+00:00",
           "end_time": "2024-07-29T03:00:00+00:00",
           "show_image_in_schedule": true,
@@ -1045,7 +998,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-21T18:17:21+00:00",
+      "modified_at": "2024-06-22T01:32:43+00:00",
       "show_section_titles": true
     },
     {
@@ -1082,7 +1035,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-21T18:17:21+00:00",
+          "modified_at": "2024-06-22T01:32:43+00:00",
           "start_time": "2024-07-29T12:00:00+00:00",
           "end_time": "2024-07-29T13:00:00+00:00",
           "show_image_in_schedule": true,
@@ -1195,7 +1148,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-06-21T18:17:21+00:00",
+      "modified_at": "2024-06-22T01:32:43+00:00",
       "show_section_titles": true
     },
     {
@@ -1231,9 +1184,1508 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-06-21T18:17:21+00:00",
+          "modified_at": "2024-06-22T01:32:43+00:00",
           "start_time": "2024-07-27T09:45:00+00:00",
           "end_time": "2024-07-27T11:45:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-22T01:32:43+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995628,
+      "external_id": "1910116",
+      "published": true,
+      "name": "Sijay James",
+      "body": "Sijay James caught the vinyl bug in 1995 in the earlier days of the Vancouver electronic dance music scene. He has performed at venues around the world and has been a strong part of the west coast festival community for over 2 decades as a VJ and graphic designer. Sijay has been a large part of the design and art direction for Shambhala for over a decade as well as a resident VJ at the living room for 16 years. The rave is in his blood. He is known for his downtempo selecting with an emphasis on the groove oriented chill and the chill oriented groove. Never one to follow trends or do the popular thing, you can always expect something you haven’t heard before in his sets.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260997_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260997_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260997_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260997_performance_500.jpeg",
+        "960": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260997_performance_960.jpeg",
+        "1080": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260997_performance_1080.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "soundcloud_user": "onbeyond23"
+      },
+      "performances": [
+        {
+          "id": 183095,
+          "external_id": "856323",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995628,
+          "stage_id": 7951,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-21T22:32:24+00:00",
+          "start_time": "2024-07-28T20:00:00+00:00",
+          "end_time": "2024-07-28T21:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-21T22:32:24+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995629,
+      "external_id": "1916726",
+      "published": true,
+      "name": "Lightcode by LSDREAM",
+      "body": "Since making its debut in March 2018, the LSDREAM project has continued to soar to new heights, consistently breaking the mold with unique and unforgettable music and live performances. Producer Sami Diament has expertly created a distinct and fully expansive journey through sonic blends including the likes of wobbling bass tones, hip-hop influenced beats, ethereal and spacey synths, and powerful lyrical messages.If you’ve seen an LSDREAM set before, maybe at one of his many major festival plays (including Electric Forest, Okeechobee, Coachella, Lightning in a Bottle and more) or on the sold-out headline PEACE LOVE & WUBZ Tour in 2022, you’d know that no LSDREAM show is complete without the perfectly curated,mind-melting visuals and production. LSDREAM never disappoints in providing a truly transportive audio and visual experience.Along with the explorative, psychedelic nature of the live shows,they also lend themselves asa safe space to reconnect with one's authentic self and let loose for a moment in time. While LSDREAM’s messaging does often focus on joy and youthful fun, it is also about acknowledging and working through the darker aspects of our internal worlds, promoting self-love and healing no matter where we are in our personal journeys.The project aims to foster a true connection to oneself, others, and the universe as a whole.This goal has blossomed an integral piece to the LSDREAM project:the community of fans, bringing inclusion and acceptance to all who want to be a part of it. Following some major new musical and life endeavors,on October 11, 2023 LSDREAM released his highly anticipated Part 1 of his 4th studio album,Heartwave Which included 4 songs featuring the focus track “RAD”with Joey Valence & Brae,“Operate” with Elephant Heart and more! The album arrived ahead of the sold out Red Rocks show DreamRocks, kicking off the massive Fall 2023 North American Headlining Tour, The Radical Audio Visual Experience, across 34+ states.2024 is packed with festivals and an exploration of the new wave of music.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260998_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260998_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260998_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260998_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "lightcode",
+        "youtube_user": "playlist",
+        "soundcloud_user": "lightcode"
+      },
+      "performances": [
+        {
+          "id": 183096,
+          "external_id": "855997",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995629,
+          "stage_id": 7951,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-21T22:32:24+00:00",
+          "start_time": "2024-07-28T19:00:00+00:00",
+          "end_time": "2024-07-28T20:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-21T22:32:24+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995626,
+      "external_id": "1909884",
+      "published": true,
+      "name": "Runekey",
+      "body": "Runekey aims to curate a dance forward space where the music moves ours bodies without thought. No matter what genres Runekey plays his sets are always a journey from start to finish. Through his song selections, seamless mixing and dancing energy behind the decks you can expect to be taken into dance at his sets.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260996_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260996_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260996_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260996_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "soundcloud_user": "runekey"
+      },
+      "performances": [
+        {
+          "id": 183093,
+          "external_id": "856332",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995626,
+          "stage_id": 7950,
+          "date_id": 2879,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-31T06:48:12+00:00",
+          "start_time": "2024-07-28T08:30:00+00:00",
+          "end_time": "2024-07-28T10:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-21T19:56:42+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995640,
+      "external_id": "1916779",
+      "published": true,
+      "name": "Radio Fryer",
+      "body": "Founder of Leaf Records, Wagon Repair and the Together Full Moon Rituals",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261009_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261009_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261009_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261009_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "radio.fryer"
+      },
+      "performances": [
+        {
+          "id": 183109,
+          "external_id": "856093",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995640,
+          "stage_id": 7951,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-31T06:48:12+00:00",
+          "start_time": "2024-07-29T11:00:00+00:00",
+          "end_time": "2024-07-29T12:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-21T19:55:43+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995507,
+      "external_id": "167269",
+      "published": true,
+      "name": "Synkro",
+      "body": "Manchester’s Joe McBride pens elaborate, emotive & intellectual soundscapes, drawing in influences across a spectrum of bass culture and electronica. Having released with Exit Records, Brownswood, Styrax, Auxiliary & Med School, as well as remixes for Model 500, Snow Patrol, Lowb & a plethora more, Synkro has most recently found a home at R&S sister label ‘Apollo’. Major support for Synkro’s music has come from names like Chris Coco, Giles Peterson, Mary Anne Hobbs, Prefuse 73 and dBridge. A truly staple artist in the timeline of UK Bass.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260894_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260894_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260894_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260894_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "synkromusik/",
+        "instagram_user": "synkromusik",
+        "youtube_user": "user/SynkroMusik",
+        "soundcloud_user": "synkro",
+        "spotify_artist_id": "4B5oxjbZ2CClTNt8iEiC4n"
+      },
+      "performances": [
+        {
+          "id": 182972,
+          "external_id": "856021",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995507,
+          "stage_id": 7940,
+          "date_id": 2878,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-11T08:19:39+00:00",
+          "start_time": "2024-07-27T09:30:00+00:00",
+          "end_time": "2024-07-27T11:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [
+        {
+          "track_id": "0SSnMauqGYhmbc4eQl2wCT",
+          "streaming_service": "spotify",
+          "title": "Acceptance",
+          "artist_name": "Synkro",
+          "duration": 286068,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0252dfa3f5cede795f4978af9f",
+          "preview_url": "https://p.scdn.co/mp3-preview/4a94c31fd2f7553aa86a49dc887374773c4b07d2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:39+00:00"
+        },
+        {
+          "track_id": "1UCYLkS94UAjCEbr2smd0T",
+          "streaming_service": "spotify",
+          "title": "Memories of Love",
+          "artist_name": "Synkro",
+          "duration": 217690,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028b66eb42e07dee92f74a9857",
+          "preview_url": "https://p.scdn.co/mp3-preview/a7c9febce7f1a0dba200cea5854ca01b773de2f5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:39+00:00"
+        },
+        {
+          "track_id": "13EieqE7vRIdtdQpqM0aF9",
+          "streaming_service": "spotify",
+          "title": "My Desire - Synkro Remix",
+          "artist_name": "Chris Coco, Synkro",
+          "duration": 277456,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e027739c5e4fb5401d401a07f19",
+          "preview_url": "https://p.scdn.co/mp3-preview/3dae231500fe9aed121f07ea7e21ce11a42026a1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:39+00:00"
+        },
+        {
+          "track_id": "2uTpMTOsF0dZKATptJ6dgZ",
+          "streaming_service": "spotify",
+          "title": "Inhale",
+          "artist_name": "Synkro, Faib",
+          "duration": 344866,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e9fa49abcff2f029abd39387",
+          "preview_url": "https://p.scdn.co/mp3-preview/a7a89da6f124e2d51d41dc25954ff0859c8b95b8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:39+00:00"
+        },
+        {
+          "track_id": "3EAKs9Jh7IFqznhkZ1nt8u",
+          "streaming_service": "spotify",
+          "title": "Body Close",
+          "artist_name": "Synkro, Lyves",
+          "duration": 213698,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e020f737c52b65bc7f0b721718c",
+          "preview_url": "https://p.scdn.co/mp3-preview/850e584aef0b4de2bacfc284d125e69eeed76f23?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:39+00:00"
+        },
+        {
+          "track_id": "3kuPtyMyUHU12IY37YpQyn",
+          "streaming_service": "spotify",
+          "title": "Waiting Room",
+          "artist_name": "Synkro",
+          "duration": 207812,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0289ba3ea7f8c6e1d5a6c2c85b",
+          "preview_url": "https://p.scdn.co/mp3-preview/35ab9026bebbed60bfa696600cdedf9fe0e0f10a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:39+00:00"
+        },
+        {
+          "track_id": "3jmBXk1jmdyUMQPtN6tG8B",
+          "streaming_service": "spotify",
+          "title": "Lyves X Synkro - Body Close",
+          "artist_name": "Lyves, Synkro",
+          "duration": 197831,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02aba6d0be6ff95e6144eca92b",
+          "preview_url": "https://p.scdn.co/mp3-preview/ae1b1f03272631d82fb3640004a4e5fb7d34c9b6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:39+00:00"
+        },
+        {
+          "track_id": "6C2QTddIvSC9v7FJIjCVLV",
+          "streaming_service": "spotify",
+          "title": "Negative - Synkro Remix",
+          "artist_name": "Tom Jarmey, Dodd Noble, Ed Hodge, Synkro",
+          "duration": 316592,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a7d9f495e8b7e826cb5b01fb",
+          "preview_url": "https://p.scdn.co/mp3-preview/8ca3af393940bcd5622540ad1b4522e4d709964b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:39+00:00"
+        },
+        {
+          "track_id": "0fGlbBvbV7cmGaQXGbwfIq",
+          "streaming_service": "spotify",
+          "title": "Presence",
+          "artist_name": "Synkro",
+          "duration": 346588,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e9fa49abcff2f029abd39387",
+          "preview_url": "https://p.scdn.co/mp3-preview/4f3b7687feaf8b3c1e4211ac38e68816d8d1a044?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:39+00:00"
+        },
+        {
+          "track_id": "5addHXSg1oH0vlJwV9ey0D",
+          "streaming_service": "spotify",
+          "title": "Progression",
+          "artist_name": "Synkro",
+          "duration": 338823,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e9fa49abcff2f029abd39387",
+          "preview_url": "https://p.scdn.co/mp3-preview/f7fade0d616e700d57feff275363e5651199deda?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:39+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-21T19:54:45+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995514,
+      "external_id": "1916712",
+      "published": true,
+      "name": "edIT",
+      "body": "Born and raised in Weston, Massachussetts, Edward Ma, now known to the world as edIT, began his music career as \"The Con Artist\" just before the turn of the millennium. As a resident DJ at the now defunct Konkrete Jungle Los Angeles, he shared the stage with Hive, Daddy Kev, James Tai and mic rockers Busdriver, P.E.A.C.E. and Mikah 9. Konkrete Jungle marked the golden age of indie hip-hop in Los Angeles, and was the bridge between the jungle and b-boy massives. During this time, he also held a residency at Dublab Radio. He was one of the very first Dublab DJs and broadcasted two weekly shows from the legendary Melrose Avenue studio. Far ahead of its time, Dublab operated as an internet radio station and served as a unifying force for the melting pot of L.A.'s intellectual DJ culture. During this musical renaissance, edIT used \"The Con Artist\" name to produce and engineer for the likes of Sole (Anticon), Busdriver (Epitaph), Aloe Blacc (Stones Throw), Emanon (Shaman Work), and Dr. Oop (Black Love).\n\nIt was 2003 when \"The Con Artist\" adopted the edIT moniker, while finishing his debut solo album Crying Over Pros for No Reason. The album was released by µ-Ziq's Planet-Mu imprint a year later in 2004. The album was a downtempo love-maker's epic about opportunities lost. Shortly thereafter, he shifted gears towards the dance floor and remixed Daedelus' \"Dumbfound\" for Plug Research, which became a party rockin' classic, and further established edIT as a force to be reckoned with in the IDM and electronic worlds. Aside from remixes, edIT garnered a lot of fame through his mash-ups of Top 40 radio jams by ridiculously cutting up a cappellas with hyper-glitch edits over original and popular hip-hop beats. His MySpace page started getting serious traffic (over 250,000 plays at this point) which led to URB Magazine naming him one of the \"Next 100\" artists to watch in 2006. The popularity of his mash-ups also led to a full-length mixtape commissioned by Hefty Records for their 10-year anniversary where he mashed the Hefty catalog with the likes of Li'l Wayne, T.I., Paul Wall and more. This mix became an overnight cult classic and was talk of the blogoshpere.\n\nNext, edIT's focus turned towards original productions and his highly-anticipated sophomore album Certified Air Raid Material. Being released this Fall by L.A.'s most daring indie label Alpha Pup Records, the album has been a long four years in the making, featuring collaborations with close allies such as The Grouch, Busdriver, TTC, Abstract Rude and D-Styles. Suffice to say, Certified Air Raid Material is a dramatic departure from the melancholy downtempo sounds of Crying Over Pros for No Reason. Upbeat, energetic and impossibly complex, Certified Air Raid Material has certainly raised the bar for state-of-the-art electronic music production. The record is a tour de force of sheer production and engineering genius, resulting in a soulful and futuristic style of dance music that is incomparable to anything else out there. Also, edIT is a member of the renowned electronic trio The Glitch Mob.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260900_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260900_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260900_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260900_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "edITmusic",
+        "instagram_user": "editbeats",
+        "soundcloud_user": "edit",
+        "spotify_artist_id": "3H6Js0rhywEhHda3UwuhGW"
+      },
+      "performances": [
+        {
+          "id": 182979,
+          "external_id": "855920",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995514,
+          "stage_id": 7937,
+          "date_id": 2878,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-11T08:19:40+00:00",
+          "start_time": "2024-07-26T23:30:00+00:00",
+          "end_time": "2024-07-27T00:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [
+        {
+          "track_id": "5Fwq7F2yjF3eQnvkfjN4LY",
+          "streaming_service": "spotify",
+          "title": "Ants",
+          "artist_name": "edIT",
+          "duration": 243133,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02bd0b227687256814d39beed6",
+          "preview_url": "https://p.scdn.co/mp3-preview/539914b47281b206411ff578498ec516d5818027?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:40+00:00"
+        },
+        {
+          "track_id": "6XAhkOyw24Wb1sCwDafXwE",
+          "streaming_service": "spotify",
+          "title": "If You Crump Stand Up",
+          "artist_name": "edIT",
+          "duration": 261986,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02230695792636a816ed9b3f9d",
+          "preview_url": "https://p.scdn.co/mp3-preview/4fa2e5b6d3f215a460f6dca6d890208e24388cdb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:40+00:00"
+        },
+        {
+          "track_id": "4QfVhHGCPVYLiQEnaeknJe",
+          "streaming_service": "spotify",
+          "title": "Bleedin' Out",
+          "artist_name": "edIT, KAVYA",
+          "duration": 223068,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02dd552a7d9a1be2ce15af2cdb",
+          "preview_url": "https://p.scdn.co/mp3-preview/d1e738461bfeb49fb9ba0e5ccc0194e9bef24180?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:40+00:00"
+        },
+        {
+          "track_id": "2sK2yMlqNDgFmBY9fOK6i1",
+          "streaming_service": "spotify",
+          "title": "Battling Go-Go Yubari in Downtown L.A.",
+          "artist_name": "edIT",
+          "duration": 325866,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02230695792636a816ed9b3f9d",
+          "preview_url": "https://p.scdn.co/mp3-preview/3a38e9b18c71cc9f1fabd8dff8ee5ca85e37f997?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:40+00:00"
+        },
+        {
+          "track_id": "7IregeOfANFYRSQI9pfJ1I",
+          "streaming_service": "spotify",
+          "title": "Twenty Minutes",
+          "artist_name": "edIT",
+          "duration": 282666,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02bd0b227687256814d39beed6",
+          "preview_url": "https://p.scdn.co/mp3-preview/5d2d63dfe73bf83169572639126ec42a0517d29c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:40+00:00"
+        },
+        {
+          "track_id": "61UOpTppZlHFhBwaNPMnGF",
+          "streaming_service": "spotify",
+          "title": "Ltlp",
+          "artist_name": "edIT",
+          "duration": 195973,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02bd0b227687256814d39beed6",
+          "preview_url": "https://p.scdn.co/mp3-preview/beb1034581883010283fe250c0c122d36ae51499?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:40+00:00"
+        },
+        {
+          "track_id": "5JvwDgG91yIfXIp3pxlevL",
+          "streaming_service": "spotify",
+          "title": "Artsy Remix",
+          "artist_name": "edIT, The Grouch",
+          "duration": 303240,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02230695792636a816ed9b3f9d",
+          "preview_url": "https://p.scdn.co/mp3-preview/d783775d062fd2097f0473f32b9c92e05f191f3f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:40+00:00"
+        },
+        {
+          "track_id": "62pLNmwanat4wDIpgkmWwb",
+          "streaming_service": "spotify",
+          "title": "Ashtray",
+          "artist_name": "edIT",
+          "duration": 255946,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02bd0b227687256814d39beed6",
+          "preview_url": "https://p.scdn.co/mp3-preview/1e830ad364e0c3efcf075f6ca8296077f3f782bf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:40+00:00"
+        },
+        {
+          "track_id": "4142aLxcayCkjNC0RgGQXc",
+          "streaming_service": "spotify",
+          "title": "More Lazers",
+          "artist_name": "edIT",
+          "duration": 295346,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0225669ac8ee4bd574deec7d25",
+          "preview_url": "https://p.scdn.co/mp3-preview/54c0cbe8ed31d9bd34d5b7af7b1df89170165b68?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:40+00:00"
+        },
+        {
+          "track_id": "1gbAn9ZTlBMiOkeubDnaIf",
+          "streaming_service": "spotify",
+          "title": "That's Me Baby",
+          "artist_name": "edIT",
+          "duration": 280723,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02dd552a7d9a1be2ce15af2cdb",
+          "preview_url": "https://p.scdn.co/mp3-preview/fe7067146c920498666789b834c73dd520e7aeb5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:40+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-21T19:53:07+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995486,
+      "external_id": "1916727",
+      "published": true,
+      "name": "LŪN",
+      "body": "LŪN’s debut EP, haha i like it, a six-track, bass-heavy collection was heralded by singles “bitches” and “y2k2k.” Billboard praised “bitches” for its “hefty siren call chorus that makes us feel like we can shoot lightning through our fingertips,” while EDM.com commended “y2k2k” for \"transitioning seamlessly from a space of control into one of beautiful mania.” Her latest EP “fuck ya go us” came alongside her live debut, doubling down on her production prowess, highlighting her ethereal vocals and driving beat drops. \n \nLŪN continues her mission to deliver fierce midtempo dance beats to the gothbounce world with \"kiss the ring\", and \"symphony no. 5 in bass minor\" from her own fox skull records imprint.  Expect more releases from LŪN and her collaborators in 2024.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260873_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260873_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260873_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260873_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "luntunes",
+        "twitter_user": "luntunes",
+        "soundcloud_user": "luntunes",
+        "spotify_artist_id": "44RV4NtG7667JQNtX6iDZc"
+      },
+      "performances": [
+        {
+          "id": 182951,
+          "external_id": "855998",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995486,
+          "stage_id": 7939,
+          "date_id": 2878,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-11T08:19:36+00:00",
+          "start_time": "2024-07-27T04:00:00+00:00",
+          "end_time": "2024-07-27T05:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [
+        {
+          "track_id": "7v6aomdkdBaD6aNpj6QL1J",
+          "streaming_service": "spotify",
+          "title": "La Puta Ama",
+          "artist_name": "The Funk Hunters, LŪN",
+          "duration": 230880,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024ec1f2ccc1662da10d239a02",
+          "preview_url": "https://p.scdn.co/mp3-preview/a1a9220c45520d2f24335c1b38e78069205ea3ad?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:36+00:00"
+        },
+        {
+          "track_id": "2oJZnCoVRQfiutXmSxVXh6",
+          "streaming_service": "spotify",
+          "title": "myyyy medssss",
+          "artist_name": "LŪN",
+          "duration": 259200,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028314cb69818733e6e0e586c9",
+          "preview_url": "https://p.scdn.co/mp3-preview/6005f5cc11de1576a2060c00ce09f814902abe39?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:36+00:00"
+        },
+        {
+          "track_id": "1uvCbCFeAvYnZbx5LcBVsv",
+          "streaming_service": "spotify",
+          "title": "symphony no.5 in bass minor",
+          "artist_name": "LŪN",
+          "duration": 178235,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c3632b7dafd4663e753b8930",
+          "preview_url": "https://p.scdn.co/mp3-preview/6c7ba7c1e01b8db5bdadfb19b375731ac429d974?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:36+00:00"
+        },
+        {
+          "track_id": "5ylMA5GG8VDjcYUGts2QNt",
+          "streaming_service": "spotify",
+          "title": "demolition (Ruined by Glass Petals)",
+          "artist_name": "LŪN, Lights, Glass Petals",
+          "duration": 226440,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f4cb3cfa31d882ed6e8bde84",
+          "preview_url": "https://p.scdn.co/mp3-preview/87ba4bc627cfc8f1c4d19cf665d7b0ae0b8217ab?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:36+00:00"
+        },
+        {
+          "track_id": "0RrZuYRSDMiPpYpSIs3dfS",
+          "streaming_service": "spotify",
+          "title": "that's what you get",
+          "artist_name": "LŪN, ZABO",
+          "duration": 181090,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0284d06ee087aaecb0d669fc84",
+          "preview_url": "https://p.scdn.co/mp3-preview/fea4ce0ad1d7f39035ccc8bbf1ac48a145294d89?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:36+00:00"
+        },
+        {
+          "track_id": "5uwjwHf7gA1DqLvnsTM3aW",
+          "streaming_service": "spotify",
+          "title": "fisticuffs (feat. tiLLie)",
+          "artist_name": "LŪN, tiLLie",
+          "duration": 237600,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028314cb69818733e6e0e586c9",
+          "preview_url": "https://p.scdn.co/mp3-preview/5f6b27ab662ce37def18d94735f2e4c30a6ff4c0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:36+00:00"
+        },
+        {
+          "track_id": "2cqscm1gWXZElrn48maeMe",
+          "streaming_service": "spotify",
+          "title": "bitches",
+          "artist_name": "LŪN",
+          "duration": 217710,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0294dba24dff7c4b6c46b90a28",
+          "preview_url": "https://p.scdn.co/mp3-preview/208d6a358a98e9f6e1a943d8fc2bd7ed6eabbc69?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:36+00:00"
+        },
+        {
+          "track_id": "6u7rb8ghXkfAb7lGdbuCpv",
+          "streaming_service": "spotify",
+          "title": "Did It To Myself - LŪN Remix",
+          "artist_name": "Robert DeLong, Lights, LŪN",
+          "duration": 233088,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e022bbcabb72074f0097fe12538",
+          "preview_url": "https://p.scdn.co/mp3-preview/a4c7b16effc45d41ba664b294b02494f7ba65249?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:36+00:00"
+        },
+        {
+          "track_id": "04z2dnnvTGvdtSLtkn1Vcl",
+          "streaming_service": "spotify",
+          "title": "kiss the ring",
+          "artist_name": "LŪN, ALEX",
+          "duration": 245861,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02abb95cd72d329a8f2a09d5b8",
+          "preview_url": "https://p.scdn.co/mp3-preview/75fcd3f0396321a9e2e3cc001aa7ac85492a7ac1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:36+00:00"
+        },
+        {
+          "track_id": "7fvxVumQ30aRR1RDmkiuI6",
+          "streaming_service": "spotify",
+          "title": "Post-Rave Heist",
+          "artist_name": "EDDIE, LŪN",
+          "duration": 192009,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e023bd808a2c1a2f82ece3ad628",
+          "modified_at": "2024-06-11T08:19:36+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-21T19:52:33+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995645,
+      "external_id": "1916740",
+      "published": true,
+      "name": "Saka",
+      "body": "\"‘Saka’ exemplifies a cutting-edge sonic quality that is both familiar, yet unconventional. The experimental beatmaker draws inspiration from an eclectic variety of underground electronic as well as his hometown of Hong Kong, wielding a sound palette that is both carefully intricate yet chaotically destructive; industrial yet organic; oriental yet occidental. By combining broken beat patterns, undulating soundscapes, rippling melodies and grotesque basslines, the burgeoning bass talent has achieved an instantly recognizable sound that is uniquely his own. Saka is carving his very own path through the left-field electronic space, turning heads every step of the way.\"",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261013_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261013_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261013_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261013_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "soundslikesaka",
+        "instagram_user": "soundslikesaka",
+        "twitter_user": "soundslikesaka",
+        "soundcloud_user": "soundslikesaka",
+        "spotify_artist_id": "78JjBYPpCRwGwaZff4qQrv"
+      },
+      "performances": [
+        {
+          "id": 183114,
+          "external_id": "856014",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995645,
+          "stage_id": 7952,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-11T08:20:04+00:00",
+          "start_time": "2024-07-29T02:30:00+00:00",
+          "end_time": "2024-07-29T03:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [
+        {
+          "track_id": "1Rr7e4iNxc8akfF0GU9j2o",
+          "streaming_service": "spotify",
+          "title": "Your Eyes",
+          "artist_name": "Saka, Amethyst",
+          "duration": 180697,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f4205917d50a0ec3623b2c3b",
+          "preview_url": "https://p.scdn.co/mp3-preview/89a51149c13dab80db8da4aefd965046ff37f0ab?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:04+00:00"
+        },
+        {
+          "track_id": "7ua7VigiaM3wVFphvRl0bO",
+          "streaming_service": "spotify",
+          "title": "Salvo",
+          "artist_name": "Saka",
+          "duration": 184941,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0219b63f64da474e24c16b55f2",
+          "preview_url": "https://p.scdn.co/mp3-preview/5db3a2713093934a6e9a172b32270347c72751d3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:04+00:00"
+        },
+        {
+          "track_id": "45e1BYbwh9VF93xUDbHiVs",
+          "streaming_service": "spotify",
+          "title": "movelikethis",
+          "artist_name": "Saka",
+          "duration": 213428,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e027080884866ac94b4a962232f",
+          "preview_url": "https://p.scdn.co/mp3-preview/e55584768892af5f09dbc9f1b4065a87a1711619?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:04+00:00"
+        },
+        {
+          "track_id": "3At9iZJpHFkIsVFO4IKe4u",
+          "streaming_service": "spotify",
+          "title": "Elite",
+          "artist_name": "Abelation, Saka",
+          "duration": 233141,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0219ac90c7315e860aa3f1c4d1",
+          "modified_at": "2024-06-11T08:20:04+00:00"
+        },
+        {
+          "track_id": "5TOrZM4bLcvrJSRSeSGO4y",
+          "streaming_service": "spotify",
+          "title": "Wanchai",
+          "artist_name": "Saka, Jianbo",
+          "duration": 226285,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f9f42a970170b8f259313fa9",
+          "modified_at": "2024-06-11T08:20:04+00:00"
+        },
+        {
+          "track_id": "2lFtQc1PhJw5w8az7tvWA7",
+          "streaming_service": "spotify",
+          "title": "Shaolin",
+          "artist_name": "Saka",
+          "duration": 276000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02909ed07f4e66c389b4e2559c",
+          "preview_url": "https://p.scdn.co/mp3-preview/f588e856839bef9d365770fb801137cfe7eae154?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:04+00:00"
+        },
+        {
+          "track_id": "50xGuMB0OATAAcILg6R3YK",
+          "streaming_service": "spotify",
+          "title": "Heaven On Earth",
+          "artist_name": "Black Carl!, Saka, The Lie Within Callie",
+          "duration": 220952,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0216ad227a21e6389bac626219",
+          "modified_at": "2024-06-11T08:20:04+00:00"
+        },
+        {
+          "track_id": "52sG98pwVjiAXuDLAxSgz8",
+          "streaming_service": "spotify",
+          "title": "Yasha",
+          "artist_name": "Saka",
+          "duration": 186897,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c532d85c6d96b3fea5c43508",
+          "preview_url": "https://p.scdn.co/mp3-preview/5c4384e39f8b9e7cec95876f2cb584e042bc5034?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:04+00:00"
+        },
+        {
+          "track_id": "5yvNQcSjq21zPFBUaQvJvh",
+          "streaming_service": "spotify",
+          "title": "False Angel",
+          "artist_name": "Saka",
+          "duration": 211862,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02de21590f3359ddf8eb01fda1",
+          "preview_url": "https://p.scdn.co/mp3-preview/99b357dd86d05d87c8e558d5cabdedba5f056c5d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:04+00:00"
+        },
+        {
+          "track_id": "1pV7JC2ClVZP4hQIuzM8wN",
+          "streaming_service": "spotify",
+          "title": "Rush Hour",
+          "artist_name": "Black Carl!, Saka",
+          "duration": 246857,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0216ad227a21e6389bac626219",
+          "modified_at": "2024-06-11T08:20:04+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-21T19:51:50+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995448,
+      "external_id": "167134",
+      "published": true,
+      "name": "kLL sMTH",
+      "body": "kLL sMTH is an artist who has taken his love of hip-hop and expanded it into a vast array of genres, from glitch-hop and drum and bass to dubstep and bass music. His DJing roots in turntablism have influenced his production style, with scratching and mixing vinyl being some of the first things he learned. He takes inspiration from experimentation, immersing himself in music, nature, and anything life throws his way.\n\nKris is a member of collaborative projects, including glitch-hop and half-time trio Ultrasloth (BioLumigen x Duffrey x kLL sMTH), ‘kLL Bill’ (kLL sMTH x Mr. Bill), a hype electronic project, and gRLL sMTH which aims to spotlight up-and-coming artists, have a good time and bring people together with food. With a constantly evolving sound and a commitment to breaking away from the predictable, kLL sMTH promises to keep his fans on their toes with every new set.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260839_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260839_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260839_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260839_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "kllsmth",
+        "instagram_user": "kllsmth",
+        "twitter_user": "kllsmthmusic",
+        "youtube_channel_id": "UCMbfoCAh2v9w0_eTz1sw7Xg",
+        "soundcloud_user": "kllsmth",
+        "spotify_artist_id": "5vKYp6eOOHPKfb8UX5nUXK"
+      },
+      "performances": [
+        {
+          "id": 182913,
+          "external_id": "855994",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995448,
+          "stage_id": 7936,
+          "date_id": 3213,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-11T08:19:30+00:00",
+          "start_time": "2024-07-25T21:00:00+00:00",
+          "end_time": "2024-07-25T22:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [
+        {
+          "track_id": "7mTlGBNcKFxfQYqCxXacYE",
+          "streaming_service": "spotify",
+          "title": "Nearly Nangled",
+          "artist_name": "kLL sMTH",
+          "duration": 139534,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e020f2cb25c8387ab45c70f3764",
+          "preview_url": "https://p.scdn.co/mp3-preview/7e043d29973df06209454f2fc0711667d4940688?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:30+00:00"
+        },
+        {
+          "track_id": "2zDj1H1eFNaTDx6OZtMfuD",
+          "streaming_service": "spotify",
+          "title": "Wawkn",
+          "artist_name": "kLL sMTH",
+          "duration": 200547,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0266dbb98422ba57361dd697db",
+          "preview_url": "https://p.scdn.co/mp3-preview/5e2f02057c612484a85260747ba372dcf2fbe620?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:30+00:00"
+        },
+        {
+          "track_id": "4giAQuDQ8hrWILDQMaOHYj",
+          "streaming_service": "spotify",
+          "title": "G-WAGON",
+          "artist_name": "kLL sMTH",
+          "duration": 265161,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f332a306e16dc47aace57448",
+          "preview_url": "https://p.scdn.co/mp3-preview/e38258a1d6042bf1039a219c481f62d05d690a78?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:30+00:00"
+        },
+        {
+          "track_id": "75LlZicIiZqrAtAnmLOCSY",
+          "streaming_service": "spotify",
+          "title": "The L0phites",
+          "artist_name": "kLL sMTH",
+          "duration": 126000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0266dbb98422ba57361dd697db",
+          "preview_url": "https://p.scdn.co/mp3-preview/160b47318beea78720cac393c60d5b7ed5459681?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:30+00:00"
+        },
+        {
+          "track_id": "4FKH13aFtLUNznAmg3WTaW",
+          "streaming_service": "spotify",
+          "title": "Slamurai",
+          "artist_name": "kLL Bill, Mr. Bill, kLL sMTH",
+          "duration": 160000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f9ffe90a07f1d25d98b6cf83",
+          "preview_url": "https://p.scdn.co/mp3-preview/80017b874a9a32bd2e326eda19b3226a01e49069?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:30+00:00"
+        },
+        {
+          "track_id": "1B1ZOJTf0US1kHTA7OkfO7",
+          "streaming_service": "spotify",
+          "title": "Uncle Punch",
+          "artist_name": "kLL Bill, Mr. Bill, kLL sMTH",
+          "duration": 201904,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f9ffe90a07f1d25d98b6cf83",
+          "preview_url": "https://p.scdn.co/mp3-preview/7eeff46e1938c2873f6b09583b78e11eb10dece9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:30+00:00"
+        },
+        {
+          "track_id": "7FemlFClAsByVO4tUFkjkH",
+          "streaming_service": "spotify",
+          "title": "Bubble Skunker",
+          "artist_name": "kLL Bill, Mr. Bill, kLL sMTH",
+          "duration": 195200,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f9ffe90a07f1d25d98b6cf83",
+          "preview_url": "https://p.scdn.co/mp3-preview/e164931f9f5631280f395720067d41ba6263d922?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:30+00:00"
+        },
+        {
+          "track_id": "6dXbplGWtWJxPMrAPVzF20",
+          "streaming_service": "spotify",
+          "title": "Systematic Anomaly",
+          "artist_name": "kLL sMTH",
+          "duration": 338186,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028cc56fe7236e758de439fba4",
+          "preview_url": "https://p.scdn.co/mp3-preview/93badbdd06f606fcfe4c93feee55ec608a11cb91?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:30+00:00"
+        },
+        {
+          "track_id": "1ikG8cYsTVNQeWVDMMNHub",
+          "streaming_service": "spotify",
+          "title": "Simulated - kLL sMTH Remix",
+          "artist_name": "EAZYBAKED, kLL sMTH",
+          "duration": 214400,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02666a0a36ab739726342e4d81",
+          "preview_url": "https://p.scdn.co/mp3-preview/4f7a11f6ce50f4876a3a7a74cbdcd0af3a090278?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:30+00:00"
+        },
+        {
+          "track_id": "0iAHFgaqLiIP09zsrAIh6C",
+          "streaming_service": "spotify",
+          "title": "Karlito Sway",
+          "artist_name": "kLL sMTH",
+          "duration": 153000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0266dbb98422ba57361dd697db",
+          "preview_url": "https://p.scdn.co/mp3-preview/005755d89a97f440131104db764d00508f3fb990?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:19:30+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-21T19:51:30+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995452,
+      "external_id": "1908348",
+      "published": true,
+      "name": "Ahee",
+      "body": "AHEE's remarkable journey as a musician embarked on a thrilling trajectory in 2015, when he joined the world-renowned live electronic music and performance act \"The Lucent Dossier Experience.\" This pivotal moment marked the inception of an electrifying career characterized by high-energy dubstep and mesmerizing sonic exploration.\n\nFast forward to today, AHEE's signature style radiates an inexhaustible energy that captivates dance floors across all genres of EDM. His music reflects a remarkable flexibility, supporting acts like Excision and Subtronics while also lending his talent to artists like Big Gigantic and Shpongle.\n\nAHEE's discography is an impressive testament to his versatility and impact, featuring releases on respected EDM labels like Bassrush, Subsidia, Cyclops Recordings, Wakaan, Circus Records, SubCarbon, Dharma Worldwide, Gravitas, and more.\n\nBeyond his music, AHEE serves as a guiding light for aspiring producers, generously sharing his knowledge through easily accessible music production tutorials that have amassed a total of more than 2 million total views through his youtube channel. His educational philosophy, rooted in curiosity and self-expression, inspires others to embark on their own sonic odysseys with the aim of building a culture of transparency and inclusivity in the world of producers. You might find him in your local city hosting an intimate producer feedback session, or see him featured as an honored guest instructor for an Ableton production panel - AHEE's commitment to education and mentorship is a testament to his desire to see the EDM community flourish.\n\nIn addition to his educational efforts, AHEE has contributed to the music production landscape with a wealth of tools and resources through his website. His sample packs and presets are a treasure trove of sounds, carefully curated to inspire and elevate the creative process. AHEE’s Ableton racks have become essential tools for beginner and established producers seeking to simplify their workflow and push their creative limits. And for those on a quest for cutting-edge sounds, his meticulously crafted rave stabs and serum presets are a goldmine of inspiration.\n\nAs AHEE continues to explore uncharted sonic territories, his high-energy beats and groundbreaking bass arrangements resonate with audiences worldwide. Join AHEE’s ever evolving electrifying journey and experience the sonic revolution that defines his unique presence in the world of EDM.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260843_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260843_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260843_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260843_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "aheemusic/",
+        "instagram_user": "iamahee/",
+        "youtube_user": "channel/UCNNFPGqrCztLAlfTKIJ1uKQ",
+        "soundcloud_user": "ahee"
+      },
+      "performances": [
+        {
+          "id": 182917,
+          "external_id": "855498",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995452,
+          "stage_id": 7936,
+          "date_id": 3213,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-31T22:48:09+00:00",
+          "start_time": "2024-07-26T02:00:00+00:00",
+          "end_time": "2024-07-26T03:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        },
+        {
+          "id": 183010,
+          "external_id": "855506",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995452,
+          "stage_id": 7942,
+          "date_id": 2878,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-05-31T22:48:09+00:00",
+          "start_time": "2024-07-27T10:00:00+00:00",
+          "end_time": "2024-07-27T11:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-21T19:50:20+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995647,
+      "external_id": "1916745",
+      "published": true,
+      "name": "Tape B",
+      "body": "Berk Alkanat, AKA Tape B, is a bass music producer that has a wide range of styles but is known for his unique and nostalgic approach to how he does things. With plenty of original heavy hitters, Tape B has been drawing a lot of attention through his classic OG dubstep and hip-hop remixes. Already showcasing a keen attention to detail and a fantastic array of genre-bending experimentations, he has steadily climbed the proverbial ladder of “artists you need to start paying attention to immediately.” He has caught the eye of forward-thinking platforms like Deadbeats and UKF, and has been supported by artists such as Zeds Dead, Excision, John Summit, Subtronics, Of The Trees, Liquid Stranger and countless others.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261015_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261015_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261015_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261015_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "tapebbeats",
+        "twitter_user": "Tapebbeats",
+        "soundcloud_user": "tape-b-official",
+        "spotify_artist_id": "59tlsKpLWoLTxjNNS2wdPi"
+      },
+      "performances": [
+        {
+          "id": 183116,
+          "external_id": "856023",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995647,
+          "stage_id": 7952,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-11T08:20:05+00:00",
+          "start_time": "2024-07-29T04:30:00+00:00",
+          "end_time": "2024-07-29T05:45:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [
+        {
+          "track_id": "2Jq3XnSrhDOYX5FtIyJOlN",
+          "streaming_service": "spotify",
+          "title": "About Me Too",
+          "artist_name": "Tape B",
+          "duration": 149178,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e1dbdbcde6378a5b4a7d5f72",
+          "preview_url": "https://p.scdn.co/mp3-preview/24cefb6e97eaea9f3a904d812932b0ba91115679?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:26:17+00:00"
+        },
+        {
+          "track_id": "3xE0aFAEDbS3hjtBB5PKLT",
+          "streaming_service": "spotify",
+          "title": "Flip It - Tape B Remix",
+          "artist_name": "Levity, Tape B, Dem Jointz",
+          "duration": 187916,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02535f5a48ad805ef2be624809",
+          "modified_at": "2024-06-11T08:26:17+00:00"
+        },
+        {
+          "track_id": "0vN6M8uGKNGFAFgJtHKvFz",
+          "streaming_service": "spotify",
+          "title": "Trippy Land",
+          "artist_name": "Mersiv, Tape B, Juicy J",
+          "duration": 186461,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02dd8825a71719d9655532dbd2",
+          "modified_at": "2024-06-11T08:26:17+00:00"
+        },
+        {
+          "track_id": "0DGC66VWaB2tamRaOEvRLe",
+          "streaming_service": "spotify",
+          "title": "Like That - Tape B Remix",
+          "artist_name": "Tape B, PEEKABOO, LYNY",
+          "duration": 216000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02537795b7582064a7794bf454",
+          "preview_url": "https://p.scdn.co/mp3-preview/78453593fb139a63df382f6893e8497cd607b431?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:26:17+00:00"
+        },
+        {
+          "track_id": "6mtbVnfqF6ltz8d2vuZE8U",
+          "streaming_service": "spotify",
+          "title": "Another Night Alone",
+          "artist_name": "Tape B",
+          "duration": 148137,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024c4232ab59b1f0fb9c678659",
+          "modified_at": "2024-06-11T08:26:17+00:00"
+        },
+        {
+          "track_id": "2RUY3rsJwh1D7aIAZWwHtV",
+          "streaming_service": "spotify",
+          "title": "Sleeptalk",
+          "artist_name": "Tape B",
+          "duration": 155357,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e1dbdbcde6378a5b4a7d5f72",
+          "preview_url": "https://p.scdn.co/mp3-preview/75581957653d4734c6218acced9528a22a2955b8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:26:17+00:00"
+        },
+        {
+          "track_id": "4FfGeI6VPkqKc8JzUYp8Rb",
+          "streaming_service": "spotify",
+          "title": "Over Saturated",
+          "artist_name": "Tape B",
+          "duration": 155684,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024c4232ab59b1f0fb9c678659",
+          "modified_at": "2024-06-11T08:26:17+00:00"
+        },
+        {
+          "track_id": "4ja19hyBQogIuYI2vy5sNK",
+          "streaming_service": "spotify",
+          "title": "YO TAPE B",
+          "artist_name": "Tape B",
+          "duration": 142354,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0264d2657c0fc2b510ef135d15",
+          "preview_url": "https://p.scdn.co/mp3-preview/dac4552c7ba5ed425e124ff3917a5287ba4d96c0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:26:17+00:00"
+        },
+        {
+          "track_id": "2uGyJ6nkEnbsAI90luSVER",
+          "streaming_service": "spotify",
+          "title": "Let Me Go",
+          "artist_name": "Tape B",
+          "duration": 195428,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024c4232ab59b1f0fb9c678659",
+          "modified_at": "2024-06-11T08:26:17+00:00"
+        },
+        {
+          "track_id": "75KIZmN6IEBzljPCzJE3eE",
+          "streaming_service": "spotify",
+          "title": "Neon Shades",
+          "artist_name": "Conrank, Tape B",
+          "duration": 190400,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02097865d866ca1b9aab2e0729",
+          "preview_url": "https://p.scdn.co/mp3-preview/73afd9e046cb2a0137e62f4e3ec6f4877d0e5951?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:26:17+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-21T19:50:12+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995679,
+      "external_id": "167090",
+      "published": true,
+      "name": "CloZee",
+      "body": "A purveyor of lucid sounds, French producer Chloé Herry is a worldly and rhythmic figure in the electronic music atmosphere. Now based in Denver, CloZee has made a name for herself by skewing the usual curves of bass music and evoking a spiritual and evolutionary sound. In 2020, CloZee started a new journey with the launch of her own artist-friendly label, Odyzey Music, where she’s devoted to highlighting the underground artists of bass music and beyond. With the inception of Odyzey Music, CloZee released sophomore album Neon Jungle, which later saw official remixes by Lane 8, Opiuo, Emancipator, and Of the Trees, and was followed by her Nouvelle Era EP in 2021. With a reputation as a curator of experimental sounds, Odyzey Music has hosted official stage takeovers at festivals like Electric Zoo and Sonic Bloom, in addition to CloZee’s own Voyage Festival. As one of bass music’s foremost female innovators, CloZee has garnered attention across the electronic music spectrum, even gracing the cover of DJ Mag in December 2022. In July 2023, she released her highly anticipated 3rd studio album “Microworlds”, a 12 track project. The album arrived ahead of her massive Fall 2023 North American Headlining Tour across 40+ markets. Her biggest tour to date, performing for over 100K fans. Expect 2024 to be a milestone year for the diversifying producer.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261048_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261048_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261048_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261048_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "CloZeeOfficial/",
+        "instagram_user": "clozeeofficial",
+        "twitter_user": "clozeeofficial",
+        "youtube_channel_id": "UCzPIqYIvzikRv7gm2EWGckg",
+        "soundcloud_user": "clozee",
+        "spotify_artist_id": "1496XxkytEk26FUJLfpVZr"
+      },
+      "performances": [
+        {
+          "id": 183151,
+          "external_id": "855432",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995679,
+          "stage_id": 7955,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-20T17:47:25+00:00",
+          "start_time": "2024-07-29T06:30:00+00:00",
+          "end_time": "2024-07-29T07:45:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [
+        {
+          "track_id": "7pheKiMA7iqlIVRTbUEOCm",
+          "streaming_service": "spotify",
+          "title": "Koto",
+          "artist_name": "CloZee",
+          "duration": 250125,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02702b58d925e428bddf806f0e",
+          "preview_url": "https://p.scdn.co/mp3-preview/6b4d034e1e29f5deb364cfb24286c82abb1b236f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-21T13:48:18+00:00"
+        },
+        {
+          "track_id": "5nQRjPmBn5foHzXI78qv5K",
+          "streaming_service": "spotify",
+          "title": "Baiana - CloZee Remix",
+          "artist_name": "CloZee, Barbatuques",
+          "duration": 253376,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e022219dba86625e6f3e75c5105",
+          "preview_url": "https://p.scdn.co/mp3-preview/5650d650261586d6842d1061bcdf1fa05a4b094e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-21T13:48:18+00:00"
+        },
+        {
+          "track_id": "6Rqbg1ME7T7DinH88nd5Ig",
+          "streaming_service": "spotify",
+          "title": "Overthinker - CloZee Remix",
+          "artist_name": "INZO, CloZee",
+          "duration": 284495,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025855ee9653e821b40e94b375",
+          "preview_url": "https://p.scdn.co/mp3-preview/42356be19e4d7a86db8e177d996cc765fc0e409a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:12+00:00"
+        },
+        {
+          "track_id": "4rhooL7Cj0YkvIC4wGL7Jo",
+          "streaming_service": "spotify",
+          "title": "Color Of Your Soul",
+          "artist_name": "GRiZ, CloZee",
+          "duration": 202285,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02686a2e8a58a2f70b28ed3651",
+          "preview_url": "https://p.scdn.co/mp3-preview/ac5c7482e8883c4d2124f868e2c49538b5c5819b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:12+00:00"
+        },
+        {
+          "track_id": "2JGPTeVnAxMiFIk15598Ux",
+          "streaming_service": "spotify",
+          "title": "Back To The Top",
+          "artist_name": "CloZee, Britt Lari, Dreamers Delight",
+          "duration": 198139,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e853e8ddbdd9c4ee964f7c6e",
+          "preview_url": "https://p.scdn.co/mp3-preview/80975db03e704f74373fe98a63e73389a3c5e4cf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:12+00:00"
+        },
+        {
+          "track_id": "3Nuv1oRQQDDn8ZKCrYSlFJ",
+          "streaming_service": "spotify",
+          "title": "Microworlds",
+          "artist_name": "CloZee",
+          "duration": 270000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e029e5c77fce18c4f321b20b0f4",
+          "preview_url": "https://p.scdn.co/mp3-preview/71dc459c4e7144aceb2821436781056da4616926?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:12+00:00"
+        },
+        {
+          "track_id": "6iGSLKq2MVzASXBwrTIYb9",
+          "streaming_service": "spotify",
+          "title": "VISIONS - Zingara Remix",
+          "artist_name": "CloZee, Zingara",
+          "duration": 241600,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e027eabacb6159f269b63437748",
+          "preview_url": "https://p.scdn.co/mp3-preview/1580838129ceb6fb3fb13593d2c3cc5f437bae51?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:12+00:00"
+        },
+        {
+          "track_id": "5F4RnHx7b4eZokT5EQwMrO",
+          "streaming_service": "spotify",
+          "title": "Zest Please",
+          "artist_name": "CloZee, Maddy O'Neal",
+          "duration": 192321,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02edc180c0d6924e0d242aea22",
+          "preview_url": "https://p.scdn.co/mp3-preview/c5644185cb64b7c02dc9ddb7486108febc25f01b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:12+00:00"
+        },
+        {
+          "track_id": "48mALuU7mFsXxcSH1uwAll",
+          "streaming_service": "spotify",
+          "title": "FRENCH DREAM",
+          "artist_name": "CloZee, LSDREAM",
+          "duration": 248000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0299e7b832081870e2d5ca0e88",
+          "preview_url": "https://p.scdn.co/mp3-preview/379f16d645df57a0ae6ee6853d1c89ba995f6a81?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:13+00:00"
+        },
+        {
+          "track_id": "33FyhDPcLrJUIYkf4y1tjK",
+          "streaming_service": "spotify",
+          "title": "CHRYSALIS",
+          "artist_name": "CloZee, LSDREAM",
+          "duration": 259200,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0299e7b832081870e2d5ca0e88",
+          "preview_url": "https://p.scdn.co/mp3-preview/8b619e1e5279b17cf6768e6309df5b614a084068?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:12+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-21T19:50:12+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995680,
+      "external_id": "180887",
+      "published": true,
+      "name": "LSDREAM",
+      "body": "Since making its debut in March 2018, the LSDREAM project has continued to soar to new heights, consistently breaking the mold with unique and unforgettable music and live performances. Producer Sami Diament has expertly created a distinct and fully expansive journey through sonic blends including the likes of wobbling bass tones, hip-hop influenced beats, ethereal and spacey synths, and powerful lyrical messages.If you’ve seen an LSDREAM set before, maybe at one of his many major festival plays (including Electric Forest, Okeechobee, Coachella, Lightning in a Bottle and more) or on the sold-out headline PEACE LOVE & WUBZ Tour in 2022, you’d know that no LSDREAM show is complete without the perfectly curated,mind-melting visuals and production. LSDREAM never disappoints in providing a truly transportive audio and visual experience.Along with the explorative, psychedelic nature of the live shows,they also lend themselves asa safe space to reconnect with one's authentic self and let loose for a moment in time. While LSDREAM’s messaging does often focus on joy and youthful fun, it is also about acknowledging and working through the darker aspects of our internal worlds, promoting self-love and healing no matter where we are in our personal journeys.The project aims to foster a true connection to oneself, others, and the universe as a whole.This goal has blossomed an integral piece to the LSDREAM project:the community of fans, bringing inclusion and acceptance to all who want to be a part of it.Following some major new musical and life endeavors,on October 11, 2023 LSDREAM released his highly anticipated Part 1 of his 4th studio album,Heartwave Which included 4 songs featuring the focus track “RAD”with Joey Valence & Brae,“Operate” with Elephant Heart and more! The album arrived ahead of the sold out Red Rocks show DreamRocks, kicking off the massive Fall 2023 North American Headlining Tour, The Radical Audio Visual Experience, across 34+ states.2024 is packed with festivals and an exploration of the new wave of music.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261049_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261049_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261049_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261049_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "LSDREAMMUSIC",
+        "instagram_user": "lsdream/",
+        "twitter_user": "LSDREAM",
+        "youtube_user": "channel/UCopSYHSUFCc6bZknT4rtZwA",
+        "soundcloud_user": "lsdream",
+        "spotify_artist_id": "3Hrqjumb6WHg2aAUHJHLND"
+      },
+      "performances": [
+        {
+          "id": 183152,
+          "external_id": "855440",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995680,
+          "stage_id": 7955,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-11T08:20:13+00:00",
+          "start_time": "2024-07-29T08:00:00+00:00",
+          "end_time": "2024-07-29T09:15:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [
+        {
+          "track_id": "0fy3MozJBrM858gEIo3Yec",
+          "streaming_service": "spotify",
+          "title": "FUNKONAUT",
+          "artist_name": "GRiZ, LSDREAM",
+          "duration": 210666,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e020a0f173da2787bae152c73b7",
+          "preview_url": "https://p.scdn.co/mp3-preview/205e2de75587a237681cb67e74d7556df42e03a6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:13+00:00"
+        },
+        {
+          "track_id": "0Mcts4Xh4FKZXOIy9tAjbA",
+          "streaming_service": "spotify",
+          "title": "PEACE LOVE & WUBZ",
+          "artist_name": "LSDREAM, Cojaxx",
+          "duration": 240000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02403a20306519b87a382bb5da",
+          "preview_url": "https://p.scdn.co/mp3-preview/7fc45271759ea14327653a4720b60957508569f0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:13+00:00"
+        },
+        {
+          "track_id": "1PVLvmbbo4joXIgzGFKDsp",
+          "streaming_service": "spotify",
+          "title": "Badman",
+          "artist_name": "Ganja White Night, LSDREAM",
+          "duration": 273333,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e023fa5ea945d149cda3c101715",
+          "preview_url": "https://p.scdn.co/mp3-preview/497f8d981380e0d17073f856ee47225d9eae86b0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:26:01+00:00"
+        },
+        {
+          "track_id": "7MediosGgQmnwMxAPGaIBm",
+          "streaming_service": "spotify",
+          "title": "SHADOW SELF",
+          "artist_name": "LSDREAM",
+          "duration": 249544,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025b62a82d9ce418ae5fb11e56",
+          "preview_url": "https://p.scdn.co/mp3-preview/43d6bbe2538ae00f686659b87c416eb4bfea9316?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:13+00:00"
+        },
+        {
+          "track_id": "48mALuU7mFsXxcSH1uwAll",
+          "streaming_service": "spotify",
+          "title": "FRENCH DREAM",
+          "artist_name": "CloZee, LSDREAM",
+          "duration": 248000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0299e7b832081870e2d5ca0e88",
+          "preview_url": "https://p.scdn.co/mp3-preview/379f16d645df57a0ae6ee6853d1c89ba995f6a81?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:13+00:00"
+        },
+        {
+          "track_id": "4VtsLbU3MGaFRpAwFsbVcg",
+          "streaming_service": "spotify",
+          "title": "Faceplant On The Galaxy",
+          "artist_name": "INZO, LSDREAM",
+          "duration": 285529,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024a58544e6b2e25b835fb56f8",
+          "preview_url": "https://p.scdn.co/mp3-preview/439ab98852eab30d5b95de4f44e7a318e4e0e5d3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:13+00:00"
+        },
+        {
+          "track_id": "3YzIv7otKEbAqOV4ygdK0e",
+          "streaming_service": "spotify",
+          "title": "PARADOX",
+          "artist_name": "LSDREAM, Ruby Chase",
+          "duration": 238181,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b246a04180eca3c91b047737",
+          "preview_url": "https://p.scdn.co/mp3-preview/7328c4dd740f4e9e9e854188d0e6a94bf4f6b1e5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:13+00:00"
+        },
+        {
+          "track_id": "62Oto2BhdCETRMbzQLc3hD",
+          "streaming_service": "spotify",
+          "title": "Drop That",
+          "artist_name": "TVBOO, LSDREAM, Al Kapone",
+          "duration": 242823,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02acb5a1bd7383cff7e0f99233",
+          "preview_url": "https://p.scdn.co/mp3-preview/6c2e6684343b7fc092fd9858eb2b7ef5e27ad1ae?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:13+00:00"
+        },
+        {
+          "track_id": "5N2I2ObfEO7U2wECdwoyiT",
+          "streaming_service": "spotify",
+          "title": "LFG",
+          "artist_name": "LSDREAM, GorillaT",
+          "duration": 188235,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02058a208837a8178c380fd79f",
+          "preview_url": "https://p.scdn.co/mp3-preview/cc754cf53ec5f8f5cd344773b310150d93fa80be?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:13+00:00"
+        },
+        {
+          "track_id": "0jEewMPhKF81T4XGsrZiq4",
+          "streaming_service": "spotify",
+          "title": "REKT",
+          "artist_name": "LSDREAM, Kayoh",
+          "duration": 171870,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025b62a82d9ce418ae5fb11e56",
+          "preview_url": "https://p.scdn.co/mp3-preview/fb5a103b3a097009b9c2f58140e717d04a04eaf4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-11T08:20:13+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-06-21T19:50:05+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1995510,
+      "external_id": "1916926",
+      "published": true,
+      "name": "Yoga w/ Celeste",
+      "body": "Celeste White's introduction to yoga was quite unexpected. In 2008, at the urging of a friend, she took her first class and was hooked!  Inspired to learn more, releasing any former misconceptions she had about Yoga being \"\"for the flexible people\"\", she went on to take her levels one, two and three Yoga Teacher Trainings as well as having participated in 3 Yoga Teacher co-creates, and is now facilitating the One Love Yoga Teacher Training. \n\nFuelled by her love of teaching, music, and creative expression, Celeste has fused her knowledge of yoga and brought it into her other passion...Hula Hooping! She has developed and facilitated six I Love Hoola Hoops/ One Love Yoga International Teacher Trainings in Costa Rica/ Okotoks and continues to teach ongoing classes.\n\nA free spirit, with a strong desire to share what Yoga has done for her both inside and out, she stays true to Yogic philosophy while creating space for her students to explore their own possibilities and challenging themselves and having fun! Her mantra of \"\"Live for yourself...you will live in vain. Live for others...you will live again\"\" by Bob Marley & the Wailers is demonstrated in her teaching approach and fosters trust and connectivity between herself and her students. Celeste's classes are for everyone and anyone, no matter what their background. She is here to shake things up a bit and have some fun with life, music, and possibility!",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263443_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263443_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263443_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/64/thumb_5263443_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "groups/171122176395056/",
+        "instagram_user": "ilovehoolahoops"
+      },
+      "performances": [
+        {
+          "id": 182975,
+          "external_id": "856314",
+          "published": true,
+          "priority": 100,
+          "artist_id": 1995510,
+          "stage_id": 7937,
+          "date_id": 2878,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-06-21T18:17:21+00:00",
+          "start_time": "2024-07-26T19:00:00+00:00",
+          "end_time": "2024-07-26T20:00:00+00:00",
           "show_image_in_schedule": true,
           "hide_end_time": false
         }
@@ -6153,7 +7605,7 @@
           "duration": 218437,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02bd5d802e3220afac98263b5b",
           "preview_url": "https://p.scdn.co/mp3-preview/4400d36d7f9ccc1cdf2cfb77043b8298b8f381b3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T14:00:03+00:00"
+          "modified_at": "2024-06-22T01:15:15+00:00"
         },
         {
           "track_id": "4WAKHKHloHdmPPfxgW8HAn",
@@ -8570,7 +10022,7 @@
           "duration": 265017,
           "image_url": "https://i.scdn.co/image/ab67616d00001e027766926ef2153e8ce1bc54ca",
           "preview_url": "https://p.scdn.co/mp3-preview/619026444c0cc9f97834325474a5e3fa425a4d34?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T13:07:31+00:00"
+          "modified_at": "2024-06-22T01:07:28+00:00"
         },
         {
           "track_id": "5VDnV2q6OrlrPsHsDZtIP1",
@@ -9236,7 +10688,7 @@
           "artist_name": "Nia Archives",
           "duration": 152558,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02ed8761730439da61f8a67ae3",
-          "modified_at": "2024-06-21T13:35:30+00:00"
+          "modified_at": "2024-06-22T01:10:25+00:00"
         },
         {
           "track_id": "29LpCEcWnk9lFfzR2o3YVW",
@@ -9254,7 +10706,7 @@
           "artist_name": "Nia Archives",
           "duration": 166356,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0216132328227419b223f68121",
-          "modified_at": "2024-06-21T13:36:01+00:00"
+          "modified_at": "2024-06-22T01:10:25+00:00"
         },
         {
           "track_id": "0YbYNOaIOr9Hs4YEPBOSP5",
@@ -9282,7 +10734,7 @@
           "artist_name": "Nia Archives",
           "duration": 196133,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0216132328227419b223f68121",
-          "modified_at": "2024-06-21T13:35:30+00:00"
+          "modified_at": "2024-06-22T01:10:25+00:00"
         },
         {
           "track_id": "0JH3rxj9e7cY8T1QFgr5mQ",
@@ -10215,7 +11667,7 @@
           "duration": 274693,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0255fa09a768d1ef5ea5d279f9",
           "preview_url": "https://p.scdn.co/mp3-preview/285a7ede10711f47bda4a6b18e322ee6604e5fee?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T13:08:22+00:00"
+          "modified_at": "2024-06-22T01:08:15+00:00"
         },
         {
           "track_id": "5DAjrJqXqYtgr67pVhmUeR",
@@ -10225,7 +11677,7 @@
           "duration": 237546,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0255fa09a768d1ef5ea5d279f9",
           "preview_url": "https://p.scdn.co/mp3-preview/daf3cfc5f503a37c84daa3ea63dec82bb42460e3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T13:07:37+00:00"
+          "modified_at": "2024-06-22T01:07:33+00:00"
         },
         {
           "track_id": "2lJ4d8MCT6ZlDRHKJ1br14",
@@ -10235,7 +11687,7 @@
           "duration": 352246,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02b033087945225272e885808c",
           "preview_url": "https://p.scdn.co/mp3-preview/a720a36357f4d52380c2a5d756c9265a56cfd132?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T13:46:14+00:00"
+          "modified_at": "2024-06-22T01:29:32+00:00"
         },
         {
           "track_id": "7Cg3F9ZsZ2TYUnlza49NYh",
@@ -10265,7 +11717,7 @@
           "duration": 242773,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02226e702d1878d4a44b273980",
           "preview_url": "https://p.scdn.co/mp3-preview/ddfdc2b6fc9b4a8eb160adbff337b4b2dde19bcc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T13:07:31+00:00"
+          "modified_at": "2024-06-22T01:07:28+00:00"
         },
         {
           "track_id": "7aLYQgzGLy8duSSdTJa1ik",
@@ -10365,7 +11817,7 @@
           "artist_name": "James Blake",
           "duration": 223600,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02d134dbb0fad78dda23d777ff",
-          "modified_at": "2024-06-21T13:35:51+00:00"
+          "modified_at": "2024-06-22T01:29:32+00:00"
         },
         {
           "track_id": "51rXHuKN8Loc4sUlKPODgH",
@@ -10374,7 +11826,7 @@
           "artist_name": "Jay Rock, Kendrick Lamar, Future, James Blake",
           "duration": 229670,
           "image_url": "https://i.scdn.co/image/ab67616d00001e029edc391d911405ea9f5c320e",
-          "modified_at": "2024-06-21T13:21:28+00:00"
+          "modified_at": "2024-06-22T01:20:59+00:00"
         },
         {
           "track_id": "4cQrSREMqBSvJ8ZzBZjVb8",
@@ -10383,7 +11835,7 @@
           "artist_name": "James Blake, Travis Scott, Metro Boomin",
           "duration": 193600,
           "image_url": "https://i.scdn.co/image/ab67616d00001e029af56a54edacb6237b49fa2e",
-          "modified_at": "2024-06-21T13:21:28+00:00"
+          "modified_at": "2024-06-22T01:20:59+00:00"
         },
         {
           "track_id": "3hX0ilh84w2KGaiNw2rRCV",
@@ -10439,7 +11891,7 @@
           "duration": 314836,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02881d8d8378cd01099babcd44",
           "preview_url": "https://p.scdn.co/mp3-preview/fb6ed2aac94b5f412d6e407317df02d2ede71534?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T13:21:29+00:00"
+          "modified_at": "2024-06-22T01:21:00+00:00"
         },
         {
           "track_id": "6hEiEWEgAuFvEJduuSQLiw",
@@ -10449,7 +11901,7 @@
           "duration": 260407,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02f46f1920e6e03351ef53ddbd",
           "preview_url": "https://p.scdn.co/mp3-preview/58eb60c6145127fbc3d42e34bd7e52491f5205dd?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T13:34:01+00:00"
+          "modified_at": "2024-06-22T01:33:01+00:00"
         }
       ],
       "show_in_search": true,
@@ -10961,7 +12413,7 @@
           "duration": 239853,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02a5c1582e2b2b087ee7862758",
           "preview_url": "https://p.scdn.co/mp3-preview/df4cd25e3fe93b489e81b0ace76cc112fedb0192?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T13:49:37+00:00"
+          "modified_at": "2024-06-22T01:14:09+00:00"
         },
         {
           "track_id": "7uSZPbd8DxdkmSauCKnITY",
@@ -10971,7 +12423,7 @@
           "duration": 266482,
           "image_url": "https://i.scdn.co/image/ab67616d00001e028d5c2b2e93cf42bf6d9337db",
           "preview_url": "https://p.scdn.co/mp3-preview/1de777954296fe464bfbe3c05c961ffc9e659f79?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T13:14:48+00:00"
+          "modified_at": "2024-06-22T01:14:32+00:00"
         },
         {
           "track_id": "1k3J7o5b0tDUzbllLycVUJ",
@@ -11598,7 +13050,7 @@
           "duration": 213500,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02825b1117fff3caf78573329a",
           "preview_url": "https://p.scdn.co/mp3-preview/58cc3e465230dfaa864f37ddc9f3097bfbcc8cbb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T13:12:18+00:00"
+          "modified_at": "2024-06-22T01:11:59+00:00"
         },
         {
           "track_id": "3iMYKoUsn5X0ctIAXvgmSf",
@@ -11746,7 +13198,7 @@
           "duration": 206616,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0270bef918a513d36c8370fb99",
           "preview_url": "https://p.scdn.co/mp3-preview/bc08f0297ce902e892a725aed8c776682c2efac4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T13:22:22+00:00"
+          "modified_at": "2024-06-22T01:21:53+00:00"
         },
         {
           "track_id": "5lrwPi7WwJ1HbuKtx4ktIK",
@@ -11756,7 +13208,7 @@
           "duration": 194368,
           "image_url": "https://i.scdn.co/image/ab67616d00001e023db70e3a52c0a4a1cd499828",
           "preview_url": "https://p.scdn.co/mp3-preview/e1ea5c351da1fb13cc5104acafeca972003136cc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T13:17:37+00:00"
+          "modified_at": "2024-06-22T01:17:18+00:00"
         },
         {
           "track_id": "3q2uX1BAjCiKmhEQiqWZTD",
@@ -12886,7 +14338,7 @@
           "artist_name": "Sammy Virji, Flowdan",
           "duration": 163934,
           "image_url": "https://i.scdn.co/image/ab67616d00001e023edbd638d73631f434fe755a",
-          "modified_at": "2024-06-21T13:35:51+00:00"
+          "modified_at": "2024-06-22T01:10:25+00:00"
         },
         {
           "track_id": "1Bdy0uirk0pou8GjuhDciX",
@@ -12932,7 +14384,7 @@
           "artist_name": "Chris Lake, Sammy Virji, Nathan Nicholson",
           "duration": 251201,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02f3b42c0ca1c479b251e1b393",
-          "modified_at": "2024-06-21T14:06:09+00:00"
+          "modified_at": "2024-06-22T01:14:58+00:00"
         },
         {
           "track_id": "3gVks4tc3TzqQYdDCPj7f2",
@@ -13452,72 +14904,6 @@
       "show_section_titles": true
     },
     {
-      "id": 1995452,
-      "external_id": "1908348",
-      "published": true,
-      "name": "Ahee",
-      "body": "AHEE's remarkable journey as a musician embarked on a thrilling trajectory in 2015, when he joined the world-renowned live electronic music and performance act \"The Lucent Dossier Experience.\" This pivotal moment marked the inception of an electrifying career characterized by high-energy dubstep and mesmerizing sonic exploration.\n\nFast forward to today, AHEE's signature style radiates an inexhaustible energy that captivates dance floors across all genres of EDM. His music reflects a remarkable flexibility, supporting acts like Excision and Subtronics while also lending his talent to artists like Big Gigantic and Shpongle.\n\nAHEE's discography is an impressive testament to his versatility and impact, featuring releases on respected EDM labels like Bassrush, Subsidia, Cyclops Recordings, Wakaan, Circus Records, SubCarbon, Dharma Worldwide, Gravitas, and more.\n\nBeyond his music, AHEE serves as a guiding light for aspiring producers, generously sharing his knowledge through easily accessible music production tutorials that have amassed a total of more than 2 million total views through his youtube channel. His educational philosophy, rooted in curiosity and self-expression, inspires others to embark on their own sonic odysseys with the aim of building a culture of transparency and inclusivity in the world of producers. You might find him in your local city hosting an intimate producer feedback session, or see him featured as an honored guest instructor for an Ableton production panel - AHEE's commitment to education and mentorship is a testament to his desire to see the EDM community flourish.\n\nIn addition to his educational efforts, AHEE has contributed to the music production landscape with a wealth of tools and resources through his website. His sample packs and presets are a treasure trove of sounds, carefully curated to inspire and elevate the creative process. AHEE’s Ableton racks have become essential tools for beginner and established producers seeking to simplify their workflow and push their creative limits. And for those on a quest for cutting-edge sounds, his meticulously crafted rave stabs and serum presets are a goldmine of inspiration.\n\nAs AHEE continues to explore uncharted sonic territories, his high-energy beats and groundbreaking bass arrangements resonate with audiences worldwide. Join AHEE’s ever evolving electrifying journey and experience the sonic revolution that defines his unique presence in the world of EDM.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260843_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260843_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260843_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260843_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "aheemusic/",
-        "instagram_user": "iamahee/",
-        "youtube_user": "channel/UCNNFPGqrCztLAlfTKIJ1uKQ",
-        "soundcloud_user": "ahee"
-      },
-      "performances": [
-        {
-          "id": 182917,
-          "external_id": "855498",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995452,
-          "stage_id": 7936,
-          "date_id": 3213,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-31T22:48:09+00:00",
-          "start_time": "2024-07-26T02:00:00+00:00",
-          "end_time": "2024-07-26T03:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        },
-        {
-          "id": 183010,
-          "external_id": "855506",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995452,
-          "stage_id": 7942,
-          "date_id": 2878,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-31T22:48:09+00:00",
-          "start_time": "2024-07-27T10:00:00+00:00",
-          "end_time": "2024-07-27T11:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-21T12:51:44+00:00",
-      "show_section_titles": true
-    },
-    {
       "id": 1995521,
       "external_id": "173976",
       "published": true,
@@ -13898,7 +15284,7 @@
           "artist_name": "Sammy Virji, Flowdan",
           "duration": 163934,
           "image_url": "https://i.scdn.co/image/ab67616d00001e023edbd638d73631f434fe755a",
-          "modified_at": "2024-06-21T13:35:51+00:00"
+          "modified_at": "2024-06-22T01:10:25+00:00"
         },
         {
           "track_id": "0OCFIEsSrmKueOiPK6S3xq",
@@ -13908,7 +15294,7 @@
           "duration": 148965,
           "image_url": "https://i.scdn.co/image/ab67616d00001e023dd3e0a8ed152be2fdfce926",
           "preview_url": "https://p.scdn.co/mp3-preview/a87199869b16741cf0bd394ace77c65d1248a89b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T13:35:51+00:00"
+          "modified_at": "2024-06-22T01:10:25+00:00"
         },
         {
           "track_id": "5lQnTSIZcjhzOsuJhIMQlA",
@@ -14320,7 +15706,7 @@
           "duration": 177658,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02a3d67ccc06d8929df12a2ed1",
           "preview_url": "https://p.scdn.co/mp3-preview/2fbf86fe405779212ae2c686deab10f797c10bd4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T13:30:44+00:00"
+          "modified_at": "2024-06-22T01:29:52+00:00"
         },
         {
           "track_id": "6m3ZWIXhjoV76syT1j2oE9",
@@ -14340,7 +15726,7 @@
           "duration": 219200,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0237422e424f7e93330acc5719",
           "preview_url": "https://p.scdn.co/mp3-preview/33873598c0ad50f7b3851219c0cf5f284bf813c2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T13:14:48+00:00"
+          "modified_at": "2024-06-22T01:14:32+00:00"
         },
         {
           "track_id": "17yOpPoiu2Ue962Do8LsdS",
@@ -14389,7 +15775,7 @@
           "duration": 157500,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02b42c1ad088d0c0e0d086b68d",
           "preview_url": "https://p.scdn.co/mp3-preview/99996459a82b55315366046249ba685c5e6fddf9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T14:00:03+00:00"
+          "modified_at": "2024-06-22T01:15:15+00:00"
         },
         {
           "track_id": "3oZoXyU0SkDldgS7AcN4y4",
@@ -14478,7 +15864,7 @@
           "artist_name": "Hannah Wants, Chris Lorenzo",
           "duration": 200005,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02823349c9546161f25941b7c9",
-          "modified_at": "2024-06-21T13:45:37+00:00"
+          "modified_at": "2024-06-22T01:17:18+00:00"
         },
         {
           "track_id": "64vBCC1lpjEnF10CkDiDhv",
@@ -14767,7 +16153,7 @@
           "duration": 176693,
           "image_url": "https://i.scdn.co/image/ab67616d00001e025e149abf2d24cd29e40c6b84",
           "preview_url": "https://p.scdn.co/mp3-preview/a400f5ad425f90b372fcb7dadee763558e10e7fd?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T13:43:35+00:00"
+          "modified_at": "2024-06-22T01:25:55+00:00"
         },
         {
           "track_id": "2JUQ7mV1AHk2owXLydmN4Z",
@@ -14846,7 +16232,7 @@
           "duration": 226677,
           "image_url": "https://i.scdn.co/image/ab67616d00001e021f51ec0adeeff5a6095b13cc",
           "preview_url": "https://p.scdn.co/mp3-preview/0485c508a17969139aed4c19c22c24abe08c04b9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T14:05:53+00:00"
+          "modified_at": "2024-06-22T01:14:58+00:00"
         },
         {
           "track_id": "1kJK2dkXbMw8yOMFEuJUm7",
@@ -14934,7 +16320,7 @@
           "duration": 222720,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02287b62abe84bf4f59cb56533",
           "preview_url": "https://p.scdn.co/mp3-preview/96346876259d26565543dcf3fa1bafe357f50872?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T13:14:44+00:00"
+          "modified_at": "2024-06-22T01:14:28+00:00"
         },
         {
           "track_id": "2NjeiZqZSRyCdL8xbQehNL",
@@ -15336,54 +16722,6 @@
       "show_section_titles": true
     },
     {
-      "id": 1995629,
-      "external_id": "1916726",
-      "published": true,
-      "name": "Lightcode by LSDREAM",
-      "body": "Since making its debut in March 2018, the LSDREAM project has continued to soar to new heights, consistently breaking the mold with unique and unforgettable music and live performances. Producer Sami Diament has expertly created a distinct and fully expansive journey through sonic blends including the likes of wobbling bass tones, hip-hop influenced beats, ethereal and spacey synths, and powerful lyrical messages.If you’ve seen an LSDREAM set before, maybe at one of his many major festival plays (including Electric Forest, Okeechobee, Coachella, Lightning in a Bottle and more) or on the sold-out headline PEACE LOVE & WUBZ Tour in 2022, you’d know that no LSDREAM show is complete without the perfectly curated,mind-melting visuals and production. LSDREAM never disappoints in providing a truly transportive audio and visual experience.Along with the explorative, psychedelic nature of the live shows,they also lend themselves asa safe space to reconnect with one's authentic self and let loose for a moment in time. While LSDREAM’s messaging does often focus on joy and youthful fun, it is also about acknowledging and working through the darker aspects of our internal worlds, promoting self-love and healing no matter where we are in our personal journeys.The project aims to foster a true connection to oneself, others, and the universe as a whole.This goal has blossomed an integral piece to the LSDREAM project:the community of fans, bringing inclusion and acceptance to all who want to be a part of it. Following some major new musical and life endeavors,on October 11, 2023 LSDREAM released his highly anticipated Part 1 of his 4th studio album,Heartwave Which included 4 songs featuring the focus track “RAD”with Joey Valence & Brae,“Operate” with Elephant Heart and more! The album arrived ahead of the sold out Red Rocks show DreamRocks, kicking off the massive Fall 2023 North American Headlining Tour, The Radical Audio Visual Experience, across 34+ states.2024 is packed with festivals and an exploration of the new wave of music.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260998_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260998_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260998_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260998_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "lightcode",
-        "youtube_user": "playlist",
-        "soundcloud_user": "lightcode"
-      },
-      "performances": [
-        {
-          "id": 183096,
-          "external_id": "855997",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995629,
-          "stage_id": 7951,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-29T23:47:10+00:00",
-          "start_time": "2024-07-28T20:00:00+00:00",
-          "end_time": "2024-07-28T21:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-21T12:51:15+00:00",
-      "show_section_titles": true
-    },
-    {
       "id": 1995543,
       "external_id": "167107",
       "published": true,
@@ -15735,7 +17073,7 @@
           "artist_name": "GRiZ, Subtronics",
           "duration": 198400,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0283046e046407ae9b6e629956",
-          "modified_at": "2024-06-21T13:08:08+00:00"
+          "modified_at": "2024-06-22T01:08:01+00:00"
         },
         {
           "track_id": "2il9NDpW87Hk2L9AjeDf8r",
@@ -15754,7 +17092,7 @@
           "artist_name": "Rezz, Subtronics",
           "duration": 212210,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02743479ac66260626a234fe8c",
-          "modified_at": "2024-06-21T13:48:18+00:00"
+          "modified_at": "2024-06-22T01:10:25+00:00"
         },
         {
           "track_id": "0yotOi6EFaBal5Gy7YVcuI",
@@ -15885,7 +17223,7 @@
           "duration": 197487,
           "image_url": "https://i.scdn.co/image/ab67616d00001e020eb47b2eec859a783ceb72c8",
           "preview_url": "https://p.scdn.co/mp3-preview/f63f47b2ed5c3f81c303c630af40b2fad0d14a9c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T13:43:35+00:00"
+          "modified_at": "2024-06-22T01:08:56+00:00"
         },
         {
           "track_id": "3whmx5Ptrqzx2c101FJFi3",
@@ -15894,7 +17232,7 @@
           "artist_name": "Disclosure, London Grammar",
           "duration": 244174,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02d3462d1395189dc76a326031",
-          "modified_at": "2024-06-21T13:09:06+00:00"
+          "modified_at": "2024-06-22T01:08:56+00:00"
         },
         {
           "track_id": "0TrPqhAMoaKUFLR7iYDokf",
@@ -15913,7 +17251,7 @@
           "artist_name": "Disclosure, Eliza Doolittle, Flume",
           "duration": 282812,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02786201dca187d2b0c956c24b",
-          "modified_at": "2024-06-21T13:45:50+00:00"
+          "modified_at": "2024-06-22T01:16:12+00:00"
         },
         {
           "track_id": "0csz09qS2n8Jo7LogHKu7j",
@@ -15940,7 +17278,7 @@
           "artist_name": "Disclosure, Sam Smith",
           "duration": 255631,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02786201dca187d2b0c956c24b",
-          "modified_at": "2024-06-21T13:49:37+00:00"
+          "modified_at": "2024-06-22T01:26:36+00:00"
         },
         {
           "track_id": "5EWFuo4ObEnfndc57sTuIo",
@@ -15968,7 +17306,7 @@
           "duration": 226773,
           "image_url": "https://i.scdn.co/image/ab67616d00001e020b6d4c43fe3e8485148e4872",
           "preview_url": "https://p.scdn.co/mp3-preview/3bfc7f59c9107ad87fd8521e40c3a461ad921574?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T14:05:53+00:00"
+          "modified_at": "2024-06-22T01:14:58+00:00"
         }
       ],
       "show_in_search": true,
@@ -16143,303 +17481,6 @@
       "show_in_intake": true,
       "show_in_artists": true,
       "modified_at": "2024-06-21T12:51:02+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995647,
-      "external_id": "1916745",
-      "published": true,
-      "name": "Tape B",
-      "body": "Berk Alkanat, AKA Tape B, is a bass music producer that has a wide range of styles but is known for his unique and nostalgic approach to how he does things. With plenty of original heavy hitters, Tape B has been drawing a lot of attention through his classic OG dubstep and hip-hop remixes. Already showcasing a keen attention to detail and a fantastic array of genre-bending experimentations, he has steadily climbed the proverbial ladder of “artists you need to start paying attention to immediately.” He has caught the eye of forward-thinking platforms like Deadbeats and UKF, and has been supported by artists such as Zeds Dead, Excision, John Summit, Subtronics, Of The Trees, Liquid Stranger and countless others.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261015_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261015_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261015_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261015_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "tapebbeats",
-        "twitter_user": "Tapebbeats",
-        "soundcloud_user": "tape-b-official",
-        "spotify_artist_id": "59tlsKpLWoLTxjNNS2wdPi"
-      },
-      "performances": [
-        {
-          "id": 183116,
-          "external_id": "856023",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995647,
-          "stage_id": 7952,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-11T08:20:05+00:00",
-          "start_time": "2024-07-29T04:30:00+00:00",
-          "end_time": "2024-07-29T05:45:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [
-        {
-          "track_id": "2Jq3XnSrhDOYX5FtIyJOlN",
-          "streaming_service": "spotify",
-          "title": "About Me Too",
-          "artist_name": "Tape B",
-          "duration": 149178,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e1dbdbcde6378a5b4a7d5f72",
-          "preview_url": "https://p.scdn.co/mp3-preview/24cefb6e97eaea9f3a904d812932b0ba91115679?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:26:17+00:00"
-        },
-        {
-          "track_id": "3xE0aFAEDbS3hjtBB5PKLT",
-          "streaming_service": "spotify",
-          "title": "Flip It - Tape B Remix",
-          "artist_name": "Levity, Tape B, Dem Jointz",
-          "duration": 187916,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02535f5a48ad805ef2be624809",
-          "modified_at": "2024-06-11T08:26:17+00:00"
-        },
-        {
-          "track_id": "0vN6M8uGKNGFAFgJtHKvFz",
-          "streaming_service": "spotify",
-          "title": "Trippy Land",
-          "artist_name": "Mersiv, Tape B, Juicy J",
-          "duration": 186461,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02dd8825a71719d9655532dbd2",
-          "modified_at": "2024-06-11T08:26:17+00:00"
-        },
-        {
-          "track_id": "0DGC66VWaB2tamRaOEvRLe",
-          "streaming_service": "spotify",
-          "title": "Like That - Tape B Remix",
-          "artist_name": "Tape B, PEEKABOO, LYNY",
-          "duration": 216000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02537795b7582064a7794bf454",
-          "preview_url": "https://p.scdn.co/mp3-preview/78453593fb139a63df382f6893e8497cd607b431?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:26:17+00:00"
-        },
-        {
-          "track_id": "6mtbVnfqF6ltz8d2vuZE8U",
-          "streaming_service": "spotify",
-          "title": "Another Night Alone",
-          "artist_name": "Tape B",
-          "duration": 148137,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024c4232ab59b1f0fb9c678659",
-          "modified_at": "2024-06-11T08:26:17+00:00"
-        },
-        {
-          "track_id": "2RUY3rsJwh1D7aIAZWwHtV",
-          "streaming_service": "spotify",
-          "title": "Sleeptalk",
-          "artist_name": "Tape B",
-          "duration": 155357,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e1dbdbcde6378a5b4a7d5f72",
-          "preview_url": "https://p.scdn.co/mp3-preview/75581957653d4734c6218acced9528a22a2955b8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:26:17+00:00"
-        },
-        {
-          "track_id": "4FfGeI6VPkqKc8JzUYp8Rb",
-          "streaming_service": "spotify",
-          "title": "Over Saturated",
-          "artist_name": "Tape B",
-          "duration": 155684,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024c4232ab59b1f0fb9c678659",
-          "modified_at": "2024-06-11T08:26:17+00:00"
-        },
-        {
-          "track_id": "4ja19hyBQogIuYI2vy5sNK",
-          "streaming_service": "spotify",
-          "title": "YO TAPE B",
-          "artist_name": "Tape B",
-          "duration": 142354,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0264d2657c0fc2b510ef135d15",
-          "preview_url": "https://p.scdn.co/mp3-preview/dac4552c7ba5ed425e124ff3917a5287ba4d96c0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:26:17+00:00"
-        },
-        {
-          "track_id": "2uGyJ6nkEnbsAI90luSVER",
-          "streaming_service": "spotify",
-          "title": "Let Me Go",
-          "artist_name": "Tape B",
-          "duration": 195428,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024c4232ab59b1f0fb9c678659",
-          "modified_at": "2024-06-11T08:26:17+00:00"
-        },
-        {
-          "track_id": "75KIZmN6IEBzljPCzJE3eE",
-          "streaming_service": "spotify",
-          "title": "Neon Shades",
-          "artist_name": "Conrank, Tape B",
-          "duration": 190400,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02097865d866ca1b9aab2e0729",
-          "preview_url": "https://p.scdn.co/mp3-preview/73afd9e046cb2a0137e62f4e3ec6f4877d0e5951?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:26:17+00:00"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-21T12:51:01+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995679,
-      "external_id": "167090",
-      "published": true,
-      "name": "CloZee",
-      "body": "A purveyor of lucid sounds, French producer Chloé Herry is a worldly and rhythmic figure in the electronic music atmosphere. Now based in Denver, CloZee has made a name for herself by skewing the usual curves of bass music and evoking a spiritual and evolutionary sound. In 2020, CloZee started a new journey with the launch of her own artist-friendly label, Odyzey Music, where she’s devoted to highlighting the underground artists of bass music and beyond. With the inception of Odyzey Music, CloZee released sophomore album Neon Jungle, which later saw official remixes by Lane 8, Opiuo, Emancipator, and Of the Trees, and was followed by her Nouvelle Era EP in 2021. With a reputation as a curator of experimental sounds, Odyzey Music has hosted official stage takeovers at festivals like Electric Zoo and Sonic Bloom, in addition to CloZee’s own Voyage Festival. As one of bass music’s foremost female innovators, CloZee has garnered attention across the electronic music spectrum, even gracing the cover of DJ Mag in December 2022. In July 2023, she released her highly anticipated 3rd studio album “Microworlds”, a 12 track project. The album arrived ahead of her massive Fall 2023 North American Headlining Tour across 40+ markets. Her biggest tour to date, performing for over 100K fans. Expect 2024 to be a milestone year for the diversifying producer.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261048_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261048_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261048_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261048_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "CloZeeOfficial/",
-        "instagram_user": "clozeeofficial",
-        "twitter_user": "clozeeofficial",
-        "youtube_channel_id": "UCzPIqYIvzikRv7gm2EWGckg",
-        "soundcloud_user": "clozee",
-        "spotify_artist_id": "1496XxkytEk26FUJLfpVZr"
-      },
-      "performances": [
-        {
-          "id": 183151,
-          "external_id": "855432",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995679,
-          "stage_id": 7955,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-20T17:47:25+00:00",
-          "start_time": "2024-07-29T06:30:00+00:00",
-          "end_time": "2024-07-29T07:45:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [
-        {
-          "track_id": "7pheKiMA7iqlIVRTbUEOCm",
-          "streaming_service": "spotify",
-          "title": "Koto",
-          "artist_name": "CloZee",
-          "duration": 250125,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02702b58d925e428bddf806f0e",
-          "preview_url": "https://p.scdn.co/mp3-preview/6b4d034e1e29f5deb364cfb24286c82abb1b236f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T13:48:18+00:00"
-        },
-        {
-          "track_id": "5nQRjPmBn5foHzXI78qv5K",
-          "streaming_service": "spotify",
-          "title": "Baiana - CloZee Remix",
-          "artist_name": "CloZee, Barbatuques",
-          "duration": 253376,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e022219dba86625e6f3e75c5105",
-          "preview_url": "https://p.scdn.co/mp3-preview/5650d650261586d6842d1061bcdf1fa05a4b094e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T13:48:18+00:00"
-        },
-        {
-          "track_id": "6Rqbg1ME7T7DinH88nd5Ig",
-          "streaming_service": "spotify",
-          "title": "Overthinker - CloZee Remix",
-          "artist_name": "INZO, CloZee",
-          "duration": 284495,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025855ee9653e821b40e94b375",
-          "preview_url": "https://p.scdn.co/mp3-preview/42356be19e4d7a86db8e177d996cc765fc0e409a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:12+00:00"
-        },
-        {
-          "track_id": "4rhooL7Cj0YkvIC4wGL7Jo",
-          "streaming_service": "spotify",
-          "title": "Color Of Your Soul",
-          "artist_name": "GRiZ, CloZee",
-          "duration": 202285,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02686a2e8a58a2f70b28ed3651",
-          "preview_url": "https://p.scdn.co/mp3-preview/ac5c7482e8883c4d2124f868e2c49538b5c5819b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:12+00:00"
-        },
-        {
-          "track_id": "2JGPTeVnAxMiFIk15598Ux",
-          "streaming_service": "spotify",
-          "title": "Back To The Top",
-          "artist_name": "CloZee, Britt Lari, Dreamers Delight",
-          "duration": 198139,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e853e8ddbdd9c4ee964f7c6e",
-          "preview_url": "https://p.scdn.co/mp3-preview/80975db03e704f74373fe98a63e73389a3c5e4cf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:12+00:00"
-        },
-        {
-          "track_id": "3Nuv1oRQQDDn8ZKCrYSlFJ",
-          "streaming_service": "spotify",
-          "title": "Microworlds",
-          "artist_name": "CloZee",
-          "duration": 270000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e029e5c77fce18c4f321b20b0f4",
-          "preview_url": "https://p.scdn.co/mp3-preview/71dc459c4e7144aceb2821436781056da4616926?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:12+00:00"
-        },
-        {
-          "track_id": "6iGSLKq2MVzASXBwrTIYb9",
-          "streaming_service": "spotify",
-          "title": "VISIONS - Zingara Remix",
-          "artist_name": "CloZee, Zingara",
-          "duration": 241600,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027eabacb6159f269b63437748",
-          "preview_url": "https://p.scdn.co/mp3-preview/1580838129ceb6fb3fb13593d2c3cc5f437bae51?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:12+00:00"
-        },
-        {
-          "track_id": "5F4RnHx7b4eZokT5EQwMrO",
-          "streaming_service": "spotify",
-          "title": "Zest Please",
-          "artist_name": "CloZee, Maddy O'Neal",
-          "duration": 192321,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02edc180c0d6924e0d242aea22",
-          "preview_url": "https://p.scdn.co/mp3-preview/c5644185cb64b7c02dc9ddb7486108febc25f01b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:12+00:00"
-        },
-        {
-          "track_id": "48mALuU7mFsXxcSH1uwAll",
-          "streaming_service": "spotify",
-          "title": "FRENCH DREAM",
-          "artist_name": "CloZee, LSDREAM",
-          "duration": 248000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0299e7b832081870e2d5ca0e88",
-          "preview_url": "https://p.scdn.co/mp3-preview/379f16d645df57a0ae6ee6853d1c89ba995f6a81?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:13+00:00"
-        },
-        {
-          "track_id": "33FyhDPcLrJUIYkf4y1tjK",
-          "streaming_service": "spotify",
-          "title": "CHRYSALIS",
-          "artist_name": "CloZee, LSDREAM",
-          "duration": 259200,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0299e7b832081870e2d5ca0e88",
-          "preview_url": "https://p.scdn.co/mp3-preview/8b619e1e5279b17cf6768e6309df5b614a084068?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:12+00:00"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-21T12:51:01+00:00",
       "show_section_titles": true
     },
     {
@@ -17739,155 +18780,6 @@
       "show_section_titles": true
     },
     {
-      "id": 1995486,
-      "external_id": "1916727",
-      "published": true,
-      "name": "LŪN",
-      "body": "LŪN’s debut EP, haha i like it, a six-track, bass-heavy collection was heralded by singles “bitches” and “y2k2k.” Billboard praised “bitches” for its “hefty siren call chorus that makes us feel like we can shoot lightning through our fingertips,” while EDM.com commended “y2k2k” for \"transitioning seamlessly from a space of control into one of beautiful mania.” Her latest EP “fuck ya go us” came alongside her live debut, doubling down on her production prowess, highlighting her ethereal vocals and driving beat drops. \n \nLŪN continues her mission to deliver fierce midtempo dance beats to the gothbounce world with \"kiss the ring\", and \"symphony no. 5 in bass minor\" from her own fox skull records imprint.  Expect more releases from LŪN and her collaborators in 2024.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260873_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260873_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260873_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260873_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "luntunes",
-        "twitter_user": "luntunes",
-        "soundcloud_user": "luntunes",
-        "spotify_artist_id": "44RV4NtG7667JQNtX6iDZc"
-      },
-      "performances": [
-        {
-          "id": 182951,
-          "external_id": "855998",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995486,
-          "stage_id": 7939,
-          "date_id": 2878,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-11T08:19:36+00:00",
-          "start_time": "2024-07-27T04:00:00+00:00",
-          "end_time": "2024-07-27T05:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [
-        {
-          "track_id": "7v6aomdkdBaD6aNpj6QL1J",
-          "streaming_service": "spotify",
-          "title": "La Puta Ama",
-          "artist_name": "The Funk Hunters, LŪN",
-          "duration": 230880,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024ec1f2ccc1662da10d239a02",
-          "preview_url": "https://p.scdn.co/mp3-preview/a1a9220c45520d2f24335c1b38e78069205ea3ad?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:36+00:00"
-        },
-        {
-          "track_id": "2oJZnCoVRQfiutXmSxVXh6",
-          "streaming_service": "spotify",
-          "title": "myyyy medssss",
-          "artist_name": "LŪN",
-          "duration": 259200,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028314cb69818733e6e0e586c9",
-          "preview_url": "https://p.scdn.co/mp3-preview/6005f5cc11de1576a2060c00ce09f814902abe39?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:36+00:00"
-        },
-        {
-          "track_id": "1uvCbCFeAvYnZbx5LcBVsv",
-          "streaming_service": "spotify",
-          "title": "symphony no.5 in bass minor",
-          "artist_name": "LŪN",
-          "duration": 178235,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c3632b7dafd4663e753b8930",
-          "preview_url": "https://p.scdn.co/mp3-preview/6c7ba7c1e01b8db5bdadfb19b375731ac429d974?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:36+00:00"
-        },
-        {
-          "track_id": "5ylMA5GG8VDjcYUGts2QNt",
-          "streaming_service": "spotify",
-          "title": "demolition (Ruined by Glass Petals)",
-          "artist_name": "LŪN, Lights, Glass Petals",
-          "duration": 226440,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f4cb3cfa31d882ed6e8bde84",
-          "preview_url": "https://p.scdn.co/mp3-preview/87ba4bc627cfc8f1c4d19cf665d7b0ae0b8217ab?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:36+00:00"
-        },
-        {
-          "track_id": "0RrZuYRSDMiPpYpSIs3dfS",
-          "streaming_service": "spotify",
-          "title": "that's what you get",
-          "artist_name": "LŪN, ZABO",
-          "duration": 181090,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0284d06ee087aaecb0d669fc84",
-          "preview_url": "https://p.scdn.co/mp3-preview/fea4ce0ad1d7f39035ccc8bbf1ac48a145294d89?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:36+00:00"
-        },
-        {
-          "track_id": "5uwjwHf7gA1DqLvnsTM3aW",
-          "streaming_service": "spotify",
-          "title": "fisticuffs (feat. tiLLie)",
-          "artist_name": "LŪN, tiLLie",
-          "duration": 237600,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028314cb69818733e6e0e586c9",
-          "preview_url": "https://p.scdn.co/mp3-preview/5f6b27ab662ce37def18d94735f2e4c30a6ff4c0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:36+00:00"
-        },
-        {
-          "track_id": "2cqscm1gWXZElrn48maeMe",
-          "streaming_service": "spotify",
-          "title": "bitches",
-          "artist_name": "LŪN",
-          "duration": 217710,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0294dba24dff7c4b6c46b90a28",
-          "preview_url": "https://p.scdn.co/mp3-preview/208d6a358a98e9f6e1a943d8fc2bd7ed6eabbc69?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:36+00:00"
-        },
-        {
-          "track_id": "6u7rb8ghXkfAb7lGdbuCpv",
-          "streaming_service": "spotify",
-          "title": "Did It To Myself - LŪN Remix",
-          "artist_name": "Robert DeLong, Lights, LŪN",
-          "duration": 233088,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e022bbcabb72074f0097fe12538",
-          "preview_url": "https://p.scdn.co/mp3-preview/a4c7b16effc45d41ba664b294b02494f7ba65249?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:36+00:00"
-        },
-        {
-          "track_id": "04z2dnnvTGvdtSLtkn1Vcl",
-          "streaming_service": "spotify",
-          "title": "kiss the ring",
-          "artist_name": "LŪN, ALEX",
-          "duration": 245861,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02abb95cd72d329a8f2a09d5b8",
-          "preview_url": "https://p.scdn.co/mp3-preview/75fcd3f0396321a9e2e3cc001aa7ac85492a7ac1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:36+00:00"
-        },
-        {
-          "track_id": "7fvxVumQ30aRR1RDmkiuI6",
-          "streaming_service": "spotify",
-          "title": "Post-Rave Heist",
-          "artist_name": "EDDIE, LŪN",
-          "duration": 192009,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e023bd808a2c1a2f82ece3ad628",
-          "modified_at": "2024-06-11T08:19:36+00:00"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-21T08:53:31+00:00",
-      "show_section_titles": true
-    },
-    {
       "id": 1995569,
       "external_id": "167165",
       "published": true,
@@ -19036,7 +19928,7 @@
           "duration": 202665,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0266c67ea4d5d50b84c060faf4",
           "preview_url": "https://p.scdn.co/mp3-preview/621a2867e93962c140484d949ebb5e30ae45d1cf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T13:59:48+00:00"
+          "modified_at": "2024-06-22T01:14:58+00:00"
         },
         {
           "track_id": "2YhEJoYccyE5wpdAkZWbPk",
@@ -19134,7 +20026,7 @@
           "artist_name": "Sub Focus, Dimension",
           "duration": 215172,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02967e9fb8c9f5bb2e9ce2f1bc",
-          "modified_at": "2024-06-21T13:17:37+00:00"
+          "modified_at": "2024-06-22T01:17:18+00:00"
         },
         {
           "track_id": "6a6m9cezKuRGoiHH11bU4Z",
@@ -19230,206 +20122,6 @@
       "show_in_intake": true,
       "show_in_artists": true,
       "modified_at": "2024-06-21T08:51:11+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995680,
-      "external_id": "180887",
-      "published": true,
-      "name": "LSDREAM",
-      "body": "Since making its debut in March 2018, the LSDREAM project has continued to soar to new heights, consistently breaking the mold with unique and unforgettable music and live performances. Producer Sami Diament has expertly created a distinct and fully expansive journey through sonic blends including the likes of wobbling bass tones, hip-hop influenced beats, ethereal and spacey synths, and powerful lyrical messages.If you’ve seen an LSDREAM set before, maybe at one of his many major festival plays (including Electric Forest, Okeechobee, Coachella, Lightning in a Bottle and more) or on the sold-out headline PEACE LOVE & WUBZ Tour in 2022, you’d know that no LSDREAM show is complete without the perfectly curated,mind-melting visuals and production. LSDREAM never disappoints in providing a truly transportive audio and visual experience.Along with the explorative, psychedelic nature of the live shows,they also lend themselves asa safe space to reconnect with one's authentic self and let loose for a moment in time. While LSDREAM’s messaging does often focus on joy and youthful fun, it is also about acknowledging and working through the darker aspects of our internal worlds, promoting self-love and healing no matter where we are in our personal journeys.The project aims to foster a true connection to oneself, others, and the universe as a whole.This goal has blossomed an integral piece to the LSDREAM project:the community of fans, bringing inclusion and acceptance to all who want to be a part of it.Following some major new musical and life endeavors,on October 11, 2023 LSDREAM released his highly anticipated Part 1 of his 4th studio album,Heartwave Which included 4 songs featuring the focus track “RAD”with Joey Valence & Brae,“Operate” with Elephant Heart and more! The album arrived ahead of the sold out Red Rocks show DreamRocks, kicking off the massive Fall 2023 North American Headlining Tour, The Radical Audio Visual Experience, across 34+ states.2024 is packed with festivals and an exploration of the new wave of music.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261049_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261049_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261049_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261049_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "LSDREAMMUSIC",
-        "instagram_user": "lsdream/",
-        "twitter_user": "LSDREAM",
-        "youtube_user": "channel/UCopSYHSUFCc6bZknT4rtZwA",
-        "soundcloud_user": "lsdream",
-        "spotify_artist_id": "3Hrqjumb6WHg2aAUHJHLND"
-      },
-      "performances": [
-        {
-          "id": 183152,
-          "external_id": "855440",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995680,
-          "stage_id": 7955,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-11T08:20:13+00:00",
-          "start_time": "2024-07-29T08:00:00+00:00",
-          "end_time": "2024-07-29T09:15:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [
-        {
-          "track_id": "0fy3MozJBrM858gEIo3Yec",
-          "streaming_service": "spotify",
-          "title": "FUNKONAUT",
-          "artist_name": "GRiZ, LSDREAM",
-          "duration": 210666,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e020a0f173da2787bae152c73b7",
-          "preview_url": "https://p.scdn.co/mp3-preview/205e2de75587a237681cb67e74d7556df42e03a6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:13+00:00"
-        },
-        {
-          "track_id": "0Mcts4Xh4FKZXOIy9tAjbA",
-          "streaming_service": "spotify",
-          "title": "PEACE LOVE & WUBZ",
-          "artist_name": "LSDREAM, Cojaxx",
-          "duration": 240000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02403a20306519b87a382bb5da",
-          "preview_url": "https://p.scdn.co/mp3-preview/7fc45271759ea14327653a4720b60957508569f0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:13+00:00"
-        },
-        {
-          "track_id": "1PVLvmbbo4joXIgzGFKDsp",
-          "streaming_service": "spotify",
-          "title": "Badman",
-          "artist_name": "Ganja White Night, LSDREAM",
-          "duration": 273333,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e023fa5ea945d149cda3c101715",
-          "preview_url": "https://p.scdn.co/mp3-preview/497f8d981380e0d17073f856ee47225d9eae86b0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:26:01+00:00"
-        },
-        {
-          "track_id": "7MediosGgQmnwMxAPGaIBm",
-          "streaming_service": "spotify",
-          "title": "SHADOW SELF",
-          "artist_name": "LSDREAM",
-          "duration": 249544,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025b62a82d9ce418ae5fb11e56",
-          "preview_url": "https://p.scdn.co/mp3-preview/43d6bbe2538ae00f686659b87c416eb4bfea9316?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:13+00:00"
-        },
-        {
-          "track_id": "48mALuU7mFsXxcSH1uwAll",
-          "streaming_service": "spotify",
-          "title": "FRENCH DREAM",
-          "artist_name": "CloZee, LSDREAM",
-          "duration": 248000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0299e7b832081870e2d5ca0e88",
-          "preview_url": "https://p.scdn.co/mp3-preview/379f16d645df57a0ae6ee6853d1c89ba995f6a81?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:13+00:00"
-        },
-        {
-          "track_id": "4VtsLbU3MGaFRpAwFsbVcg",
-          "streaming_service": "spotify",
-          "title": "Faceplant On The Galaxy",
-          "artist_name": "INZO, LSDREAM",
-          "duration": 285529,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024a58544e6b2e25b835fb56f8",
-          "preview_url": "https://p.scdn.co/mp3-preview/439ab98852eab30d5b95de4f44e7a318e4e0e5d3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:13+00:00"
-        },
-        {
-          "track_id": "3YzIv7otKEbAqOV4ygdK0e",
-          "streaming_service": "spotify",
-          "title": "PARADOX",
-          "artist_name": "LSDREAM, Ruby Chase",
-          "duration": 238181,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b246a04180eca3c91b047737",
-          "preview_url": "https://p.scdn.co/mp3-preview/7328c4dd740f4e9e9e854188d0e6a94bf4f6b1e5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:13+00:00"
-        },
-        {
-          "track_id": "62Oto2BhdCETRMbzQLc3hD",
-          "streaming_service": "spotify",
-          "title": "Drop That",
-          "artist_name": "TVBOO, LSDREAM, Al Kapone",
-          "duration": 242823,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02acb5a1bd7383cff7e0f99233",
-          "preview_url": "https://p.scdn.co/mp3-preview/6c2e6684343b7fc092fd9858eb2b7ef5e27ad1ae?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:13+00:00"
-        },
-        {
-          "track_id": "5N2I2ObfEO7U2wECdwoyiT",
-          "streaming_service": "spotify",
-          "title": "LFG",
-          "artist_name": "LSDREAM, GorillaT",
-          "duration": 188235,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02058a208837a8178c380fd79f",
-          "preview_url": "https://p.scdn.co/mp3-preview/cc754cf53ec5f8f5cd344773b310150d93fa80be?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:13+00:00"
-        },
-        {
-          "track_id": "0jEewMPhKF81T4XGsrZiq4",
-          "streaming_service": "spotify",
-          "title": "REKT",
-          "artist_name": "LSDREAM, Kayoh",
-          "duration": 171870,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025b62a82d9ce418ae5fb11e56",
-          "preview_url": "https://p.scdn.co/mp3-preview/fb5a103b3a097009b9c2f58140e717d04a04eaf4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:13+00:00"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-21T08:50:21+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995628,
-      "external_id": "1910116",
-      "published": true,
-      "name": "Sijay James",
-      "body": "Sijay James caught the vinyl bug in 1995 in the earlier days of the Vancouver electronic dance music scene. He has performed at venues around the world and has been a strong part of the west coast festival community for over 2 decades as a VJ and graphic designer. Sijay has been a large part of the design and art direction for Shambhala for over a decade as well as a resident VJ at the living room for 16 years. The rave is in his blood. He is known for his downtempo selecting with an emphasis on the groove oriented chill and the chill oriented groove. Never one to follow trends or do the popular thing, you can always expect something you haven’t heard before in his sets.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260997_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260997_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260997_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260997_performance_500.jpeg",
-        "960": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260997_performance_960.jpeg",
-        "1080": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260997_performance_1080.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "soundcloud_user": "onbeyond23"
-      },
-      "performances": [
-        {
-          "id": 183095,
-          "external_id": "856323",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995628,
-          "stage_id": 7951,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-20T19:32:40+00:00",
-          "start_time": "2024-07-28T19:00:00+00:00",
-          "end_time": "2024-07-28T19:45:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-20T19:32:40+00:00",
       "show_section_titles": true
     },
     {
@@ -21068,156 +21760,6 @@
       "show_section_titles": true
     },
     {
-      "id": 1995514,
-      "external_id": "1916712",
-      "published": true,
-      "name": "edIT",
-      "body": "Born and raised in Weston, Massachussetts, Edward Ma, now known to the world as edIT, began his music career as \"The Con Artist\" just before the turn of the millennium. As a resident DJ at the now defunct Konkrete Jungle Los Angeles, he shared the stage with Hive, Daddy Kev, James Tai and mic rockers Busdriver, P.E.A.C.E. and Mikah 9. Konkrete Jungle marked the golden age of indie hip-hop in Los Angeles, and was the bridge between the jungle and b-boy massives. During this time, he also held a residency at Dublab Radio. He was one of the very first Dublab DJs and broadcasted two weekly shows from the legendary Melrose Avenue studio. Far ahead of its time, Dublab operated as an internet radio station and served as a unifying force for the melting pot of L.A.'s intellectual DJ culture. During this musical renaissance, edIT used \"The Con Artist\" name to produce and engineer for the likes of Sole (Anticon), Busdriver (Epitaph), Aloe Blacc (Stones Throw), Emanon (Shaman Work), and Dr. Oop (Black Love).\n\nIt was 2003 when \"The Con Artist\" adopted the edIT moniker, while finishing his debut solo album Crying Over Pros for No Reason. The album was released by µ-Ziq's Planet-Mu imprint a year later in 2004. The album was a downtempo love-maker's epic about opportunities lost. Shortly thereafter, he shifted gears towards the dance floor and remixed Daedelus' \"Dumbfound\" for Plug Research, which became a party rockin' classic, and further established edIT as a force to be reckoned with in the IDM and electronic worlds. Aside from remixes, edIT garnered a lot of fame through his mash-ups of Top 40 radio jams by ridiculously cutting up a cappellas with hyper-glitch edits over original and popular hip-hop beats. His MySpace page started getting serious traffic (over 250,000 plays at this point) which led to URB Magazine naming him one of the \"Next 100\" artists to watch in 2006. The popularity of his mash-ups also led to a full-length mixtape commissioned by Hefty Records for their 10-year anniversary where he mashed the Hefty catalog with the likes of Li'l Wayne, T.I., Paul Wall and more. This mix became an overnight cult classic and was talk of the blogoshpere.\n\nNext, edIT's focus turned towards original productions and his highly-anticipated sophomore album Certified Air Raid Material. Being released this Fall by L.A.'s most daring indie label Alpha Pup Records, the album has been a long four years in the making, featuring collaborations with close allies such as The Grouch, Busdriver, TTC, Abstract Rude and D-Styles. Suffice to say, Certified Air Raid Material is a dramatic departure from the melancholy downtempo sounds of Crying Over Pros for No Reason. Upbeat, energetic and impossibly complex, Certified Air Raid Material has certainly raised the bar for state-of-the-art electronic music production. The record is a tour de force of sheer production and engineering genius, resulting in a soulful and futuristic style of dance music that is incomparable to anything else out there. Also, edIT is a member of the renowned electronic trio The Glitch Mob.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260900_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260900_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260900_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260900_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "edITmusic",
-        "instagram_user": "editbeats",
-        "soundcloud_user": "edit",
-        "spotify_artist_id": "3H6Js0rhywEhHda3UwuhGW"
-      },
-      "performances": [
-        {
-          "id": 182979,
-          "external_id": "855920",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995514,
-          "stage_id": 7937,
-          "date_id": 2878,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-11T08:19:40+00:00",
-          "start_time": "2024-07-26T23:30:00+00:00",
-          "end_time": "2024-07-27T00:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [
-        {
-          "track_id": "5Fwq7F2yjF3eQnvkfjN4LY",
-          "streaming_service": "spotify",
-          "title": "Ants",
-          "artist_name": "edIT",
-          "duration": 243133,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02bd0b227687256814d39beed6",
-          "preview_url": "https://p.scdn.co/mp3-preview/539914b47281b206411ff578498ec516d5818027?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:40+00:00"
-        },
-        {
-          "track_id": "6XAhkOyw24Wb1sCwDafXwE",
-          "streaming_service": "spotify",
-          "title": "If You Crump Stand Up",
-          "artist_name": "edIT",
-          "duration": 261986,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02230695792636a816ed9b3f9d",
-          "preview_url": "https://p.scdn.co/mp3-preview/4fa2e5b6d3f215a460f6dca6d890208e24388cdb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:40+00:00"
-        },
-        {
-          "track_id": "4QfVhHGCPVYLiQEnaeknJe",
-          "streaming_service": "spotify",
-          "title": "Bleedin' Out",
-          "artist_name": "edIT, KAVYA",
-          "duration": 223068,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02dd552a7d9a1be2ce15af2cdb",
-          "preview_url": "https://p.scdn.co/mp3-preview/d1e738461bfeb49fb9ba0e5ccc0194e9bef24180?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:40+00:00"
-        },
-        {
-          "track_id": "2sK2yMlqNDgFmBY9fOK6i1",
-          "streaming_service": "spotify",
-          "title": "Battling Go-Go Yubari in Downtown L.A.",
-          "artist_name": "edIT",
-          "duration": 325866,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02230695792636a816ed9b3f9d",
-          "preview_url": "https://p.scdn.co/mp3-preview/3a38e9b18c71cc9f1fabd8dff8ee5ca85e37f997?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:40+00:00"
-        },
-        {
-          "track_id": "7IregeOfANFYRSQI9pfJ1I",
-          "streaming_service": "spotify",
-          "title": "Twenty Minutes",
-          "artist_name": "edIT",
-          "duration": 282666,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02bd0b227687256814d39beed6",
-          "preview_url": "https://p.scdn.co/mp3-preview/5d2d63dfe73bf83169572639126ec42a0517d29c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:40+00:00"
-        },
-        {
-          "track_id": "61UOpTppZlHFhBwaNPMnGF",
-          "streaming_service": "spotify",
-          "title": "Ltlp",
-          "artist_name": "edIT",
-          "duration": 195973,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02bd0b227687256814d39beed6",
-          "preview_url": "https://p.scdn.co/mp3-preview/beb1034581883010283fe250c0c122d36ae51499?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:40+00:00"
-        },
-        {
-          "track_id": "5JvwDgG91yIfXIp3pxlevL",
-          "streaming_service": "spotify",
-          "title": "Artsy Remix",
-          "artist_name": "edIT, The Grouch",
-          "duration": 303240,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02230695792636a816ed9b3f9d",
-          "preview_url": "https://p.scdn.co/mp3-preview/d783775d062fd2097f0473f32b9c92e05f191f3f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:40+00:00"
-        },
-        {
-          "track_id": "62pLNmwanat4wDIpgkmWwb",
-          "streaming_service": "spotify",
-          "title": "Ashtray",
-          "artist_name": "edIT",
-          "duration": 255946,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02bd0b227687256814d39beed6",
-          "preview_url": "https://p.scdn.co/mp3-preview/1e830ad364e0c3efcf075f6ca8296077f3f782bf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:40+00:00"
-        },
-        {
-          "track_id": "4142aLxcayCkjNC0RgGQXc",
-          "streaming_service": "spotify",
-          "title": "More Lazers",
-          "artist_name": "edIT",
-          "duration": 295346,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0225669ac8ee4bd574deec7d25",
-          "preview_url": "https://p.scdn.co/mp3-preview/54c0cbe8ed31d9bd34d5b7af7b1df89170165b68?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:40+00:00"
-        },
-        {
-          "track_id": "1gbAn9ZTlBMiOkeubDnaIf",
-          "streaming_service": "spotify",
-          "title": "That's Me Baby",
-          "artist_name": "edIT",
-          "duration": 280723,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02dd552a7d9a1be2ce15af2cdb",
-          "preview_url": "https://p.scdn.co/mp3-preview/fe7067146c920498666789b834c73dd520e7aeb5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:40+00:00"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-20T12:53:49+00:00",
-      "show_section_titles": true
-    },
-    {
       "id": 1995665,
       "external_id": "1916717",
       "published": true,
@@ -21783,7 +22325,7 @@
           "duration": 184615,
           "image_url": "https://i.scdn.co/image/ab67616d00001e024a46e1c15703dbea0a7954f3",
           "preview_url": "https://p.scdn.co/mp3-preview/33d6531afb0d09dff48d451252423a73bfe5b351?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-21T13:30:44+00:00"
+          "modified_at": "2024-06-22T01:29:52+00:00"
         },
         {
           "track_id": "4FKxRe40M52eYZ3yI86FCy",
@@ -21898,157 +22440,6 @@
       "show_in_intake": true,
       "show_in_artists": true,
       "modified_at": "2024-06-19T20:32:42+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995507,
-      "external_id": "167269",
-      "published": true,
-      "name": "Synkro",
-      "body": "Manchester’s Joe McBride pens elaborate, emotive & intellectual soundscapes, drawing in influences across a spectrum of bass culture and electronica. Having released with Exit Records, Brownswood, Styrax, Auxiliary & Med School, as well as remixes for Model 500, Snow Patrol, Lowb & a plethora more, Synkro has most recently found a home at R&S sister label ‘Apollo’. Major support for Synkro’s music has come from names like Chris Coco, Giles Peterson, Mary Anne Hobbs, Prefuse 73 and dBridge. A truly staple artist in the timeline of UK Bass.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260894_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260894_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260894_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260894_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "synkromusik/",
-        "instagram_user": "synkromusik",
-        "youtube_user": "user/SynkroMusik",
-        "soundcloud_user": "synkro",
-        "spotify_artist_id": "4B5oxjbZ2CClTNt8iEiC4n"
-      },
-      "performances": [
-        {
-          "id": 182972,
-          "external_id": "856021",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995507,
-          "stage_id": 7940,
-          "date_id": 2878,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-11T08:19:39+00:00",
-          "start_time": "2024-07-27T09:30:00+00:00",
-          "end_time": "2024-07-27T11:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [
-        {
-          "track_id": "0SSnMauqGYhmbc4eQl2wCT",
-          "streaming_service": "spotify",
-          "title": "Acceptance",
-          "artist_name": "Synkro",
-          "duration": 286068,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0252dfa3f5cede795f4978af9f",
-          "preview_url": "https://p.scdn.co/mp3-preview/4a94c31fd2f7553aa86a49dc887374773c4b07d2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:39+00:00"
-        },
-        {
-          "track_id": "1UCYLkS94UAjCEbr2smd0T",
-          "streaming_service": "spotify",
-          "title": "Memories of Love",
-          "artist_name": "Synkro",
-          "duration": 217690,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028b66eb42e07dee92f74a9857",
-          "preview_url": "https://p.scdn.co/mp3-preview/a7c9febce7f1a0dba200cea5854ca01b773de2f5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:39+00:00"
-        },
-        {
-          "track_id": "13EieqE7vRIdtdQpqM0aF9",
-          "streaming_service": "spotify",
-          "title": "My Desire - Synkro Remix",
-          "artist_name": "Chris Coco, Synkro",
-          "duration": 277456,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027739c5e4fb5401d401a07f19",
-          "preview_url": "https://p.scdn.co/mp3-preview/3dae231500fe9aed121f07ea7e21ce11a42026a1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:39+00:00"
-        },
-        {
-          "track_id": "2uTpMTOsF0dZKATptJ6dgZ",
-          "streaming_service": "spotify",
-          "title": "Inhale",
-          "artist_name": "Synkro, Faib",
-          "duration": 344866,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e9fa49abcff2f029abd39387",
-          "preview_url": "https://p.scdn.co/mp3-preview/a7a89da6f124e2d51d41dc25954ff0859c8b95b8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:39+00:00"
-        },
-        {
-          "track_id": "3EAKs9Jh7IFqznhkZ1nt8u",
-          "streaming_service": "spotify",
-          "title": "Body Close",
-          "artist_name": "Synkro, Lyves",
-          "duration": 213698,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e020f737c52b65bc7f0b721718c",
-          "preview_url": "https://p.scdn.co/mp3-preview/850e584aef0b4de2bacfc284d125e69eeed76f23?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:39+00:00"
-        },
-        {
-          "track_id": "3kuPtyMyUHU12IY37YpQyn",
-          "streaming_service": "spotify",
-          "title": "Waiting Room",
-          "artist_name": "Synkro",
-          "duration": 207812,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0289ba3ea7f8c6e1d5a6c2c85b",
-          "preview_url": "https://p.scdn.co/mp3-preview/35ab9026bebbed60bfa696600cdedf9fe0e0f10a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:39+00:00"
-        },
-        {
-          "track_id": "3jmBXk1jmdyUMQPtN6tG8B",
-          "streaming_service": "spotify",
-          "title": "Lyves X Synkro - Body Close",
-          "artist_name": "Lyves, Synkro",
-          "duration": 197831,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02aba6d0be6ff95e6144eca92b",
-          "preview_url": "https://p.scdn.co/mp3-preview/ae1b1f03272631d82fb3640004a4e5fb7d34c9b6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:39+00:00"
-        },
-        {
-          "track_id": "6C2QTddIvSC9v7FJIjCVLV",
-          "streaming_service": "spotify",
-          "title": "Negative - Synkro Remix",
-          "artist_name": "Tom Jarmey, Dodd Noble, Ed Hodge, Synkro",
-          "duration": 316592,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a7d9f495e8b7e826cb5b01fb",
-          "preview_url": "https://p.scdn.co/mp3-preview/8ca3af393940bcd5622540ad1b4522e4d709964b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:39+00:00"
-        },
-        {
-          "track_id": "0fGlbBvbV7cmGaQXGbwfIq",
-          "streaming_service": "spotify",
-          "title": "Presence",
-          "artist_name": "Synkro",
-          "duration": 346588,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e9fa49abcff2f029abd39387",
-          "preview_url": "https://p.scdn.co/mp3-preview/4f3b7687feaf8b3c1e4211ac38e68816d8d1a044?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:39+00:00"
-        },
-        {
-          "track_id": "5addHXSg1oH0vlJwV9ey0D",
-          "streaming_service": "spotify",
-          "title": "Progression",
-          "artist_name": "Synkro",
-          "duration": 338823,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e9fa49abcff2f029abd39387",
-          "preview_url": "https://p.scdn.co/mp3-preview/f7fade0d616e700d57feff275363e5651199deda?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:39+00:00"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-19T12:57:04+00:00",
       "show_section_titles": true
     },
     {
@@ -23151,52 +23542,6 @@
       "show_in_intake": true,
       "show_in_artists": true,
       "modified_at": "2024-06-19T12:51:44+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995626,
-      "external_id": "1909884",
-      "published": true,
-      "name": "Runekey",
-      "body": "Runekey aims to curate a dance forward space where the music moves ours bodies without thought. No matter what genres Runekey plays his sets are always a journey from start to finish. Through his song selections, seamless mixing and dancing energy behind the decks you can expect to be taken into dance at his sets.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260996_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260996_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260996_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260996_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "soundcloud_user": "runekey"
-      },
-      "performances": [
-        {
-          "id": 183093,
-          "external_id": "856332",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995626,
-          "stage_id": 7950,
-          "date_id": 2879,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-31T06:48:12+00:00",
-          "start_time": "2024-07-28T08:30:00+00:00",
-          "end_time": "2024-07-28T10:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-19T10:59:05+00:00",
       "show_section_titles": true
     },
     {
@@ -25248,305 +25593,6 @@
       "show_section_titles": true
     },
     {
-      "id": 1995645,
-      "external_id": "1916740",
-      "published": true,
-      "name": "Saka",
-      "body": "\"‘Saka’ exemplifies a cutting-edge sonic quality that is both familiar, yet unconventional. The experimental beatmaker draws inspiration from an eclectic variety of underground electronic as well as his hometown of Hong Kong, wielding a sound palette that is both carefully intricate yet chaotically destructive; industrial yet organic; oriental yet occidental. By combining broken beat patterns, undulating soundscapes, rippling melodies and grotesque basslines, the burgeoning bass talent has achieved an instantly recognizable sound that is uniquely his own. Saka is carving his very own path through the left-field electronic space, turning heads every step of the way.\"",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261013_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261013_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261013_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261013_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "soundslikesaka",
-        "instagram_user": "soundslikesaka",
-        "twitter_user": "soundslikesaka",
-        "soundcloud_user": "soundslikesaka",
-        "spotify_artist_id": "78JjBYPpCRwGwaZff4qQrv"
-      },
-      "performances": [
-        {
-          "id": 183114,
-          "external_id": "856014",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995645,
-          "stage_id": 7952,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-11T08:20:04+00:00",
-          "start_time": "2024-07-29T02:30:00+00:00",
-          "end_time": "2024-07-29T03:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [
-        {
-          "track_id": "1Rr7e4iNxc8akfF0GU9j2o",
-          "streaming_service": "spotify",
-          "title": "Your Eyes",
-          "artist_name": "Saka, Amethyst",
-          "duration": 180697,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f4205917d50a0ec3623b2c3b",
-          "preview_url": "https://p.scdn.co/mp3-preview/89a51149c13dab80db8da4aefd965046ff37f0ab?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:04+00:00"
-        },
-        {
-          "track_id": "7ua7VigiaM3wVFphvRl0bO",
-          "streaming_service": "spotify",
-          "title": "Salvo",
-          "artist_name": "Saka",
-          "duration": 184941,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0219b63f64da474e24c16b55f2",
-          "preview_url": "https://p.scdn.co/mp3-preview/5db3a2713093934a6e9a172b32270347c72751d3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:04+00:00"
-        },
-        {
-          "track_id": "45e1BYbwh9VF93xUDbHiVs",
-          "streaming_service": "spotify",
-          "title": "movelikethis",
-          "artist_name": "Saka",
-          "duration": 213428,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027080884866ac94b4a962232f",
-          "preview_url": "https://p.scdn.co/mp3-preview/e55584768892af5f09dbc9f1b4065a87a1711619?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:04+00:00"
-        },
-        {
-          "track_id": "3At9iZJpHFkIsVFO4IKe4u",
-          "streaming_service": "spotify",
-          "title": "Elite",
-          "artist_name": "Abelation, Saka",
-          "duration": 233141,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0219ac90c7315e860aa3f1c4d1",
-          "modified_at": "2024-06-11T08:20:04+00:00"
-        },
-        {
-          "track_id": "5TOrZM4bLcvrJSRSeSGO4y",
-          "streaming_service": "spotify",
-          "title": "Wanchai",
-          "artist_name": "Saka, Jianbo",
-          "duration": 226285,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f9f42a970170b8f259313fa9",
-          "modified_at": "2024-06-11T08:20:04+00:00"
-        },
-        {
-          "track_id": "2lFtQc1PhJw5w8az7tvWA7",
-          "streaming_service": "spotify",
-          "title": "Shaolin",
-          "artist_name": "Saka",
-          "duration": 276000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02909ed07f4e66c389b4e2559c",
-          "preview_url": "https://p.scdn.co/mp3-preview/f588e856839bef9d365770fb801137cfe7eae154?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:04+00:00"
-        },
-        {
-          "track_id": "50xGuMB0OATAAcILg6R3YK",
-          "streaming_service": "spotify",
-          "title": "Heaven On Earth",
-          "artist_name": "Black Carl!, Saka, The Lie Within Callie",
-          "duration": 220952,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0216ad227a21e6389bac626219",
-          "modified_at": "2024-06-11T08:20:04+00:00"
-        },
-        {
-          "track_id": "52sG98pwVjiAXuDLAxSgz8",
-          "streaming_service": "spotify",
-          "title": "Yasha",
-          "artist_name": "Saka",
-          "duration": 186897,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c532d85c6d96b3fea5c43508",
-          "preview_url": "https://p.scdn.co/mp3-preview/5c4384e39f8b9e7cec95876f2cb584e042bc5034?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:04+00:00"
-        },
-        {
-          "track_id": "5yvNQcSjq21zPFBUaQvJvh",
-          "streaming_service": "spotify",
-          "title": "False Angel",
-          "artist_name": "Saka",
-          "duration": 211862,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02de21590f3359ddf8eb01fda1",
-          "preview_url": "https://p.scdn.co/mp3-preview/99b357dd86d05d87c8e558d5cabdedba5f056c5d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:20:04+00:00"
-        },
-        {
-          "track_id": "1pV7JC2ClVZP4hQIuzM8wN",
-          "streaming_service": "spotify",
-          "title": "Rush Hour",
-          "artist_name": "Black Carl!, Saka",
-          "duration": 246857,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0216ad227a21e6389bac626219",
-          "modified_at": "2024-06-11T08:20:04+00:00"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-19T10:53:02+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995448,
-      "external_id": "167134",
-      "published": true,
-      "name": "kLL sMTH",
-      "body": "kLL sMTH is an artist who has taken his love of hip-hop and expanded it into a vast array of genres, from glitch-hop and drum and bass to dubstep and bass music. His DJing roots in turntablism have influenced his production style, with scratching and mixing vinyl being some of the first things he learned. He takes inspiration from experimentation, immersing himself in music, nature, and anything life throws his way.\n\nKris is a member of collaborative projects, including glitch-hop and half-time trio Ultrasloth (BioLumigen x Duffrey x kLL sMTH), ‘kLL Bill’ (kLL sMTH x Mr. Bill), a hype electronic project, and gRLL sMTH which aims to spotlight up-and-coming artists, have a good time and bring people together with food. With a constantly evolving sound and a commitment to breaking away from the predictable, kLL sMTH promises to keep his fans on their toes with every new set.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260839_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260839_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260839_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/61/thumb_5260839_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "kllsmth",
-        "instagram_user": "kllsmth",
-        "twitter_user": "kllsmthmusic",
-        "youtube_channel_id": "UCMbfoCAh2v9w0_eTz1sw7Xg",
-        "soundcloud_user": "kllsmth",
-        "spotify_artist_id": "5vKYp6eOOHPKfb8UX5nUXK"
-      },
-      "performances": [
-        {
-          "id": 182913,
-          "external_id": "855994",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995448,
-          "stage_id": 7936,
-          "date_id": 3213,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-06-11T08:19:30+00:00",
-          "start_time": "2024-07-25T21:00:00+00:00",
-          "end_time": "2024-07-25T22:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [
-        {
-          "track_id": "7mTlGBNcKFxfQYqCxXacYE",
-          "streaming_service": "spotify",
-          "title": "Nearly Nangled",
-          "artist_name": "kLL sMTH",
-          "duration": 139534,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e020f2cb25c8387ab45c70f3764",
-          "preview_url": "https://p.scdn.co/mp3-preview/7e043d29973df06209454f2fc0711667d4940688?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:30+00:00"
-        },
-        {
-          "track_id": "2zDj1H1eFNaTDx6OZtMfuD",
-          "streaming_service": "spotify",
-          "title": "Wawkn",
-          "artist_name": "kLL sMTH",
-          "duration": 200547,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0266dbb98422ba57361dd697db",
-          "preview_url": "https://p.scdn.co/mp3-preview/5e2f02057c612484a85260747ba372dcf2fbe620?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:30+00:00"
-        },
-        {
-          "track_id": "4giAQuDQ8hrWILDQMaOHYj",
-          "streaming_service": "spotify",
-          "title": "G-WAGON",
-          "artist_name": "kLL sMTH",
-          "duration": 265161,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f332a306e16dc47aace57448",
-          "preview_url": "https://p.scdn.co/mp3-preview/e38258a1d6042bf1039a219c481f62d05d690a78?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:30+00:00"
-        },
-        {
-          "track_id": "75LlZicIiZqrAtAnmLOCSY",
-          "streaming_service": "spotify",
-          "title": "The L0phites",
-          "artist_name": "kLL sMTH",
-          "duration": 126000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0266dbb98422ba57361dd697db",
-          "preview_url": "https://p.scdn.co/mp3-preview/160b47318beea78720cac393c60d5b7ed5459681?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:30+00:00"
-        },
-        {
-          "track_id": "4FKH13aFtLUNznAmg3WTaW",
-          "streaming_service": "spotify",
-          "title": "Slamurai",
-          "artist_name": "kLL Bill, Mr. Bill, kLL sMTH",
-          "duration": 160000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f9ffe90a07f1d25d98b6cf83",
-          "preview_url": "https://p.scdn.co/mp3-preview/80017b874a9a32bd2e326eda19b3226a01e49069?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:30+00:00"
-        },
-        {
-          "track_id": "1B1ZOJTf0US1kHTA7OkfO7",
-          "streaming_service": "spotify",
-          "title": "Uncle Punch",
-          "artist_name": "kLL Bill, Mr. Bill, kLL sMTH",
-          "duration": 201904,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f9ffe90a07f1d25d98b6cf83",
-          "preview_url": "https://p.scdn.co/mp3-preview/7eeff46e1938c2873f6b09583b78e11eb10dece9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:30+00:00"
-        },
-        {
-          "track_id": "7FemlFClAsByVO4tUFkjkH",
-          "streaming_service": "spotify",
-          "title": "Bubble Skunker",
-          "artist_name": "kLL Bill, Mr. Bill, kLL sMTH",
-          "duration": 195200,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f9ffe90a07f1d25d98b6cf83",
-          "preview_url": "https://p.scdn.co/mp3-preview/e164931f9f5631280f395720067d41ba6263d922?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:30+00:00"
-        },
-        {
-          "track_id": "6dXbplGWtWJxPMrAPVzF20",
-          "streaming_service": "spotify",
-          "title": "Systematic Anomaly",
-          "artist_name": "kLL sMTH",
-          "duration": 338186,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028cc56fe7236e758de439fba4",
-          "preview_url": "https://p.scdn.co/mp3-preview/93badbdd06f606fcfe4c93feee55ec608a11cb91?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:30+00:00"
-        },
-        {
-          "track_id": "1ikG8cYsTVNQeWVDMMNHub",
-          "streaming_service": "spotify",
-          "title": "Simulated - kLL sMTH Remix",
-          "artist_name": "EAZYBAKED, kLL sMTH",
-          "duration": 214400,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02666a0a36ab739726342e4d81",
-          "preview_url": "https://p.scdn.co/mp3-preview/4f7a11f6ce50f4876a3a7a74cbdcd0af3a090278?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:30+00:00"
-        },
-        {
-          "track_id": "0iAHFgaqLiIP09zsrAIh6C",
-          "streaming_service": "spotify",
-          "title": "Karlito Sway",
-          "artist_name": "kLL sMTH",
-          "duration": 153000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0266dbb98422ba57361dd697db",
-          "preview_url": "https://p.scdn.co/mp3-preview/005755d89a97f440131104db764d00508f3fb990?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-11T08:19:30+00:00"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-19T10:52:35+00:00",
-      "show_section_titles": true
-    },
-    {
       "id": 1995509,
       "external_id": "167267",
       "published": true,
@@ -25890,7 +25936,7 @@
           "artist_name": "LION BABE",
           "duration": 250706,
           "image_url": "https://i.scdn.co/image/ab67616d00001e026454cc79bc32f309749b019b",
-          "modified_at": "2024-06-21T13:30:23+00:00"
+          "modified_at": "2024-06-22T01:29:32+00:00"
         },
         {
           "track_id": "5LWKsMeXaYBoKzCHk8syQy",
@@ -28078,52 +28124,6 @@
     {
       "id": 1995541,
       "deleted_at": "2024-06-06T16:02:05+00:00"
-    },
-    {
-      "id": 1995640,
-      "external_id": "1916779",
-      "published": true,
-      "name": "Radio Fryer",
-      "body": "Founder of Leaf Records, Wagon Repair and the Together Full Moon Rituals",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261009_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261009_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261009_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/62/thumb_5261009_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "radio.fryer"
-      },
-      "performances": [
-        {
-          "id": 183109,
-          "external_id": "856093",
-          "published": true,
-          "priority": 100,
-          "artist_id": 1995640,
-          "stage_id": 7951,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-05-31T06:48:12+00:00",
-          "start_time": "2024-07-29T11:00:00+00:00",
-          "end_time": "2024-07-29T12:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-06-05T14:03:29+00:00",
-      "show_section_titles": true
     },
     {
       "id": 1995594,
