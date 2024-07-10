@@ -1,3 +1,5 @@
+// no performances found for artist id=1997137
+// no performances found for artist id=1997253
 // no performances found for artist id=1997139
 // no performances found for artist id=1997141
 // no performances found for artist id=1997135
@@ -23,12 +25,10 @@
 // no performances found for artist id=2002596
 // no performances found for artist id=1999994
 // no performances found for artist id=1995621
-// no performances found for artist id=1997253
 // no performances found for artist id=1997143
 // no performances found for artist id=1997145
 // no performances found for artist id=1997151
 // no performances found for artist id=1997134
-// no performances found for artist id=1997137
 // no performances found for artist id=1995541
 // no performances found for artist id=1995594
 timezone = US/Pacific
