@@ -1,6 +1,600 @@
 {
   "data": [
     {
+      "id": 1995683,
+      "external_id": "1916923",
+      "published": true,
+      "name": "Skreid B2B Trip A",
+      "body": "Raised in Grand Forks, BC. DJ/Producer Skreid is known in his area for his heavy basslines and flowing style that will get the crowd bouncin'. Started at The Woods Nightclub with help and support from Pagoda mastermind DJ Soup, he started his climb into the music industry. Skreid has a diverse range and taste of Dubstep/DNB/House and everything in between and out of the box to grace those earholes, you wont be disappointed!",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/91/thumb_5290299_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/91/thumb_5290299_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/91/thumb_5290299_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/91/thumb_5290299_performance_500.jpeg",
+        "960": "https://media.appmiral.com/prod/performance/0053/91/thumb_5290299_performance_960.jpeg",
+        "1080": "https://media.appmiral.com/prod/performance/0053/91/thumb_5290299_performance_1080.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "skreidbass/",
+        "instagram_user": "skreidbass/",
+        "soundcloud_user": "trip-a-93",
+        "spotify_artist_id": "5EreBDnGkwG9A77J2z1MV4"
+      },
+      "performances": [
+        {
+          "id": 183155,
+          "external_id": "856313",
+          "published": true,
+          "body": "Raised in Grand Forks, BC. DJ/Producer Skreid is known in his area for his heavy basslines and flowing style that will get the crowd bouncin'. Started at The Woods Nightclub with help and support from Pagoda mastermind DJ Soup, he started his climb into the music industry. Skreid has a diverse range and taste of Dubstep/DNB/House and everything in between and out of the box to grace those earholes, you wont be disappointed!",
+          "priority": 100,
+          "artist_id": 1995683,
+          "stage_id": 7955,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-07-20T01:32:47+00:00",
+          "start_time": "2024-07-29T12:00:00+00:00",
+          "end_time": "2024-07-29T13:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [
+        {
+          "slug": "bass",
+          "name": "Bass",
+          "priority": 100,
+          "visible": false,
+          "filter": true,
+          "modified_at": "2024-05-30T16:25:53+00:00",
+          "category": "other"
+        },
+        {
+          "slug": "dnb",
+          "name": "DNB",
+          "priority": 100,
+          "visible": false,
+          "filter": true,
+          "modified_at": "2024-07-03T21:29:38+00:00",
+          "category": "other"
+        },
+        {
+          "slug": "drumandbass",
+          "name": "Drum & Bass",
+          "priority": 100,
+          "visible": false,
+          "filter": true,
+          "modified_at": "2024-07-03T21:30:30+00:00",
+          "category": "other"
+        },
+        {
+          "slug": "drumandbass2",
+          "name": "Drum and Bass",
+          "priority": 100,
+          "visible": false,
+          "filter": true,
+          "modified_at": "2024-07-03T21:31:28+00:00",
+          "category": "other"
+        },
+        {
+          "slug": "dubstep",
+          "name": "Dubstep",
+          "priority": 100,
+          "visible": false,
+          "filter": true,
+          "modified_at": "2024-07-03T21:31:50+00:00",
+          "category": "other"
+        },
+        {
+          "slug": "house",
+          "name": "House",
+          "priority": 100,
+          "visible": false,
+          "filter": true,
+          "modified_at": "2024-07-03T21:32:48+00:00",
+          "category": "other"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "0NrvEhA9ByntAQrAB6vzSb",
+          "streaming_service": "spotify",
+          "title": "The Island(Hawkings Dub)",
+          "artist_name": "Skreid",
+          "duration": 177600,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021852085d454ece4affaaade8",
+          "preview_url": "https://p.scdn.co/mp3-preview/aefecfd2f0fb0c797637871b61206999f2bb84c1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-24T14:34:40+00:00"
+        },
+        {
+          "track_id": "7Ek1lA6nQxpDRgH5M0Z2W5",
+          "streaming_service": "spotify",
+          "title": "Raging Clue",
+          "artist_name": "Skreid, CERBERUS",
+          "duration": 186666,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0211d24e457e1799fd3c756a31",
+          "preview_url": "https://p.scdn.co/mp3-preview/cee2e52473c4b9e1aaaab3ad2d9d0b0b2abb768b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-24T14:34:40+00:00"
+        },
+        {
+          "track_id": "4AdwPGDFBi0XPFPRRFd7Ig",
+          "streaming_service": "spotify",
+          "title": "Wolf",
+          "artist_name": "Skreid",
+          "duration": 184000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02429d2b66792bcf65ba5f12b7",
+          "preview_url": "https://p.scdn.co/mp3-preview/63670558545014cdae903a0d289da2869dc363de?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-24T14:34:40+00:00"
+        },
+        {
+          "track_id": "3w1ykxumenZdtnadl1nsLd",
+          "streaming_service": "spotify",
+          "title": "Duke Nukem Dub",
+          "artist_name": "Skreid",
+          "duration": 274463,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02becc32ad2e16a8a05df76fe4",
+          "preview_url": "https://p.scdn.co/mp3-preview/1ca2cd333968a399c9d9142560906fddee1e49f5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-24T14:34:40+00:00"
+        },
+        {
+          "track_id": "3jrVzLNXX7o3w2TaaYj7Gz",
+          "streaming_service": "spotify",
+          "title": "Matt Damon",
+          "artist_name": "Skreid",
+          "duration": 194526,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c82b0f3d033256dbe9ba99d5",
+          "preview_url": "https://p.scdn.co/mp3-preview/72d4575cceab44bff79303686f42efa16a0f42a2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-24T14:34:40+00:00"
+        },
+        {
+          "track_id": "4Cj1g7J3IlP0NbRWGbglu6",
+          "streaming_service": "spotify",
+          "title": "Unreal",
+          "artist_name": "Skreid",
+          "duration": 153606,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c82b0f3d033256dbe9ba99d5",
+          "preview_url": "https://p.scdn.co/mp3-preview/f8d9dd3bb84b1df13ab9a90ab54ede68cb3a1b4d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-24T14:34:40+00:00"
+        },
+        {
+          "track_id": "3uUOo6ab7j3eWrDJKVo3Tz",
+          "streaming_service": "spotify",
+          "title": "Urine Trouble",
+          "artist_name": "Skreid",
+          "duration": 166398,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c82b0f3d033256dbe9ba99d5",
+          "preview_url": "https://p.scdn.co/mp3-preview/6cb851ed656c9b9b8af238891d54b6493ea3422f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-24T14:34:40+00:00"
+        },
+        {
+          "track_id": "5mrxQshO8FxJaSTJ1e6ade",
+          "streaming_service": "spotify",
+          "title": "Come",
+          "artist_name": "Skreid",
+          "duration": 161464,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c82b0f3d033256dbe9ba99d5",
+          "preview_url": "https://p.scdn.co/mp3-preview/f66defd9f324660890754f3d5d132035a39aa825?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-24T14:34:40+00:00"
+        },
+        {
+          "track_id": "1YMWhnmIgnY252vFShGy5z",
+          "streaming_service": "spotify",
+          "title": "HADES",
+          "artist_name": "Skreid",
+          "duration": 173793,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0274117e8ff384db63c0f482d9",
+          "preview_url": "https://p.scdn.co/mp3-preview/60fc85a2096e215c13c41aac878e135ffab43279?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-24T14:34:40+00:00"
+        },
+        {
+          "track_id": "6efeDsjAq14p5LmqKF1I1t",
+          "streaming_service": "spotify",
+          "title": "Cathedral",
+          "artist_name": "Skreid",
+          "duration": 198620,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ce8fdecfaac2278ba0634dc9",
+          "preview_url": "https://p.scdn.co/mp3-preview/21360213b179dea6579e9f7b10c2f2318ba67517?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-24T14:34:40+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-07-20T01:32:48+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 1997132,
+      "external_id": "1916797",
+      "published": true,
+      "name": "Dr. Fresch B2B Destructo",
+      "body": "Gary Richards, known by his stage name Destructo, is an American music executive, concert promoter, and DJ. As of September 1, 2017, he is the President of LiveStyle, North America. Prior to joining LiveStyle, he was the founder and CEO of HARD Events, a concert brand that has put on popular music festivals since 2007, which was acquired in 2012 by Live Nation Entertainment. He has performed professionally as a DJ under the name Destructo for over 20 years, having toured worldwide. He is credited with being a leader in the electronic music genre in North America and with helping to bring artists like Deadmau5 and Justice into the mainstream. Richards is included on Rolling Stone's \"50 Most Important People in EDM\" list, Billboard's \"EDM Power Players\" lists from 2014–2017, and inthemix's list of the \"50 Most Powerful People in EDM\". As Destructo, he has released four EP's titled Technology, Higher, West Coast, and RENEGADE respectively.<br />\n<br />\nIn 2013 after winning Insomniac’s Discovery Project Contest, Tony Fresch launched the Dr. Fresch project. His debut self-titled EP and innovative hip-hop/rap remixes quickly exploded in the blogosphere. Dr. Fresch’s music weaves together elements of house, hip-hop/rap, and midtempo to create a unique, forward-thinking sound. Over the summer of 2015, Dr. Fresch launched his semi-monthly mix series “House Call” which has since garnered tens of millions of plays. The Dr. Fresch brand has continued to grow with the launch of his record label “House Call Records.” Dr. Fresch plays a prominent role on the festival circuit with plays at likes EDC Las Vegas, Paradiso, Moonrise, Electric Forest, CRSSD, Splash House, Osheaga, Shambhala and more.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0053/73/thumb_5272403_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0053/73/thumb_5272403_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0053/73/thumb_5272403_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0053/73/thumb_5272403_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "drfresch/",
+        "soundcloud_user": "destructoamf",
+        "spotify_artist_id": "1htHgbGwgCWJBfGiQwcRqC"
+      },
+      "performances": [
+        {
+          "id": 183000,
+          "external_id": "855463",
+          "published": true,
+          "body": "Gary Richards, known by his stage name Destructo, is an American music executive, concert promoter, and DJ. As of September 1, 2017, he is the President of LiveStyle, North America. Prior to joining LiveStyle, he was the founder and CEO of HARD Events, a concert brand that has put on popular music festivals since 2007, which was acquired in 2012 by Live Nation Entertainment. He has performed professionally as a DJ under the name Destructo for over 20 years, having toured worldwide. He is credited with being a leader in the electronic music genre in North America and with helping to bring artists like Deadmau5 and Justice into the mainstream. Richards is included on Rolling Stone's \"50 Most Important People in EDM\" list, Billboard's \"EDM Power Players\" lists from 2014–2017, and inthemix's list of the \"50 Most Powerful People in EDM\". As Destructo, he has released four EP's titled Technology, Higher, West Coast, and RENEGADE respectively.\n\nIn 2013 after winning Insomniac’s Discovery Project Contest, Tony Fresch launched the Dr. Fresch project. His debut self-titled EP and innovative hip-hop/rap remixes quickly exploded in the blogosphere. Dr. Fresch’s music weaves together elements of house, hip-hop/rap, and midtempo to create a unique, forward-thinking sound. Over the summer of 2015, Dr. Fresch launched his semi-monthly mix series “House Call” which has since garnered tens of millions of plays. The Dr. Fresch brand has continued to grow with the launch of his record label “House Call Records.” Dr. Fresch plays a prominent role on the festival circuit with plays at likes EDC Las Vegas, Paradiso, Moonrise, Electric Forest, CRSSD, Splash House, Osheaga, Shambhala and more.",
+          "priority": 100,
+          "artist_id": 1997132,
+          "stage_id": 7941,
+          "date_id": 2878,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-07-20T01:32:47+00:00",
+          "start_time": "2024-07-27T09:45:00+00:00",
+          "end_time": "2024-07-27T11:45:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [
+        {
+          "slug": "electronic",
+          "name": "Electronic",
+          "priority": 100,
+          "visible": false,
+          "filter": true,
+          "modified_at": "2024-07-03T21:32:02+00:00",
+          "category": "other"
+        },
+        {
+          "slug": "house",
+          "name": "House",
+          "priority": 100,
+          "visible": false,
+          "filter": true,
+          "modified_at": "2024-07-03T21:32:48+00:00",
+          "category": "other"
+        },
+        {
+          "slug": "techhouse",
+          "name": "Tech House",
+          "priority": 100,
+          "visible": false,
+          "filter": true,
+          "modified_at": "2024-07-03T21:33:37+00:00",
+          "category": "other"
+        },
+        {
+          "slug": "basshouse",
+          "name": "Bass House",
+          "priority": 99,
+          "visible": false,
+          "filter": true,
+          "modified_at": "2024-07-03T21:51:43+00:00",
+          "category": "other"
+        },
+        {
+          "slug": "deephouse",
+          "name": "Deep House",
+          "priority": 99,
+          "visible": false,
+          "filter": true,
+          "modified_at": "2024-07-03T21:52:30+00:00",
+          "category": "other"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "4WOP1OvhqxEZT2PvQfjERA",
+          "streaming_service": "spotify",
+          "title": "Bone Breaker",
+          "artist_name": "Dr. Fresch",
+          "duration": 155617,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a5a9d29c47548bb71a529016",
+          "preview_url": "https://p.scdn.co/mp3-preview/d76a71135bcdb5cce8fccb05da0fa29b5b1d7515?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-24T14:34:36+00:00"
+        },
+        {
+          "track_id": "25vG6krgfp2FQGNXzP4ZFV",
+          "streaming_service": "spotify",
+          "title": "Take A Step Back",
+          "artist_name": "Dr. Fresch, Marten Hørger",
+          "duration": 160000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e020c05d8ed5b58f7b28d56ac2a",
+          "preview_url": "https://p.scdn.co/mp3-preview/98a2573416d43d9b00ea0f3a4c67b1d3ca258a3a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-24T14:44:04+00:00"
+        },
+        {
+          "track_id": "71hBq5pcZeN0tfpiJiDY6c",
+          "streaming_service": "spotify",
+          "title": "Armageddon",
+          "artist_name": "Dr. Fresch, House Call",
+          "duration": 184505,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0249d72dce6450897dd4fb891d",
+          "preview_url": "https://p.scdn.co/mp3-preview/1f90530e6377dc27f9efc3d694e744ca16e2367b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-24T14:34:36+00:00"
+        },
+        {
+          "track_id": "5w6rgrtYFhC6NkUknX1exC",
+          "streaming_service": "spotify",
+          "title": "Gangsta Gangsta (feat. Baby Eazy-E)",
+          "artist_name": "Dr. Fresch, Baby Eazy E",
+          "duration": 201642,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02574e728366d6bf23a21d841a",
+          "preview_url": "https://p.scdn.co/mp3-preview/774568c6048d40dc17e3293fbea28cf3f0d75a80?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-24T14:34:36+00:00"
+        },
+        {
+          "track_id": "3Asbj9ttQ9MmQHcwHFy7mn",
+          "streaming_service": "spotify",
+          "title": "Banga",
+          "artist_name": "Dr. Fresch, FETISH",
+          "duration": 141897,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021d676bb15f397fa947794386",
+          "preview_url": "https://p.scdn.co/mp3-preview/e497bea01c985bc0de6e63b544a1c0b89679ccd8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-24T14:34:36+00:00"
+        },
+        {
+          "track_id": "5Q0TrEMgcVtVjcHeUyVj3T",
+          "streaming_service": "spotify",
+          "title": "Feedback",
+          "artist_name": "Dr. Fresch, Mina Knock",
+          "duration": 205000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e023746b8a66571d44d2aeec3ee",
+          "preview_url": "https://p.scdn.co/mp3-preview/425ecdefa9095295f07b6949a8c48f14af99f7c5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-24T14:34:36+00:00"
+        },
+        {
+          "track_id": "7Fh5Q7Hg1H7CX1jVQY2Dgm",
+          "streaming_service": "spotify",
+          "title": "Bricks",
+          "artist_name": "Dr. Fresch",
+          "duration": 129642,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02fc311653f503f9eb51f8f293",
+          "preview_url": "https://p.scdn.co/mp3-preview/81de05fabb845df36f749e06941aaa613dc5ead8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-24T14:34:36+00:00"
+        },
+        {
+          "track_id": "4wBJJA2whqsFWJhMSq38f9",
+          "streaming_service": "spotify",
+          "title": "Timeless",
+          "artist_name": "Dr. Fresch, Mina Knock",
+          "duration": 145000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021bfcb8e889f934804e615f96",
+          "preview_url": "https://p.scdn.co/mp3-preview/20154ba0952c296a5edf28afdc721d36dacd36c4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-24T14:34:36+00:00"
+        },
+        {
+          "track_id": "7wSqfT8bbqVYviAe0xI9np",
+          "streaming_service": "spotify",
+          "title": "Let's Go",
+          "artist_name": "Dr. Fresch, House Call",
+          "duration": 150761,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02869270f1ae18c65f4c696621",
+          "preview_url": "https://p.scdn.co/mp3-preview/d00102a7542a77c5fe782d3ec9b166454b87a7a4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-24T14:34:36+00:00"
+        },
+        {
+          "track_id": "3fqWMqLjDxzOdQpWKED0KD",
+          "streaming_service": "spotify",
+          "title": "Cold Day in Hell",
+          "artist_name": "NITTI, Dr. Fresch",
+          "duration": 144000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e026e64a1cbbcee8c8e975c0a1b",
+          "preview_url": "https://p.scdn.co/mp3-preview/68da10e7b08cf89983c2f289ed53b0aac3dc41ed?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "modified_at": "2024-06-24T14:34:36+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-07-20T01:32:48+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 2007064,
+      "external_id": "1916891",
+      "published": true,
+      "name": "Pav4n & Strategy",
+      "body": "PAV4N has a slew of singles dropping over the year with the likes of Raga, Wraz, Strategy, Killa P, Hypho, Mythm, Noer the Boy, Badklaat, Funtcase, Harry Shotta, benny L, Document One, Airglow,12th Planet, Zurglin, Illaman, Sepia & Many More.<br />\n<br />\nPAV4N is the founding member of the critically acclaimed electronic rap group Foreign Beggars and one of the most prolific MC’s of Indian origin of all time & the  first rapper of Indian descent to have a top 10 single in the UK Charts.<br />\n<br />\nPAV4N has worked plethora of incredible producers including Skrillex, Noisia, Steve Aoki, Knife Party, Dj Vadim, Sez on the Beat, Flux Pavilion, Ganja White Knight, Alix Perez, Visages, Truth, Tommy lee of Motley Cru and has 60 + releases since the launch of his solo project in 2020.<br />\n<br />\nWith 7 Studio albums under his belt and 17 years of live show experience, PAV4N is known for his explosive, high energy performances with genre spanning hip hop, grime, dubstep & Drum and bass.<br />\n<br />\nSince 2021 PAV4N has performed at Glastonbury Festival. Boomtown, Shambhala, Nozstock, Locus, NH7 Festival, Breezer Shuffle & has just come off the back of extensive India, UK & North American Tours.<br />\n<br />\nIn 2020, PAV4N founded 4NC¥ & //DarkMode , 2  prolific record labels with a focus on elevating South East Asian talent. 4NC¥ is a global platform and network for underground musicians and visual artists dedicated to breaking records from new talent and seasoned artists alike. Its unique business model puts forth releases that feature both aspiring and well-known visual artists to create an artistic experience and identity for each piece that goes beyond audio and blends different disciplines of artistry. The label’s releases encompass genres such as lo-fi, hip hop, trap, grime, 160, jungle/drum & bass, selective house, techno, and future soul/r&b – paying homage to Pavan’s hip hop and electronic roots. 4NC¥ currently platforms over 100 artists across the globe today and works alongside the most influential and underground magazines, culturemakers, music promoters, and festivals of our time. <br />\n<br />\nSince the beginning of his career, PAV4N has worked with and released music under the world’s most leading and innovative music labels, including Sony Music, Warner Music, Universal Music Group, Ministry of Sound, Owsla, Mau5trap, 1985 Music, Never Say Die, Disciple Records, Dim Mak, Circus Recordings, Chinese Man Recordings, Quality Goods, Ram Records, and Vision Recordings. He has also worked on various musical ventures in Hollywood and the Gaming industries, including musical soundtracks for Fast & Furious 7, Die Hard III, CSI Los Angeles, Fifa 13, Fifa 2022 Fifa 2023 & FFifa 2024 Need for Speed, Eastenders, and Skins.<br />\n<br />\nRecent highlights include coverage from Rolling Stone India, The Times of India, The New Indian Express, UKF, Outlook India, I Am Hip Hop, Lifestyle Asia, Lifted Asia, India Today, iamCrü, The Telegraph, The Source, Dubai Hot 40 music charts, The Indian Music Diaries, Homegrown Co India, Khaleej Times, Red Bull, Himmat Media, Rosecrans Ave, FUXWITHIT, Mister Mime World, Juice, The 3000 Network, Desi Hip Hop, WORDPLAY. <br />\n<br />\nPAV4N has supported the Prodigy on their ‘Run With The Wolves’ UK tour and countless other artists including Amy Winehouse, Snoop Dogg, Sub Focus, Deadmau5, Faith No More, The Chemical Brothers & Many More.<br />\n<br />\nPAV4N has released on Mau5trap, Ministry of Sound, Ram Records, Critical Recordings, Owsla, Sony Music, Warner Music, Blackout Recordings, Never Say Die Records, Vision Recordings, Monstercat, Dim Mak, Black Butter records to name a few.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0054/11/thumb_5310658_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0054/11/thumb_5310658_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0054/11/thumb_5310658_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0054/11/thumb_5310658_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "strategyyeah",
+        "soundcloud_user": "4ncurrency",
+        "spotify_artist_id": "0sQ1wgSdRpoysgsa1VnI4G"
+      },
+      "performances": [
+        {
+          "id": 182920,
+          "external_id": "856277",
+          "published": true,
+          "body": "PAV4N has a slew of singles dropping over the year with the likes of Raga, Wraz, Strategy, Killa P, Hypho, Mythm, Noer the Boy, Badklaat, Funtcase, Harry Shotta, benny L, Document One, Airglow,12th Planet, Zurglin, Illaman, Sepia & Many More.\n\nPAV4N is the founding member of the critically acclaimed electronic rap group Foreign Beggars and one of the most prolific MC’s of Indian origin of all time & the  first rapper of Indian descent to have a top 10 single in the UK Charts.\n\nPAV4N has worked plethora of incredible producers including Skrillex, Noisia, Steve Aoki, Knife Party, Dj Vadim, Sez on the Beat, Flux Pavilion, Ganja White Knight, Alix Perez, Visages, Truth, Tommy lee of Motley Cru and has 60 + releases since the launch of his solo project in 2020.\n\nWith 7 Studio albums under his belt and 17 years of live show experience, PAV4N is known for his explosive, high energy performances with genre spanning hip hop, grime, dubstep & Drum and bass.\n\nSince 2021 PAV4N has performed at Glastonbury Festival. Boomtown, Shambhala, Nozstock, Locus, NH7 Festival, Breezer Shuffle & has just come off the back of extensive India, UK & North American Tours.\n\nIn 2020, PAV4N founded 4NC¥ & //DarkMode , 2  prolific record labels with a focus on elevating South East Asian talent. 4NC¥ is a global platform and network for underground musicians and visual artists dedicated to breaking records from new talent and seasoned artists alike. Its unique business model puts forth releases that feature both aspiring and well-known visual artists to create an artistic experience and identity for each piece that goes beyond audio and blends different disciplines of artistry. The label’s releases encompass genres such as lo-fi, hip hop, trap, grime, 160, jungle/drum & bass, selective house, techno, and future soul/r&b – paying homage to Pavan’s hip hop and electronic roots. 4NC¥ currently platforms over 100 artists across the globe today and works alongside the most influential and underground magazines, culturemakers, music promoters, and festivals of our time. \n\nSince the beginning of his career, PAV4N has worked with and released music under the world’s most leading and innovative music labels, including Sony Music, Warner Music, Universal Music Group, Ministry of Sound, Owsla, Mau5trap, 1985 Music, Never Say Die, Disciple Records, Dim Mak, Circus Recordings, Chinese Man Recordings, Quality Goods, Ram Records, and Vision Recordings. He has also worked on various musical ventures in Hollywood and the Gaming industries, including musical soundtracks for Fast & Furious 7, Die Hard III, CSI Los Angeles, Fifa 13, Fifa 2022 Fifa 2023 & FFifa 2024 Need for Speed, Eastenders, and Skins.\n\nRecent highlights include coverage from Rolling Stone India, The Times of India, The New Indian Express, UKF, Outlook India, I Am Hip Hop, Lifestyle Asia, Lifted Asia, India Today, iamCrü, The Telegraph, The Source, Dubai Hot 40 music charts, The Indian Music Diaries, Homegrown Co India, Khaleej Times, Red Bull, Himmat Media, Rosecrans Ave, FUXWITHIT, Mister Mime World, Juice, The 3000 Network, Desi Hip Hop, WORDPLAY. \n\nPAV4N has supported the Prodigy on their ‘Run With The Wolves’ UK tour and countless other artists including Amy Winehouse, Snoop Dogg, Sub Focus, Deadmau5, Faith No More, The Chemical Brothers & Many More.\n\nPAV4N has released on Mau5trap, Ministry of Sound, Ram Records, Critical Recordings, Owsla, Sony Music, Warner Music, Blackout Recordings, Never Say Die Records, Vision Recordings, Monstercat, Dim Mak, Black Butter records to name a few.",
+          "priority": 100,
+          "artist_id": 2007064,
+          "stage_id": 7936,
+          "date_id": 3213,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-07-20T01:32:47+00:00",
+          "start_time": "2024-07-26T05:30:00+00:00",
+          "end_time": "2024-07-26T06:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-07-20T01:32:48+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 2007066,
+      "external_id": "1918119",
+      "published": true,
+      "name": "Subvert w/ Armanni Reign",
+      "body": "Armanni Reign: From the lunchroom tables to street corner cyphas... from battle rap competitions to hosting some of the biggest festivals in the world... the MC Armanni Reign has become one of the most versatile multi-genre MC's on the planet. Since 2004, MC Armanni Reign has become a go to recording voice regardless of genre from hosting stages with some of the world's most elite DJ's and other music acts to music recordings creating performance memories and chart topping smashers like Ray Volpe's \"Purpose\", Spag Heddy's \"Strayed UP\", Barely Alive's \"Hackers\", Riot's \"LSAR\", Zomboy's \"Outbreak\", Virtual Riot's \"Running from the Cops\" to Hybrid Trap like Stereolize's \"Paper Chaser\", A Boy and a Girl's \"Stampede\", Mark Instinct's \"The Show\", \"Suicide Pill\", and \"Pour It Out\". From STS9's \"Balancing\" to 12th Planet and The Trickaz's floor killer \"Bless That\" or smoother vibes like AC Slater x TS7's \"Step Back\", Kastle's \"Timeless\" to Mayhem and Logam's DnB roller \"We Will\", he has proven versatility is an asset. Armanni Reign has DB releases currently on RAM, ProgRAM, Gasm, Freak, Intasound, Westbay Music Group, TekDbz accompanied by Dubstep/EDM Trap releases on Monstercat, Disciple, Circus, Play Me, Never Say Die, Rotton, Uplink Audio, Buygore and Firepower as well as Hip Hop projects on SKRONG and Division. His affinity for movies and video games has translated over to the sync world. His music can be heard on AAA television and internet advertising campaigns such as \"Fast and Furious 9\", Square Enix's \"Just Cause 4\", Gearbox's \"Borderlands 3\", Ubisoft's \"Ghost Recon: Breakpoint\" and more as a solo artist or collaborative act known as Artizan with a music catalog that stretches across everything from Netflix to MTV.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314111_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314111_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314111_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314111_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314111_performance_960.png",
+        "1080": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314111_performance_1080.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {},
+      "performances": [
+        {
+          "id": 184406,
+          "external_id": "856983",
+          "published": true,
+          "body": "Armanni Reign: From the lunchroom tables to street corner cyphas... from battle rap competitions to hosting some of the biggest festivals in the world... the MC Armanni Reign has become one of the most versatile multi-genre MC's on the planet. Since 2004, MC Armanni Reign has become a go to recording voice regardless of genre from hosting stages with some of the world's most elite DJ's and other music acts to music recordings creating performance memories and chart topping smashers like Ray Volpe's \"Purpose\", Spag Heddy's \"Strayed UP\", Barely Alive's \"Hackers\", Riot's \"LSAR\", Zomboy's \"Outbreak\", Virtual Riot's \"Running from the Cops\" to Hybrid Trap like Stereolize's \"Paper Chaser\", A Boy and a Girl's \"Stampede\", Mark Instinct's \"The Show\", \"Suicide Pill\", and \"Pour It Out\". From STS9's \"Balancing\" to 12th Planet and The Trickaz's floor killer \"Bless That\" or smoother vibes like AC Slater x TS7's \"Step Back\", Kastle's \"Timeless\" to Mayhem and Logam's DnB roller \"We Will\", he has proven versatility is an asset. Armanni Reign has DB releases currently on RAM, ProgRAM, Gasm, Freak, Intasound, Westbay Music Group, TekDbz accompanied by Dubstep/EDM Trap releases on Monstercat, Disciple, Circus, Play Me, Never Say Die, Rotton, Uplink Audio, Buygore and Firepower as well as Hip Hop projects on SKRONG and Division. His affinity for movies and video games has translated over to the sync world. His music can be heard on AAA television and internet advertising campaigns such as \"Fast and Furious 9\", Square Enix's \"Just Cause 4\", Gearbox's \"Borderlands 3\", Ubisoft's \"Ghost Recon: Breakpoint\" and more as a solo artist or collaborative act known as Artizan with a music catalog that stretches across everything from Netflix to MTV.",
+          "priority": 100,
+          "artist_id": 2007066,
+          "stage_id": 7942,
+          "date_id": 2878,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-07-20T01:32:47+00:00",
+          "start_time": "2024-07-27T05:00:00+00:00",
+          "end_time": "2024-07-27T06:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-07-20T01:32:48+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 2007067,
+      "external_id": "1918120",
+      "published": true,
+      "name": "Georgie Riot w/ Armanni Reign",
+      "body": "Georgie Riot: DJ, producer and curator of Drum & Bass record label Riot Records; Georgie broke into the scene in 2021 and has been causing waves across the globe ever since. Georgie is known for her creative double drops, fast pace mixing and energetic live performances. Georgie has been producing all kinds of drum & bass since 2021; from melodic, uplifting dancefloor,  to high impact energetic jump-up. She is the perfect example of what hard work and dedication can do for an artist who is determined. She has honed her skills and built a strong brand in a short space of time and has gained the attention of fans and other artists across the globe.​<br />\n<br />\n​A dedicated DJ who ditched her career as a professional model and agent for a life in the music industry, this is everything she’s pursued since her first drum & bass rave: from handing out flyers and sneaking into venues underage, to playing drums in a band and studying music technology.<br />\n​The 27 year old began djing in 2020 and started her journey with production in 2021.<br />\n<br />\nGeorgie is breaking boundaries in production following on from her debut single \"\"Take Over\"\" which was released on world renowned label UKF just 6 months after she began learning to produce. It gained over 100,000 streams in under two weeks, was featured across multiple Spotify and Apple editorial playlists, and was featured heavily on BBC Radio 1.  <br />\n<br />\nGeorgie's debut EP \"\"Take Over\"\", named after her leading single was released with UKF on August 3rd 2022. In December 2022 Georgie remixed Oliver Tree's chart-topping \"\"Miss You\"\", which was released on Atlantic Records (US). The track has over 2 million streams on Spotify alone. <br />\n<br />\nSince then she has released music on WARNER, DNB ALLSTARS, VIPER, DEVICE and RIOT RECORDS. In December 2022 Georgie completed her first tour across New Zealand and Australia; performing at New Zealand's biggest and most prestigious festivals including Rhythm & Vines, Golden Lights and Golden Nights, to name a few. After the huge success of her first tour, in June 2023 Georgie returned for a second tour of Australia, this time for a winter club show run co-headlined with Dr Fresh (USA), as well as her own headline shows in New Zealand. Georgie has been selling out headline shows in the UK, Austria, Spain, amongst other countries in Europe. She has had ample bookings for 2023, playing across the biggest festivals in Europe including Let It Roll (CZ), Rampage (BE), Dreamland (DE), Leeds Festival (UK), Frequency Festival (AT), Nass Festival (UK), Tokyo World (UK), Blacklist Festival (DE), and many more. Summer 2023 has been huge for Georgie so far. In September 2022 Georgie launched her own record label RIOT RECORDS. She has been releasing her own music as well as music from the likes of Captain Bass, Klay, Gouki, to name a few. Riot Records was named as Beatport’s “Label Of The Month” at the beginning of 2023. Georgie has released guest mixes with the likes of BBC Radio 1, KISS, RINSE, SWU and New Zealand's George FM. In May 2023, Georgie began hosting a monthly radio show called “Causing A Riot”. The show airs every third Saturday of the month on KOOL FM, hosted by RINSE FM. 2024 is set to be an exciting year for Georgie, with plans to return to New Zealand and Australia for a third tour, as well as much more music on the way. Georgie will continue to grow as an artist and reach new heights.​ As a woman who has always always been involved in a male dominated industry, Georgie believes it is time for females to be supported and represented within the music industry to the same extent men are. She is hoping to inspire other women to step forward and see music as an option.<br />\n<br />\nArmanni Reign: From the lunchroom tables to street corner cyphas... from battle rap competitions to hosting some of the biggest festivals in the world... the MC Armanni Reign has become one of the most versatile multi-genre MC's on the planet. Since 2004, MC Armanni Reign has become a go to recording voice regardless of genre from hosting stages with some of the world's most elite DJ's and other music acts to music recordings creating performance memories and chart topping<br />\nsmashers like Ray Volpe's \"Purpose\", Spag Heddy's \"Strayed UP\", Barely Alive's \"Hackers\", Riot's \"LSAR\", Zomboy's \"Outbreak\", Virtual Riot's \"Running from the Cops\" to Hybrid Trap like Stereolize's \"Paper Chaser\", A Boy and a Girl's \"Stampede\", Mark Instinct's \"The Show\", \"Suicide Pill\", and \"Pour It Out\". From STS9's \"Balancing\" to 12th Planet and The Trickaz's floor killer \"Bless That\" or smoother vibes like AC Slater x TS7's \"Step Back\", Kastle's \"Timeless\" to Mayhem and Logam's DnB roller \"We Will\", he has proven versatility is an asset. Armanni Reign has DB releases currently on RAM, ProgRAM, Gasm, Freak, Intasound, Westbay Music Group, TekDbz accompanied by Dubstep/EDM Trap releases on Monstercat, Disciple, Circus, Play Me, Never Say Die, Rotton, Uplink Audio, Buygore and Firepower as well as Hip Hop projects on SKRONG and Division. His affinity for movies and video games has translated over to the sync world. His music can be heard on AAA television and internet advertising campaigns such as \"Fast and Furious 9\", Square Enix's \"Just Cause 4\", Gearbox's \"Borderlands 3\", Ubisoft's \"Ghost Recon: Breakpoint\" and more as a solo artist or collaborative act known as Artizan with a music catalog that stretches across everything from Netflix to MTV.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314112_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314112_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314112_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314112_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314112_performance_960.png",
+        "1080": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314112_performance_1080.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {},
+      "performances": [
+        {
+          "id": 183081,
+          "external_id": "855989",
+          "published": true,
+          "body": "Georgie Riot: DJ, producer and curator of Drum & Bass record label Riot Records; Georgie broke into the scene in 2021 and has been causing waves across the globe ever since. Georgie is known for her creative double drops, fast pace mixing and energetic live performances. Georgie has been producing all kinds of drum & bass since 2021; from melodic, uplifting dancefloor,  to high impact energetic jump-up. She is the perfect example of what hard work and dedication can do for an artist who is determined. She has honed her skills and built a strong brand in a short space of time and has gained the attention of fans and other artists across the globe.​\n\n​A dedicated DJ who ditched her career as a professional model and agent for a life in the music industry, this is everything she’s pursued since her first drum & bass rave: from handing out flyers and sneaking into venues underage, to playing drums in a band and studying music technology.\n​The 27 year old began djing in 2020 and started her journey with production in 2021.\n\nGeorgie is breaking boundaries in production following on from her debut single \"\"Take Over\"\" which was released on world renowned label UKF just 6 months after she began learning to produce. It gained over 100,000 streams in under two weeks, was featured across multiple Spotify and Apple editorial playlists, and was featured heavily on BBC Radio 1.  \n\nGeorgie's debut EP \"\"Take Over\"\", named after her leading single was released with UKF on August 3rd 2022. In December 2022 Georgie remixed Oliver Tree's chart-topping \"\"Miss You\"\", which was released on Atlantic Records (US). The track has over 2 million streams on Spotify alone. \n\nSince then she has released music on WARNER, DNB ALLSTARS, VIPER, DEVICE and RIOT RECORDS. In December 2022 Georgie completed her first tour across New Zealand and Australia; performing at New Zealand's biggest and most prestigious festivals including Rhythm & Vines, Golden Lights and Golden Nights, to name a few. After the huge success of her first tour, in June 2023 Georgie returned for a second tour of Australia, this time for a winter club show run co-headlined with Dr Fresh (USA), as well as her own headline shows in New Zealand. Georgie has been selling out headline shows in the UK, Austria, Spain, amongst other countries in Europe. She has had ample bookings for 2023, playing across the biggest festivals in Europe including Let It Roll (CZ), Rampage (BE), Dreamland (DE), Leeds Festival (UK), Frequency Festival (AT), Nass Festival (UK), Tokyo World (UK), Blacklist Festival (DE), and many more. Summer 2023 has been huge for Georgie so far. In September 2022 Georgie launched her own record label RIOT RECORDS. She has been releasing her own music as well as music from the likes of Captain Bass, Klay, Gouki, to name a few. Riot Records was named as Beatport’s “Label Of The Month” at the beginning of 2023. Georgie has released guest mixes with the likes of BBC Radio 1, KISS, RINSE, SWU and New Zealand's George FM. In May 2023, Georgie began hosting a monthly radio show called “Causing A Riot”. The show airs every third Saturday of the month on KOOL FM, hosted by RINSE FM. 2024 is set to be an exciting year for Georgie, with plans to return to New Zealand and Australia for a third tour, as well as much more music on the way. Georgie will continue to grow as an artist and reach new heights.​ As a woman who has always always been involved in a male dominated industry, Georgie believes it is time for females to be supported and represented within the music industry to the same extent men are. She is hoping to inspire other women to step forward and see music as an option.\n\nArmanni Reign: From the lunchroom tables to street corner cyphas... from battle rap competitions to hosting some of the biggest festivals in the world... the MC Armanni Reign has become one of the most versatile multi-genre MC's on the planet. Since 2004, MC Armanni Reign has become a go to recording voice regardless of genre from hosting stages with some of the world's most elite DJ's and other music acts to music recordings creating performance memories and chart topping\nsmashers like Ray Volpe's \"Purpose\", Spag Heddy's \"Strayed UP\", Barely Alive's \"Hackers\", Riot's \"LSAR\", Zomboy's \"Outbreak\", Virtual Riot's \"Running from the Cops\" to Hybrid Trap like Stereolize's \"Paper Chaser\", A Boy and a Girl's \"Stampede\", Mark Instinct's \"The Show\", \"Suicide Pill\", and \"Pour It Out\". From STS9's \"Balancing\" to 12th Planet and The Trickaz's floor killer \"Bless That\" or smoother vibes like AC Slater x TS7's \"Step Back\", Kastle's \"Timeless\" to Mayhem and Logam's DnB roller \"We Will\", he has proven versatility is an asset. Armanni Reign has DB releases currently on RAM, ProgRAM, Gasm, Freak, Intasound, Westbay Music Group, TekDbz accompanied by Dubstep/EDM Trap releases on Monstercat, Disciple, Circus, Play Me, Never Say Die, Rotton, Uplink Audio, Buygore and Firepower as well as Hip Hop projects on SKRONG and Division. His affinity for movies and video games has translated over to the sync world. His music can be heard on AAA television and internet advertising campaigns such as \"Fast and Furious 9\", Square Enix's \"Just Cause 4\", Gearbox's \"Borderlands 3\", Ubisoft's \"Ghost Recon: Breakpoint\" and more as a solo artist or collaborative act known as Artizan with a music catalog that stretches across everything from Netflix to MTV.",
+          "priority": 100,
+          "artist_id": 2007067,
+          "stage_id": 7949,
+          "date_id": 2879,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-07-20T01:32:47+00:00",
+          "start_time": "2024-07-28T05:30:00+00:00",
+          "end_time": "2024-07-28T06:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-07-20T01:32:48+00:00",
+      "show_section_titles": true
+    },
+    {
+      "id": 2007068,
+      "external_id": "1918121",
+      "published": true,
+      "name": "A.M.C w/ Armanni Reign",
+      "body": "A.M.C: Entertainer, technical craftsman, lifelong student of drum & bass, meticulous grafter; A.M.C represents and embodies just what it takes to operate in the DJ premiership in the 2020s. <br />\n<br />\nThree-times Best DJ winner in the Drum&BassArena Awards 2019-2021, renowned for his razor-sharp, four-deck performances and physical, impassioned mixing style; Alex Mark Calvert has invested every living, breathing moment of his focus, attention and appetite into drum & bass since his teens to become one of the most influential and highly respected artists in his field.<br />\n<br />\nPart of the last generation of DJs to graduate from original dubplate culture, and famed for his ability to tell sonic stories and connect myriad dots across the last 30 years of UK jungle and drum & bass, Alex’s fusion of foundational roots and futuristic sounds resonates across the drum & bass movement’s many generations and territories. A DJ who can sell-out a North American tour just as quickly as he can sell-out London venues like Fabric room one and E1, or full tours of New Zealand and Australia, his ‘people’s champion’ reputation transcends boundaries and borders, leading to a phenomenal international popularity across the global D&B scene.<br />\n<br />\nThis reputation is also reflected in his streaming statistics. With both of his albums – ‘Energy’ (2019) and ‘Void’ (2021) – boasting millions of streams on Spotify, and releases on distinguished labels such as Ram Records, Monstercat, UKF, Drum&BassArena, Charge, Dim Mak, Blackout, Eatbrain and Low Down Deep (to name a few) Alex has translated his unique DJ vocabulary in the studio to become just as respected as a producer. Still seeing himself as a DJ first and foremost, every A.M.C studio creation is made strictly with the dancefloor in mind. His natural habitat, it’s the place where Alex feels most at home… As an entertainer, a craftsman, a student, a grafter and a man who will forever invest every living, breathing moment into this music.<br />\n<br />\nArmanni Reign: From the lunchroom tables to street corner cyphas... from battle rap competitions to hosting some of the biggest festivals in the world... the MC Armanni Reign has<br />\nbecome one of the most versatile multi-genre MC's on the planet. Since 2004, MC Armanni Reign has become a go to recording voice regardless of genre from hosting stages with some of the world's most elite DJ's and other music acts to music recordings creating performance memories and chart topping smashers like Ray Volpe's \"Purpose\", Spag Heddy's \"Strayed UP\", Barely Alive's \"Hackers\", Riot's \"LSAR\", Zomboy's \"Outbreak\", Virtual Riot's \"Running from the Cops\" to Hybrid Trap like Stereolize's \"Paper Chaser\", A Boy and a Girl's \"Stampede\", Mark Instinct's \"The Show\", \"Suicide Pill\", and \"Pour It Out\". From STS9's \"Balancing\" to 12th Planet and The Trickaz's floor killer \"Bless That\" or smoother vibes like AC Slater x TS7's \"Step Back\", Kastle's \"Timeless\" to Mayhem<br />\nand Logam's DnB roller \"We Will\", he has proven versatility is an asset. Armanni Reign has DB releases currently on RAM, ProgRAM, Gasm, Freak, Intasound, Westbay Music Group, TekDbz accompanied by Dubstep/EDM Trap releases on Monstercat, Disciple, Circus, Play Me, Never Say Die, Rotton, Uplink Audio, Buygore and Firepower as well as Hip Hop projects on SKRONG and<br />\nDivision. His affinity for movies and video games has translated over to the sync world. His<br />\nmusic can be heard on AAA television and internet advertising campaigns such as \"Fast and Furious 9\", Square Enix's \"Just Cause 4\", Gearbox's \"Borderlands 3\", Ubisoft's \"Ghost Recon: Breakpoint\" and more as a solo artist or collaborative act known as Artizan with a music catalog that stretches across everything from Netflix to MTV.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314113_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314113_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314113_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314113_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314113_performance_960.png",
+        "1080": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314113_performance_1080.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {},
+      "performances": [
+        {
+          "id": 183161,
+          "external_id": "855455",
+          "published": true,
+          "body": "A.M.C: Entertainer, technical craftsman, lifelong student of drum & bass, meticulous grafter; A.M.C represents and embodies just what it takes to operate in the DJ premiership in the 2020s. \n\nThree-times Best DJ winner in the Drum&BassArena Awards 2019-2021, renowned for his razor-sharp, four-deck performances and physical, impassioned mixing style; Alex Mark Calvert has invested every living, breathing moment of his focus, attention and appetite into drum & bass since his teens to become one of the most influential and highly respected artists in his field.\n\nPart of the last generation of DJs to graduate from original dubplate culture, and famed for his ability to tell sonic stories and connect myriad dots across the last 30 years of UK jungle and drum & bass, Alex’s fusion of foundational roots and futuristic sounds resonates across the drum & bass movement’s many generations and territories. A DJ who can sell-out a North American tour just as quickly as he can sell-out London venues like Fabric room one and E1, or full tours of New Zealand and Australia, his ‘people’s champion’ reputation transcends boundaries and borders, leading to a phenomenal international popularity across the global D&B scene.\n\nThis reputation is also reflected in his streaming statistics. With both of his albums – ‘Energy’ (2019) and ‘Void’ (2021) – boasting millions of streams on Spotify, and releases on distinguished labels such as Ram Records, Monstercat, UKF, Drum&BassArena, Charge, Dim Mak, Blackout, Eatbrain and Low Down Deep (to name a few) Alex has translated his unique DJ vocabulary in the studio to become just as respected as a producer. Still seeing himself as a DJ first and foremost, every A.M.C studio creation is made strictly with the dancefloor in mind. His natural habitat, it’s the place where Alex feels most at home… As an entertainer, a craftsman, a student, a grafter and a man who will forever invest every living, breathing moment into this music.\n\nArmanni Reign: From the lunchroom tables to street corner cyphas... from battle rap competitions to hosting some of the biggest festivals in the world... the MC Armanni Reign has\nbecome one of the most versatile multi-genre MC's on the planet. Since 2004, MC Armanni Reign has become a go to recording voice regardless of genre from hosting stages with some of the world's most elite DJ's and other music acts to music recordings creating performance memories and chart topping smashers like Ray Volpe's \"Purpose\", Spag Heddy's \"Strayed UP\", Barely Alive's \"Hackers\", Riot's \"LSAR\", Zomboy's \"Outbreak\", Virtual Riot's \"Running from the Cops\" to Hybrid Trap like Stereolize's \"Paper Chaser\", A Boy and a Girl's \"Stampede\", Mark Instinct's \"The Show\", \"Suicide Pill\", and \"Pour It Out\". From STS9's \"Balancing\" to 12th Planet and The Trickaz's floor killer \"Bless That\" or smoother vibes like AC Slater x TS7's \"Step Back\", Kastle's \"Timeless\" to Mayhem\nand Logam's DnB roller \"We Will\", he has proven versatility is an asset. Armanni Reign has DB releases currently on RAM, ProgRAM, Gasm, Freak, Intasound, Westbay Music Group, TekDbz accompanied by Dubstep/EDM Trap releases on Monstercat, Disciple, Circus, Play Me, Never Say Die, Rotton, Uplink Audio, Buygore and Firepower as well as Hip Hop projects on SKRONG and\nDivision. His affinity for movies and video games has translated over to the sync world. His\nmusic can be heard on AAA television and internet advertising campaigns such as \"Fast and Furious 9\", Square Enix's \"Just Cause 4\", Gearbox's \"Borderlands 3\", Ubisoft's \"Ghost Recon: Breakpoint\" and more as a solo artist or collaborative act known as Artizan with a music catalog that stretches across everything from Netflix to MTV.",
+          "priority": 100,
+          "artist_id": 2007068,
+          "stage_id": 7956,
+          "date_id": 2880,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "modified_at": "2024-07-20T01:32:47+00:00",
+          "start_time": "2024-07-29T06:00:00+00:00",
+          "end_time": "2024-07-29T07:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "modified_at": "2024-07-20T01:32:48+00:00",
+      "show_section_titles": true
+    },
+    {
       "id": 1995537,
       "external_id": "1916772",
       "published": true,
@@ -35,7 +629,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-07-19T18:17:19+00:00",
+          "modified_at": "2024-07-20T01:32:47+00:00",
           "start_time": "2024-07-26T22:00:00+00:00",
           "end_time": "2024-07-27T02:00:00+00:00",
           "show_image_in_schedule": true,
@@ -47,7 +641,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-07-19T18:17:19+00:00",
+      "modified_at": "2024-07-20T01:32:47+00:00",
       "show_section_titles": true
     },
     {
@@ -90,7 +684,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-07-19T18:17:19+00:00",
+          "modified_at": "2024-07-20T01:32:47+00:00",
           "start_time": "2024-07-28T03:00:00+00:00",
           "end_time": "2024-07-28T04:30:00+00:00",
           "show_image_in_schedule": true,
@@ -258,7 +852,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-07-19T18:17:19+00:00",
+      "modified_at": "2024-07-20T01:32:47+00:00",
       "show_section_titles": true
     },
     {
@@ -296,7 +890,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-07-19T18:17:19+00:00",
+          "modified_at": "2024-07-20T01:32:47+00:00",
           "start_time": "2024-07-28T08:30:00+00:00",
           "end_time": "2024-07-28T09:00:00+00:00",
           "show_image_in_schedule": true,
@@ -314,7 +908,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-07-19T18:17:19+00:00",
+          "modified_at": "2024-07-20T01:32:47+00:00",
           "start_time": "2024-07-28T21:00:00+00:00",
           "end_time": "2024-07-28T21:15:00+00:00",
           "show_image_in_schedule": true,
@@ -527,7 +1121,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-07-19T18:17:19+00:00",
+      "modified_at": "2024-07-20T01:32:47+00:00",
       "show_section_titles": true
     },
     {
@@ -568,7 +1162,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-07-19T18:17:19+00:00",
+          "modified_at": "2024-07-20T01:32:47+00:00",
           "start_time": "2024-07-28T02:30:00+00:00",
           "end_time": "2024-07-28T04:00:00+00:00",
           "show_image_in_schedule": true,
@@ -700,7 +1294,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-07-19T18:17:19+00:00",
+      "modified_at": "2024-07-20T01:32:47+00:00",
       "show_section_titles": true
     },
     {
@@ -732,7 +1326,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-07-19T18:17:19+00:00",
+          "modified_at": "2024-07-20T01:32:47+00:00",
           "start_time": "2024-07-28T00:30:00+00:00",
           "end_time": "2024-07-28T03:30:00+00:00",
           "show_image_in_schedule": true,
@@ -781,7 +1375,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-07-19T18:17:19+00:00",
+      "modified_at": "2024-07-20T01:32:47+00:00",
       "show_section_titles": true
     },
     {
@@ -820,7 +1414,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-07-19T18:17:19+00:00",
+          "modified_at": "2024-07-20T01:32:47+00:00",
           "start_time": "2024-07-28T10:30:00+00:00",
           "end_time": "2024-07-28T13:00:00+00:00",
           "show_image_in_schedule": true,
@@ -961,7 +1555,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-07-19T18:17:19+00:00",
+      "modified_at": "2024-07-20T01:32:47+00:00",
       "show_section_titles": true
     },
     {
@@ -996,7 +1590,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-07-19T18:17:19+00:00",
+          "modified_at": "2024-07-20T01:32:47+00:00",
           "start_time": "2024-07-28T21:15:00+00:00",
           "end_time": "2024-07-28T22:00:00+00:00",
           "show_image_in_schedule": true,
@@ -1027,7 +1621,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-07-19T18:17:19+00:00",
+      "modified_at": "2024-07-20T01:32:47+00:00",
       "show_section_titles": true
     },
     {
@@ -1060,7 +1654,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-07-19T18:17:19+00:00",
+          "modified_at": "2024-07-20T01:32:47+00:00",
           "start_time": "2024-07-29T14:00:00+00:00",
           "end_time": "2024-07-29T15:00:00+00:00",
           "show_image_in_schedule": true,
@@ -1109,7 +1703,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-07-19T18:17:19+00:00",
+      "modified_at": "2024-07-20T01:32:47+00:00",
       "show_section_titles": true
     },
     {
@@ -1142,7 +1736,7 @@
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
-          "modified_at": "2024-07-19T18:17:19+00:00",
+          "modified_at": "2024-07-20T01:32:47+00:00",
           "start_time": "2024-07-28T21:00:00+00:00",
           "end_time": "2024-07-29T02:00:00+00:00",
           "show_image_in_schedule": true,
@@ -1173,601 +1767,7 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "modified_at": "2024-07-19T18:17:19+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1995683,
-      "external_id": "1916923",
-      "published": true,
-      "name": "Skreid B2B Trip A",
-      "body": "Raised in Grand Forks, BC. DJ/Producer Skreid is known in his area for his heavy basslines and flowing style that will get the crowd bouncin'. Started at The Woods Nightclub with help and support from Pagoda mastermind DJ Soup, he started his climb into the music industry. Skreid has a diverse range and taste of Dubstep/DNB/House and everything in between and out of the box to grace those earholes, you wont be disappointed!",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/91/thumb_5290299_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/91/thumb_5290299_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/91/thumb_5290299_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/91/thumb_5290299_performance_500.jpeg",
-        "960": "https://media.appmiral.com/prod/performance/0053/91/thumb_5290299_performance_960.jpeg",
-        "1080": "https://media.appmiral.com/prod/performance/0053/91/thumb_5290299_performance_1080.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "skreidbass/",
-        "instagram_user": "skreidbass/",
-        "soundcloud_user": "trip-a-93",
-        "spotify_artist_id": "5EreBDnGkwG9A77J2z1MV4"
-      },
-      "performances": [
-        {
-          "id": 183155,
-          "external_id": "856313",
-          "published": true,
-          "body": "Raised in Grand Forks, BC. DJ/Producer Skreid is known in his area for his heavy basslines and flowing style that will get the crowd bouncin'. Started at The Woods Nightclub with help and support from Pagoda mastermind DJ Soup, he started his climb into the music industry. Skreid has a diverse range and taste of Dubstep/DNB/House and everything in between and out of the box to grace those earholes, you wont be disappointed!",
-          "priority": 100,
-          "artist_id": 1995683,
-          "stage_id": 7955,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-07-19T18:17:19+00:00",
-          "start_time": "2024-07-29T12:00:00+00:00",
-          "end_time": "2024-07-29T13:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [
-        {
-          "slug": "bass",
-          "name": "Bass",
-          "priority": 100,
-          "visible": false,
-          "filter": true,
-          "modified_at": "2024-05-30T16:25:53+00:00",
-          "category": "other"
-        },
-        {
-          "slug": "dnb",
-          "name": "DNB",
-          "priority": 100,
-          "visible": false,
-          "filter": true,
-          "modified_at": "2024-07-03T21:29:38+00:00",
-          "category": "other"
-        },
-        {
-          "slug": "drumandbass",
-          "name": "Drum & Bass",
-          "priority": 100,
-          "visible": false,
-          "filter": true,
-          "modified_at": "2024-07-03T21:30:30+00:00",
-          "category": "other"
-        },
-        {
-          "slug": "drumandbass2",
-          "name": "Drum and Bass",
-          "priority": 100,
-          "visible": false,
-          "filter": true,
-          "modified_at": "2024-07-03T21:31:28+00:00",
-          "category": "other"
-        },
-        {
-          "slug": "dubstep",
-          "name": "Dubstep",
-          "priority": 100,
-          "visible": false,
-          "filter": true,
-          "modified_at": "2024-07-03T21:31:50+00:00",
-          "category": "other"
-        },
-        {
-          "slug": "house",
-          "name": "House",
-          "priority": 100,
-          "visible": false,
-          "filter": true,
-          "modified_at": "2024-07-03T21:32:48+00:00",
-          "category": "other"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "0NrvEhA9ByntAQrAB6vzSb",
-          "streaming_service": "spotify",
-          "title": "The Island(Hawkings Dub)",
-          "artist_name": "Skreid",
-          "duration": 177600,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021852085d454ece4affaaade8",
-          "preview_url": "https://p.scdn.co/mp3-preview/aefecfd2f0fb0c797637871b61206999f2bb84c1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-24T14:34:40+00:00"
-        },
-        {
-          "track_id": "7Ek1lA6nQxpDRgH5M0Z2W5",
-          "streaming_service": "spotify",
-          "title": "Raging Clue",
-          "artist_name": "Skreid, CERBERUS",
-          "duration": 186666,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0211d24e457e1799fd3c756a31",
-          "preview_url": "https://p.scdn.co/mp3-preview/cee2e52473c4b9e1aaaab3ad2d9d0b0b2abb768b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-24T14:34:40+00:00"
-        },
-        {
-          "track_id": "4AdwPGDFBi0XPFPRRFd7Ig",
-          "streaming_service": "spotify",
-          "title": "Wolf",
-          "artist_name": "Skreid",
-          "duration": 184000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02429d2b66792bcf65ba5f12b7",
-          "preview_url": "https://p.scdn.co/mp3-preview/63670558545014cdae903a0d289da2869dc363de?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-24T14:34:40+00:00"
-        },
-        {
-          "track_id": "3w1ykxumenZdtnadl1nsLd",
-          "streaming_service": "spotify",
-          "title": "Duke Nukem Dub",
-          "artist_name": "Skreid",
-          "duration": 274463,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02becc32ad2e16a8a05df76fe4",
-          "preview_url": "https://p.scdn.co/mp3-preview/1ca2cd333968a399c9d9142560906fddee1e49f5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-24T14:34:40+00:00"
-        },
-        {
-          "track_id": "3jrVzLNXX7o3w2TaaYj7Gz",
-          "streaming_service": "spotify",
-          "title": "Matt Damon",
-          "artist_name": "Skreid",
-          "duration": 194526,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c82b0f3d033256dbe9ba99d5",
-          "preview_url": "https://p.scdn.co/mp3-preview/72d4575cceab44bff79303686f42efa16a0f42a2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-24T14:34:40+00:00"
-        },
-        {
-          "track_id": "4Cj1g7J3IlP0NbRWGbglu6",
-          "streaming_service": "spotify",
-          "title": "Unreal",
-          "artist_name": "Skreid",
-          "duration": 153606,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c82b0f3d033256dbe9ba99d5",
-          "preview_url": "https://p.scdn.co/mp3-preview/f8d9dd3bb84b1df13ab9a90ab54ede68cb3a1b4d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-24T14:34:40+00:00"
-        },
-        {
-          "track_id": "3uUOo6ab7j3eWrDJKVo3Tz",
-          "streaming_service": "spotify",
-          "title": "Urine Trouble",
-          "artist_name": "Skreid",
-          "duration": 166398,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c82b0f3d033256dbe9ba99d5",
-          "preview_url": "https://p.scdn.co/mp3-preview/6cb851ed656c9b9b8af238891d54b6493ea3422f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-24T14:34:40+00:00"
-        },
-        {
-          "track_id": "5mrxQshO8FxJaSTJ1e6ade",
-          "streaming_service": "spotify",
-          "title": "Come",
-          "artist_name": "Skreid",
-          "duration": 161464,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c82b0f3d033256dbe9ba99d5",
-          "preview_url": "https://p.scdn.co/mp3-preview/f66defd9f324660890754f3d5d132035a39aa825?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-24T14:34:40+00:00"
-        },
-        {
-          "track_id": "1YMWhnmIgnY252vFShGy5z",
-          "streaming_service": "spotify",
-          "title": "HADES",
-          "artist_name": "Skreid",
-          "duration": 173793,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0274117e8ff384db63c0f482d9",
-          "preview_url": "https://p.scdn.co/mp3-preview/60fc85a2096e215c13c41aac878e135ffab43279?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-24T14:34:40+00:00"
-        },
-        {
-          "track_id": "6efeDsjAq14p5LmqKF1I1t",
-          "streaming_service": "spotify",
-          "title": "Cathedral",
-          "artist_name": "Skreid",
-          "duration": 198620,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ce8fdecfaac2278ba0634dc9",
-          "preview_url": "https://p.scdn.co/mp3-preview/21360213b179dea6579e9f7b10c2f2318ba67517?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-24T14:34:40+00:00"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-07-19T18:17:19+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 1997132,
-      "external_id": "1916797",
-      "published": true,
-      "name": "Dr. Fresch B2B Destructo",
-      "body": "Gary Richards, known by his stage name Destructo, is an American music executive, concert promoter, and DJ. As of September 1, 2017, he is the President of LiveStyle, North America. Prior to joining LiveStyle, he was the founder and CEO of HARD Events, a concert brand that has put on popular music festivals since 2007, which was acquired in 2012 by Live Nation Entertainment. He has performed professionally as a DJ under the name Destructo for over 20 years, having toured worldwide. He is credited with being a leader in the electronic music genre in North America and with helping to bring artists like Deadmau5 and Justice into the mainstream. Richards is included on Rolling Stone's \"50 Most Important People in EDM\" list, Billboard's \"EDM Power Players\" lists from 2014–2017, and inthemix's list of the \"50 Most Powerful People in EDM\". As Destructo, he has released four EP's titled Technology, Higher, West Coast, and RENEGADE respectively.<br />\n<br />\nIn 2013 after winning Insomniac’s Discovery Project Contest, Tony Fresch launched the Dr. Fresch project. His debut self-titled EP and innovative hip-hop/rap remixes quickly exploded in the blogosphere. Dr. Fresch’s music weaves together elements of house, hip-hop/rap, and midtempo to create a unique, forward-thinking sound. Over the summer of 2015, Dr. Fresch launched his semi-monthly mix series “House Call” which has since garnered tens of millions of plays. The Dr. Fresch brand has continued to grow with the launch of his record label “House Call Records.” Dr. Fresch plays a prominent role on the festival circuit with plays at likes EDC Las Vegas, Paradiso, Moonrise, Electric Forest, CRSSD, Splash House, Osheaga, Shambhala and more.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0053/73/thumb_5272403_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0053/73/thumb_5272403_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0053/73/thumb_5272403_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0053/73/thumb_5272403_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "drfresch/",
-        "soundcloud_user": "destructoamf",
-        "spotify_artist_id": "1htHgbGwgCWJBfGiQwcRqC"
-      },
-      "performances": [
-        {
-          "id": 183000,
-          "external_id": "855463",
-          "published": true,
-          "body": "Gary Richards, known by his stage name Destructo, is an American music executive, concert promoter, and DJ. As of September 1, 2017, he is the President of LiveStyle, North America. Prior to joining LiveStyle, he was the founder and CEO of HARD Events, a concert brand that has put on popular music festivals since 2007, which was acquired in 2012 by Live Nation Entertainment. He has performed professionally as a DJ under the name Destructo for over 20 years, having toured worldwide. He is credited with being a leader in the electronic music genre in North America and with helping to bring artists like Deadmau5 and Justice into the mainstream. Richards is included on Rolling Stone's \"50 Most Important People in EDM\" list, Billboard's \"EDM Power Players\" lists from 2014–2017, and inthemix's list of the \"50 Most Powerful People in EDM\". As Destructo, he has released four EP's titled Technology, Higher, West Coast, and RENEGADE respectively.\n\nIn 2013 after winning Insomniac’s Discovery Project Contest, Tony Fresch launched the Dr. Fresch project. His debut self-titled EP and innovative hip-hop/rap remixes quickly exploded in the blogosphere. Dr. Fresch’s music weaves together elements of house, hip-hop/rap, and midtempo to create a unique, forward-thinking sound. Over the summer of 2015, Dr. Fresch launched his semi-monthly mix series “House Call” which has since garnered tens of millions of plays. The Dr. Fresch brand has continued to grow with the launch of his record label “House Call Records.” Dr. Fresch plays a prominent role on the festival circuit with plays at likes EDC Las Vegas, Paradiso, Moonrise, Electric Forest, CRSSD, Splash House, Osheaga, Shambhala and more.",
-          "priority": 100,
-          "artist_id": 1997132,
-          "stage_id": 7941,
-          "date_id": 2878,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-07-19T18:17:19+00:00",
-          "start_time": "2024-07-27T09:45:00+00:00",
-          "end_time": "2024-07-27T11:45:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [
-        {
-          "slug": "electronic",
-          "name": "Electronic",
-          "priority": 100,
-          "visible": false,
-          "filter": true,
-          "modified_at": "2024-07-03T21:32:02+00:00",
-          "category": "other"
-        },
-        {
-          "slug": "house",
-          "name": "House",
-          "priority": 100,
-          "visible": false,
-          "filter": true,
-          "modified_at": "2024-07-03T21:32:48+00:00",
-          "category": "other"
-        },
-        {
-          "slug": "techhouse",
-          "name": "Tech House",
-          "priority": 100,
-          "visible": false,
-          "filter": true,
-          "modified_at": "2024-07-03T21:33:37+00:00",
-          "category": "other"
-        },
-        {
-          "slug": "basshouse",
-          "name": "Bass House",
-          "priority": 99,
-          "visible": false,
-          "filter": true,
-          "modified_at": "2024-07-03T21:51:43+00:00",
-          "category": "other"
-        },
-        {
-          "slug": "deephouse",
-          "name": "Deep House",
-          "priority": 99,
-          "visible": false,
-          "filter": true,
-          "modified_at": "2024-07-03T21:52:30+00:00",
-          "category": "other"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "4WOP1OvhqxEZT2PvQfjERA",
-          "streaming_service": "spotify",
-          "title": "Bone Breaker",
-          "artist_name": "Dr. Fresch",
-          "duration": 155617,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a5a9d29c47548bb71a529016",
-          "preview_url": "https://p.scdn.co/mp3-preview/d76a71135bcdb5cce8fccb05da0fa29b5b1d7515?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-24T14:34:36+00:00"
-        },
-        {
-          "track_id": "25vG6krgfp2FQGNXzP4ZFV",
-          "streaming_service": "spotify",
-          "title": "Take A Step Back",
-          "artist_name": "Dr. Fresch, Marten Hørger",
-          "duration": 160000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e020c05d8ed5b58f7b28d56ac2a",
-          "preview_url": "https://p.scdn.co/mp3-preview/98a2573416d43d9b00ea0f3a4c67b1d3ca258a3a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-24T14:44:04+00:00"
-        },
-        {
-          "track_id": "71hBq5pcZeN0tfpiJiDY6c",
-          "streaming_service": "spotify",
-          "title": "Armageddon",
-          "artist_name": "Dr. Fresch, House Call",
-          "duration": 184505,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0249d72dce6450897dd4fb891d",
-          "preview_url": "https://p.scdn.co/mp3-preview/1f90530e6377dc27f9efc3d694e744ca16e2367b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-24T14:34:36+00:00"
-        },
-        {
-          "track_id": "5w6rgrtYFhC6NkUknX1exC",
-          "streaming_service": "spotify",
-          "title": "Gangsta Gangsta (feat. Baby Eazy-E)",
-          "artist_name": "Dr. Fresch, Baby Eazy E",
-          "duration": 201642,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02574e728366d6bf23a21d841a",
-          "preview_url": "https://p.scdn.co/mp3-preview/774568c6048d40dc17e3293fbea28cf3f0d75a80?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-24T14:34:36+00:00"
-        },
-        {
-          "track_id": "3Asbj9ttQ9MmQHcwHFy7mn",
-          "streaming_service": "spotify",
-          "title": "Banga",
-          "artist_name": "Dr. Fresch, FETISH",
-          "duration": 141897,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021d676bb15f397fa947794386",
-          "preview_url": "https://p.scdn.co/mp3-preview/e497bea01c985bc0de6e63b544a1c0b89679ccd8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-24T14:34:36+00:00"
-        },
-        {
-          "track_id": "5Q0TrEMgcVtVjcHeUyVj3T",
-          "streaming_service": "spotify",
-          "title": "Feedback",
-          "artist_name": "Dr. Fresch, Mina Knock",
-          "duration": 205000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e023746b8a66571d44d2aeec3ee",
-          "preview_url": "https://p.scdn.co/mp3-preview/425ecdefa9095295f07b6949a8c48f14af99f7c5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-24T14:34:36+00:00"
-        },
-        {
-          "track_id": "7Fh5Q7Hg1H7CX1jVQY2Dgm",
-          "streaming_service": "spotify",
-          "title": "Bricks",
-          "artist_name": "Dr. Fresch",
-          "duration": 129642,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02fc311653f503f9eb51f8f293",
-          "preview_url": "https://p.scdn.co/mp3-preview/81de05fabb845df36f749e06941aaa613dc5ead8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-24T14:34:36+00:00"
-        },
-        {
-          "track_id": "4wBJJA2whqsFWJhMSq38f9",
-          "streaming_service": "spotify",
-          "title": "Timeless",
-          "artist_name": "Dr. Fresch, Mina Knock",
-          "duration": 145000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021bfcb8e889f934804e615f96",
-          "preview_url": "https://p.scdn.co/mp3-preview/20154ba0952c296a5edf28afdc721d36dacd36c4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-24T14:34:36+00:00"
-        },
-        {
-          "track_id": "7wSqfT8bbqVYviAe0xI9np",
-          "streaming_service": "spotify",
-          "title": "Let's Go",
-          "artist_name": "Dr. Fresch, House Call",
-          "duration": 150761,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02869270f1ae18c65f4c696621",
-          "preview_url": "https://p.scdn.co/mp3-preview/d00102a7542a77c5fe782d3ec9b166454b87a7a4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-24T14:34:36+00:00"
-        },
-        {
-          "track_id": "3fqWMqLjDxzOdQpWKED0KD",
-          "streaming_service": "spotify",
-          "title": "Cold Day in Hell",
-          "artist_name": "NITTI, Dr. Fresch",
-          "duration": 144000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e026e64a1cbbcee8c8e975c0a1b",
-          "preview_url": "https://p.scdn.co/mp3-preview/68da10e7b08cf89983c2f289ed53b0aac3dc41ed?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-24T14:34:36+00:00"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-07-19T18:17:19+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 2007064,
-      "external_id": "1916891",
-      "published": true,
-      "name": "Pav4n & Strategy",
-      "body": "PAV4N has a slew of singles dropping over the year with the likes of Raga, Wraz, Strategy, Killa P, Hypho, Mythm, Noer the Boy, Badklaat, Funtcase, Harry Shotta, benny L, Document One, Airglow,12th Planet, Zurglin, Illaman, Sepia & Many More.<br />\n<br />\nPAV4N is the founding member of the critically acclaimed electronic rap group Foreign Beggars and one of the most prolific MC’s of Indian origin of all time & the  first rapper of Indian descent to have a top 10 single in the UK Charts.<br />\n<br />\nPAV4N has worked plethora of incredible producers including Skrillex, Noisia, Steve Aoki, Knife Party, Dj Vadim, Sez on the Beat, Flux Pavilion, Ganja White Knight, Alix Perez, Visages, Truth, Tommy lee of Motley Cru and has 60 + releases since the launch of his solo project in 2020.<br />\n<br />\nWith 7 Studio albums under his belt and 17 years of live show experience, PAV4N is known for his explosive, high energy performances with genre spanning hip hop, grime, dubstep & Drum and bass.<br />\n<br />\nSince 2021 PAV4N has performed at Glastonbury Festival. Boomtown, Shambhala, Nozstock, Locus, NH7 Festival, Breezer Shuffle & has just come off the back of extensive India, UK & North American Tours.<br />\n<br />\nIn 2020, PAV4N founded 4NC¥ & //DarkMode , 2  prolific record labels with a focus on elevating South East Asian talent. 4NC¥ is a global platform and network for underground musicians and visual artists dedicated to breaking records from new talent and seasoned artists alike. Its unique business model puts forth releases that feature both aspiring and well-known visual artists to create an artistic experience and identity for each piece that goes beyond audio and blends different disciplines of artistry. The label’s releases encompass genres such as lo-fi, hip hop, trap, grime, 160, jungle/drum & bass, selective house, techno, and future soul/r&b – paying homage to Pavan’s hip hop and electronic roots. 4NC¥ currently platforms over 100 artists across the globe today and works alongside the most influential and underground magazines, culturemakers, music promoters, and festivals of our time. <br />\n<br />\nSince the beginning of his career, PAV4N has worked with and released music under the world’s most leading and innovative music labels, including Sony Music, Warner Music, Universal Music Group, Ministry of Sound, Owsla, Mau5trap, 1985 Music, Never Say Die, Disciple Records, Dim Mak, Circus Recordings, Chinese Man Recordings, Quality Goods, Ram Records, and Vision Recordings. He has also worked on various musical ventures in Hollywood and the Gaming industries, including musical soundtracks for Fast & Furious 7, Die Hard III, CSI Los Angeles, Fifa 13, Fifa 2022 Fifa 2023 & FFifa 2024 Need for Speed, Eastenders, and Skins.<br />\n<br />\nRecent highlights include coverage from Rolling Stone India, The Times of India, The New Indian Express, UKF, Outlook India, I Am Hip Hop, Lifestyle Asia, Lifted Asia, India Today, iamCrü, The Telegraph, The Source, Dubai Hot 40 music charts, The Indian Music Diaries, Homegrown Co India, Khaleej Times, Red Bull, Himmat Media, Rosecrans Ave, FUXWITHIT, Mister Mime World, Juice, The 3000 Network, Desi Hip Hop, WORDPLAY. <br />\n<br />\nPAV4N has supported the Prodigy on their ‘Run With The Wolves’ UK tour and countless other artists including Amy Winehouse, Snoop Dogg, Sub Focus, Deadmau5, Faith No More, The Chemical Brothers & Many More.<br />\n<br />\nPAV4N has released on Mau5trap, Ministry of Sound, Ram Records, Critical Recordings, Owsla, Sony Music, Warner Music, Blackout Recordings, Never Say Die Records, Vision Recordings, Monstercat, Dim Mak, Black Butter records to name a few.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0054/11/thumb_5310658_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0054/11/thumb_5310658_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0054/11/thumb_5310658_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0054/11/thumb_5310658_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "strategyyeah",
-        "soundcloud_user": "4ncurrency",
-        "spotify_artist_id": "0sQ1wgSdRpoysgsa1VnI4G"
-      },
-      "performances": [
-        {
-          "id": 182920,
-          "external_id": "856277",
-          "published": true,
-          "body": "PAV4N has a slew of singles dropping over the year with the likes of Raga, Wraz, Strategy, Killa P, Hypho, Mythm, Noer the Boy, Badklaat, Funtcase, Harry Shotta, benny L, Document One, Airglow,12th Planet, Zurglin, Illaman, Sepia & Many More.\n\nPAV4N is the founding member of the critically acclaimed electronic rap group Foreign Beggars and one of the most prolific MC’s of Indian origin of all time & the  first rapper of Indian descent to have a top 10 single in the UK Charts.\n\nPAV4N has worked plethora of incredible producers including Skrillex, Noisia, Steve Aoki, Knife Party, Dj Vadim, Sez on the Beat, Flux Pavilion, Ganja White Knight, Alix Perez, Visages, Truth, Tommy lee of Motley Cru and has 60 + releases since the launch of his solo project in 2020.\n\nWith 7 Studio albums under his belt and 17 years of live show experience, PAV4N is known for his explosive, high energy performances with genre spanning hip hop, grime, dubstep & Drum and bass.\n\nSince 2021 PAV4N has performed at Glastonbury Festival. Boomtown, Shambhala, Nozstock, Locus, NH7 Festival, Breezer Shuffle & has just come off the back of extensive India, UK & North American Tours.\n\nIn 2020, PAV4N founded 4NC¥ & //DarkMode , 2  prolific record labels with a focus on elevating South East Asian talent. 4NC¥ is a global platform and network for underground musicians and visual artists dedicated to breaking records from new talent and seasoned artists alike. Its unique business model puts forth releases that feature both aspiring and well-known visual artists to create an artistic experience and identity for each piece that goes beyond audio and blends different disciplines of artistry. The label’s releases encompass genres such as lo-fi, hip hop, trap, grime, 160, jungle/drum & bass, selective house, techno, and future soul/r&b – paying homage to Pavan’s hip hop and electronic roots. 4NC¥ currently platforms over 100 artists across the globe today and works alongside the most influential and underground magazines, culturemakers, music promoters, and festivals of our time. \n\nSince the beginning of his career, PAV4N has worked with and released music under the world’s most leading and innovative music labels, including Sony Music, Warner Music, Universal Music Group, Ministry of Sound, Owsla, Mau5trap, 1985 Music, Never Say Die, Disciple Records, Dim Mak, Circus Recordings, Chinese Man Recordings, Quality Goods, Ram Records, and Vision Recordings. He has also worked on various musical ventures in Hollywood and the Gaming industries, including musical soundtracks for Fast & Furious 7, Die Hard III, CSI Los Angeles, Fifa 13, Fifa 2022 Fifa 2023 & FFifa 2024 Need for Speed, Eastenders, and Skins.\n\nRecent highlights include coverage from Rolling Stone India, The Times of India, The New Indian Express, UKF, Outlook India, I Am Hip Hop, Lifestyle Asia, Lifted Asia, India Today, iamCrü, The Telegraph, The Source, Dubai Hot 40 music charts, The Indian Music Diaries, Homegrown Co India, Khaleej Times, Red Bull, Himmat Media, Rosecrans Ave, FUXWITHIT, Mister Mime World, Juice, The 3000 Network, Desi Hip Hop, WORDPLAY. \n\nPAV4N has supported the Prodigy on their ‘Run With The Wolves’ UK tour and countless other artists including Amy Winehouse, Snoop Dogg, Sub Focus, Deadmau5, Faith No More, The Chemical Brothers & Many More.\n\nPAV4N has released on Mau5trap, Ministry of Sound, Ram Records, Critical Recordings, Owsla, Sony Music, Warner Music, Blackout Recordings, Never Say Die Records, Vision Recordings, Monstercat, Dim Mak, Black Butter records to name a few.",
-          "priority": 100,
-          "artist_id": 2007064,
-          "stage_id": 7936,
-          "date_id": 3213,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-07-19T18:17:19+00:00",
-          "start_time": "2024-07-26T05:30:00+00:00",
-          "end_time": "2024-07-26T06:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-07-19T18:17:19+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 2007066,
-      "external_id": "1918119",
-      "published": true,
-      "name": "Subvert w/ Armanni Reign",
-      "body": "Armanni Reign: From the lunchroom tables to street corner cyphas... from battle rap competitions to hosting some of the biggest festivals in the world... the MC Armanni Reign has become one of the most versatile multi-genre MC's on the planet. Since 2004, MC Armanni Reign has become a go to recording voice regardless of genre from hosting stages with some of the world's most elite DJ's and other music acts to music recordings creating performance memories and chart topping smashers like Ray Volpe's \"Purpose\", Spag Heddy's \"Strayed UP\", Barely Alive's \"Hackers\", Riot's \"LSAR\", Zomboy's \"Outbreak\", Virtual Riot's \"Running from the Cops\" to Hybrid Trap like Stereolize's \"Paper Chaser\", A Boy and a Girl's \"Stampede\", Mark Instinct's \"The Show\", \"Suicide Pill\", and \"Pour It Out\". From STS9's \"Balancing\" to 12th Planet and The Trickaz's floor killer \"Bless That\" or smoother vibes like AC Slater x TS7's \"Step Back\", Kastle's \"Timeless\" to Mayhem and Logam's DnB roller \"We Will\", he has proven versatility is an asset. Armanni Reign has DB releases currently on RAM, ProgRAM, Gasm, Freak, Intasound, Westbay Music Group, TekDbz accompanied by Dubstep/EDM Trap releases on Monstercat, Disciple, Circus, Play Me, Never Say Die, Rotton, Uplink Audio, Buygore and Firepower as well as Hip Hop projects on SKRONG and Division. His affinity for movies and video games has translated over to the sync world. His music can be heard on AAA television and internet advertising campaigns such as \"Fast and Furious 9\", Square Enix's \"Just Cause 4\", Gearbox's \"Borderlands 3\", Ubisoft's \"Ghost Recon: Breakpoint\" and more as a solo artist or collaborative act known as Artizan with a music catalog that stretches across everything from Netflix to MTV.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314111_performance_100.png",
-        "120": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314111_performance_120.png",
-        "250": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314111_performance_250.png",
-        "500": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314111_performance_500.png",
-        "960": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314111_performance_960.png",
-        "1080": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314111_performance_1080.png"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {},
-      "performances": [
-        {
-          "id": 184406,
-          "external_id": "856983",
-          "published": true,
-          "body": "Armanni Reign: From the lunchroom tables to street corner cyphas... from battle rap competitions to hosting some of the biggest festivals in the world... the MC Armanni Reign has become one of the most versatile multi-genre MC's on the planet. Since 2004, MC Armanni Reign has become a go to recording voice regardless of genre from hosting stages with some of the world's most elite DJ's and other music acts to music recordings creating performance memories and chart topping smashers like Ray Volpe's \"Purpose\", Spag Heddy's \"Strayed UP\", Barely Alive's \"Hackers\", Riot's \"LSAR\", Zomboy's \"Outbreak\", Virtual Riot's \"Running from the Cops\" to Hybrid Trap like Stereolize's \"Paper Chaser\", A Boy and a Girl's \"Stampede\", Mark Instinct's \"The Show\", \"Suicide Pill\", and \"Pour It Out\". From STS9's \"Balancing\" to 12th Planet and The Trickaz's floor killer \"Bless That\" or smoother vibes like AC Slater x TS7's \"Step Back\", Kastle's \"Timeless\" to Mayhem and Logam's DnB roller \"We Will\", he has proven versatility is an asset. Armanni Reign has DB releases currently on RAM, ProgRAM, Gasm, Freak, Intasound, Westbay Music Group, TekDbz accompanied by Dubstep/EDM Trap releases on Monstercat, Disciple, Circus, Play Me, Never Say Die, Rotton, Uplink Audio, Buygore and Firepower as well as Hip Hop projects on SKRONG and Division. His affinity for movies and video games has translated over to the sync world. His music can be heard on AAA television and internet advertising campaigns such as \"Fast and Furious 9\", Square Enix's \"Just Cause 4\", Gearbox's \"Borderlands 3\", Ubisoft's \"Ghost Recon: Breakpoint\" and more as a solo artist or collaborative act known as Artizan with a music catalog that stretches across everything from Netflix to MTV.",
-          "priority": 100,
-          "artist_id": 2007066,
-          "stage_id": 7942,
-          "date_id": 2878,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-07-19T18:17:19+00:00",
-          "start_time": "2024-07-27T05:00:00+00:00",
-          "end_time": "2024-07-27T06:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-07-19T18:17:19+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 2007067,
-      "external_id": "1918120",
-      "published": true,
-      "name": "Georgie Riot w/ Armanni Reign",
-      "body": "Georgie Riot: DJ, producer and curator of Drum & Bass record label Riot Records; Georgie broke into the scene in 2021 and has been causing waves across the globe ever since. Georgie is known for her creative double drops, fast pace mixing and energetic live performances. Georgie has been producing all kinds of drum & bass since 2021; from melodic, uplifting dancefloor,  to high impact energetic jump-up. She is the perfect example of what hard work and dedication can do for an artist who is determined. She has honed her skills and built a strong brand in a short space of time and has gained the attention of fans and other artists across the globe.​<br />\n<br />\n​A dedicated DJ who ditched her career as a professional model and agent for a life in the music industry, this is everything she’s pursued since her first drum & bass rave: from handing out flyers and sneaking into venues underage, to playing drums in a band and studying music technology.<br />\n​The 27 year old began djing in 2020 and started her journey with production in 2021.<br />\n<br />\nGeorgie is breaking boundaries in production following on from her debut single \"\"Take Over\"\" which was released on world renowned label UKF just 6 months after she began learning to produce. It gained over 100,000 streams in under two weeks, was featured across multiple Spotify and Apple editorial playlists, and was featured heavily on BBC Radio 1.  <br />\n<br />\nGeorgie's debut EP \"\"Take Over\"\", named after her leading single was released with UKF on August 3rd 2022. In December 2022 Georgie remixed Oliver Tree's chart-topping \"\"Miss You\"\", which was released on Atlantic Records (US). The track has over 2 million streams on Spotify alone. <br />\n<br />\nSince then she has released music on WARNER, DNB ALLSTARS, VIPER, DEVICE and RIOT RECORDS. In December 2022 Georgie completed her first tour across New Zealand and Australia; performing at New Zealand's biggest and most prestigious festivals including Rhythm & Vines, Golden Lights and Golden Nights, to name a few. After the huge success of her first tour, in June 2023 Georgie returned for a second tour of Australia, this time for a winter club show run co-headlined with Dr Fresh (USA), as well as her own headline shows in New Zealand. Georgie has been selling out headline shows in the UK, Austria, Spain, amongst other countries in Europe. She has had ample bookings for 2023, playing across the biggest festivals in Europe including Let It Roll (CZ), Rampage (BE), Dreamland (DE), Leeds Festival (UK), Frequency Festival (AT), Nass Festival (UK), Tokyo World (UK), Blacklist Festival (DE), and many more. Summer 2023 has been huge for Georgie so far. In September 2022 Georgie launched her own record label RIOT RECORDS. She has been releasing her own music as well as music from the likes of Captain Bass, Klay, Gouki, to name a few. Riot Records was named as Beatport’s “Label Of The Month” at the beginning of 2023. Georgie has released guest mixes with the likes of BBC Radio 1, KISS, RINSE, SWU and New Zealand's George FM. In May 2023, Georgie began hosting a monthly radio show called “Causing A Riot”. The show airs every third Saturday of the month on KOOL FM, hosted by RINSE FM. 2024 is set to be an exciting year for Georgie, with plans to return to New Zealand and Australia for a third tour, as well as much more music on the way. Georgie will continue to grow as an artist and reach new heights.​ As a woman who has always always been involved in a male dominated industry, Georgie believes it is time for females to be supported and represented within the music industry to the same extent men are. She is hoping to inspire other women to step forward and see music as an option.<br />\n<br />\nArmanni Reign: From the lunchroom tables to street corner cyphas... from battle rap competitions to hosting some of the biggest festivals in the world... the MC Armanni Reign has become one of the most versatile multi-genre MC's on the planet. Since 2004, MC Armanni Reign has become a go to recording voice regardless of genre from hosting stages with some of the world's most elite DJ's and other music acts to music recordings creating performance memories and chart topping<br />\nsmashers like Ray Volpe's \"Purpose\", Spag Heddy's \"Strayed UP\", Barely Alive's \"Hackers\", Riot's \"LSAR\", Zomboy's \"Outbreak\", Virtual Riot's \"Running from the Cops\" to Hybrid Trap like Stereolize's \"Paper Chaser\", A Boy and a Girl's \"Stampede\", Mark Instinct's \"The Show\", \"Suicide Pill\", and \"Pour It Out\". From STS9's \"Balancing\" to 12th Planet and The Trickaz's floor killer \"Bless That\" or smoother vibes like AC Slater x TS7's \"Step Back\", Kastle's \"Timeless\" to Mayhem and Logam's DnB roller \"We Will\", he has proven versatility is an asset. Armanni Reign has DB releases currently on RAM, ProgRAM, Gasm, Freak, Intasound, Westbay Music Group, TekDbz accompanied by Dubstep/EDM Trap releases on Monstercat, Disciple, Circus, Play Me, Never Say Die, Rotton, Uplink Audio, Buygore and Firepower as well as Hip Hop projects on SKRONG and Division. His affinity for movies and video games has translated over to the sync world. His music can be heard on AAA television and internet advertising campaigns such as \"Fast and Furious 9\", Square Enix's \"Just Cause 4\", Gearbox's \"Borderlands 3\", Ubisoft's \"Ghost Recon: Breakpoint\" and more as a solo artist or collaborative act known as Artizan with a music catalog that stretches across everything from Netflix to MTV.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314112_performance_100.png",
-        "120": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314112_performance_120.png",
-        "250": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314112_performance_250.png",
-        "500": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314112_performance_500.png",
-        "960": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314112_performance_960.png",
-        "1080": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314112_performance_1080.png"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {},
-      "performances": [
-        {
-          "id": 183081,
-          "external_id": "855989",
-          "published": true,
-          "body": "Georgie Riot: DJ, producer and curator of Drum & Bass record label Riot Records; Georgie broke into the scene in 2021 and has been causing waves across the globe ever since. Georgie is known for her creative double drops, fast pace mixing and energetic live performances. Georgie has been producing all kinds of drum & bass since 2021; from melodic, uplifting dancefloor,  to high impact energetic jump-up. She is the perfect example of what hard work and dedication can do for an artist who is determined. She has honed her skills and built a strong brand in a short space of time and has gained the attention of fans and other artists across the globe.​\n\n​A dedicated DJ who ditched her career as a professional model and agent for a life in the music industry, this is everything she’s pursued since her first drum & bass rave: from handing out flyers and sneaking into venues underage, to playing drums in a band and studying music technology.\n​The 27 year old began djing in 2020 and started her journey with production in 2021.\n\nGeorgie is breaking boundaries in production following on from her debut single \"\"Take Over\"\" which was released on world renowned label UKF just 6 months after she began learning to produce. It gained over 100,000 streams in under two weeks, was featured across multiple Spotify and Apple editorial playlists, and was featured heavily on BBC Radio 1.  \n\nGeorgie's debut EP \"\"Take Over\"\", named after her leading single was released with UKF on August 3rd 2022. In December 2022 Georgie remixed Oliver Tree's chart-topping \"\"Miss You\"\", which was released on Atlantic Records (US). The track has over 2 million streams on Spotify alone. \n\nSince then she has released music on WARNER, DNB ALLSTARS, VIPER, DEVICE and RIOT RECORDS. In December 2022 Georgie completed her first tour across New Zealand and Australia; performing at New Zealand's biggest and most prestigious festivals including Rhythm & Vines, Golden Lights and Golden Nights, to name a few. After the huge success of her first tour, in June 2023 Georgie returned for a second tour of Australia, this time for a winter club show run co-headlined with Dr Fresh (USA), as well as her own headline shows in New Zealand. Georgie has been selling out headline shows in the UK, Austria, Spain, amongst other countries in Europe. She has had ample bookings for 2023, playing across the biggest festivals in Europe including Let It Roll (CZ), Rampage (BE), Dreamland (DE), Leeds Festival (UK), Frequency Festival (AT), Nass Festival (UK), Tokyo World (UK), Blacklist Festival (DE), and many more. Summer 2023 has been huge for Georgie so far. In September 2022 Georgie launched her own record label RIOT RECORDS. She has been releasing her own music as well as music from the likes of Captain Bass, Klay, Gouki, to name a few. Riot Records was named as Beatport’s “Label Of The Month” at the beginning of 2023. Georgie has released guest mixes with the likes of BBC Radio 1, KISS, RINSE, SWU and New Zealand's George FM. In May 2023, Georgie began hosting a monthly radio show called “Causing A Riot”. The show airs every third Saturday of the month on KOOL FM, hosted by RINSE FM. 2024 is set to be an exciting year for Georgie, with plans to return to New Zealand and Australia for a third tour, as well as much more music on the way. Georgie will continue to grow as an artist and reach new heights.​ As a woman who has always always been involved in a male dominated industry, Georgie believes it is time for females to be supported and represented within the music industry to the same extent men are. She is hoping to inspire other women to step forward and see music as an option.\n\nArmanni Reign: From the lunchroom tables to street corner cyphas... from battle rap competitions to hosting some of the biggest festivals in the world... the MC Armanni Reign has become one of the most versatile multi-genre MC's on the planet. Since 2004, MC Armanni Reign has become a go to recording voice regardless of genre from hosting stages with some of the world's most elite DJ's and other music acts to music recordings creating performance memories and chart topping\nsmashers like Ray Volpe's \"Purpose\", Spag Heddy's \"Strayed UP\", Barely Alive's \"Hackers\", Riot's \"LSAR\", Zomboy's \"Outbreak\", Virtual Riot's \"Running from the Cops\" to Hybrid Trap like Stereolize's \"Paper Chaser\", A Boy and a Girl's \"Stampede\", Mark Instinct's \"The Show\", \"Suicide Pill\", and \"Pour It Out\". From STS9's \"Balancing\" to 12th Planet and The Trickaz's floor killer \"Bless That\" or smoother vibes like AC Slater x TS7's \"Step Back\", Kastle's \"Timeless\" to Mayhem and Logam's DnB roller \"We Will\", he has proven versatility is an asset. Armanni Reign has DB releases currently on RAM, ProgRAM, Gasm, Freak, Intasound, Westbay Music Group, TekDbz accompanied by Dubstep/EDM Trap releases on Monstercat, Disciple, Circus, Play Me, Never Say Die, Rotton, Uplink Audio, Buygore and Firepower as well as Hip Hop projects on SKRONG and Division. His affinity for movies and video games has translated over to the sync world. His music can be heard on AAA television and internet advertising campaigns such as \"Fast and Furious 9\", Square Enix's \"Just Cause 4\", Gearbox's \"Borderlands 3\", Ubisoft's \"Ghost Recon: Breakpoint\" and more as a solo artist or collaborative act known as Artizan with a music catalog that stretches across everything from Netflix to MTV.",
-          "priority": 100,
-          "artist_id": 2007067,
-          "stage_id": 7949,
-          "date_id": 2879,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-07-19T18:17:19+00:00",
-          "start_time": "2024-07-28T05:30:00+00:00",
-          "end_time": "2024-07-28T06:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-07-19T18:17:19+00:00",
-      "show_section_titles": true
-    },
-    {
-      "id": 2007068,
-      "external_id": "1918121",
-      "published": true,
-      "name": "A.M.C w/ Armanni Reign",
-      "body": "A.M.C: Entertainer, technical craftsman, lifelong student of drum & bass, meticulous grafter; A.M.C represents and embodies just what it takes to operate in the DJ premiership in the 2020s. <br />\n<br />\nThree-times Best DJ winner in the Drum&BassArena Awards 2019-2021, renowned for his razor-sharp, four-deck performances and physical, impassioned mixing style; Alex Mark Calvert has invested every living, breathing moment of his focus, attention and appetite into drum & bass since his teens to become one of the most influential and highly respected artists in his field.<br />\n<br />\nPart of the last generation of DJs to graduate from original dubplate culture, and famed for his ability to tell sonic stories and connect myriad dots across the last 30 years of UK jungle and drum & bass, Alex’s fusion of foundational roots and futuristic sounds resonates across the drum & bass movement’s many generations and territories. A DJ who can sell-out a North American tour just as quickly as he can sell-out London venues like Fabric room one and E1, or full tours of New Zealand and Australia, his ‘people’s champion’ reputation transcends boundaries and borders, leading to a phenomenal international popularity across the global D&B scene.<br />\n<br />\nThis reputation is also reflected in his streaming statistics. With both of his albums – ‘Energy’ (2019) and ‘Void’ (2021) – boasting millions of streams on Spotify, and releases on distinguished labels such as Ram Records, Monstercat, UKF, Drum&BassArena, Charge, Dim Mak, Blackout, Eatbrain and Low Down Deep (to name a few) Alex has translated his unique DJ vocabulary in the studio to become just as respected as a producer. Still seeing himself as a DJ first and foremost, every A.M.C studio creation is made strictly with the dancefloor in mind. His natural habitat, it’s the place where Alex feels most at home… As an entertainer, a craftsman, a student, a grafter and a man who will forever invest every living, breathing moment into this music.<br />\n<br />\nArmanni Reign: From the lunchroom tables to street corner cyphas... from battle rap competitions to hosting some of the biggest festivals in the world... the MC Armanni Reign has<br />\nbecome one of the most versatile multi-genre MC's on the planet. Since 2004, MC Armanni Reign has become a go to recording voice regardless of genre from hosting stages with some of the world's most elite DJ's and other music acts to music recordings creating performance memories and chart topping smashers like Ray Volpe's \"Purpose\", Spag Heddy's \"Strayed UP\", Barely Alive's \"Hackers\", Riot's \"LSAR\", Zomboy's \"Outbreak\", Virtual Riot's \"Running from the Cops\" to Hybrid Trap like Stereolize's \"Paper Chaser\", A Boy and a Girl's \"Stampede\", Mark Instinct's \"The Show\", \"Suicide Pill\", and \"Pour It Out\". From STS9's \"Balancing\" to 12th Planet and The Trickaz's floor killer \"Bless That\" or smoother vibes like AC Slater x TS7's \"Step Back\", Kastle's \"Timeless\" to Mayhem<br />\nand Logam's DnB roller \"We Will\", he has proven versatility is an asset. Armanni Reign has DB releases currently on RAM, ProgRAM, Gasm, Freak, Intasound, Westbay Music Group, TekDbz accompanied by Dubstep/EDM Trap releases on Monstercat, Disciple, Circus, Play Me, Never Say Die, Rotton, Uplink Audio, Buygore and Firepower as well as Hip Hop projects on SKRONG and<br />\nDivision. His affinity for movies and video games has translated over to the sync world. His<br />\nmusic can be heard on AAA television and internet advertising campaigns such as \"Fast and Furious 9\", Square Enix's \"Just Cause 4\", Gearbox's \"Borderlands 3\", Ubisoft's \"Ghost Recon: Breakpoint\" and more as a solo artist or collaborative act known as Artizan with a music catalog that stretches across everything from Netflix to MTV.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314113_performance_100.png",
-        "120": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314113_performance_120.png",
-        "250": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314113_performance_250.png",
-        "500": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314113_performance_500.png",
-        "960": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314113_performance_960.png",
-        "1080": "https://media.appmiral.com/prod/performance/0054/15/thumb_5314113_performance_1080.png"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {},
-      "performances": [
-        {
-          "id": 183161,
-          "external_id": "855455",
-          "published": true,
-          "body": "A.M.C: Entertainer, technical craftsman, lifelong student of drum & bass, meticulous grafter; A.M.C represents and embodies just what it takes to operate in the DJ premiership in the 2020s. \n\nThree-times Best DJ winner in the Drum&BassArena Awards 2019-2021, renowned for his razor-sharp, four-deck performances and physical, impassioned mixing style; Alex Mark Calvert has invested every living, breathing moment of his focus, attention and appetite into drum & bass since his teens to become one of the most influential and highly respected artists in his field.\n\nPart of the last generation of DJs to graduate from original dubplate culture, and famed for his ability to tell sonic stories and connect myriad dots across the last 30 years of UK jungle and drum & bass, Alex’s fusion of foundational roots and futuristic sounds resonates across the drum & bass movement’s many generations and territories. A DJ who can sell-out a North American tour just as quickly as he can sell-out London venues like Fabric room one and E1, or full tours of New Zealand and Australia, his ‘people’s champion’ reputation transcends boundaries and borders, leading to a phenomenal international popularity across the global D&B scene.\n\nThis reputation is also reflected in his streaming statistics. With both of his albums – ‘Energy’ (2019) and ‘Void’ (2021) – boasting millions of streams on Spotify, and releases on distinguished labels such as Ram Records, Monstercat, UKF, Drum&BassArena, Charge, Dim Mak, Blackout, Eatbrain and Low Down Deep (to name a few) Alex has translated his unique DJ vocabulary in the studio to become just as respected as a producer. Still seeing himself as a DJ first and foremost, every A.M.C studio creation is made strictly with the dancefloor in mind. His natural habitat, it’s the place where Alex feels most at home… As an entertainer, a craftsman, a student, a grafter and a man who will forever invest every living, breathing moment into this music.\n\nArmanni Reign: From the lunchroom tables to street corner cyphas... from battle rap competitions to hosting some of the biggest festivals in the world... the MC Armanni Reign has\nbecome one of the most versatile multi-genre MC's on the planet. Since 2004, MC Armanni Reign has become a go to recording voice regardless of genre from hosting stages with some of the world's most elite DJ's and other music acts to music recordings creating performance memories and chart topping smashers like Ray Volpe's \"Purpose\", Spag Heddy's \"Strayed UP\", Barely Alive's \"Hackers\", Riot's \"LSAR\", Zomboy's \"Outbreak\", Virtual Riot's \"Running from the Cops\" to Hybrid Trap like Stereolize's \"Paper Chaser\", A Boy and a Girl's \"Stampede\", Mark Instinct's \"The Show\", \"Suicide Pill\", and \"Pour It Out\". From STS9's \"Balancing\" to 12th Planet and The Trickaz's floor killer \"Bless That\" or smoother vibes like AC Slater x TS7's \"Step Back\", Kastle's \"Timeless\" to Mayhem\nand Logam's DnB roller \"We Will\", he has proven versatility is an asset. Armanni Reign has DB releases currently on RAM, ProgRAM, Gasm, Freak, Intasound, Westbay Music Group, TekDbz accompanied by Dubstep/EDM Trap releases on Monstercat, Disciple, Circus, Play Me, Never Say Die, Rotton, Uplink Audio, Buygore and Firepower as well as Hip Hop projects on SKRONG and\nDivision. His affinity for movies and video games has translated over to the sync world. His\nmusic can be heard on AAA television and internet advertising campaigns such as \"Fast and Furious 9\", Square Enix's \"Just Cause 4\", Gearbox's \"Borderlands 3\", Ubisoft's \"Ghost Recon: Breakpoint\" and more as a solo artist or collaborative act known as Artizan with a music catalog that stretches across everything from Netflix to MTV.",
-          "priority": 100,
-          "artist_id": 2007068,
-          "stage_id": 7956,
-          "date_id": 2880,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "modified_at": "2024-07-19T18:17:19+00:00",
-          "start_time": "2024-07-29T06:00:00+00:00",
-          "end_time": "2024-07-29T07:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false
-        }
-      ],
-      "tags": [],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "modified_at": "2024-07-19T18:17:19+00:00",
+      "modified_at": "2024-07-20T01:32:47+00:00",
       "show_section_titles": true
     },
     {
@@ -12159,7 +12159,7 @@
           "artist_name": "LION BABE",
           "duration": 250706,
           "image_url": "https://i.scdn.co/image/ab67616d00001e026454cc79bc32f309749b019b",
-          "modified_at": "2024-07-19T13:30:42+00:00"
+          "modified_at": "2024-07-20T01:29:55+00:00"
         },
         {
           "track_id": "5LWKsMeXaYBoKzCHk8syQy",
@@ -20262,7 +20262,7 @@
           "duration": 218437,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02bd5d802e3220afac98263b5b",
           "preview_url": "https://p.scdn.co/mp3-preview/4400d36d7f9ccc1cdf2cfb77043b8298b8f381b3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T14:01:10+00:00"
+          "modified_at": "2024-07-20T01:15:10+00:00"
         },
         {
           "track_id": "4WAKHKHloHdmPPfxgW8HAn",
@@ -21778,7 +21778,7 @@
           "duration": 167314,
           "image_url": "https://i.scdn.co/image/ab67616d00001e027845dea2cc6e338bded22fe7",
           "preview_url": "https://p.scdn.co/mp3-preview/78792776318d07e8c3b692087e6d01fe6ca065bf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T13:36:32+00:00"
+          "modified_at": "2024-07-20T01:35:40+00:00"
         },
         {
           "track_id": "51uRkSahJICiVwrPe7GgzY",
@@ -23858,7 +23858,7 @@
           "duration": 265017,
           "image_url": "https://i.scdn.co/image/ab67616d00001e027766926ef2153e8ce1bc54ca",
           "preview_url": "https://p.scdn.co/mp3-preview/619026444c0cc9f97834325474a5e3fa425a4d34?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T13:07:27+00:00"
+          "modified_at": "2024-07-20T01:07:21+00:00"
         },
         {
           "track_id": "5VDnV2q6OrlrPsHsDZtIP1",
@@ -26514,7 +26514,7 @@
           "duration": 184615,
           "image_url": "https://i.scdn.co/image/ab67616d00001e024a46e1c15703dbea0a7954f3",
           "preview_url": "https://p.scdn.co/mp3-preview/33d6531afb0d09dff48d451252423a73bfe5b351?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T13:31:02+00:00"
+          "modified_at": "2024-07-20T01:30:15+00:00"
         },
         {
           "track_id": "4FKxRe40M52eYZ3yI86FCy",
@@ -28881,7 +28881,7 @@
           "artist_name": "Nia Archives",
           "duration": 152558,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02ed8761730439da61f8a67ae3",
-          "modified_at": "2024-07-19T13:36:00+00:00"
+          "modified_at": "2024-07-20T01:35:09+00:00"
         },
         {
           "track_id": "3HWxmlUkBo3GXRxefWas8m",
@@ -28909,7 +28909,7 @@
           "artist_name": "Nia Archives",
           "duration": 166356,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0216132328227419b223f68121",
-          "modified_at": "2024-07-19T13:36:32+00:00"
+          "modified_at": "2024-07-20T01:35:40+00:00"
         },
         {
           "track_id": "0YbYNOaIOr9Hs4YEPBOSP5",
@@ -28937,7 +28937,7 @@
           "artist_name": "Nia Archives",
           "duration": 196133,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0216132328227419b223f68121",
-          "modified_at": "2024-07-19T13:36:00+00:00"
+          "modified_at": "2024-07-20T01:35:09+00:00"
         },
         {
           "track_id": "0JH3rxj9e7cY8T1QFgr5mQ",
@@ -29439,7 +29439,7 @@
           "duration": 239853,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02a5c1582e2b2b087ee7862758",
           "preview_url": "https://p.scdn.co/mp3-preview/df4cd25e3fe93b489e81b0ace76cc112fedb0192?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T13:50:22+00:00"
+          "modified_at": "2024-07-20T01:14:03+00:00"
         },
         {
           "track_id": "7uSZPbd8DxdkmSauCKnITY",
@@ -29449,7 +29449,7 @@
           "duration": 266482,
           "image_url": "https://i.scdn.co/image/ab67616d00001e028d5c2b2e93cf42bf6d9337db",
           "preview_url": "https://p.scdn.co/mp3-preview/1de777954296fe464bfbe3c05c961ffc9e659f79?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T13:14:45+00:00"
+          "modified_at": "2024-07-20T01:14:27+00:00"
         },
         {
           "track_id": "1k3J7o5b0tDUzbllLycVUJ",
@@ -29713,7 +29713,7 @@
           "duration": 274693,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0255fa09a768d1ef5ea5d279f9",
           "preview_url": "https://p.scdn.co/mp3-preview/285a7ede10711f47bda4a6b18e322ee6604e5fee?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T13:08:14+00:00"
+          "modified_at": "2024-07-20T01:08:07+00:00"
         },
         {
           "track_id": "5DAjrJqXqYtgr67pVhmUeR",
@@ -29723,7 +29723,7 @@
           "duration": 237546,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0255fa09a768d1ef5ea5d279f9",
           "preview_url": "https://p.scdn.co/mp3-preview/daf3cfc5f503a37c84daa3ea63dec82bb42460e3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T13:07:33+00:00"
+          "modified_at": "2024-07-20T01:07:27+00:00"
         },
         {
           "track_id": "2lJ4d8MCT6ZlDRHKJ1br14",
@@ -29733,7 +29733,7 @@
           "duration": 352246,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02b033087945225272e885808c",
           "preview_url": "https://p.scdn.co/mp3-preview/a720a36357f4d52380c2a5d756c9265a56cfd132?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T13:46:56+00:00"
+          "modified_at": "2024-07-20T01:29:55+00:00"
         },
         {
           "track_id": "7Cg3F9ZsZ2TYUnlza49NYh",
@@ -29763,7 +29763,7 @@
           "duration": 242773,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02226e702d1878d4a44b273980",
           "preview_url": "https://p.scdn.co/mp3-preview/ddfdc2b6fc9b4a8eb160adbff337b4b2dde19bcc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T13:07:27+00:00"
+          "modified_at": "2024-07-20T01:07:21+00:00"
         },
         {
           "track_id": "7aLYQgzGLy8duSSdTJa1ik",
@@ -30083,7 +30083,7 @@
           "duration": 222720,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02287b62abe84bf4f59cb56533",
           "preview_url": "https://p.scdn.co/mp3-preview/96346876259d26565543dcf3fa1bafe357f50872?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T13:14:40+00:00"
+          "modified_at": "2024-07-20T01:14:23+00:00"
         },
         {
           "track_id": "2NjeiZqZSRyCdL8xbQehNL",
@@ -30263,7 +30263,7 @@
           "duration": 213500,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02825b1117fff3caf78573329a",
           "preview_url": "https://p.scdn.co/mp3-preview/58cc3e465230dfaa864f37ddc9f3097bfbcc8cbb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T13:12:05+00:00"
+          "modified_at": "2024-07-20T01:11:57+00:00"
         },
         {
           "track_id": "3iMYKoUsn5X0ctIAXvgmSf",
@@ -30521,7 +30521,7 @@
           "artist_name": "James Blake",
           "duration": 223600,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02d134dbb0fad78dda23d777ff",
-          "modified_at": "2024-07-19T13:36:21+00:00"
+          "modified_at": "2024-07-20T01:35:30+00:00"
         },
         {
           "track_id": "51rXHuKN8Loc4sUlKPODgH",
@@ -30530,7 +30530,7 @@
           "artist_name": "Jay Rock, Kendrick Lamar, Future, James Blake",
           "duration": 229670,
           "image_url": "https://i.scdn.co/image/ab67616d00001e029edc391d911405ea9f5c320e",
-          "modified_at": "2024-07-19T13:21:40+00:00"
+          "modified_at": "2024-07-20T01:20:59+00:00"
         },
         {
           "track_id": "4cQrSREMqBSvJ8ZzBZjVb8",
@@ -30539,7 +30539,7 @@
           "artist_name": "James Blake, Travis Scott, Metro Boomin",
           "duration": 193600,
           "image_url": "https://i.scdn.co/image/ab67616d00001e029af56a54edacb6237b49fa2e",
-          "modified_at": "2024-07-19T13:21:40+00:00"
+          "modified_at": "2024-07-20T01:20:59+00:00"
         },
         {
           "track_id": "3hX0ilh84w2KGaiNw2rRCV",
@@ -30595,7 +30595,7 @@
           "duration": 314836,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02881d8d8378cd01099babcd44",
           "preview_url": "https://p.scdn.co/mp3-preview/fb6ed2aac94b5f412d6e407317df02d2ede71534?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T13:21:41+00:00"
+          "modified_at": "2024-07-20T01:21:00+00:00"
         },
         {
           "track_id": "6hEiEWEgAuFvEJduuSQLiw",
@@ -30722,7 +30722,7 @@
           "duration": 206616,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0270bef918a513d36c8370fb99",
           "preview_url": "https://p.scdn.co/mp3-preview/bc08f0297ce902e892a725aed8c776682c2efac4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T13:22:34+00:00"
+          "modified_at": "2024-07-20T01:21:53+00:00"
         },
         {
           "track_id": "5lrwPi7WwJ1HbuKtx4ktIK",
@@ -30732,7 +30732,7 @@
           "duration": 194368,
           "image_url": "https://i.scdn.co/image/ab67616d00001e023db70e3a52c0a4a1cd499828",
           "preview_url": "https://p.scdn.co/mp3-preview/e1ea5c351da1fb13cc5104acafeca972003136cc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T13:17:45+00:00"
+          "modified_at": "2024-07-20T01:17:14+00:00"
         },
         {
           "track_id": "3q2uX1BAjCiKmhEQiqWZTD",
@@ -30920,7 +30920,7 @@
           "duration": 217750,
           "image_url": "https://i.scdn.co/image/ab67616d00001e029fe16231b9c5b5f1a40ba76d",
           "preview_url": "https://p.scdn.co/mp3-preview/9b6f62ea2f08aa3e0d87e12ed9194358ed11c081?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-06-24T14:34:03+00:00"
+          "modified_at": "2024-07-19T19:59:22+00:00"
         },
         {
           "track_id": "6YpBPr8MIjn7vYABKkNMTp",
@@ -32331,7 +32331,7 @@
           "artist_name": "Sammy Virji, Flowdan",
           "duration": 163934,
           "image_url": "https://i.scdn.co/image/ab67616d00001e023edbd638d73631f434fe755a",
-          "modified_at": "2024-07-19T13:36:21+00:00"
+          "modified_at": "2024-07-20T01:35:30+00:00"
         },
         {
           "track_id": "1Bdy0uirk0pou8GjuhDciX",
@@ -32377,7 +32377,7 @@
           "artist_name": "Chris Lake, Sammy Virji, Nathan Nicholson",
           "duration": 251201,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02f3b42c0ca1c479b251e1b393",
-          "modified_at": "2024-07-19T14:00:55+00:00"
+          "modified_at": "2024-07-20T01:14:53+00:00"
         },
         {
           "track_id": "3gVks4tc3TzqQYdDCPj7f2",
@@ -32826,7 +32826,7 @@
           "artist_name": "Sub Focus, Dimension",
           "duration": 215172,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02967e9fb8c9f5bb2e9ce2f1bc",
-          "modified_at": "2024-07-19T13:17:45+00:00"
+          "modified_at": "2024-07-20T01:17:14+00:00"
         },
         {
           "track_id": "6a6m9cezKuRGoiHH11bU4Z",
@@ -33919,7 +33919,7 @@
           "artist_name": "Chase & Status, Bou, Flowdan, IRAH, Trigga, Takura",
           "duration": 177291,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02adfadf345224340773549507",
-          "modified_at": "2024-07-19T14:06:38+00:00"
+          "modified_at": "2024-07-20T01:35:40+00:00"
         },
         {
           "track_id": "2aoWvGMW6W40WelevwsOUx",
@@ -33928,7 +33928,7 @@
           "artist_name": "Sammy Virji, Flowdan",
           "duration": 163934,
           "image_url": "https://i.scdn.co/image/ab67616d00001e023edbd638d73631f434fe755a",
-          "modified_at": "2024-07-19T13:36:21+00:00"
+          "modified_at": "2024-07-20T01:35:30+00:00"
         },
         {
           "track_id": "0OCFIEsSrmKueOiPK6S3xq",
@@ -33938,7 +33938,7 @@
           "duration": 148965,
           "image_url": "https://i.scdn.co/image/ab67616d00001e023dd3e0a8ed152be2fdfce926",
           "preview_url": "https://p.scdn.co/mp3-preview/a87199869b16741cf0bd394ace77c65d1248a89b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T13:36:21+00:00"
+          "modified_at": "2024-07-20T01:35:30+00:00"
         },
         {
           "track_id": "5lQnTSIZcjhzOsuJhIMQlA",
@@ -34308,7 +34308,7 @@
           "duration": 202665,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0266c67ea4d5d50b84c060faf4",
           "preview_url": "https://p.scdn.co/mp3-preview/621a2867e93962c140484d949ebb5e30ae45d1cf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T14:00:55+00:00"
+          "modified_at": "2024-07-20T01:14:53+00:00"
         },
         {
           "track_id": "2YhEJoYccyE5wpdAkZWbPk",
@@ -34437,7 +34437,7 @@
           "duration": 177658,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02a3d67ccc06d8929df12a2ed1",
           "preview_url": "https://p.scdn.co/mp3-preview/2fbf86fe405779212ae2c686deab10f797c10bd4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T13:31:02+00:00"
+          "modified_at": "2024-07-20T01:30:15+00:00"
         },
         {
           "track_id": "6WK7h2WfMmnX7zOZnfzoYo",
@@ -34447,7 +34447,7 @@
           "duration": 219200,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0237422e424f7e93330acc5719",
           "preview_url": "https://p.scdn.co/mp3-preview/33873598c0ad50f7b3851219c0cf5f284bf813c2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T13:14:45+00:00"
+          "modified_at": "2024-07-20T01:14:27+00:00"
         },
         {
           "track_id": "17yOpPoiu2Ue962Do8LsdS",
@@ -34633,7 +34633,7 @@
           "artist_name": "Hannah Wants, Chris Lorenzo",
           "duration": 200005,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02823349c9546161f25941b7c9",
-          "modified_at": "2024-07-19T13:46:17+00:00"
+          "modified_at": "2024-07-20T01:17:14+00:00"
         },
         {
           "track_id": "64vBCC1lpjEnF10CkDiDhv",
@@ -35471,7 +35471,7 @@
           "duration": 226677,
           "image_url": "https://i.scdn.co/image/ab67616d00001e021f51ec0adeeff5a6095b13cc",
           "preview_url": "https://p.scdn.co/mp3-preview/0485c508a17969139aed4c19c22c24abe08c04b9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T14:00:55+00:00"
+          "modified_at": "2024-07-20T01:25:16+00:00"
         },
         {
           "track_id": "5J75NvHDMTbJtLqym6CXuI",
@@ -36013,7 +36013,7 @@
           "artist_name": "GRiZ, Subtronics",
           "duration": 198400,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0283046e046407ae9b6e629956",
-          "modified_at": "2024-07-19T13:08:01+00:00"
+          "modified_at": "2024-07-20T01:07:54+00:00"
         },
         {
           "track_id": "2il9NDpW87Hk2L9AjeDf8r",
@@ -36032,7 +36032,7 @@
           "artist_name": "Rezz, Subtronics",
           "duration": 212210,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02743479ac66260626a234fe8c",
-          "modified_at": "2024-07-19T13:49:04+00:00"
+          "modified_at": "2024-07-20T01:35:40+00:00"
         },
         {
           "track_id": "0yotOi6EFaBal5Gy7YVcuI",
@@ -36052,7 +36052,7 @@
           "duration": 260001,
           "image_url": "https://i.scdn.co/image/ab67616d00001e026c65c9a96c54a01be2396a93",
           "preview_url": "https://p.scdn.co/mp3-preview/d8872d602d7d455ec5e6ce8b94395914897bae4d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T13:36:32+00:00"
+          "modified_at": "2024-07-20T01:35:40+00:00"
         },
         {
           "track_id": "0i3NZpE5KwC70tf0GSKekx",
@@ -36461,7 +36461,7 @@
           "duration": 197487,
           "image_url": "https://i.scdn.co/image/ab67616d00001e020eb47b2eec859a783ceb72c8",
           "preview_url": "https://p.scdn.co/mp3-preview/f63f47b2ed5c3f81c303c630af40b2fad0d14a9c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T13:44:18+00:00"
+          "modified_at": "2024-07-20T01:08:52+00:00"
         },
         {
           "track_id": "3whmx5Ptrqzx2c101FJFi3",
@@ -36470,7 +36470,7 @@
           "artist_name": "Disclosure, London Grammar",
           "duration": 244174,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02d3462d1395189dc76a326031",
-          "modified_at": "2024-07-19T13:08:56+00:00"
+          "modified_at": "2024-07-20T01:08:52+00:00"
         },
         {
           "track_id": "0TrPqhAMoaKUFLR7iYDokf",
@@ -36489,7 +36489,7 @@
           "artist_name": "Disclosure, Eliza Doolittle, Flume",
           "duration": 282812,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02786201dca187d2b0c956c24b",
-          "modified_at": "2024-07-19T13:46:31+00:00"
+          "modified_at": "2024-07-20T01:16:08+00:00"
         },
         {
           "track_id": "04QTmCTsaVjcGaoxj8rSjE",
@@ -36517,7 +36517,7 @@
           "artist_name": "Disclosure, Sam Smith",
           "duration": 255631,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02786201dca187d2b0c956c24b",
-          "modified_at": "2024-07-19T13:50:21+00:00"
+          "modified_at": "2024-07-20T01:26:43+00:00"
         },
         {
           "track_id": "5EWFuo4ObEnfndc57sTuIo",
@@ -36545,7 +36545,7 @@
           "duration": 226773,
           "image_url": "https://i.scdn.co/image/ab67616d00001e020b6d4c43fe3e8485148e4872",
           "preview_url": "https://p.scdn.co/mp3-preview/3bfc7f59c9107ad87fd8521e40c3a461ad921574?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "modified_at": "2024-07-19T14:00:55+00:00"
+          "modified_at": "2024-07-20T01:25:16+00:00"
         }
       ],
       "show_in_search": true,
