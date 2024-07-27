@@ -7,6 +7,7 @@ env:
   FESTIVAL_DATA_PATH: festivals/shambhalafestival
 
 on:
+  workflow_dispatch:
   # This only runs on default branch
   schedule:
     - cron: "12 */6 * 6 *"      # At minute 12 past every 6th hour in June.
