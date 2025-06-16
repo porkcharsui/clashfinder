@@ -5,14 +5,15 @@ Tools to export raw data from festival applications and transform into [Clashfin
 ## Supported Festival Platforms
 
 * [Appmiral](https://appmiral.com/)
-  * Shambhala Festival
+* Shambhala Festival
+
 ## Setup
 
 Required tools for use: 
 
 * curl
 * jq
-* poetry
+* uv
 * python 3+
 
 Extract the application session key using a MITM proxy tool like [Charles Proxy](https://www.charlesproxy.com/) or [mitmproxy](https://mitmproxy.org/).
@@ -25,25 +26,25 @@ SESSION_KEY=VALUE_HERE
 
 ## Usage
 
-* Setup the python virtualenv using Poetry
+* Setup the python virtualenv using uv
 
 ```bash
-poetry install
-poetry shell
+uv venv
+source .venv/bin/activate
 ```
 
 * Extract all scheduling data by running an extract script
 
 ```bash
 pushd festivals/shambhalafestival
-./2024.sh
+./2025.sh
 popd
 ```
 
 * Render the scheduling data as Clashfinder markup and paste the output from the transform script into the Clashfinder data field:
 
 ```bash
-./bin/appmiral_transform.py --tz "US/Pacific" --artists festivals/shambhalafestival/2024/shambhalafestival.artists.json --stages festivals/shambhalafestival/2024/shambhalafestival.stages.json
+./bin/appmiral_transform.py --tz "US/Pacific" --artists festivals/shambhalafestival/2025/shambhalafestival.artists.json --stages festivals/shambhalafestival/2025/shambhalafestival.stages.json
 ```
 
 ## Clashfinder Data Format

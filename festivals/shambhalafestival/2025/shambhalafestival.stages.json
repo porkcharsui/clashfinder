@@ -1,0 +1,583 @@
+{
+  "data": [
+    {
+      "id": 12636,
+      "published": true,
+      "name": "Live Creation",
+      "priority": 100,
+      "tags": [
+        {
+          "slug": "type-activities",
+          "name": "Activities",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7BD673",
+          "modified_at": "2025-04-30T09:01:26+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "modified_at": "2025-06-06T19:57:20+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12322,
+      "published": true,
+      "name": "Riverside (Lodgers Only)",
+      "priority": 100,
+      "tracks": [],
+      "tags": [
+        {
+          "slug": "type-activities",
+          "name": "Activities",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7BD673",
+          "modified_at": "2025-04-30T09:01:26+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "modified_at": "2025-06-04T20:10:07+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12479,
+      "external_id": "24430",
+      "published": true,
+      "name": "AMP",
+      "priority": 1,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12480,
+      "external_id": "24431",
+      "published": true,
+      "name": "Fractal Forest",
+      "priority": 2,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12481,
+      "external_id": "24432",
+      "published": true,
+      "name": "Grove",
+      "priority": 3,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12482,
+      "external_id": "24429",
+      "published": true,
+      "name": "Living Room",
+      "priority": 4,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12483,
+      "external_id": "24433",
+      "published": true,
+      "name": "Pagoda",
+      "priority": 5,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12484,
+      "external_id": "24434",
+      "published": true,
+      "name": "Village",
+      "priority": 6,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12485,
+      "external_id": "24435",
+      "published": true,
+      "name": "Secret Garden",
+      "priority": 7,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12486,
+      "external_id": "24437",
+      "published": true,
+      "name": "AMP",
+      "priority": 1,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12487,
+      "external_id": "24438",
+      "published": true,
+      "name": "Fractal Forest",
+      "priority": 2,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12488,
+      "external_id": "24439",
+      "published": true,
+      "name": "Grove",
+      "priority": 3,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12489,
+      "external_id": "24436",
+      "published": true,
+      "name": "Living Room",
+      "priority": 4,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12490,
+      "external_id": "24440",
+      "published": true,
+      "name": "Pagoda",
+      "priority": 5,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12491,
+      "external_id": "24441",
+      "published": true,
+      "name": "Village",
+      "priority": 6,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12492,
+      "external_id": "24442",
+      "published": true,
+      "name": "Secret Garden",
+      "priority": 7,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12493,
+      "external_id": "24444",
+      "published": true,
+      "name": "AMP",
+      "priority": 1,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12494,
+      "external_id": "24445",
+      "published": true,
+      "name": "Fractal Forest",
+      "priority": 2,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12495,
+      "external_id": "24446",
+      "published": true,
+      "name": "Grove",
+      "priority": 3,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12496,
+      "external_id": "24443",
+      "published": true,
+      "name": "Living Room",
+      "priority": 4,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12497,
+      "external_id": "24447",
+      "published": true,
+      "name": "Pagoda",
+      "priority": 5,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12498,
+      "external_id": "24448",
+      "published": true,
+      "name": "Village",
+      "priority": 6,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12499,
+      "external_id": "24449",
+      "published": true,
+      "name": "Secret Garden",
+      "priority": 7,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12500,
+      "external_id": "24451",
+      "published": true,
+      "name": "AMP",
+      "priority": 1,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12501,
+      "external_id": "24452",
+      "published": true,
+      "name": "Fractal Forest",
+      "priority": 2,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12502,
+      "external_id": "24453",
+      "published": true,
+      "name": "Grove",
+      "priority": 3,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12503,
+      "external_id": "24450",
+      "published": true,
+      "name": "Living Room",
+      "priority": 4,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12504,
+      "external_id": "24454",
+      "published": true,
+      "name": "Pagoda",
+      "priority": 5,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12505,
+      "external_id": "24455",
+      "published": true,
+      "name": "Village",
+      "priority": 6,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12506,
+      "external_id": "24456",
+      "published": true,
+      "name": "Secret Garden",
+      "priority": 7,
+      "tracks": [],
+      "tags": [],
+      "show_in_search": true,
+      "modified_at": "2025-05-29T12:01:56+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12154,
+      "published": true,
+      "name": "Fractal Forest",
+      "priority": 100,
+      "tracks": [],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7896FF",
+          "modified_at": "2025-04-16T15:40:01+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "modified_at": "2025-05-13T20:03:06+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12153,
+      "published": true,
+      "name": "AMP",
+      "priority": 100,
+      "tracks": [],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7896FF",
+          "modified_at": "2025-04-16T15:40:01+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "modified_at": "2025-05-13T20:02:58+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12340,
+      "published": true,
+      "name": "Upsky Down Lounge",
+      "priority": 100,
+      "tracks": [],
+      "tags": [
+        {
+          "slug": "type-activities",
+          "name": "Activities",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7BD673",
+          "modified_at": "2025-04-30T09:01:26+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "modified_at": "2025-05-13T17:28:08+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12339,
+      "published": true,
+      "name": "Wishing Tree Maker's Station",
+      "priority": 100,
+      "tracks": [],
+      "tags": [
+        {
+          "slug": "type-activities",
+          "name": "Activities",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7BD673",
+          "modified_at": "2025-04-30T09:01:26+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "modified_at": "2025-05-13T17:28:00+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12323,
+      "published": true,
+      "name": "Circle Garden Theatre",
+      "priority": 100,
+      "tracks": [],
+      "tags": [
+        {
+          "slug": "type-activities",
+          "name": "Activities",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7BD673",
+          "modified_at": "2025-04-30T09:01:26+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "modified_at": "2025-05-13T17:27:52+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12320,
+      "published": true,
+      "name": "Culture Canopy",
+      "priority": 100,
+      "tracks": [],
+      "tags": [
+        {
+          "slug": "type-activities",
+          "name": "Activities",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7BD673",
+          "modified_at": "2025-04-30T09:01:26+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "modified_at": "2025-05-13T17:27:44+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    },
+    {
+      "id": 12321,
+      "published": true,
+      "name": "Sunburst Canopy",
+      "priority": 100,
+      "tracks": [],
+      "tags": [
+        {
+          "slug": "type-activities",
+          "name": "Activities",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7BD673",
+          "modified_at": "2025-04-30T09:01:26+00:00"
+        }
+      ],
+      "show_in_search": true,
+      "modified_at": "2025-05-13T17:27:31+00:00",
+      "show_section_titles": true,
+      "show_in_filter": true
+    }
+  ],
+  "_links": {
+    "self": "https://app.appmiral.com/api/v7/events/shambhalafestival/editions/shambhalafestival2025/stages?max_per_page=500"
+  },
+  "_meta": {
+    "page": 1,
+    "max_per_page": 500,
+    "page_count": 37,
+    "total_count": 37
+  }
+}
