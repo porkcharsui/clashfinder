@@ -4,24 +4,26 @@
       "id": 2040631,
       "external_id": "187852",
       "published": true,
-      "name": "Wraz",
+      "name": "Gunfingaz (Wraz & Substance)",
       "body": "Wraz & Substance are combining forces to bring you their iconic Gunfingaz Thursday in person at Shambhala Music Festival!<br />\n<br />\nComing from Sherbrooke, QC, these 2 producers have been at the forefront of the Canadian Dubstep Scene. Their legendary weekly streams have had the pleasure of hosting massive names such as INFEKT, Ternion Sound, N-type, Slimzee, the Widdler, Nomine (etc.), and have brought together an amazing online community throughout the years.<br />\n<br />\nAfter destroying dancefloors at festival such as Future Forest, Infrasound and Lightning in a Bottle, it's time for the AMP to experience the REAL DEAL with a 90m set while the sun goes down and we head into the night. PULL UP!",
       "priority": 100,
       "category": "regular",
       "image": {
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463903_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463903_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463903_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463903_performance_500.jpeg"
+        "100": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473790_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473790_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473790_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473790_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473790_performance_960.png",
+        "1080": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473790_performance_1080.png"
       },
       "hide_image_on_overview": "never",
       "hide_image_on_detail": "never",
       "links": {
         "facebook_page_id": "wrazdubs",
-        "instagram_user": "wraz_dubs",
+        "instagram_user": "substance420",
         "youtube_user": "wrazdubs",
-        "soundcloud_user": "wraz",
-        "spotify_artist_id": "67b5TsLqAzMdmtWZCy2k7D"
+        "soundcloud_user": "substance420",
+        "spotify_artist_id": "4mMszTHT28wg1CvK3TBAJg"
       },
       "performances": [
         {
@@ -44,6 +46,509 @@
           "reminder_interval": 15
         }
       ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040712,
+      "external_id": "1909152",
+      "published": true,
+      "name": "Tomahawk Bang & Notorious Cree",
+      "body": "For Tomahawk Bang, music is “Himdag” or the “way of life.” As a native of Arizona’s Onk Akimel O’odham tribe; the Salt River Pima Maricopa Indian Community, Tomahawk developed his relationship with music whilst participating in traditional ceremonies on his homeland. The deeply spiritual nature of his culture serves as one of the clearest influences and most pertinent characteristics of his music. In the world of Tomahawk Bang, the music was, is, and will always be an indigenous experience.<br />\n<br />\n“What first gets you into something, that never goes away. The initial inspiration… it’s mind blowing. You never forget.” –Tomahawk Bang<br />\n<br />\nAt the age of thirteen, Tomahawk Bang immersed himself in hip-hop culture, transforming into a hybrid of native customs and break beats. Bboying (break dance) played a major role in his development as an artist, exposing him to avenues of self-expression he had not encountered before. In the late 90’s, house music caught the ears of Tomahawk Bang and members of his famed dance collective “Sour Patch Crew.” House music opened the door for a new type of expression in movement. After years of chasing the best house music experiences within and outside the United States, attending events as a dancer was no longer enough. By 2010 Tomahawk Bang was working on the turntables, conceiving a sound all his own.<br />\n<br />\nAlthough his heart lies with DJing, Tomahawk Bang values music production as a vital parallel to his DJ career. As a DJ, Tomahawk Bang delves deep into the grimy cellars of underground Detroit Techno, Deep House, and Dub Tech, integrating world sounds, indigenous instruments, vintage audio samples, and all that is sonically intricate. A DJ set by Tomahawk Bang is a voyage to far off places, a one-way ticket to all the “strange” that the universe has to offer. As a producer, Tomahawk Bang gravitates towards complex instrumentals and experimental soundscapes. With over fifteen years of experience as a dancer, he creates music with the goal of movement in mind. Each song embodies a narrative, tracing his bloodlines back to the sacred days of the natural world. His music is the intersect point between our digital future, and his ancestral past.<br />\n<br />\nIn 2014, Tomahawk Bang released his first single “Spirit in the Water” to the bay area’s Catch the Ghost records. Closely behind were two more single releases with CTG: “Dark Emergence” and “False Pretenses,” records that exemplified Tomahawk’s momentum and growth as an electronic artist. His first EP “Spirit in the Mountain” released to Paris electronic music label BeatXChangers on May 4, 2015 and caught a wave of attention from the house music community. Amidst his accomplishments and personal aspirations in music are his plans to wholly represent the Native American community, using the “Himdag” he has cultivated to inspire the next generation of indigenous peoples to follow their passions, and express their creative talents on a larger scale.<br />\n<br />\n//James Jones is Nehiyaw (Cree) from Tall Cree First Nation in Treaty 8 Territory in Northern Alberta. Known as Notorious Cree across Instagram and TikTok, James has an engaging community of over 6M+ people globally. James uses his voice to educate and spread awareness on the issues impacting Indigenous communities across the globe. As a traditional hoop and powwow dancer, performance artist, youth workshop facilitator and public speaker, James advocates to inspire future generations by reclaiming his culture and encouraging others to do the same. Notable performances include the Winter Olympics, Juno awards, Pan Am Games, Coachella and was a previous contestant on SYTYCD Canada.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463990_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463990_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463990_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463990_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463990_performance_960.png",
+        "1080": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463990_performance_1080.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "notoriouscree",
+        "instagram_user": "notoriouscree",
+        "twitter_user": "dancer_JJ",
+        "youtube_user": "notoriouscree"
+      },
+      "performances": [
+        {
+          "id": 250092,
+          "external_id": "865600",
+          "published": true,
+          "body": "For Tomahawk Bang, music is “Himdag” or the “way of life.” As a native of Arizona’s Onk Akimel O’odham tribe; the Salt River Pima Maricopa Indian Community, Tomahawk developed his relationship with music whilst participating in traditional ceremonies on his homeland. The deeply spiritual nature of his culture serves as one of the clearest influences and most pertinent characteristics of his music. In the world of Tomahawk Bang, the music was, is, and will always be an indigenous experience.\n\n“What first gets you into something, that never goes away. The initial inspiration… it’s mind blowing. You never forget.” –Tomahawk Bang\n\nAt the age of thirteen, Tomahawk Bang immersed himself in hip-hop culture, transforming into a hybrid of native customs and break beats. Bboying (break dance) played a major role in his development as an artist, exposing him to avenues of self-expression he had not encountered before. In the late 90’s, house music caught the ears of Tomahawk Bang and members of his famed dance collective “Sour Patch Crew.” House music opened the door for a new type of expression in movement. After years of chasing the best house music experiences within and outside the United States, attending events as a dancer was no longer enough. By 2010 Tomahawk Bang was working on the turntables, conceiving a sound all his own.\n\nAlthough his heart lies with DJing, Tomahawk Bang values music production as a vital parallel to his DJ career. As a DJ, Tomahawk Bang delves deep into the grimy cellars of underground Detroit Techno, Deep House, and Dub Tech, integrating world sounds, indigenous instruments, vintage audio samples, and all that is sonically intricate. A DJ set by Tomahawk Bang is a voyage to far off places, a one-way ticket to all the “strange” that the universe has to offer. As a producer, Tomahawk Bang gravitates towards complex instrumentals and experimental soundscapes. With over fifteen years of experience as a dancer, he creates music with the goal of movement in mind. Each song embodies a narrative, tracing his bloodlines back to the sacred days of the natural world. His music is the intersect point between our digital future, and his ancestral past.\n\nIn 2014, Tomahawk Bang released his first single “Spirit in the Water” to the bay area’s Catch the Ghost records. Closely behind were two more single releases with CTG: “Dark Emergence” and “False Pretenses,” records that exemplified Tomahawk’s momentum and growth as an electronic artist. His first EP “Spirit in the Mountain” released to Paris electronic music label BeatXChangers on May 4, 2015 and caught a wave of attention from the house music community. Amidst his accomplishments and personal aspirations in music are his plans to wholly represent the Native American community, using the “Himdag” he has cultivated to inspire the next generation of indigenous peoples to follow their passions, and express their creative talents on a larger scale.\n\n//James Jones is Nehiyaw (Cree) from Tall Cree First Nation in Treaty 8 Territory in Northern Alberta. Known as Notorious Cree across Instagram and TikTok, James has an engaging community of over 6M+ people globally. James uses his voice to educate and spread awareness on the issues impacting Indigenous communities across the globe. As a traditional hoop and powwow dancer, performance artist, youth workshop facilitator and public speaker, James advocates to inspire future generations by reclaiming his culture and encouraging others to do the same. Notable performances include the Winter Olympics, Juno awards, Pan Am Games, Coachella and was a previous contestant on SYTYCD Canada.",
+          "priority": 100,
+          "artist_id": 2040712,
+          "stage_id": 12496,
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "start_time": "2025-07-27T09:00:00+00:00",
+          "end_time": "2025-07-27T11:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040774,
+      "external_id": "1916916",
+      "published": true,
+      "name": "Parkbreezy x TF Marz",
+      "body": "Parker Williams, known as parkbreezy, is a multi-instrumentalist, producer, and artist crafting soulful, emotive beats. Blending elements of Hip-Hop, R&B, Soul, Jazz, and Electronic music, his sound is defined by resampling, syncopated percussion, propulsive basslines, and heartfelt melodies. In 2017, he founded all:Lo, a Denver-based music label and collective dedicated to fostering forward-thinking, genre-blending artists. Constantly evolving, Parker refines his style by weaving together past inspirations and new techniques, pushing his artistry forward with every composition.<br />\n<br />\nTF Marz, a founding member of the Denver-based all:Lo Collective, stands at the intersection of Hip Hop and R&B sensibilities, weaving those sensibilities seamlessly with the lush and deep sounds of bass music. Imbued with the influence of Northwest’s rich bass music culture, TF’s cutting-edge selections and moody productions are like a breath of fresh air for every dance floor he rocks.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473820_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473820_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473820_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473820_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473820_performance_960.png",
+        "1080": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473820_performance_1080.png",
+        "1440": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473820_performance_1440.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "TFMarz",
+        "instagram_user": "tfmarz",
+        "twitter_user": "tfmarz_",
+        "soundcloud_user": "tfmarz",
+        "spotify_artist_id": "5ue8Z5w3uBorBDZtwhsRy2"
+      },
+      "performances": [
+        {
+          "id": 250159,
+          "external_id": "865603",
+          "published": true,
+          "body": "Parker Williams, known as parkbreezy, is a multi-instrumentalist, producer, and artist crafting soulful, emotive beats. Blending elements of Hip-Hop, R&B, Soul, Jazz, and Electronic music, his sound is defined by resampling, syncopated percussion, propulsive basslines, and heartfelt melodies. In 2017, he founded all:Lo, a Denver-based music label and collective dedicated to fostering forward-thinking, genre-blending artists. Constantly evolving, Parker refines his style by weaving together past inspirations and new techniques, pushing his artistry forward with every composition.\n\nTF Marz, a founding member of the Denver-based all:Lo Collective, stands at the intersection of Hip Hop and R&B sensibilities, weaving those sensibilities seamlessly with the lush and deep sounds of bass music. Imbued with the influence of Northwest’s rich bass music culture, TF’s cutting-edge selections and moody productions are like a breath of fresh air for every dance floor he rocks.",
+          "priority": 100,
+          "artist_id": 2040774,
+          "stage_id": 12502,
+          "date_id": 3940,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "start_time": "2025-07-28T12:30:00+00:00",
+          "end_time": "2025-07-28T14:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2044419,
+      "external_id": "1918119",
+      "published": true,
+      "name": "Subvert w/ Armanni Reign",
+      "body": "From the lunchroom tables to street corner cyphas... from battle rap competitions to hosting some of the biggest festivals in the world... the MC Armanni Reign has become one of the most versatile multi-genre MC's on the planet. Since 2004, MC Armanni Reign has become a go to recording voice regardless of genre from hosting stages with some of the world's most elite DJ's and other music acts to music recordings creating performance memories and chart topping smashers like Ray Volpe's \"Purpose\", Spag Heddy's \"Strayed UP\", Barely Alive's \"Hackers\", Riot's \"LSAR\", Zomboy's \"Outbreak\", Virtual Riot's \"Running from the Cops\" to Hybrid Trap like Stereolize's \"Paper Chaser\", A Boy and a Girl's \"Stampede\", Mark Instinct's \"The Show\", \"Suicide Pill\", and \"Pour It Out\". From STS9's \"Balancing\" to 12th Planet and The Trickaz's floor killer \"Bless That\" or smoother vibes like AC Slater x TS7's \"Step Back\", Kastle's \"Timeless\" to Mayhem and Logam's DnB roller \"We Will\", he has proven versatility is an asset. Armanni Reign has DB releases currently on RAM, ProgRAM, Gasm, Freak, Intasound, Westbay Music Group, TekDbz accompanied by Dubstep/EDM Trap releases on Monstercat, Disciple, Circus, Play Me, Never Say Die, Rotton, Uplink Audio, Buygore and Firepower as well as Hip Hop projects on SKRONG and Division. His affinity for movies and video games has translated over to the sync world. His music can be heard on AAA television and internet advertising campaigns such as \"Fast and Furious 9\", Square Enix's \"Just Cause 4\", Gearbox's \"Borderlands 3\", Ubisoft's \"Ghost Recon: Breakpoint\" and more as a solo artist or collaborative act known as Artizan with a music catalog that stretches across everything from Netflix to MTV.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473821_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473821_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473821_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473821_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473821_performance_960.png",
+        "1080": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473821_performance_1080.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {},
+      "performances": [
+        {
+          "id": 250066,
+          "external_id": "865526",
+          "published": true,
+          "body": "From the lunchroom tables to street corner cyphas... from battle rap competitions to hosting some of the biggest festivals in the world... the MC Armanni Reign has become one of the most versatile multi-genre MC's on the planet. Since 2004, MC Armanni Reign has become a go to recording voice regardless of genre from hosting stages with some of the world's most elite DJ's and other music acts to music recordings creating performance memories and chart topping smashers like Ray Volpe's \"Purpose\", Spag Heddy's \"Strayed UP\", Barely Alive's \"Hackers\", Riot's \"LSAR\", Zomboy's \"Outbreak\", Virtual Riot's \"Running from the Cops\" to Hybrid Trap like Stereolize's \"Paper Chaser\", A Boy and a Girl's \"Stampede\", Mark Instinct's \"The Show\", \"Suicide Pill\", and \"Pour It Out\". From STS9's \"Balancing\" to 12th Planet and The Trickaz's floor killer \"Bless That\" or smoother vibes like AC Slater x TS7's \"Step Back\", Kastle's \"Timeless\" to Mayhem and Logam's DnB roller \"We Will\", he has proven versatility is an asset. Armanni Reign has DB releases currently on RAM, ProgRAM, Gasm, Freak, Intasound, Westbay Music Group, TekDbz accompanied by Dubstep/EDM Trap releases on Monstercat, Disciple, Circus, Play Me, Never Say Die, Rotton, Uplink Audio, Buygore and Firepower as well as Hip Hop projects on SKRONG and Division. His affinity for movies and video games has translated over to the sync world. His music can be heard on AAA television and internet advertising campaigns such as \"Fast and Furious 9\", Square Enix's \"Just Cause 4\", Gearbox's \"Borderlands 3\", Ubisoft's \"Ghost Recon: Breakpoint\" and more as a solo artist or collaborative act known as Artizan with a music catalog that stretches across everything from Netflix to MTV.",
+          "priority": 100,
+          "artist_id": 2044419,
+          "stage_id": 12491,
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "start_time": "2025-07-26T05:00:00+00:00",
+          "end_time": "2025-07-26T06:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2044422,
+      "external_id": "187855",
+      "published": true,
+      "name": "Pineo & Loeb ft. K-OS",
+      "body": "Energetic, genre-blurring, and unstoppable on the global stage, PINEO & LOEB are the Canadian powerhouse shaping the electronic music scene. With over 100 shows annually across international hotspots, this dynamic DJ duo thrives on high-octane performances that have rocked festivals like Shambhala, Envision, Friendship, Burning Man and Escapade. <br />\n<br />\nSurpassing 10 million streams online, they've become a force to reckon with, seamlessly blending dance, hip-hop, and rock influences. Their work with Grammy winning multi-platinum producer William Orbit showcases their production prowess, while collaborations with major labels and independent artists such as Kiesza, GROUPLOVE and Olivia O'Brien underscore their versatility. Music placements include Netflix & HBO with radio support from BBC Radio 1 and numerous Sirius XM channels. <br />\n<br />\nOn top of releasing original music and remixes, PINEO & LOEB have toured extensively across North America and abroad headlining their own shows as well as supporting major international acts such as deadmau5, Steve Aoki, Zeds Dead, Marten Hørger and Dr. Fresch to name a few. <br />\n<br />\n//k-os has never been afraid to shake things up and flirt with different genres. He has worked with artists across indie-rock and rap sphere; including Sam Roberts Band, Broken Social Scene, Feist, Metric, Drake, Travie McCoy, Saukrates, Kardinal Offishall and many more. In 2003, k-os collaborated and was the featured vocalist on The Chemical Brothers’ single “Get Yourself High” (2003), which led to a Grammy nomination. He’s had numerous songs on the charts, including the three Top 10 singles: “Crabbuckit”, “Sunday Morning” and “The Man I Used to Be”. In 2020, he released a fan piece, an EP called Boshido that marked the return of k-os from a five-year hiatus. It features collaborations with his friend and fellow Canadian, Kaytranada. Later that same year he released the single “SUPERNOVAS”, co-produced by MSTRKRFT. Since the release of the track, it’s received critical acclaim with Complex saying it’s “a tailfeather-shaking slab of disco-pop.”",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473824_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473824_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473824_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473824_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473824_performance_960.png",
+        "1080": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473824_performance_1080.png",
+        "1440": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473824_performance_1440.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "kosmusic",
+        "instagram_user": "pineoandloeb/",
+        "soundcloud_user": "pineo-and-loeb/",
+        "spotify_artist_id": "3EZWlSBWlPsC8lCI2Y36Gl"
+      },
+      "performances": [
+        {
+          "id": 250136,
+          "external_id": "865699",
+          "published": true,
+          "body": "Energetic, genre-blurring, and unstoppable on the global stage, PINEO & LOEB are the Canadian powerhouse shaping the electronic music scene. With over 100 shows annually across international hotspots, this dynamic DJ duo thrives on high-octane performances that have rocked festivals like Shambhala, Envision, Friendship, Burning Man and Escapade. \n\nSurpassing 10 million streams online, they've become a force to reckon with, seamlessly blending dance, hip-hop, and rock influences. Their work with Grammy winning multi-platinum producer William Orbit showcases their production prowess, while collaborations with major labels and independent artists such as Kiesza, GROUPLOVE and Olivia O'Brien underscore their versatility. Music placements include Netflix & HBO with radio support from BBC Radio 1 and numerous Sirius XM channels. \n\nOn top of releasing original music and remixes, PINEO & LOEB have toured extensively across North America and abroad headlining their own shows as well as supporting major international acts such as deadmau5, Steve Aoki, Zeds Dead, Marten Hørger and Dr. Fresch to name a few. \n\n//k-os has never been afraid to shake things up and flirt with different genres. He has worked with artists across indie-rock and rap sphere; including Sam Roberts Band, Broken Social Scene, Feist, Metric, Drake, Travie McCoy, Saukrates, Kardinal Offishall and many more. In 2003, k-os collaborated and was the featured vocalist on The Chemical Brothers’ single “Get Yourself High” (2003), which led to a Grammy nomination. He’s had numerous songs on the charts, including the three Top 10 singles: “Crabbuckit”, “Sunday Morning” and “The Man I Used to Be”. In 2020, he released a fan piece, an EP called Boshido that marked the return of k-os from a five-year hiatus. It features collaborations with his friend and fellow Canadian, Kaytranada. Later that same year he released the single “SUPERNOVAS”, co-produced by MSTRKRFT. Since the release of the track, it’s received critical acclaim with Complex saying it’s “a tailfeather-shaking slab of disco-pop.”",
+          "priority": 100,
+          "artist_id": 2044422,
+          "stage_id": 12501,
+          "date_id": 3940,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "start_time": "2025-07-28T02:00:00+00:00",
+          "end_time": "2025-07-28T03:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040598,
+      "external_id": "1922261",
+      "published": true,
+      "name": "Basura",
+      "body": "Basura is a rising dubstep DJ known for delivering heavy, raw, and bass-driven beats that push the boundaries of the genre. Drawing influence from the darker side of dubstep, Basura creates high-energy sets that captivate audiences with their intense soundscapes and dynamic drops. His performances are a blend of underground dubstep culture and modern bass music, making him a favorite in the dubstep community. Basura's unique approach to DJing showcases his ability to create powerful, immersive experiences for fans of bass-heavy music.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473843_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473843_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473843_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473843_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473843_performance_960.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "djbasura",
+        "instagram_user": "djbasura"
+      },
+      "performances": [
+        {
+          "id": 249977,
+          "external_id": "865693",
+          "published": true,
+          "body": "Basura is a rising dubstep DJ known for delivering heavy, raw, and bass-driven beats that push the boundaries of the genre. Drawing influence from the darker side of dubstep, Basura creates high-energy sets that captivate audiences with their intense soundscapes and dynamic drops. His performances are a blend of underground dubstep culture and modern bass music, making him a favorite in the dubstep community. Basura's unique approach to DJing showcases his ability to create powerful, immersive experiences for fans of bass-heavy music.",
+          "priority": 100,
+          "artist_id": 2040598,
+          "stage_id": 12493,
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "start_time": "2025-07-27T02:30:00+00:00",
+          "end_time": "2025-07-27T03:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2044420,
+      "external_id": "167006",
+      "published": true,
+      "name": "Subvert",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473822_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473822_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473822_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473822_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "soundcloud_user": "subvert"
+      },
+      "performances": [],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2044421,
+      "external_id": "1910150",
+      "published": true,
+      "name": "Notorious Cree",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473823_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473823_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473823_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473823_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "notoriouscree/",
+        "instagram_user": "notoriouscree/",
+        "twitter_user": "dancer_JJ",
+        "youtube_user": "notoriouscree"
+      },
+      "performances": [],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2044423,
+      "external_id": "1909295",
+      "published": true,
+      "name": "TF Marz",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473825_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473825_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473825_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473825_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "TFMarz",
+        "instagram_user": "tfmarz/",
+        "twitter_user": "tfmarz_",
+        "soundcloud_user": "tfmarz",
+        "spotify_artist_id": "5ue8Z5w3uBorBDZtwhsRy2"
+      },
+      "performances": [],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040753,
+      "external_id": "1922265",
+      "published": true,
+      "name": "K-OS",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467508_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467508_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467508_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467508_performance_500.jpeg",
+        "960": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467508_performance_960.jpeg",
+        "1080": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467508_performance_1080.jpeg",
+        "1440": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467508_performance_1440.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "kosmusic",
+        "spotify_artist_id": "3EZWlSBWlPsC8lCI2Y36Gl"
+      },
+      "performances": [],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040572,
+      "external_id": "189836",
+      "published": true,
+      "name": "Substance",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463847_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463847_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463847_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463847_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "substance420",
+        "soundcloud_user": "substance420",
+        "spotify_artist_id": "4mMszTHT28wg1CvK3TBAJg"
+      },
+      "performances": [],
       "tags": [
         {
           "slug": "type-artist",
@@ -5298,68 +5803,6 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040753,
-      "external_id": "1922265",
-      "published": true,
-      "name": "K-OS",
-      "body": "Energetic, genre-blurring, and unstoppable on the global stage, PINEO & LOEB are the Canadian powerhouse shaping the electronic music scene with a sound their fans have dubbed \"Party Rocking Dance Music\". <br />\n<br />\nPerforming over 100 shows annually across extensive international tours, this dynamic DJ duo thrives on high-octane performances that have rocked festivals like Shambhala, Envision and Escapade.<br />\n<br />\nSurpassing 10 million streams online, they've become a force to reckon with, seamlessly blending dance, hip-hop, and rock influences. Their official remixes for A-listers like Sabrina Carpenter showcase their production prowess, while collaborations with major labels and independent artists such as Kiesza, GROUPLOVE and Olivia O'Brien underscore their versatility. Music placements include Netflix & HBO with radio support from BBC Radio 1 and numerous Sirius XM channels. <br />\n<br />\nPINEO & LOEB's sonic journey transcends boundaries, sharing the stage with icons like Steve Aoki, Marten Horger and Dr. Fresch. With a magnetic mix of timeless classics and cutting-edge beats, they bring an electric atmosphere wherever they go, uniting fans and leaving an indelible mark on the global music scene.<br />\n<br />\nHailing from the East coast of England, K-OS is a DJ/Producer with a love for music spanning the majority of his lifetime. From his pre-teens right through to the present day, he has taken a hands-on approach to nurture his passion and develop himself as an artist. Travelling through the spectrum of trance and traversing the high-octane world of drum and bass, K-OS now finds himself permeating the realms of house, techno and associated sub-genres. <br />\nCiting inspiration from artists like Prok | Fitch, Leftwing:Kody and Max Chapman, <br />\n<br />\nK-OS lends himself to the heavyweight end of the scale in terms of energy and cadence. His diverse dance music background is apparent in the way he plays as well as his production output; drum breaks, hard-hitting kicks and deep and heavy basslines feature prominently in his emphatically energetic musical persona.<br />\n<br />\nIn terms of releases, K-OS is beginning to make a name for himself as an established producer with releases on Rollerblaster, BOOST Weapons, Key + Needle Records and Play Nice Collective gaining him reasonable notoriety, along with an impressive result in FaderPro’s Roger Sanchez Remix Competition - where he confidently swept up second place.<br />\n<br />\nWith an increasing presence building across clubland and radio airwaves, K-OS has had the pleasure of gracing many of London’s finest club spaces including O2 Brixton Academy, Lightbox and Egg London thanks to his residency with LTR. He also holds a residency with one of the capital’s most respected dance music stations in that of Reprezent Radio, as well as having featured on the renowned Data Transmission ‘Spotlight Series’ - which also led to K-OS making his mark on the <br />\n‘Homegrown’ stage at Wilkestock Festival. <br />\n<br />\nBuilding nicely on an impressive start to his career - which has already seen him support the likes of MK, Dom Dolla, Carnao Beats, No Messin, Groovekode and many more - K-OS continues to <br />\nfocus on refining his artistic template and increasing his fanbase. With a strong work ethic and willingness to progress through the ranks, K-OS is a name to earmark for the future!",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467508_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467508_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467508_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467508_performance_500.jpeg",
-        "960": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467508_performance_960.jpeg",
-        "1080": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467508_performance_1080.jpeg",
-        "1440": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467508_performance_1440.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "kosmusic",
-        "spotify_artist_id": "3EZWlSBWlPsC8lCI2Y36Gl"
-      },
-      "performances": [
-        {
-          "id": 250136,
-          "external_id": "865699",
-          "published": true,
-          "name": "Pineo & Loeb ft. K-OS",
-          "body": "Energetic, genre-blurring, and unstoppable on the global stage, PINEO & LOEB are the Canadian powerhouse shaping the electronic music scene with a sound their fans have dubbed \"Party Rocking Dance Music\". \n\nPerforming over 100 shows annually across extensive international tours, this dynamic DJ duo thrives on high-octane performances that have rocked festivals like Shambhala, Envision and Escapade.\n\nSurpassing 10 million streams online, they've become a force to reckon with, seamlessly blending dance, hip-hop, and rock influences. Their official remixes for A-listers like Sabrina Carpenter showcase their production prowess, while collaborations with major labels and independent artists such as Kiesza, GROUPLOVE and Olivia O'Brien underscore their versatility. Music placements include Netflix & HBO with radio support from BBC Radio 1 and numerous Sirius XM channels. \n\nPINEO & LOEB's sonic journey transcends boundaries, sharing the stage with icons like Steve Aoki, Marten Horger and Dr. Fresch. With a magnetic mix of timeless classics and cutting-edge beats, they bring an electric atmosphere wherever they go, uniting fans and leaving an indelible mark on the global music scene.\n\nHailing from the East coast of England, K-OS is a DJ/Producer with a love for music spanning the majority of his lifetime. From his pre-teens right through to the present day, he has taken a hands-on approach to nurture his passion and develop himself as an artist. Travelling through the spectrum of trance and traversing the high-octane world of drum and bass, K-OS now finds himself permeating the realms of house, techno and associated sub-genres. \nCiting inspiration from artists like Prok | Fitch, Leftwing:Kody and Max Chapman, \n\nK-OS lends himself to the heavyweight end of the scale in terms of energy and cadence. His diverse dance music background is apparent in the way he plays as well as his production output; drum breaks, hard-hitting kicks and deep and heavy basslines feature prominently in his emphatically energetic musical persona.\n\nIn terms of releases, K-OS is beginning to make a name for himself as an established producer with releases on Rollerblaster, BOOST Weapons, Key + Needle Records and Play Nice Collective gaining him reasonable notoriety, along with an impressive result in FaderPro’s Roger Sanchez Remix Competition - where he confidently swept up second place.\n\nWith an increasing presence building across clubland and radio airwaves, K-OS has had the pleasure of gracing many of London’s finest club spaces including O2 Brixton Academy, Lightbox and Egg London thanks to his residency with LTR. He also holds a residency with one of the capital’s most respected dance music stations in that of Reprezent Radio, as well as having featured on the renowned Data Transmission ‘Spotlight Series’ - which also led to K-OS making his mark on the \n‘Homegrown’ stage at Wilkestock Festival. \n\nBuilding nicely on an impressive start to his career - which has already seen him support the likes of MK, Dom Dolla, Carnao Beats, No Messin, Groovekode and many more - K-OS continues to \nfocus on refining his artistic template and increasing his fanbase. With a strong work ethic and willingness to progress through the ranks, K-OS is a name to earmark for the future!",
-          "priority": 100,
-          "artist_id": 2040753,
-          "stage_id": 12501,
-          "date_id": 3940,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "start_time": "2025-07-28T02:00:00+00:00",
-          "end_time": "2025-07-28T03:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2040574,
       "external_id": "1920566",
       "published": true,
@@ -7759,66 +8202,6 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040712,
-      "external_id": "1909152",
-      "published": true,
-      "name": "Tomahawk Bang",
-      "body": "For Tomahawk Bang, music is “Himdag” or the “way of life.” As a native of Arizona’s Onk Akimel O’odham tribe; the Salt River Pima Maricopa Indian Community, Tomahawk developed his relationship with music whilst participating in traditional ceremonies on his homeland. The deeply spiritual nature of his culture serves as one of the clearest influences and most pertinent characteristics of his music. In the world of Tomahawk Bang, the music was, is, and will always be an indigenous experience.<br />\n<br />\n“What first gets you into something, that never goes away. The initial inspiration… it’s mind blowing. You never forget.” –Tomahawk Bang<br />\n<br />\nAt the age of thirteen, Tomahawk Bang immersed himself in hip-hop culture, transforming into a hybrid of native customs and break beats. Bboying (break dance) played a major role in his development as an artist, exposing him to avenues of self-expression he had not encountered before. In the late 90’s, house music caught the ears of Tomahawk Bang and members of his famed dance collective “Sour Patch Crew.” House music opened the door for a new type of expression in movement. After years of chasing the best house music experiences within and outside the United States, attending events as a dancer was no longer enough. By 2010 Tomahawk Bang was working on the turntables, conceiving a sound all his own.<br />\n<br />\nAlthough his heart lies with DJing, Tomahawk Bang values music production as a vital parallel to his DJ career. As a DJ, Tomahawk Bang delves deep into the grimy cellars of underground Detroit Techno, Deep House, and Dub Tech, integrating world sounds, indigenous instruments, vintage audio samples, and all that is sonically intricate. A DJ set by Tomahawk Bang is a voyage to far off places, a one-way ticket to all the “strange” that the universe has to offer. As a producer, Tomahawk Bang gravitates towards complex instrumentals and experimental soundscapes. With over fifteen years of experience as a dancer, he creates music with the goal of movement in mind. Each song embodies a narrative, tracing his bloodlines back to the sacred days of the natural world. His music is the intersect point between our digital future, and his ancestral past.<br />\n<br />\nIn 2014, Tomahawk Bang released his first single “Spirit in the Water” to the bay area’s Catch the Ghost records. Closely behind were two more single releases with CTG: “Dark Emergence” and “False Pretenses,” records that exemplified Tomahawk’s momentum and growth as an electronic artist. His first EP “Spirit in the Mountain” released to Paris electronic music label BeatXChangers on May 4, 2015 and caught a wave of attention from the house music community. Amidst his accomplishments and personal aspirations in music are his plans to wholly represent the Native American community, using the “Himdag” he has cultivated to inspire the next generation of indigenous peoples to follow their passions, and express their creative talents on a larger scale.<br />\n<br />\nJames Jones is Nehiyaw (Cree) from Tall Cree First Nation in Treaty 8 Territory in Northern Alberta. Known as Notorious Cree across Instagram and TikTok, James has an engaging community of over 6M+ people globally. James uses his voice to educate and spread awareness on the issues impacting Indigenous communities across the globe. As a traditional hoop and powwow dancer, performance artist, youth workshop facilitator and public speaker, James advocates to inspire future generations by reclaiming his culture and encouraging others to do the same. Notable performances include the Winter Olympics, Juno awards, Pan Am Games, Coachella and was a previous contestant on SYTYCD Canada.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463990_performance_100.png",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463990_performance_120.png",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463990_performance_250.png",
-        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463990_performance_500.png",
-        "960": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463990_performance_960.png",
-        "1080": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463990_performance_1080.png"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "tomahawkbang"
-      },
-      "performances": [
-        {
-          "id": 250092,
-          "external_id": "865600",
-          "published": true,
-          "name": "Tomahawk Bang & Notorious Cree",
-          "body": "For Tomahawk Bang, music is “Himdag” or the “way of life.” As a native of Arizona’s Onk Akimel O’odham tribe; the Salt River Pima Maricopa Indian Community, Tomahawk developed his relationship with music whilst participating in traditional ceremonies on his homeland. The deeply spiritual nature of his culture serves as one of the clearest influences and most pertinent characteristics of his music. In the world of Tomahawk Bang, the music was, is, and will always be an indigenous experience.\n\n“What first gets you into something, that never goes away. The initial inspiration… it’s mind blowing. You never forget.” –Tomahawk Bang\n\nAt the age of thirteen, Tomahawk Bang immersed himself in hip-hop culture, transforming into a hybrid of native customs and break beats. Bboying (break dance) played a major role in his development as an artist, exposing him to avenues of self-expression he had not encountered before. In the late 90’s, house music caught the ears of Tomahawk Bang and members of his famed dance collective “Sour Patch Crew.” House music opened the door for a new type of expression in movement. After years of chasing the best house music experiences within and outside the United States, attending events as a dancer was no longer enough. By 2010 Tomahawk Bang was working on the turntables, conceiving a sound all his own.\n\nAlthough his heart lies with DJing, Tomahawk Bang values music production as a vital parallel to his DJ career. As a DJ, Tomahawk Bang delves deep into the grimy cellars of underground Detroit Techno, Deep House, and Dub Tech, integrating world sounds, indigenous instruments, vintage audio samples, and all that is sonically intricate. A DJ set by Tomahawk Bang is a voyage to far off places, a one-way ticket to all the “strange” that the universe has to offer. As a producer, Tomahawk Bang gravitates towards complex instrumentals and experimental soundscapes. With over fifteen years of experience as a dancer, he creates music with the goal of movement in mind. Each song embodies a narrative, tracing his bloodlines back to the sacred days of the natural world. His music is the intersect point between our digital future, and his ancestral past.\n\nIn 2014, Tomahawk Bang released his first single “Spirit in the Water” to the bay area’s Catch the Ghost records. Closely behind were two more single releases with CTG: “Dark Emergence” and “False Pretenses,” records that exemplified Tomahawk’s momentum and growth as an electronic artist. His first EP “Spirit in the Mountain” released to Paris electronic music label BeatXChangers on May 4, 2015 and caught a wave of attention from the house music community. Amidst his accomplishments and personal aspirations in music are his plans to wholly represent the Native American community, using the “Himdag” he has cultivated to inspire the next generation of indigenous peoples to follow their passions, and express their creative talents on a larger scale.\n\nJames Jones is Nehiyaw (Cree) from Tall Cree First Nation in Treaty 8 Territory in Northern Alberta. Known as Notorious Cree across Instagram and TikTok, James has an engaging community of over 6M+ people globally. James uses his voice to educate and spread awareness on the issues impacting Indigenous communities across the globe. As a traditional hoop and powwow dancer, performance artist, youth workshop facilitator and public speaker, James advocates to inspire future generations by reclaiming his culture and encouraging others to do the same. Notable performances include the Winter Olympics, Juno awards, Pan Am Games, Coachella and was a previous contestant on SYTYCD Canada.",
-          "priority": 100,
-          "artist_id": 2040712,
-          "stage_id": 12496,
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "start_time": "2025-07-27T09:00:00+00:00",
-          "end_time": "2025-07-27T11:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2040722,
       "external_id": "1922260",
       "published": true,
@@ -8826,67 +9209,6 @@
           "show_in_calendar": true,
           "start_time": "2025-07-28T11:00:00+00:00",
           "end_time": "2025-07-28T12:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040774,
-      "external_id": "1916916",
-      "published": true,
-      "name": "Parkbreezy",
-      "body": "Parker Williams, known as parkbreezy, is a multi-instrumentalist, producer, and artist crafting soulful, emotive beats. Blending elements of Hip-Hop, R&B, Soul, Jazz, and Electronic music, his sound is defined by resampling, syncopated percussion, propulsive basslines, and heartfelt melodies. In 2017, he founded all:Lo, a Denver-based music label and collective dedicated to fostering forward-thinking, genre-blending artists. Constantly evolving, Parker refines his style by weaving together past inspirations and new techniques, pushing his artistry forward with every composition.<br />\n<br />\nTF Marz, a founding member of the Denver-based all:Lo Collective, stands at the intersection of Hip Hop and R&B sensibilities, weaving those sensibilities seamlessly with the lush and deep sounds of bass music. Imbued with the influence of Northwest’s rich bass music culture, TF’s cutting-edge selections and moody productions are like a breath of fresh air for every dance floor he rocks.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464041_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464041_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464041_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464041_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "parkbreezy",
-        "instagram_user": "parkbreezy",
-        "twitter_user": "parkbreezy_",
-        "spotify_artist_id": "3iaq6BFgf3TeH9gQfIoyUH"
-      },
-      "performances": [
-        {
-          "id": 250159,
-          "external_id": "865603",
-          "published": true,
-          "name": "Parkbreezy x TF Marz",
-          "body": "Parker Williams, known as parkbreezy, is a multi-instrumentalist, producer, and artist crafting soulful, emotive beats. Blending elements of Hip-Hop, R&B, Soul, Jazz, and Electronic music, his sound is defined by resampling, syncopated percussion, propulsive basslines, and heartfelt melodies. In 2017, he founded all:Lo, a Denver-based music label and collective dedicated to fostering forward-thinking, genre-blending artists. Constantly evolving, Parker refines his style by weaving together past inspirations and new techniques, pushing his artistry forward with every composition.\n\nTF Marz, a founding member of the Denver-based all:Lo Collective, stands at the intersection of Hip Hop and R&B sensibilities, weaving those sensibilities seamlessly with the lush and deep sounds of bass music. Imbued with the influence of Northwest’s rich bass music culture, TF’s cutting-edge selections and moody productions are like a breath of fresh air for every dance floor he rocks.",
-          "priority": 100,
-          "artist_id": 2040774,
-          "stage_id": 12502,
-          "date_id": 3940,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "start_time": "2025-07-28T12:30:00+00:00",
-          "end_time": "2025-07-28T14:00:00+00:00",
           "show_image_in_schedule": true,
           "hide_end_time": false,
           "reminder_interval": 15
@@ -11554,25 +11876,6 @@
           "show_in_calendar": true,
           "start_time": "2025-07-26T04:30:00+00:00",
           "end_time": "2025-07-26T05:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        },
-        {
-          "id": 250066,
-          "external_id": "865526",
-          "published": true,
-          "name": "Subvert w/ Armanni Reign",
-          "body": "From the lunchroom tables to street corner cyphas... from battle rap competitions to hosting some of the biggest festivals in the world... the MC Armanni Reign has become one of the most versatile multi-genre MC's on the planet. Since 2004, MC Armanni Reign has become a go to recording voice regardless of genre from hosting stages with some of the world's most elite DJ's and other music acts to music recordings creating performance memories and chart topping smashers like Ray Volpe's \"Purpose\", Spag Heddy's \"Strayed UP\", Barely Alive's \"Hackers\", Riot's \"LSAR\", Zomboy's \"Outbreak\", Virtual Riot's \"Running from the Cops\" to Hybrid Trap like Stereolize's \"Paper Chaser\", A Boy and a Girl's \"Stampede\", Mark Instinct's \"The Show\", \"Suicide Pill\", and \"Pour It Out\". From STS9's \"Balancing\" to 12th Planet and The Trickaz's floor killer \"Bless That\" or smoother vibes like AC Slater x TS7's \"Step Back\", Kastle's \"Timeless\" to Mayhem and Logam's DnB roller \"We Will\", he has proven versatility is an asset. Armanni Reign has DB releases currently on RAM, ProgRAM, Gasm, Freak, Intasound, Westbay Music Group, TekDbz accompanied by Dubstep/EDM Trap releases on Monstercat, Disciple, Circus, Play Me, Never Say Die, Rotton, Uplink Audio, Buygore and Firepower as well as Hip Hop projects on SKRONG and Division. His affinity for movies and video games has translated over to the sync world. His music can be heard on AAA television and internet advertising campaigns such as \"Fast and Furious 9\", Square Enix's \"Just Cause 4\", Gearbox's \"Borderlands 3\", Ubisoft's \"Ghost Recon: Breakpoint\" and more as a solo artist or collaborative act known as Artizan with a music catalog that stretches across everything from Netflix to MTV.",
-          "priority": 100,
-          "artist_id": 2040686,
-          "stage_id": 12491,
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "start_time": "2025-07-26T05:00:00+00:00",
-          "end_time": "2025-07-26T06:00:00+00:00",
           "show_image_in_schedule": true,
           "hide_end_time": false,
           "reminder_interval": 15
@@ -17488,10 +17791,6 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040572,
-      "deleted_at": "2025-05-30T16:01:53+00:00"
-    },
-    {
       "id": 2040575,
       "external_id": "1918415",
       "published": true,
@@ -18238,63 +18537,6 @@
           "show_in_calendar": true,
           "start_time": "2025-07-27T01:30:00+00:00",
           "end_time": "2025-07-27T02:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040598,
-      "external_id": "1922261",
-      "published": true,
-      "name": "Basura",
-      "body": "Basura is a rising dubstep DJ known for delivering heavy, raw, and bass-driven beats that push the boundaries of the genre. Drawing influence from the darker side of dubstep, Basura creates high-energy sets that captivate audiences with their intense soundscapes and dynamic drops. His performances are a blend of underground dubstep culture and modern bass music, making him a favorite in the dubstep community. Basura's unique approach to DJing showcases his ability to create powerful, immersive experiences for fans of bass-heavy music.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463868_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463868_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463868_performance_250.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "djbasura",
-        "instagram_user": "djbasura"
-      },
-      "performances": [
-        {
-          "id": 249977,
-          "external_id": "865693",
-          "published": true,
-          "body": "Basura is a rising dubstep DJ known for delivering heavy, raw, and bass-driven beats that push the boundaries of the genre. Drawing influence from the darker side of dubstep, Basura creates high-energy sets that captivate audiences with their intense soundscapes and dynamic drops. His performances are a blend of underground dubstep culture and modern bass music, making him a favorite in the dubstep community. Basura's unique approach to DJing showcases his ability to create powerful, immersive experiences for fans of bass-heavy music.",
-          "priority": 100,
-          "artist_id": 2040598,
-          "stage_id": 12493,
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "start_time": "2025-07-27T02:30:00+00:00",
-          "end_time": "2025-07-27T03:30:00+00:00",
           "show_image_in_schedule": true,
           "hide_end_time": false,
           "reminder_interval": 15
@@ -19227,7 +19469,7 @@
   "_meta": {
     "page": 1,
     "max_per_page": 500,
-    "page_count": 301,
-    "total_count": 301
+    "page_count": 306,
+    "total_count": 306
   }
 }
