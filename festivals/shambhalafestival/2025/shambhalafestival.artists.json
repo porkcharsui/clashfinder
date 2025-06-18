@@ -311,6 +311,69 @@
       "allow_favoriting": true
     },
     {
+      "id": 2040638,
+      "external_id": "1922398",
+      "published": true,
+      "name": "Mood Swing & Chevy Bass ft. Wilma",
+      "body": "Mood Swing and Chevy Bass have cemented their spot as one of Australia's most entertaining live acts and the undisputed party starters of the festival scene. The genre bending live electronic duo conduct their shows like ringmasters of a circus, encouraging crowds to surrender their inhibitions to the rhythm and let loose their inner party animals. Their unique brand of electronic bass music crosses over and infuses multiple genres while they live remix on the spot. Their trademark sets are described as funky in the front and filthy in the back and will take you on a journey, kicking off with bass, funk and disco infused party jams and flowing all the way though to filthy & fat house bass lines, all while adding their multi-instrumental skills to give each show a unique live flavour.<br />\n<br />\nBut it's not only their music that has been getting bodies moving and chins wagging. With a penchant for costumes and theatrics, each live show is crafted uniquely, featuring wailing keytars, electronic samplers, tribal percussion, banging horn sections or electric cello. You name it, you're sure to see it at a Mood Swing & Chevy Bass show.Since their inception in<br />\n2015 they have entertained crowds across the globe in the USA,Canada, Europe, New Zealand and home in Australia, playing the likes of Texas EclipseFestival (USA) Boomtown Fair (UK), RainbowSerpent (VIC), Splendour in the Grass, and Strawberry Fields, just to name a few. After two successful tours of Canada, including a slot at the legendary Fractal Forest<br />\nat Shambhala Festival, they are gearing up to release their debut collaboration with Opiuo on heavyweight label Westwood Recordings.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473922_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473922_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473922_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473922_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473922_performance_960.png",
+        "1080": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473922_performance_1080.png",
+        "1440": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473922_performance_1440.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "moodswingandchevybass/",
+        "youtube_user": "MoodSwingChevyBass",
+        "soundcloud_user": "moodswingandchevybass",
+        "spotify_artist_id": "0NLjdoyxSgFP5KBfNdzfLU"
+      },
+      "performances": [
+        {
+          "id": 250016,
+          "external_id": "866063",
+          "published": true,
+          "body": "Mood Swing and Chevy Bass have cemented their spot as one of Australia's most entertaining live acts and the undisputed party starters of the festival scene. The genre bending live electronic duo conduct their shows like ringmasters of a circus, encouraging crowds to surrender their inhibitions to the rhythm and let loose their inner party animals. Their unique brand of electronic bass music crosses over and infuses multiple genres while they live remix on the spot. Their trademark sets are described as funky in the front and filthy in the back and will take you on a journey, kicking off with bass, funk and disco infused party jams and flowing all the way though to filthy & fat house bass lines, all while adding their multi-instrumental skills to give each show a unique live flavour.\n\nBut it's not only their music that has been getting bodies moving and chins wagging. With a penchant for costumes and theatrics, each live show is crafted uniquely, featuring wailing keytars, electronic samplers, tribal percussion, banging horn sections or electric cello. You name it, you're sure to see it at a Mood Swing & Chevy Bass show.Since their inception in\n2015 they have entertained crowds across the globe in the USA,Canada, Europe, New Zealand and home in Australia, playing the likes of Texas EclipseFestival (USA) Boomtown Fair (UK), RainbowSerpent (VIC), Splendour in the Grass, and Strawberry Fields, just to name a few. After two successful tours of Canada, including a slot at the legendary Fractal Forest\nat Shambhala Festival, they are gearing up to release their debut collaboration with Opiuo on heavyweight label Westwood Recordings.",
+          "priority": 100,
+          "artist_id": 2040638,
+          "stage_id": 12487,
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "start_time": "2025-07-26T03:00:00+00:00",
+          "end_time": "2025-07-26T04:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2040598,
       "external_id": "1922261",
       "published": true,
@@ -11165,66 +11228,6 @@
           "show_in_calendar": true,
           "start_time": "2025-07-25T06:00:00+00:00",
           "end_time": "2025-07-25T07:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040638,
-      "external_id": "1922398",
-      "published": true,
-      "name": "Mood Swing & Chevy Bass ft. Wilma",
-      "body": "Mood Swing and Chevy Bass have cemented their spot as one of Australia's most entertaining live acts and the undisputed party starters of the festival scene. The genre bending live electronic duo conduct their shows like ringmasters of a circus, encouraging crowds to surrender their inhibitions to the rhythm and let loose their inner party animals. Their unique brand of electronic bass music crosses over and infuses multiple genres while they live remix on the spot. Their trademark sets are described as funky in the front and filthy in the back and will take you on a journey, kicking off with bass, funk and disco infused party jams and flowing all the way though to filthy & fat house bass lines, all while adding their multi-instrumental skills to give each show a unique live flavour.<br />\n<br />\nBut it's not only their music that has been getting bodies moving and chins wagging. With a penchant for costumes and theatrics, each live show is crafted uniquely, featuring wailing keytars, electronic samplers, tribal percussion, banging horn sections or electric cello. You name it, you're sure to see it at a Mood Swing & Chevy Bass show.Since their inception in<br />\n2015 they have entertained crowds across the globe in the USA,Canada, Europe, New Zealand and home in Australia, playing the likes of Texas EclipseFestival (USA) Boomtown Fair (UK), RainbowSerpent (VIC), Splendour in the Grass, and Strawberry Fields, just to name a few. After two successful tours of Canada, including a slot at the legendary Fractal Forest<br />\nat Shambhala Festival, they are gearing up to release their debut collaboration with Opiuo on heavyweight label Westwood Recordings.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464252_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464252_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464252_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464252_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "moodswingandchevybass/",
-        "youtube_user": "MoodSwingChevyBass",
-        "soundcloud_user": "moodswingandchevybass",
-        "spotify_artist_id": "0NLjdoyxSgFP5KBfNdzfLU"
-      },
-      "performances": [
-        {
-          "id": 250016,
-          "external_id": "866063",
-          "published": true,
-          "body": "Mood Swing and Chevy Bass have cemented their spot as one of Australia's most entertaining live acts and the undisputed party starters of the festival scene. The genre bending live electronic duo conduct their shows like ringmasters of a circus, encouraging crowds to surrender their inhibitions to the rhythm and let loose their inner party animals. Their unique brand of electronic bass music crosses over and infuses multiple genres while they live remix on the spot. Their trademark sets are described as funky in the front and filthy in the back and will take you on a journey, kicking off with bass, funk and disco infused party jams and flowing all the way though to filthy & fat house bass lines, all while adding their multi-instrumental skills to give each show a unique live flavour.\n\nBut it's not only their music that has been getting bodies moving and chins wagging. With a penchant for costumes and theatrics, each live show is crafted uniquely, featuring wailing keytars, electronic samplers, tribal percussion, banging horn sections or electric cello. You name it, you're sure to see it at a Mood Swing & Chevy Bass show.Since their inception in\n2015 they have entertained crowds across the globe in the USA,Canada, Europe, New Zealand and home in Australia, playing the likes of Texas EclipseFestival (USA) Boomtown Fair (UK), RainbowSerpent (VIC), Splendour in the Grass, and Strawberry Fields, just to name a few. After two successful tours of Canada, including a slot at the legendary Fractal Forest\nat Shambhala Festival, they are gearing up to release their debut collaboration with Opiuo on heavyweight label Westwood Recordings.",
-          "priority": 100,
-          "artist_id": 2040638,
-          "stage_id": 12487,
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "start_time": "2025-07-26T03:00:00+00:00",
-          "end_time": "2025-07-26T04:00:00+00:00",
           "show_image_in_schedule": true,
           "hide_end_time": false,
           "reminder_interval": 15
