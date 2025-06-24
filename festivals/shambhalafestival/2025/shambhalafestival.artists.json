@@ -73,12 +73,13 @@
       "priority": 100,
       "category": "regular",
       "image": {
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463990_performance_100.png",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463990_performance_120.png",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463990_performance_250.png",
-        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463990_performance_500.png",
-        "960": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463990_performance_960.png",
-        "1080": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463990_performance_1080.png"
+        "100": "https://media.appmiral.com/prod/performance/0055/79/thumb_5478040_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/79/thumb_5478040_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/79/thumb_5478040_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/79/thumb_5478040_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0055/79/thumb_5478040_performance_960.png",
+        "1080": "https://media.appmiral.com/prod/performance/0055/79/thumb_5478040_performance_1080.png",
+        "1440": "https://media.appmiral.com/prod/performance/0055/79/thumb_5478040_performance_1440.png"
       },
       "hide_image_on_overview": "never",
       "hide_image_on_detail": "never",
@@ -256,13 +257,13 @@
       "priority": 100,
       "category": "regular",
       "image": {
-        "100": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473824_performance_100.png",
-        "120": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473824_performance_120.png",
-        "250": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473824_performance_250.png",
-        "500": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473824_performance_500.png",
-        "960": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473824_performance_960.png",
-        "1080": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473824_performance_1080.png",
-        "1440": "https://media.appmiral.com/prod/performance/0055/74/thumb_5473824_performance_1440.png"
+        "100": "https://media.appmiral.com/prod/performance/0055/79/thumb_5478041_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/79/thumb_5478041_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/79/thumb_5478041_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/79/thumb_5478041_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0055/79/thumb_5478041_performance_960.png",
+        "1080": "https://media.appmiral.com/prod/performance/0055/79/thumb_5478041_performance_1080.png",
+        "1440": "https://media.appmiral.com/prod/performance/0055/79/thumb_5478041_performance_1440.png"
       },
       "hide_image_on_overview": "never",
       "hide_image_on_detail": "never",
@@ -287,6 +288,63 @@
           "show_in_calendar": true,
           "start_time": "2025-07-28T02:00:00+00:00",
           "end_time": "2025-07-28T03:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040705,
+      "external_id": "167020",
+      "published": true,
+      "name": "Fluxo",
+      "body": "You never know what you’re going to hear during a FLUXO DJ set. He has long been touted as your girlfriend’s favourite Dj and has played many sets at Shambhala going back as far as 2001. He is known for his spontaneous and vulnerable clashes of genres, which will either clear the Dancefloor or leave your jaw on it.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464249_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464249_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464249_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464249_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "soundcloud_user": "djfluxo"
+      },
+      "performances": [
+        {
+          "id": 250084,
+          "external_id": "865937",
+          "published": true,
+          "body": "You never know what you’re going to hear during a FLUXO DJ set. He has long been touted as your girlfriend’s favourite Dj and has played many sets at Shambhala going back as far as 2001. He is known for his spontaneous and vulnerable clashes of genres, which will either clear the Dancefloor or leave your jaw on it.",
+          "priority": 100,
+          "artist_id": 2040705,
+          "stage_id": 12496,
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "start_time": "2025-07-27T00:30:00+00:00",
+          "end_time": "2025-07-27T02:15:00+00:00",
           "show_image_in_schedule": true,
           "hide_end_time": false,
           "reminder_interval": 15
@@ -10934,63 +10992,6 @@
           "show_in_calendar": true,
           "start_time": "2025-07-25T19:00:00+00:00",
           "end_time": "2025-07-25T20:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040705,
-      "external_id": "167020",
-      "published": true,
-      "name": "Fluxo",
-      "body": "Fluxo Brings over 15 years of DJ experience and has played numerous festivals all over North America, From Oregon Eclipse Festival to Shambhala Music Festival. Known for Introducing you to some of your favourite songs. You never know what you’ll get from this eclectic selector. Fluxo always brings something extra special for those willing to stay up till the early hours.<br />\nSpinning techno and house since 1994, Dj GRUBB was a product of the late 90s Winnipeg rave scene where he honed his craft and skills playing house and techno sounds on three turntables, and promoting many warehouse, big room raves and numerous night club events. DJ GRUBB has also been a regular performer at the MEMETIC festival in Winnipeg for the last 7 years.<br />\n<br />\nIn 2005 DJ GRUBB moved back to his hometown of Medicine Hat, where he has been promoting shows and playing numerous parties, nightclubs and lounges keeping this community's electronic music scene alive for the last 15yrs.<br />\n<br />\nSpinning the finest sounds of house, tech house, and techno with no limits to the range of variety, GRUBB brings the vibes that will be sure to have your booty percolating.GRUBB ( Medicine Hat, AB -- Bass N Beats productions, Blunt Tribe Collective)<br />\n<br />\nSpinning techno and house since 1994, Dj GRUBB was a product of the late 90s Winnipeg rave scene where he honed his craft and skills playing house and techno sounds on three turntables, and promoting many warehouse, big room raves and numerous night club events. DJ GRUBB has also been a regular performer at the MEMETIC festival in Winnipeg for the last 7 years.<br />\n<br />\nIn 2005 DJ GRUBB moved back to his hometown of Medicine Hat, where he has been promoting shows and playing numerous parties, nightclubs and lounges keeping this community's electronic music scene alive for the last 15yrs.<br />\n<br />\nLast year Grubb spread his sounds to the amazing wubs in the woods festival, boogie nights festival and headlined NYE in Saskatoon 2023.<br />\n<br />\nSpinning the finest sounds of house, tech house, and techno with no limits to the range of variety, GRUBB brings the vibes that will be sure to have your booty percolating.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464249_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464249_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464249_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464249_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "soundcloud_user": "djfluxo"
-      },
-      "performances": [
-        {
-          "id": 250084,
-          "external_id": "865937",
-          "published": true,
-          "body": "Fluxo Brings over 15 years of DJ experience and has played numerous festivals all over North America, From Oregon Eclipse Festival to Shambhala Music Festival. Known for Introducing you to some of your favourite songs. You never know what you’ll get from this eclectic selector. Fluxo always brings something extra special for those willing to stay up till the early hours.\nSpinning techno and house since 1994, Dj GRUBB was a product of the late 90s Winnipeg rave scene where he honed his craft and skills playing house and techno sounds on three turntables, and promoting many warehouse, big room raves and numerous night club events. DJ GRUBB has also been a regular performer at the MEMETIC festival in Winnipeg for the last 7 years.\n\nIn 2005 DJ GRUBB moved back to his hometown of Medicine Hat, where he has been promoting shows and playing numerous parties, nightclubs and lounges keeping this community's electronic music scene alive for the last 15yrs.\n\nSpinning the finest sounds of house, tech house, and techno with no limits to the range of variety, GRUBB brings the vibes that will be sure to have your booty percolating.GRUBB ( Medicine Hat, AB -- Bass N Beats productions, Blunt Tribe Collective)\n\nSpinning techno and house since 1994, Dj GRUBB was a product of the late 90s Winnipeg rave scene where he honed his craft and skills playing house and techno sounds on three turntables, and promoting many warehouse, big room raves and numerous night club events. DJ GRUBB has also been a regular performer at the MEMETIC festival in Winnipeg for the last 7 years.\n\nIn 2005 DJ GRUBB moved back to his hometown of Medicine Hat, where he has been promoting shows and playing numerous parties, nightclubs and lounges keeping this community's electronic music scene alive for the last 15yrs.\n\nLast year Grubb spread his sounds to the amazing wubs in the woods festival, boogie nights festival and headlined NYE in Saskatoon 2023.\n\nSpinning the finest sounds of house, tech house, and techno with no limits to the range of variety, GRUBB brings the vibes that will be sure to have your booty percolating.",
-          "priority": 100,
-          "artist_id": 2040705,
-          "stage_id": 12496,
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "start_time": "2025-07-27T00:30:00+00:00",
-          "end_time": "2025-07-27T02:15:00+00:00",
           "show_image_in_schedule": true,
           "hide_end_time": false,
           "reminder_interval": 15
