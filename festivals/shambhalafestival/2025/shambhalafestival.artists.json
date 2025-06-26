@@ -1,6 +1,83 @@
 {
   "data": [
     {
+      "id": 2047355,
+      "external_id": "1922087",
+      "published": true,
+      "name": "The Troy Story 3",
+      "body": "For the last 5 years, The Troy Story 3 has been living in the jungles of Costa Rica perfecting his arts of sound and movement with his experiences “Recalibrate Auditory Alignments” and “Assomatic Release Therapy (ART)”.<br />\n<br />\nTrained in different dance and movement modalities from ballet and contemporary, to hip hop and contact improve for the last ten years, Troy has found the beauty of shaking to help release stress and trauma in a fun, sweaty, and exciting way!<br />\n<br />\nWhile as a musician for several years and lead singer of bands of two very different genres, Troy also grew up in the church culture learning gospel, and has travelled to the ancient sites of India and Egypt to learn more in depth tonalities to stir the soul’s awakening conversation with Spirit.<br />\n<br />\nHe rather refers to himself as a sound therapist than healer, as he believes it negates the responsibility of participants to find the courage to heal themselves with the help of unseen forces working for the highest and greatest good.<br />\n<br />\nYou can follow him on Instagram at @TheTroyStory3",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0055/82/thumb_5481523_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/82/thumb_5481523_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/82/thumb_5481523_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/82/thumb_5481523_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "TheTroyStory3"
+      },
+      "performances": [
+        {
+          "id": 250114,
+          "external_id": "866223",
+          "published": true,
+          "name": "Sound Healing with The Troy Story 3",
+          "body": "For the last 5 years, The Troy Story 3 has been living in the jungles of Costa Rica perfecting his arts of sound and movement with his experiences “Recalibrate Auditory Alignments” and “Assomatic Release Therapy (ART)”.\n\nTrained in different dance and movement modalities from ballet and contemporary, to hip hop and contact improve for the last ten years, Troy has found the beauty of shaking to help release stress and trauma in a fun, sweaty, and exciting way!\n\nWhile as a musician for several years and lead singer of bands of two very different genres, Troy also grew up in the church culture learning gospel, and has travelled to the ancient sites of India and Egypt to learn more in depth tonalities to stir the soul’s awakening conversation with Spirit.\n\nHe rather refers to himself as a sound therapist than healer, as he believes it negates the responsibility of participants to find the courage to heal themselves with the help of unseen forces working for the highest and greatest good.\n\nYou can follow him on Instagram at @TheTroyStory3",
+          "priority": 100,
+          "artist_id": 2047355,
+          "stage_id": 12499,
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "start_time": "2025-07-26T19:00:00+00:00",
+          "end_time": "2025-07-26T20:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        },
+        {
+          "id": 250205,
+          "external_id": "866231",
+          "published": true,
+          "name": "Assomatic Release Twerkshop with The Troy Story 3",
+          "body": "For the last 5 years, The Troy Story 3 has been living in the jungles of Costa Rica perfecting his arts of sound and movement with his experiences “Recalibrate Auditory Alignments” and “Assomatic Release Therapy (ART)”.\n\nTrained in different dance and movement modalities from ballet and contemporary, to hip hop and contact improve for the last ten years, Troy has found the beauty of shaking to help release stress and trauma in a fun, sweaty, and exciting way!\n\nWhile as a musician for several years and lead singer of bands of two very different genres, Troy also grew up in the church culture learning gospel, and has travelled to the ancient sites of India and Egypt to learn more in depth tonalities to stir the soul’s awakening conversation with Spirit.\n\nHe rather refers to himself as a sound therapist than healer, as he believes it negates the responsibility of participants to find the courage to heal themselves with the help of unseen forces working for the highest and greatest good.\n\nYou can follow him on Instagram at @TheTroyStory3",
+          "priority": 100,
+          "artist_id": 2047355,
+          "stage_id": 12506,
+          "date_id": 3940,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "start_time": "2025-07-27T23:00:00+00:00",
+          "end_time": "2025-07-28T00:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2040631,
       "external_id": "187852",
       "published": true,
@@ -19225,44 +19302,6 @@
           "show_image_in_schedule": true,
           "hide_end_time": false,
           "reminder_interval": 15
-        },
-        {
-          "id": 250114,
-          "external_id": "866223",
-          "published": true,
-          "name": "Sound Healing with The Troy Story 3",
-          "body": "John Early is an author, yogi, singer-songwriter and founder of ViYarte Retreat Center in Nicaragua and cofounder of Momentom Collective. He is delighted to be back leading various workshops at Shambhala for the 6th year and to continue to add depth and playful embodiment to the wild experience that is Shambhala.\n\nYou can follow John’s adventures on Instagram @johntearly and for more info on his projects visit www.johnearly.ca and www.viyarte.com  \n\n//Brenna Bote is a personal coach and Founder of Pure Living Yoga and Sweat Chill Be. Her mission is to help bring intentional movement and healing practices into people’s life and to connect people inspiring change around their community. \n\nFor more info on Brenna’s projects and online classes visit www.purelivingyoga.com and www.sweatchillbe.com\n\n//Matt Yausie is from Saskatoon SK where he owns and operates a gym space. At 10 Training & Athletics he provides personal training, coaching, online programming and mobility. He also duals as a yoga teacher at Pure Living Yoga. Matt is known from his athletics career in the sport of football. He brings a high energy, positive attitude, knowledge and motivation that impacts others. In the gym, yoga studio, or dance floor as a dj, Matt always shares his authenticity and compassion with others. You may remember him from last years Transformational Reset Ecstatic Yoga workshop at the Secret Garden. Be sure to check out his workshop this year if you want to Ascend in the realm of yoga, music, healing and dance.",
-          "priority": 100,
-          "artist_id": 2040692,
-          "stage_id": 12499,
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "start_time": "2025-07-26T19:00:00+00:00",
-          "end_time": "2025-07-26T20:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        },
-        {
-          "id": 250205,
-          "external_id": "866231",
-          "published": true,
-          "name": "Assomatic Release Twerkshop with The Troy Story 3",
-          "body": "//John Early is an author, yogi, singer-songwriter and founder of ViYarte Retreat Center in Nicaragua and cofounder of Momentom Collective. He is delighted to be back leading various workshops at Shambhala for the 6th year and to continue to add depth and playful embodiment to the wild experience that is Shambhala.\n\nYou can follow John’s adventures on Instagram @johntearly and for more info on his projects visit www.johnearly.ca and www.viyarte.com \n\n//Brenna Bote is a personal coach and Founder of Pure Living Yoga and Sweat Chill Be. Her mission is to help bring intentional movement and healing practices into people’s life and to connect people inspiring change around their community. \n\nFor more info on Brenna’s projects and online classes visit www.purelivingyoga.com and www.sweatchillbe.com\n\n//Matt Yausie is from Saskatoon SK where he owns and operates a gym space. At 10 Training & Athletics he provides personal training, coaching, online programming and mobility. He also duals as a yoga teacher at Pure Living Yoga. Matt is known from his athletics career in the sport of football. He brings a high energy, positive attitude, knowledge and motivation that impacts others. In the gym, yoga studio, or dance floor as a dj, Matt always shares his authenticity and compassion with others. You may remember him from last years Transformational Reset Ecstatic Yoga workshop at the Secret Garden. Be sure to check out his workshop this year if you want to Ascend in the realm of yoga, music, healing and dance.",
-          "priority": 100,
-          "artist_id": 2040692,
-          "stage_id": 12506,
-          "date_id": 3940,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "start_time": "2025-07-27T23:00:00+00:00",
-          "end_time": "2025-07-28T00:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
         }
       ],
       "tags": [
@@ -28375,7 +28414,7 @@
   "_meta": {
     "page": 1,
     "max_per_page": 500,
-    "page_count": 306,
-    "total_count": 306
+    "page_count": 307,
+    "total_count": 307
   }
 }
