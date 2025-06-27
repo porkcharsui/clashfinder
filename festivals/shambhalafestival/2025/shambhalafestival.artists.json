@@ -1,83 +1,6 @@
 {
   "data": [
     {
-      "id": 2047355,
-      "external_id": "1922087",
-      "published": true,
-      "name": "The Troy Story 3",
-      "body": "For the last 5 years, The Troy Story 3 has been living in the jungles of Costa Rica perfecting his arts of sound and movement with his experiences “Recalibrate Auditory Alignments” and “Assomatic Release Therapy (ART)”.<br />\n<br />\nTrained in different dance and movement modalities from ballet and contemporary, to hip hop and contact improve for the last ten years, Troy has found the beauty of shaking to help release stress and trauma in a fun, sweaty, and exciting way!<br />\n<br />\nWhile as a musician for several years and lead singer of bands of two very different genres, Troy also grew up in the church culture learning gospel, and has travelled to the ancient sites of India and Egypt to learn more in depth tonalities to stir the soul’s awakening conversation with Spirit.<br />\n<br />\nHe rather refers to himself as a sound therapist than healer, as he believes it negates the responsibility of participants to find the courage to heal themselves with the help of unseen forces working for the highest and greatest good.<br />\n<br />\nYou can follow him on Instagram at @TheTroyStory3",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0055/82/thumb_5481523_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/82/thumb_5481523_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/82/thumb_5481523_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/82/thumb_5481523_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "TheTroyStory3"
-      },
-      "performances": [
-        {
-          "id": 250114,
-          "external_id": "866223",
-          "published": true,
-          "name": "Sound Healing with The Troy Story 3",
-          "body": "For the last 5 years, The Troy Story 3 has been living in the jungles of Costa Rica perfecting his arts of sound and movement with his experiences “Recalibrate Auditory Alignments” and “Assomatic Release Therapy (ART)”.\n\nTrained in different dance and movement modalities from ballet and contemporary, to hip hop and contact improve for the last ten years, Troy has found the beauty of shaking to help release stress and trauma in a fun, sweaty, and exciting way!\n\nWhile as a musician for several years and lead singer of bands of two very different genres, Troy also grew up in the church culture learning gospel, and has travelled to the ancient sites of India and Egypt to learn more in depth tonalities to stir the soul’s awakening conversation with Spirit.\n\nHe rather refers to himself as a sound therapist than healer, as he believes it negates the responsibility of participants to find the courage to heal themselves with the help of unseen forces working for the highest and greatest good.\n\nYou can follow him on Instagram at @TheTroyStory3",
-          "priority": 100,
-          "artist_id": 2047355,
-          "stage_id": 12499,
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "start_time": "2025-07-26T19:00:00+00:00",
-          "end_time": "2025-07-26T20:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        },
-        {
-          "id": 250205,
-          "external_id": "866231",
-          "published": true,
-          "name": "Assomatic Release Twerkshop with The Troy Story 3",
-          "body": "For the last 5 years, The Troy Story 3 has been living in the jungles of Costa Rica perfecting his arts of sound and movement with his experiences “Recalibrate Auditory Alignments” and “Assomatic Release Therapy (ART)”.\n\nTrained in different dance and movement modalities from ballet and contemporary, to hip hop and contact improve for the last ten years, Troy has found the beauty of shaking to help release stress and trauma in a fun, sweaty, and exciting way!\n\nWhile as a musician for several years and lead singer of bands of two very different genres, Troy also grew up in the church culture learning gospel, and has travelled to the ancient sites of India and Egypt to learn more in depth tonalities to stir the soul’s awakening conversation with Spirit.\n\nHe rather refers to himself as a sound therapist than healer, as he believes it negates the responsibility of participants to find the courage to heal themselves with the help of unseen forces working for the highest and greatest good.\n\nYou can follow him on Instagram at @TheTroyStory3",
-          "priority": 100,
-          "artist_id": 2047355,
-          "stage_id": 12506,
-          "date_id": 3940,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "start_time": "2025-07-27T23:00:00+00:00",
-          "end_time": "2025-07-28T00:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2040631,
       "external_id": "187852",
       "published": true,
@@ -648,6 +571,83 @@
           "image_url": "https://i.scdn.co/image/ab67616d00001e0269358222aeded74c050e38f4"
         }
       ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2047355,
+      "external_id": "1922087",
+      "published": true,
+      "name": "The Troy Story 3",
+      "body": "For the last 5 years, The Troy Story 3 has been living in the jungles of Costa Rica perfecting his arts of sound and movement with his experiences “Recalibrate Auditory Alignments” and “Assomatic Release Therapy (ART)”.<br />\n<br />\nTrained in different dance and movement modalities from ballet and contemporary, to hip hop and contact improve for the last ten years, Troy has found the beauty of shaking to help release stress and trauma in a fun, sweaty, and exciting way!<br />\n<br />\nWhile as a musician for several years and lead singer of bands of two very different genres, Troy also grew up in the church culture learning gospel, and has travelled to the ancient sites of India and Egypt to learn more in depth tonalities to stir the soul’s awakening conversation with Spirit.<br />\n<br />\nHe rather refers to himself as a sound therapist than healer, as he believes it negates the responsibility of participants to find the courage to heal themselves with the help of unseen forces working for the highest and greatest good.<br />\n<br />\nYou can follow him on Instagram at @TheTroyStory3",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0055/82/thumb_5481523_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/82/thumb_5481523_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/82/thumb_5481523_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/82/thumb_5481523_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "TheTroyStory3"
+      },
+      "performances": [
+        {
+          "id": 250114,
+          "external_id": "866223",
+          "published": true,
+          "name": "Sound Healing with The Troy Story 3",
+          "body": "For the last 5 years, The Troy Story 3 has been living in the jungles of Costa Rica perfecting his arts of sound and movement with his experiences “Recalibrate Auditory Alignments” and “Assomatic Release Therapy (ART)”.\n\nTrained in different dance and movement modalities from ballet and contemporary, to hip hop and contact improve for the last ten years, Troy has found the beauty of shaking to help release stress and trauma in a fun, sweaty, and exciting way!\n\nWhile as a musician for several years and lead singer of bands of two very different genres, Troy also grew up in the church culture learning gospel, and has travelled to the ancient sites of India and Egypt to learn more in depth tonalities to stir the soul’s awakening conversation with Spirit.\n\nHe rather refers to himself as a sound therapist than healer, as he believes it negates the responsibility of participants to find the courage to heal themselves with the help of unseen forces working for the highest and greatest good.\n\nYou can follow him on Instagram at @TheTroyStory3",
+          "priority": 100,
+          "artist_id": 2047355,
+          "stage_id": 12499,
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "start_time": "2025-07-26T19:00:00+00:00",
+          "end_time": "2025-07-26T20:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        },
+        {
+          "id": 250205,
+          "external_id": "866231",
+          "published": true,
+          "name": "Assomatic Release Twerkshop with The Troy Story 3",
+          "body": "For the last 5 years, The Troy Story 3 has been living in the jungles of Costa Rica perfecting his arts of sound and movement with his experiences “Recalibrate Auditory Alignments” and “Assomatic Release Therapy (ART)”.\n\nTrained in different dance and movement modalities from ballet and contemporary, to hip hop and contact improve for the last ten years, Troy has found the beauty of shaking to help release stress and trauma in a fun, sweaty, and exciting way!\n\nWhile as a musician for several years and lead singer of bands of two very different genres, Troy also grew up in the church culture learning gospel, and has travelled to the ancient sites of India and Egypt to learn more in depth tonalities to stir the soul’s awakening conversation with Spirit.\n\nHe rather refers to himself as a sound therapist than healer, as he believes it negates the responsibility of participants to find the courage to heal themselves with the help of unseen forces working for the highest and greatest good.\n\nYou can follow him on Instagram at @TheTroyStory3",
+          "priority": 100,
+          "artist_id": 2047355,
+          "stage_id": 12506,
+          "date_id": 3940,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "start_time": "2025-07-27T23:00:00+00:00",
+          "end_time": "2025-07-28T00:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
