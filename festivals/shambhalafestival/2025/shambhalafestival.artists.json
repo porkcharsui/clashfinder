@@ -578,6 +578,64 @@
       "allow_favoriting": true
     },
     {
+      "id": 2040691,
+      "external_id": "1916908",
+      "published": true,
+      "name": "Church of Central Raving",
+      "body": "Start your Shambhala off right and join us for the raviest church service on the planet!  <br />\nAt C.O.C.R. We share practical tips to help you party smarter, dole out ancient rave wisdom and play dope music from every genre. This wildly irreverent and randomly fun “church service” is meant for everyone: first timers and festival fiends alike.  It is designed in a format that is friendly for those of us with very limited attention spans. The service includes variety show type performances, hilarious comedy bits and rave oriented sermons mixed with soulful sounds and all the best beats.   <br />\n<br />\nThe sweetest part of this wacky workshop is that THERE ARE NO RULES!  You can do whatever you want, as long as you do it with love: come and go as you please, join in and dance your ass off, share your own inspirations or just stand back and observe the hilarity and chaos that ensues.   <br />\nAll Praise the Rave!",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463974_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463974_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463974_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463974_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "church_of_central_raving/"
+      },
+      "performances": [
+        {
+          "id": 250071,
+          "external_id": "866219",
+          "published": true,
+          "name": "Church of Central Raving with Raverand Giovanni and Tianna J",
+          "body": "Start your Shambhala off right and join us for the raviest church service on the planet!  \nAt C.O.C.R. We share practical tips to help you party smarter, dole out ancient rave wisdom and play dope music from every genre. This wildly irreverent and randomly fun “church service” is meant for everyone: first timers and festival fiends alike.  It is designed in a format that is friendly for those of us with very limited attention spans. The service includes variety show type performances, hilarious comedy bits and rave oriented sermons mixed with soulful sounds and all the best beats.   \n\nThe sweetest part of this wacky workshop is that THERE ARE NO RULES!  You can do whatever you want, as long as you do it with love: come and go as you please, join in and dance your ass off, share your own inspirations or just stand back and observe the hilarity and chaos that ensues.   \nAll Praise the Rave!",
+          "priority": 100,
+          "artist_id": 2040691,
+          "stage_id": 12492,
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "start_time": "2025-07-25T20:30:00+00:00",
+          "end_time": "2025-07-25T22:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2047355,
       "external_id": "1922087",
       "published": true,
@@ -23366,64 +23424,6 @@
           "show_in_calendar": true,
           "start_time": "2025-07-25T19:00:00+00:00",
           "end_time": "2025-07-25T20:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040691,
-      "external_id": "1916908",
-      "published": true,
-      "name": "Church of Central Raving",
-      "body": "Start your Shambhala off right and join us for the raviest church service on the planet!  <br />\nAt C.O.C.R. We share practical tips to help you party smarter, dole out ancient rave wisdom and play dope music from every genre. This wildly irreverent and randomly fun “church service” is meant for everyone: first timers and festival fiends alike.  It is designed in a format that is friendly for those of us with very limited attention spans. The service includes variety show type performances, hilarious comedy bits and rave oriented sermons mixed with soulful sounds and all the best beats.   <br />\n<br />\nThe sweetest part of this wacky workshop is that THERE ARE NO RULES!  You can do whatever you want, as long as you do it with love: come and go as you please, join in and dance your ass off, share your own inspirations or just stand back and observe the hilarity and chaos that ensues.   <br />\nAll Praise the Rave!",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463974_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463974_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463974_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463974_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "church_of_central_raving/"
-      },
-      "performances": [
-        {
-          "id": 250071,
-          "external_id": "866219",
-          "published": true,
-          "name": "Church of Central Raving with Giovanni Jaft",
-          "body": "Start your Shambhala off right and join us for the raviest church service on the planet!  \nAt C.O.C.R. We share practical tips to help you party smarter, dole out ancient rave wisdom and play dope music from every genre. This wildly irreverent and randomly fun “church service” is meant for everyone: first timers and festival fiends alike.  It is designed in a format that is friendly for those of us with very limited attention spans. The service includes variety show type performances, hilarious comedy bits and rave oriented sermons mixed with soulful sounds and all the best beats.   \n\nThe sweetest part of this wacky workshop is that THERE ARE NO RULES!  You can do whatever you want, as long as you do it with love: come and go as you please, join in and dance your ass off, share your own inspirations or just stand back and observe the hilarity and chaos that ensues.   \nAll Praise the Rave!",
-          "priority": 100,
-          "artist_id": 2040691,
-          "stage_id": 12492,
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "start_time": "2025-07-25T20:30:00+00:00",
-          "end_time": "2025-07-25T22:00:00+00:00",
           "show_image_in_schedule": true,
           "hide_end_time": false,
           "reminder_interval": 15
