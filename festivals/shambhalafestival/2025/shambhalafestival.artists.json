@@ -578,6 +578,68 @@
       "allow_favoriting": true
     },
     {
+      "id": 2040724,
+      "external_id": "1922371",
+      "published": true,
+      "name": "Father Son",
+      "body": "FATHER SON is a collaboration between FATHER (LAW), a visual artist stepping into sound, and SON (KÖL), a seasoned DJ and producer.<br />\n<br />\nTogether, they merge two creative worlds and generations into a dynamic dialogue. Rooted in trust and curiosity, their music flows freely across genres - from driving techno to raw rock - with no boundaries or expectations.<br />\n<br />\nTheir sets are honest explorations, reflecting a process more than a product. It’s about breaking down roles and letting the sound lead.<br />\n<br />\nUnconventional, unfiltered, and unapologetically real.<br />\n<br />\nTwo minds. As one.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0055/83/thumb_5482155_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/83/thumb_5482155_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/83/thumb_5482155_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/83/thumb_5482155_performance_500.jpeg",
+        "960": "https://media.appmiral.com/prod/performance/0055/83/thumb_5482155_performance_960.jpeg",
+        "1080": "https://media.appmiral.com/prod/performance/0055/83/thumb_5482155_performance_1080.jpeg",
+        "1440": "https://media.appmiral.com/prod/performance/0055/83/thumb_5482155_performance_1440.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "wearefatherson/",
+        "instagram_user": "theycallmekol",
+        "soundcloud_user": "wearefatherson"
+      },
+      "performances": [
+        {
+          "id": 250104,
+          "external_id": "865974",
+          "published": true,
+          "body": "FATHER SON is a collaboration between FATHER (LAW), a visual artist stepping into sound, and SON (KÖL), a seasoned DJ and producer.\n\nTogether, they merge two creative worlds and generations into a dynamic dialogue. Rooted in trust and curiosity, their music flows freely across genres - from driving techno to raw rock - with no boundaries or expectations.\n\nTheir sets are honest explorations, reflecting a process more than a product. It’s about breaking down roles and letting the sound lead.\n\nUnconventional, unfiltered, and unapologetically real.\n\nTwo minds. As one.",
+          "priority": 100,
+          "artist_id": 2040724,
+          "stage_id": 12497,
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "start_time": "2025-07-27T12:00:00+00:00",
+          "end_time": "2025-07-27T13:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2040691,
       "external_id": "1916908",
       "published": true,
@@ -21709,66 +21771,6 @@
           "show_in_calendar": true,
           "start_time": "2025-07-27T09:15:00+00:00",
           "end_time": "2025-07-27T10:45:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040724,
-      "external_id": "1922371",
-      "published": true,
-      "name": "Father Son",
-      "body": "FATHER SON is the rare fusion of bloodline and beat - where KÖL, a seasoned DJ, teaches his Father LAW, a visual artist, the craft of sound. <br />\n<br />\nBorn from a bond rooted in love, respect, and growth, their sets and music, blur the lines of genre from, techno to rock. <br />\n<br />\nSharing their journey of pushing though boundaries of the norm. Two minds. As one. FATHER SON.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464245_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464245_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464245_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464245_performance_500.jpeg",
-        "960": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464245_performance_960.jpeg",
-        "1080": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464245_performance_1080.jpeg",
-        "1440": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464245_performance_1440.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "father.son.music"
-      },
-      "performances": [
-        {
-          "id": 250104,
-          "external_id": "865974",
-          "published": true,
-          "body": "FATHER SON is the rare fusion of bloodline and beat - where KÖL, a seasoned DJ, teaches his Father LAW, a visual artist, the craft of sound. \n\nBorn from a bond rooted in love, respect, and growth, their sets and music, blur the lines of genre from, techno to rock. \n\nSharing their journey of pushing though boundaries of the norm. Two minds. As one. FATHER SON.",
-          "priority": 100,
-          "artist_id": 2040724,
-          "stage_id": 12497,
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "start_time": "2025-07-27T12:00:00+00:00",
-          "end_time": "2025-07-27T13:00:00+00:00",
           "show_image_in_schedule": true,
           "hide_end_time": false,
           "reminder_interval": 15
