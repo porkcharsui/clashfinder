@@ -578,6 +578,74 @@
       "allow_favoriting": true
     },
     {
+      "id": 2040734,
+      "external_id": "1922480",
+      "published": true,
+      "name": "Gina Dukovnik",
+      "body": "Gina is a Yoga teacher from the wild kootenay region, where nature and ritual meet in everyday life. She brings grounded wisdom, soulful presence and embodied fire to every practice. Step onto the mat as sacred ground and meet yourself in ceremony. Rooted in ritual yoga is an intentional flow that blends breath and movement to cultivate your inner fire on the mat and on the dance floor. Ignite you Agni (inner flame) to burn through the old and embody your next evolution.",
+      "priority": 100,
+      "category": "regular",
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {},
+      "performances": [
+        {
+          "id": 250115,
+          "external_id": "866224",
+          "published": true,
+          "name": "Rooted in Ritual Yoga with Gina Bukovnik",
+          "body": "Gina is a Yoga teacher from the wild kootenay region, where nature and ritual meet in everyday life. She brings grounded wisdom, soulful presence and embodied fire to every practice. Step onto the mat as sacred ground and meet yourself in ceremony. Rooted in ritual yoga is an intentional flow that blends breath and movement to cultivate your inner fire on the mat and on the dance floor. Ignite you Agni (inner flame) to burn through the old and embody your next evolution.",
+          "priority": 100,
+          "artist_id": 2040734,
+          "stage_id": 12499,
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "start_time": "2025-07-26T20:30:00+00:00",
+          "end_time": "2025-07-26T22:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        },
+        {
+          "id": 250116,
+          "external_id": "866234",
+          "published": true,
+          "name": "Getting High on Your Own Supply with Cody Crawford",
+          "priority": 100,
+          "artist_id": 2040734,
+          "stage_id": 12499,
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "start_time": "2025-07-26T22:00:00+00:00",
+          "end_time": "2025-07-26T23:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2037961,
       "published": true,
       "name": "Shambhala Attractions Team",
@@ -16382,73 +16450,6 @@
           "show_in_calendar": true,
           "start_time": "2025-07-28T02:00:00+00:00",
           "end_time": "2025-07-28T03:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040734,
-      "external_id": "1922480",
-      "published": true,
-      "name": "Gina Dukovnik",
-      "body": "",
-      "priority": 100,
-      "category": "regular",
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {},
-      "performances": [
-        {
-          "id": 250115,
-          "external_id": "866224",
-          "published": true,
-          "name": "Rooted in Ritual Yoga with Gina Bukovnik",
-          "priority": 100,
-          "artist_id": 2040734,
-          "stage_id": 12499,
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "start_time": "2025-07-26T20:30:00+00:00",
-          "end_time": "2025-07-26T22:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        },
-        {
-          "id": 250116,
-          "external_id": "866234",
-          "published": true,
-          "name": "Getting High on Your Own Supply with Cody Crawford",
-          "priority": 100,
-          "artist_id": 2040734,
-          "stage_id": 12499,
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "start_time": "2025-07-26T22:00:00+00:00",
-          "end_time": "2025-07-26T23:30:00+00:00",
           "show_image_in_schedule": true,
           "hide_end_time": false,
           "reminder_interval": 15
