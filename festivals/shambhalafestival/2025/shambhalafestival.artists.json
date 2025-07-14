@@ -578,6 +578,10 @@
       "allow_favoriting": true
     },
     {
+      "id": 2040744,
+      "deleted_at": "2025-07-13T20:02:12+00:00"
+    },
+    {
       "id": 2040734,
       "external_id": "1922480",
       "published": true,
@@ -17013,66 +17017,6 @@
           "show_in_calendar": true,
           "start_time": "2025-07-27T10:00:00+00:00",
           "end_time": "2025-07-27T11:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040744,
-      "external_id": "1921311",
-      "published": true,
-      "name": "Soukii",
-      "body": "Florida-based DJ Soukii is a diligent student of sound systems, club music, and the culture that breeds them. With a crate as deep as they come, he celebrates the roots and foundation of dance & bass music in his sets as he weaves together a myriad of genres with an emphasis on Garage, 4x4 club music, breakbeats & DnB. As he mixes with undeniable finesse you can always expect the unexpected in a soukii set.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464015_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464015_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464015_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464015_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "soukiibass",
-        "instagram_user": "soukiibass",
-        "twitter_user": "soukiibass",
-        "soundcloud_user": "soukiibass"
-      },
-      "performances": [
-        {
-          "id": 250126,
-          "external_id": "865711",
-          "published": true,
-          "body": "Florida-based DJ Soukii is a diligent student of sound systems, club music, and the culture that breeds them. With a crate as deep as they come, he celebrates the roots and foundation of dance & bass music in his sets as he weaves together a myriad of genres with an emphasis on Garage, 4x4 club music, breakbeats & DnB. As he mixes with undeniable finesse you can always expect the unexpected in a soukii set.",
-          "priority": 100,
-          "artist_id": 2040744,
-          "stage_id": 12500,
-          "date_id": 3940,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "start_time": "2025-07-28T01:30:00+00:00",
-          "end_time": "2025-07-28T02:30:00+00:00",
           "show_image_in_schedule": true,
           "hide_end_time": false,
           "reminder_interval": 15
