@@ -578,6 +578,135 @@
       "allow_favoriting": true
     },
     {
+      "id": 2041222,
+      "published": true,
+      "name": "Miles Kroeker",
+      "body": "<p><span data-sheets-root=\"1\">These morning yoga classes will awaken the body, mind & spirit and prepare them for the day of discovery ahead. Expect traditional yoga postures, focus on breath and some encouragement to explore what feels in playful service to your own being.</span></p>",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467997_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467997_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467997_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467997_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467997_performance_960.png",
+        "1080": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467997_performance_1080.png",
+        "1440": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467997_performance_1440.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "website": "https://www.kinshira.com/",
+        "instagram_user": "mklifeov"
+      },
+      "performances": [
+        {
+          "id": 251351,
+          "published": true,
+          "name": "Awaken Yoga & Flow",
+          "body": "<p><span data-sheets-root=\"1\">These morning yoga classes will awaken the body, mind & spirit and prepare them for the day of discovery ahead. Expect traditional yoga postures, focus on breath and some encouragement to explore what feels in playful service to your own being.</span></p><p><span data-sheets-root=\"1\">Note: This class will be taking place at both the Culture Canopy and the Sunburst Canopy, at the same time, with the same instructor.</span></p>",
+          "priority": 100,
+          "artist_id": 2041222,
+          "stage_id": 12321,
+          "date_id": 4327,
+          "show_in_schedule": true,
+          "show_in_line_up": false,
+          "show_in_calendar": true,
+          "start_time": "2025-07-22T17:00:00+00:00",
+          "end_time": "2025-07-22T18:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        },
+        {
+          "id": 251689,
+          "deleted_at": "2025-06-10T21:55:28+00:00"
+        },
+        {
+          "id": 251701,
+          "deleted_at": "2025-06-10T21:56:20+00:00"
+        },
+        {
+          "id": 251709,
+          "deleted_at": "2025-06-12T16:21:45+00:00"
+        },
+        {
+          "id": 251735,
+          "published": true,
+          "name": "Awaken Yoga & Flow",
+          "body": "<p><span data-sheets-root=\"1\">These morning yoga classes will awaken the body, mind & spirit and prepare them for the day of discovery ahead. Expect traditional yoga postures, focus on breath and some encouragement to explore what feels in playful service to your own being.</span></p>",
+          "priority": 100,
+          "artist_id": 2041222,
+          "stage_id": 12322,
+          "date_id": 4325,
+          "show_in_schedule": true,
+          "show_in_line_up": false,
+          "show_in_calendar": true,
+          "start_time": "2025-07-24T17:00:00+00:00",
+          "end_time": "2025-07-24T18:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        },
+        {
+          "id": 252053,
+          "deleted_at": "2025-06-10T22:04:49+00:00"
+        },
+        {
+          "id": 252105,
+          "published": true,
+          "name": "Awaken Yoga & Flow",
+          "body": "<p><span data-sheets-root=\"1\">These morning yoga classes will awaken the body, mind & spirit and prepare them for the day of discovery ahead. Expect traditional yoga postures, focus on breath and some encouragement to explore what feels in playful service to your own being.</span></p><p><span data-sheets-root=\"1\">Note: This class will be taking place at both the Culture Canopy and the Sunburst Canopy, at the same time, with the same instructor.</span></p>",
+          "priority": 100,
+          "artist_id": 2041222,
+          "stage_id": 12321,
+          "date_id": 3940,
+          "show_in_schedule": true,
+          "show_in_line_up": false,
+          "show_in_calendar": true,
+          "start_time": "2025-07-27T17:00:00+00:00",
+          "end_time": "2025-07-27T18:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        },
+        {
+          "id": 267937,
+          "published": true,
+          "name": "Awaken Yoga & Flow",
+          "body": "<p>These morning yoga classes will awaken the body, mind & spirit and prepare them for the day of discovery ahead. Expect traditional yoga postures, focus on breath and some encouragement to explore what feels in playful service to your own being.</p>",
+          "priority": 100,
+          "artist_id": 2041222,
+          "stage_id": 12321,
+          "date_id": 4326,
+          "show_in_schedule": true,
+          "show_in_line_up": false,
+          "show_in_calendar": true,
+          "start_time": "2025-07-23T17:00:00+00:00",
+          "end_time": "2025-07-23T18:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-activities",
+          "name": "Activities",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7BD673"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": false,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2040744,
       "deleted_at": "2025-07-13T20:02:12+00:00"
     },
@@ -24426,117 +24555,6 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2041222,
-      "published": true,
-      "name": "Miles Kroeker",
-      "body": "<p><span data-sheets-root=\"1\">These morning yoga classes will awaken the body, mind & spirit and prepare them for the day of discovery ahead. Expect traditional yoga postures, focus on breath and some encouragement to explore what feels in playful service to your own being.</span></p>",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467997_performance_100.png",
-        "120": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467997_performance_120.png",
-        "250": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467997_performance_250.png",
-        "500": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467997_performance_500.png",
-        "960": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467997_performance_960.png",
-        "1080": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467997_performance_1080.png",
-        "1440": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467997_performance_1440.png"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "website": "https://www.kinshira.com/",
-        "instagram_user": "mklifeov"
-      },
-      "performances": [
-        {
-          "id": 251351,
-          "published": true,
-          "name": "Awaken Yoga & Flow",
-          "body": "<p><span data-sheets-root=\"1\">These morning yoga classes will awaken the body, mind & spirit and prepare them for the day of discovery ahead. Expect traditional yoga postures, focus on breath and some encouragement to explore what feels in playful service to your own being.</span></p><p><span data-sheets-root=\"1\">Note: This class will be taking place at both the Culture Canopy and the Sunburst Canopy, at the same time, with the same instructor.</span></p>",
-          "priority": 100,
-          "artist_id": 2041222,
-          "stage_id": 12321,
-          "date_id": 4327,
-          "show_in_schedule": true,
-          "show_in_line_up": false,
-          "show_in_calendar": true,
-          "start_time": "2025-07-22T17:00:00+00:00",
-          "end_time": "2025-07-22T18:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        },
-        {
-          "id": 251689,
-          "deleted_at": "2025-06-10T21:55:28+00:00"
-        },
-        {
-          "id": 251701,
-          "deleted_at": "2025-06-10T21:56:20+00:00"
-        },
-        {
-          "id": 251709,
-          "deleted_at": "2025-06-12T16:21:45+00:00"
-        },
-        {
-          "id": 251735,
-          "published": true,
-          "name": "Awaken Yoga & Flow",
-          "body": "<p><span data-sheets-root=\"1\">These morning yoga classes will awaken the body, mind & spirit and prepare them for the day of discovery ahead. Expect traditional yoga postures, focus on breath and some encouragement to explore what feels in playful service to your own being.</span></p>",
-          "priority": 100,
-          "artist_id": 2041222,
-          "stage_id": 12322,
-          "date_id": 4325,
-          "show_in_schedule": true,
-          "show_in_line_up": false,
-          "show_in_calendar": true,
-          "start_time": "2025-07-24T17:00:00+00:00",
-          "end_time": "2025-07-24T18:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        },
-        {
-          "id": 252053,
-          "deleted_at": "2025-06-10T22:04:49+00:00"
-        },
-        {
-          "id": 252105,
-          "published": true,
-          "name": "Awaken Yoga & Flow",
-          "body": "<p><span data-sheets-root=\"1\">These morning yoga classes will awaken the body, mind & spirit and prepare them for the day of discovery ahead. Expect traditional yoga postures, focus on breath and some encouragement to explore what feels in playful service to your own being.</span></p><p><span data-sheets-root=\"1\">Note: This class will be taking place at both the Culture Canopy and the Sunburst Canopy, at the same time, with the same instructor.</span></p>",
-          "priority": 100,
-          "artist_id": 2041222,
-          "stage_id": 12321,
-          "date_id": 3940,
-          "show_in_schedule": true,
-          "show_in_line_up": false,
-          "show_in_calendar": true,
-          "start_time": "2025-07-27T17:00:00+00:00",
-          "end_time": "2025-07-27T18:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-activities",
-          "name": "Activities",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "color": "#7BD673"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": false,
       "show_section_titles": true,
       "allow_favoriting": true
     },
