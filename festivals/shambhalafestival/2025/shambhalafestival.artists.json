@@ -578,6 +578,75 @@
       "allow_favoriting": true
     },
     {
+      "id": 2040734,
+      "external_id": "1922480",
+      "published": true,
+      "name": "Gina Dukovnik",
+      "body": "Gina is a Yoga teacher from the wild kootenay region, where nature and ritual meet in everyday life. She brings grounded wisdom, soulful presence and embodied fire to every practice. Step onto the mat as sacred ground and meet yourself in ceremony. Rooted in ritual yoga is an intentional flow that blends breath and movement to cultivate your inner fire on the mat and on the dance floor. Ignite you Agni (inner flame) to burn through the old and embody your next evolution.",
+      "priority": 100,
+      "category": "regular",
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {},
+      "performances": [
+        {
+          "id": 250115,
+          "external_id": "866224",
+          "published": true,
+          "name": "Rooted in Ritual Yoga with Gina Bukovnik",
+          "body": "Gina is a Yoga teacher from the wild kootenay region, where nature and ritual meet in everyday life. She brings grounded wisdom, soulful presence and embodied fire to every practice. Step onto the mat as sacred ground and meet yourself in ceremony. Rooted in ritual yoga is an intentional flow that blends breath and movement to cultivate your inner fire on the mat and on the dance floor. Ignite you Agni (inner flame) to burn through the old and embody your next evolution.",
+          "priority": 100,
+          "artist_id": 2040734,
+          "stage_id": 12499,
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "start_time": "2025-07-26T20:30:00+00:00",
+          "end_time": "2025-07-26T22:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        },
+        {
+          "id": 250116,
+          "external_id": "866234",
+          "published": true,
+          "name": "Getting High on Your Own Supply with Cody Crawford",
+          "body": "Cody is a breathwork facilitator, men’s work leader, and nature-based guide with a gift for helping people reconnect to their bodies, breath, and inner strength. After three years of leading transformational men’s circles in Los Angeles, he now blends nervous system regulation, somatic release, and cold exposure to create powerful, grounded experiences. Formerly a tree planter and now preparing to launch Trees2Seas—a 50-foot catamaran designed for global retreats—Cody is on a mission to bring wild healing to the world. Join him for breath and ice: reset your system, expand your capacity, and awaken your wild.",
+          "priority": 100,
+          "artist_id": 2040734,
+          "stage_id": 12499,
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "start_time": "2025-07-26T22:00:00+00:00",
+          "end_time": "2025-07-26T23:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2042164,
       "published": true,
       "name": "Kerz & Zeka and Chris Devious",
@@ -8564,74 +8633,6 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040734,
-      "external_id": "1922480",
-      "published": true,
-      "name": "Gina Dukovnik",
-      "body": "Gina is a Yoga teacher from the wild kootenay region, where nature and ritual meet in everyday life. She brings grounded wisdom, soulful presence and embodied fire to every practice. Step onto the mat as sacred ground and meet yourself in ceremony. Rooted in ritual yoga is an intentional flow that blends breath and movement to cultivate your inner fire on the mat and on the dance floor. Ignite you Agni (inner flame) to burn through the old and embody your next evolution.",
-      "priority": 100,
-      "category": "regular",
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {},
-      "performances": [
-        {
-          "id": 250115,
-          "external_id": "866224",
-          "published": true,
-          "name": "Rooted in Ritual Yoga with Gina Bukovnik",
-          "body": "Gina is a Yoga teacher from the wild kootenay region, where nature and ritual meet in everyday life. She brings grounded wisdom, soulful presence and embodied fire to every practice. Step onto the mat as sacred ground and meet yourself in ceremony. Rooted in ritual yoga is an intentional flow that blends breath and movement to cultivate your inner fire on the mat and on the dance floor. Ignite you Agni (inner flame) to burn through the old and embody your next evolution.",
-          "priority": 100,
-          "artist_id": 2040734,
-          "stage_id": 12499,
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "start_time": "2025-07-26T20:30:00+00:00",
-          "end_time": "2025-07-26T22:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        },
-        {
-          "id": 250116,
-          "external_id": "866234",
-          "published": true,
-          "name": "Getting High on Your Own Supply with Cody Crawford",
-          "priority": 100,
-          "artist_id": 2040734,
-          "stage_id": 12499,
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "start_time": "2025-07-26T22:00:00+00:00",
-          "end_time": "2025-07-26T23:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2040693,
       "external_id": "1922479",
       "published": true,
@@ -16128,7 +16129,7 @@
           "artist_name": "salute, Sammy Virji",
           "duration": 345310,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02df7e63de63faf681b69f01ba",
-          "preview_url": "https://p.scdn.co/mp3-preview/e42ed1e568189762bf365116a056c40c9de5a410?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+          "preview_url": "https://p.scdn.co/mp3-preview/7d09a594b1e869d32edaac7317eb0eac07c4ac37?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         },
         {
           "track_id": "2TbjVYIbgIh7jBAkSTCnaC",
