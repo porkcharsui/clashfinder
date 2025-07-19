@@ -273,7 +273,6 @@ act = {"start": "2025-07-23 10:00", "end": "2025-07-23 11:00", "stage": "Riversi
 act = {"start": "2025-07-24 10:00", "end": "2025-07-24 11:00", "stage": "Riverside (Lodgers Only)", "act": "Miles Kroeker", "url": "https://instagram.com/mklifeov", "blurb": "<p><span data-sheets-root=\"1\">These morning yoga classes will awaken the body, mind & spirit and prepare them for the day of discovery ahead. Expect traditional yoga postures, focus on breath and some encouragement to explore what feels in playful service to your own being.</span></p>"}
 act = {"start": "2025-07-24 12:00", "end": "2025-07-24 13:00", "stage": "Riverside (Lodgers Only)", "act": "SMF Games Hosts", "url": "https://instagram.com/panda.hoops", "blurb": ""}
 act = {"start": "2025-07-25 10:00", "end": "2025-07-25 11:00", "stage": "Riverside (Lodgers Only)", "act": "Tracy Frimpong", "url": "https://instagram.com/magicmvmnt", "blurb": ""}
-act = {"start": "2025-07-25 11:00", "end": "2025-07-25 12:00", "stage": "Riverside (Lodgers Only)", "act": "Beam Light", "url": "https://instagram.com/beamlovelight", "blurb": ""}
 act = {"start": "2025-07-26 10:00", "end": "2025-07-26 11:00", "stage": "Riverside (Lodgers Only)", "act": "Tracy Frimpong", "url": "https://instagram.com/magicmvmnt", "blurb": ""}
 act = {"start": "2025-07-26 11:00", "end": "2025-07-26 14:00", "stage": "Riverside (Lodgers Only)", "act": "Damian & Jayeson", "url": "https://instagram.com/snailwizardtreasures", "blurb": ""}
 act = {"start": "2025-07-27 10:00", "end": "2025-07-27 11:00", "stage": "Riverside (Lodgers Only)", "act": "Georgia Aurelia", "url": "https://instagram.com/auralogica", "blurb": ""}
@@ -329,6 +328,7 @@ act = {"start": "2025-07-24 14:00", "end": "2025-07-24 16:00", "stage": "Sunburs
 act = {"start": "2025-07-24 16:00", "end": "2025-07-24 17:00", "stage": "Sunburst Canopy", "act": "Vo Vera", "url": "https://instagram.com/vospacevera", "blurb": ""}
 act = {"start": "2025-07-24 20:00", "end": "2025-07-24 22:30", "stage": "Sunburst Canopy", "act": "Ethan Mallais, Owen McNamara and Melanie Webster", "url": "", "blurb": ""}
 act = {"start": "2025-07-25 10:00", "end": "2025-07-25 11:00", "stage": "Sunburst Canopy", "act": "Georgia Aurelia", "url": "https://instagram.com/auralogica", "blurb": ""}
+act = {"start": "2025-07-25 11:00", "end": "2025-07-25 12:00", "stage": "Sunburst Canopy", "act": "Beam Light", "url": "https://instagram.com/beamlovelight", "blurb": ""}
 act = {"start": "2025-07-25 11:00", "end": "2025-07-25 12:00", "stage": "Sunburst Canopy", "act": "Dana Foster", "url": "https://instagram.com/danaffit", "blurb": ""}
 act = {"start": "2025-07-25 12:00", "end": "2025-07-25 13:00", "stage": "Sunburst Canopy", "act": "Pearl Cicci", "url": "https://instagram.com/bio.rave", "blurb": ""}
 act = {"start": "2025-07-25 14:00", "end": "2025-07-25 15:00", "stage": "Sunburst Canopy", "act": "SMF Games Hosts", "url": "https://instagram.com/panda.hoops", "blurb": ""}
