@@ -578,6 +578,67 @@
       "allow_favoriting": true
     },
     {
+      "id": 2052940,
+      "external_id": "1923399",
+      "published": true,
+      "name": "Charles Nimubs",
+      "body": "Embracing time honored and underground influences, charles nimbus has established his presence through a multitude of genres defying any one scene and landing him performances at legendary venues such as the historic Kings Theater in Brooklyn and Amphitheater at Suwannee Music Park. His range in sound and stage appearances compliment each other showcasing his journeyman reputation and ability to eloquently craft music across the sonic spectrum while maintaining his unmistakable sound.<br />\n <br />\nUtilizing his skills across many disciplines of production, he is quickly on the rise in the American electronic scene. With a one of a kind take on percussive bass and ambient textures, his project stands out. As a DJ, Charles navigates a diverse array of musical styles, weaving them together to captivate audiences and energize the dance floor. His versatility allows him to seamlessly blend genres, creating a dynamic and engaging experience that keeps listeners enthralled.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0055/99/thumb_5498528_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/99/thumb_5498528_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/99/thumb_5498528_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/99/thumb_5498528_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "charlesnimbus",
+        "instagram_user": "charlesnimbus",
+        "twitter_user": "charlesnimbus",
+        "soundcloud_user": "charles-nimbus",
+        "spotify_artist_id": "0NbVFvYwSO8gaEZAS7g3xe"
+      },
+      "performances": [
+        {
+          "id": 269725,
+          "external_id": "867924",
+          "published": true,
+          "body": "Embracing time honored and underground influences, charles nimbus has established his presence through a multitude of genres defying any one scene and landing him performances at legendary venues such as the historic Kings Theater in Brooklyn and Amphitheater at Suwannee Music Park. His range in sound and stage appearances compliment each other showcasing his journeyman reputation and ability to eloquently craft music across the sonic spectrum while maintaining his unmistakable sound.\n \nUtilizing his skills across many disciplines of production, he is quickly on the rise in the American electronic scene. With a one of a kind take on percussive bass and ambient textures, his project stands out. As a DJ, Charles navigates a diverse array of musical styles, weaving them together to captivate audiences and energize the dance floor. His versatility allows him to seamlessly blend genres, creating a dynamic and engaging experience that keeps listeners enthralled.",
+          "priority": 100,
+          "artist_id": 2052940,
+          "stage_id": 12500,
+          "date_id": 3940,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "start_time": "2025-07-28T01:30:00+00:00",
+          "end_time": "2025-07-28T02:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2042135,
       "published": true,
       "name": "Beam Light",
@@ -28380,7 +28441,7 @@
   "_meta": {
     "page": 1,
     "max_per_page": 500,
-    "page_count": 307,
-    "total_count": 307
+    "page_count": 308,
+    "total_count": 308
   }
 }
