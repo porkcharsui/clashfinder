@@ -578,6 +578,56 @@
       "allow_favoriting": true
     },
     {
+      "id": 2052948,
+      "published": true,
+      "name": "The Lucid Fairy",
+      "body": "<p>Bio coming soon!</p>",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0055/99/thumb_5498876_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/99/thumb_5498876_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/99/thumb_5498876_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/99/thumb_5498876_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0055/99/thumb_5498876_performance_960.png",
+        "1080": "https://media.appmiral.com/prod/performance/0055/99/thumb_5498876_performance_1080.png",
+        "1440": "https://media.appmiral.com/prod/performance/0055/99/thumb_5498876_performance_1440.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "website": "https://thelucidfairy.com/",
+        "instagram_user": "the.lucid.fairy"
+      },
+      "performances": [
+        {
+          "id": 269738,
+          "published": true,
+          "name": "Electro Alchemy with The Lucid Fairy",
+          "body": "<p><span data-sheets-root=\"1\">An immersive concert of live vocals, drag, dance, and divine transformation.</span></p>\r\n<p>Step into the vortex with The Lucid Fairy—an emerging electro-pop enchantress and international Pride ambassador—known for creating empowering spaces where self-expression thrives.<br>Electro Alchemy is an immersive portal of transformation: affirmational lyrics, pulsing beats, and soulful live vocals merge with high-energy dance and radiant drag to awaken your fullest, most liberated self.</p>\r\n<p>This is your invitation to dance your truth, feel your magic, and leave forever changed.</p>\r\n<p>? Follow the magic: @the.lucid.fairy | <a target=\"_blank\" href=\"http://thelucidfairy.com/\">thelucidfairy.com</a></p>",
+          "priority": 100,
+          "artist_id": 2052948,
+          "stage_id": 12323,
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": false,
+          "show_in_calendar": true,
+          "start_time": "2025-07-25T19:00:00+00:00",
+          "end_time": "2025-07-25T20:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        }
+      ],
+      "tags": [],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": false,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2052940,
       "external_id": "1923399",
       "published": true,
@@ -28441,7 +28491,7 @@
   "_meta": {
     "page": 1,
     "max_per_page": 500,
-    "page_count": 308,
-    "total_count": 308
+    "page_count": 309,
+    "total_count": 309
   }
 }
