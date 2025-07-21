@@ -578,6 +578,67 @@
       "allow_favoriting": true
     },
     {
+      "id": 2043136,
+      "external_id": "1922769",
+      "published": true,
+      "name": "Freida Whales",
+      "body": "Meet Freida Whales and the Pod, featuring Valerie Rose and Wanda Lust! <br />\n<br />\nWith her signature blend of ocean-themed puns, glamour, and camp, Freida Whales is always ready to spread waves of love. This salt-water queen was the recipient of a 2025 Kelowna Civic Award for Honour in the Arts, along with being voted Best Drag Artist in Best of Kelowna for the last five years. She is the owner of the award-winning events company Whalemade Productions. <br />\n<br />\nLooking for a queen who has a whole lot of ass, absolutely no class, and always brings the sass? Look no further than the gorgeous Valerie Rose! Along with winning Kelowna's Next Drag Superstar in 2019, you best be leaf she brings a whole garden full of surprises, from high energy performances, crude humour, and stunts that'll pollenate all over the floor. <br />\n<br />\nWanda Lust is a captivating performance artist and poet who fell in love with drag while traveling around the globe. From bush doof cabarets in the Australian outback, to the Gender Funk movement in Vietnam. She’s back in Canada, inspired by all the artists she’s met along the way and ready to spread the love of drag. Wanda took home the crown for Kelowna’s Next Drag Superstar in 2024.<br />\n<br />\nOddbear is a boundary-pushing DJ from Edmonton, Alberta, Canada, known for his deep crates, raw energy, and genre-bending sets. Since making his debut in 2015, Oddbear has carved out a distinct space in the underground scene, blending house, techno, and Disco into immersive dancefloor experiences.<br />\nHe co-founded Acid Church, a collective dedicated to showcasing left of center electronic music and championing local talent. In 2018, Oddbear also joined the influential United Bass Kollective, further cementing his role as a key figure in Edmonton’s thriving bass and rave community.<br />\nA staple of the city’s nightlife, Oddbear currently holds multiple residencies at some of Edmonton’s most forward-thinking venues, consistently delivering sets that are equal parts unpredictable and unforgettable.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469688_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469688_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469688_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469688_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469688_performance_960.png",
+        "1080": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469688_performance_1080.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "FreidaWhalesofficial",
+        "instagram_user": "thewandalust"
+      },
+      "performances": [
+        {
+          "id": 253486,
+          "external_id": "866702",
+          "published": true,
+          "name": "Rave Runway Extravaganza Hosted by Freida Whales feat. Oddbear and Dekker",
+          "body": "Meet Freida Whales and the Pod, featuring Valerie Rose and Wanda Lust! \n\nWith her signature blend of ocean-themed puns, glamour, and camp, Freida Whales is always ready to spread waves of love. This salt-water queen was the recipient of a 2025 Kelowna Civic Award for Honour in the Arts, along with being voted Best Drag Artist in Best of Kelowna for the last five years. She is the owner of the award-winning events company Whalemade Productions. \n\nLooking for a queen who has a whole lot of ass, absolutely no class, and always brings the sass? Look no further than the gorgeous Valerie Rose! Along with winning Kelowna's Next Drag Superstar in 2019, you best be leaf she brings a whole garden full of surprises, from high energy performances, crude humour, and stunts that'll pollenate all over the floor. \n\nWanda Lust is a captivating performance artist and poet who fell in love with drag while traveling around the globe. From bush doof cabarets in the Australian outback, to the Gender Funk movement in Vietnam. She’s back in Canada, inspired by all the artists she’s met along the way and ready to spread the love of drag. Wanda took home the crown for Kelowna’s Next Drag Superstar in 2024.\n\nOddbear is a boundary-pushing DJ from Edmonton, Alberta, Canada, known for his deep crates, raw energy, and genre-bending sets. Since making his debut in 2015, Oddbear has carved out a distinct space in the underground scene, blending house, techno, and Disco into immersive dancefloor experiences.\nHe co-founded Acid Church, a collective dedicated to showcasing left of center electronic music and championing local talent. In 2018, Oddbear also joined the influential United Bass Kollective, further cementing his role as a key figure in Edmonton’s thriving bass and rave community.\nA staple of the city’s nightlife, Oddbear currently holds multiple residencies at some of Edmonton’s most forward-thinking venues, consistently delivering sets that are equal parts unpredictable and unforgettable.",
+          "priority": 100,
+          "artist_id": 2043136,
+          "stage_id": 12493,
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "start_time": "2025-07-26T22:00:00+00:00",
+          "end_time": "2025-07-26T23:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2052940,
       "external_id": "1923399",
       "published": true,
@@ -25844,67 +25905,6 @@
           "show_in_calendar": true,
           "start_time": "2025-07-24T20:00:00+00:00",
           "end_time": "2025-07-24T21:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2043136,
-      "external_id": "1922769",
-      "published": true,
-      "name": "Freida Whales",
-      "body": "Meet Freida Whales and the Pod, featuring Valerie Rose and Wanda Lust! <br />\n<br />\nWith her signature blend of ocean-themed puns, glamour, and camp, Freida Whales is always ready to spread waves of love. This salt-water queen was the recipient of a 2025 Kelowna Civic Award for Honour in the Arts, along with being voted Best Drag Artist in Best of Kelowna for the last five years. She is the owner of the award-winning events company Whalemade Productions. <br />\n<br />\nLooking for a queen who has a whole lot of ass, absolutely no class, and always brings the sass? Look no further than the gorgeous Valerie Rose! Along with winning Kelowna's Next Drag Superstar in 2019, you best be leaf she brings a whole garden full of surprises, from high energy performances, crude humour, and stunts that'll pollenate all over the floor. <br />\n<br />\nWanda Lust is a captivating performance artist and poet who fell in love with drag while traveling around the globe. From bush doof cabarets in the Australian outback, to the Gender Funk movement in Vietnam. She’s back in Canada, inspired by all the artists she’s met along the way and ready to spread the love of drag. Wanda took home the crown for Kelowna’s Next Drag Superstar in 2024.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469688_performance_100.png",
-        "120": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469688_performance_120.png",
-        "250": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469688_performance_250.png",
-        "500": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469688_performance_500.png",
-        "960": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469688_performance_960.png",
-        "1080": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469688_performance_1080.png"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "FreidaWhalesofficial",
-        "instagram_user": "thewandalust"
-      },
-      "performances": [
-        {
-          "id": 253486,
-          "external_id": "866702",
-          "published": true,
-          "name": "Rave Runway Extravaganza Hosted by Freida Whales",
-          "body": "Meet Freida Whales and the Pod, featuring Valerie Rose and Wanda Lust! \n\nWith her signature blend of ocean-themed puns, glamour, and camp, Freida Whales is always ready to spread waves of love. This salt-water queen was the recipient of a 2025 Kelowna Civic Award for Honour in the Arts, along with being voted Best Drag Artist in Best of Kelowna for the last five years. She is the owner of the award-winning events company Whalemade Productions. \n\nLooking for a queen who has a whole lot of ass, absolutely no class, and always brings the sass? Look no further than the gorgeous Valerie Rose! Along with winning Kelowna's Next Drag Superstar in 2019, you best be leaf she brings a whole garden full of surprises, from high energy performances, crude humour, and stunts that'll pollenate all over the floor. \n\nWanda Lust is a captivating performance artist and poet who fell in love with drag while traveling around the globe. From bush doof cabarets in the Australian outback, to the Gender Funk movement in Vietnam. She’s back in Canada, inspired by all the artists she’s met along the way and ready to spread the love of drag. Wanda took home the crown for Kelowna’s Next Drag Superstar in 2024.",
-          "priority": 100,
-          "artist_id": 2043136,
-          "stage_id": 12493,
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "start_time": "2025-07-26T22:00:00+00:00",
-          "end_time": "2025-07-26T23:30:00+00:00",
           "show_image_in_schedule": true,
           "hide_end_time": false,
           "reminder_interval": 15
