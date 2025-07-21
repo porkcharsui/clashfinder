@@ -578,10 +578,163 @@
       "allow_favoriting": true
     },
     {
+      "id": 2043122,
+      "published": true,
+      "name": "Drew Dapps",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471335_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471335_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471335_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471335_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471335_performance_960.png",
+        "1080": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471335_performance_1080.png",
+        "1440": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471335_performance_1440.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "camp.dappington"
+      },
+      "performances": [
+        {
+          "id": 253484,
+          "published": true,
+          "name": "Steez Building Workshop at Camp Dappington",
+          "body": "<p><span data-sheets-root=\"1\">Camp Dappington is the summer camp for adults who never grew up. Here festival attendees are enchanted by an interactive experience where they learn to throw down some steezy fingerboard tricks and make friends along the way. We have a mission with Camp Dapps to carve out a niche and define a world with a positive aura. A place that gives music lovers a platform where they can connect with their inner kid, be themselves and have a unique getaway to lose track of time in a fun wholesome activity. We strive to capture the serenity of childhood, giving the opportunity to participate in the here and now wholeheartedly by bringing the fun of skateboarding to all.</span></p>",
+          "priority": 100,
+          "artist_id": 2043122,
+          "stage_id": 12636,
+          "date_id": 4326,
+          "show_in_schedule": true,
+          "show_in_line_up": false,
+          "show_in_calendar": true,
+          "start_time": "2025-07-23T22:00:00+00:00",
+          "end_time": "2025-07-23T23:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        },
+        {
+          "id": 269758,
+          "published": true,
+          "name": "Dappington Fingerboard Skate Competition",
+          "body": "<p>Put your fingerboard skills to the test and engage in some friendly competition showing off your tricks in exhilarating heats for the chance to earn some seriously silly prizes and priceless bragging rights! Stop by Camp Dappington and grab a board to get your steez on with our hyper realistic mini skatepark.</p>",
+          "priority": 100,
+          "artist_id": 2043122,
+          "stage_id": 12636,
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": false,
+          "show_in_calendar": true,
+          "start_time": "2025-07-26T22:00:00+00:00",
+          "end_time": "2025-07-27T00:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-activities",
+          "name": "Activities",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7BD673"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": false,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2042144,
+      "published": true,
+      "name": "Konscious Kitties",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "100": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468003_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468003_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468003_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468003_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468003_performance_960.png",
+        "1080": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468003_performance_1080.png",
+        "1440": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468003_performance_1440.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "website": "https://konsciouskitties.com/",
+        "instagram_user": "konscious.kitties"
+      },
+      "performances": [
+        {
+          "id": 251719,
+          "published": true,
+          "name": "Festival Friending Speed Connecting & Conscious Convos",
+          "body": "<p><span data-sheets-root=\"1\"><span data-sheets-root=\"1\">Connect with other inspiring humans through fun and thought-provoking small-group discussions, seeded with questions that will make you laugh, think, or both! Minimal cringe - maximum fun. We’ll also take the opportunity to set your intentions for the weekend - how will you make this your best Shambhala yet?! Come solo and make new friends, or show up with your existing crew to deepen your connection. Leave with your roadmap to a magical Shambhala and a new community to share it with. Let’s party with purpose!</span></span></p>",
+          "priority": 100,
+          "artist_id": 2042144,
+          "stage_id": 12323,
+          "date_id": 4325,
+          "show_in_schedule": true,
+          "show_in_line_up": false,
+          "show_in_calendar": true,
+          "start_time": "2025-07-24T18:00:00+00:00",
+          "end_time": "2025-07-24T19:15:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        },
+        {
+          "id": 252023,
+          "published": true,
+          "name": "Festival Friending Speed Connecting & Conscious Convos",
+          "body": "<p><span data-sheets-root=\"1\">Connect with other inspiring humans through fun and thought-provoking small-group discussions, seeded with questions that will make you laugh, think, or both! Minimal cringe - maximum fun. We’ll also take the opportunity to set your intentions for the weekend - how will you make this your best Shambhala yet?! Come solo and make new friends, or show up with your existing crew to deepen your connection. Leave with your roadmap to a magical Shambhala and a new community to share it with. Let’s party with purpose!</span></p>",
+          "priority": 100,
+          "artist_id": 2042144,
+          "stage_id": 12323,
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": false,
+          "show_in_calendar": true,
+          "start_time": "2025-07-26T21:00:00+00:00",
+          "end_time": "2025-07-26T22:15:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_end_time": false,
+          "reminder_interval": 15
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-activities",
+          "name": "Activities",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "color": "#7BD673"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": false,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2052948,
       "published": true,
       "name": "The Lucid Fairy",
-      "body": "<p>Bio coming soon!</p>",
+      "body": "<p>The Lucid Fairy is a performance artist and electro-pop enchantress, weaving high-vibrational music, live vocals, energizing movement, and magic into unforgettable experiences. With a colourful drag aesthetic and affirmational lyrics, she uplifts audiences into higher states of joy, empowerment, and collective awakening. Follow the magic with @the.lucid.fairy and find her music on all streaming platforms.</p>",
       "priority": 100,
       "category": "regular",
       "image": {
@@ -597,7 +750,9 @@
       "hide_image_on_detail": "never",
       "links": {
         "website": "https://thelucidfairy.com/",
-        "instagram_user": "the.lucid.fairy"
+        "instagram_user": "the.lucid.fairy",
+        "tiktok_user": "the.lucid.fairy",
+        "youtube_channel_id": "UCmqPMXKWBojDOxAdqz-qwSQ"
       },
       "performances": [
         {
@@ -2933,64 +3088,6 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2043122,
-      "published": true,
-      "name": "Drew Dapps",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471335_performance_100.png",
-        "120": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471335_performance_120.png",
-        "250": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471335_performance_250.png",
-        "500": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471335_performance_500.png",
-        "960": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471335_performance_960.png",
-        "1080": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471335_performance_1080.png",
-        "1440": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471335_performance_1440.png"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "camp.dappington"
-      },
-      "performances": [
-        {
-          "id": 253484,
-          "published": true,
-          "name": "Steez Building Workshop at Camp Dappington",
-          "body": "<p><span data-sheets-root=\"1\">Camp Dappington is the summer camp for adults who never grew up. Here festival attendees are enchanted by an interactive experience where they learn to throw down some steezy fingerboard tricks and make friends along the way. We have a mission with Camp Dapps to carve out a niche and define a world with a positive aura. A place that gives music lovers a platform where they can connect with their inner kid, be themselves and have a unique getaway to lose track of time in a fun wholesome activity. We strive to capture the serenity of childhood, giving the opportunity to participate in the here and now wholeheartedly by bringing the fun of skateboarding to all.</span></p>",
-          "priority": 100,
-          "artist_id": 2043122,
-          "stage_id": 12636,
-          "date_id": 4326,
-          "show_in_schedule": true,
-          "show_in_line_up": false,
-          "show_in_calendar": true,
-          "start_time": "2025-07-23T22:00:00+00:00",
-          "end_time": "2025-07-23T23:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-activities",
-          "name": "Activities",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "color": "#7BD673"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": false,
       "show_section_titles": true,
       "allow_favoriting": true
     },
@@ -6529,83 +6626,6 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2042144,
-      "published": true,
-      "name": "Konscious Kitties",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "100": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468003_performance_100.png",
-        "120": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468003_performance_120.png",
-        "250": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468003_performance_250.png",
-        "500": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468003_performance_500.png",
-        "960": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468003_performance_960.png",
-        "1080": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468003_performance_1080.png",
-        "1440": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468003_performance_1440.png"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "website": "https://konsciouskitties.com/",
-        "instagram_user": "konscious.kitties"
-      },
-      "performances": [
-        {
-          "id": 251719,
-          "published": true,
-          "name": "Festival Friending Speed Connecting & Conscious Convos",
-          "body": "<p><span data-sheets-root=\"1\"><span data-sheets-root=\"1\">Connect with other inspiring humans through fun and thought-provoking small-group discussions, seeded with questions that will make you laugh, think, or both! Minimal cringe - maximum fun. We’ll also take the opportunity to set your intentions for the weekend - how will you make this your best Shambhala yet?! Come solo and make new friends, or show up with your existing crew to deepen your connection. Leave with your roadmap to a magical Shambhala and a new community to share it with. Let’s party with purpose!</span></span></p>",
-          "priority": 100,
-          "artist_id": 2042144,
-          "stage_id": 12323,
-          "date_id": 4325,
-          "show_in_schedule": true,
-          "show_in_line_up": false,
-          "show_in_calendar": true,
-          "start_time": "2025-07-24T18:00:00+00:00",
-          "end_time": "2025-07-24T19:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        },
-        {
-          "id": 252023,
-          "published": true,
-          "name": "Festival Friending Speed Connecting & Conscious Convos",
-          "body": "<p><span data-sheets-root=\"1\">Connect with other inspiring humans through fun and thought-provoking small-group discussions, seeded with questions that will make you laugh, think, or both! Minimal cringe - maximum fun. We’ll also take the opportunity to set your intentions for the weekend - how will you make this your best Shambhala yet?! Come solo and make new friends, or show up with your existing crew to deepen your connection. Leave with your roadmap to a magical Shambhala and a new community to share it with. Let’s party with purpose!</span></p>",
-          "priority": 100,
-          "artist_id": 2042144,
-          "stage_id": 12323,
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": false,
-          "show_in_calendar": true,
-          "start_time": "2025-07-26T21:00:00+00:00",
-          "end_time": "2025-07-26T23:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_end_time": false,
-          "reminder_interval": 15
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-activities",
-          "name": "Activities",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "color": "#7BD673"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": false,
       "show_section_titles": true,
       "allow_favoriting": true
     },
