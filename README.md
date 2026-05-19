@@ -4,8 +4,8 @@ Tools to export raw data from festival applications and transform into [Clashfin
 
 ## Supported Festival Platforms
 
-* [Appmiral](https://appmiral.com/)
-* Shambhala Festival
+* [Appmiral](https://appmiral.com/): Shambhala Festival
+* GreenCopper / Aloompa FestApp: Lightning in a Bottle
 
 ## Setup
 
@@ -45,6 +45,12 @@ popd
 
 ```bash
 ./bin/appmiral_transform.py --tz "US/Pacific" --artists festivals/shambhalafestival/2025/shambhalafestival.artists.json --stages festivals/shambhalafestival/2025/shambhalafestival.stages.json
+```
+
+For GreenCopper / Aloompa FestApp schedule exports:
+
+```bash
+./bin/greencopper_transform.py --schedule exports/lightning-in-a-bottle-2026-schedule.json > festivals/lightninginabottle/2026/clashfinder.txt
 ```
 
 ## Clashfinder Data Format
