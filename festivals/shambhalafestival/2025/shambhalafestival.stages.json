@@ -13,12 +13,13 @@
           "priority": 100,
           "visible": true,
           "filter": true,
+          "show_in_search": false,
           "color": "#7BD673"
         }
       ],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12322,
@@ -34,12 +35,13 @@
           "priority": 100,
           "visible": true,
           "filter": true,
+          "show_in_search": false,
           "color": "#7BD673"
         }
       ],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12479,
@@ -50,8 +52,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12480,
@@ -62,8 +64,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12481,
@@ -74,8 +76,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12482,
@@ -86,8 +88,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12483,
@@ -98,8 +100,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12484,
@@ -110,8 +112,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12485,
@@ -122,8 +124,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12486,
@@ -134,8 +136,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12487,
@@ -146,8 +148,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12488,
@@ -158,8 +160,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12489,
@@ -170,8 +172,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12490,
@@ -182,8 +184,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12491,
@@ -194,8 +196,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12492,
@@ -206,8 +208,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12493,
@@ -218,8 +220,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12494,
@@ -230,8 +232,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12495,
@@ -242,8 +244,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12496,
@@ -254,8 +256,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12497,
@@ -266,8 +268,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12498,
@@ -278,8 +280,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12499,
@@ -290,8 +292,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12500,
@@ -302,8 +304,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12501,
@@ -314,8 +316,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12502,
@@ -326,8 +328,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12503,
@@ -338,8 +340,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12504,
@@ -350,8 +352,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12505,
@@ -362,8 +364,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12506,
@@ -374,8 +376,8 @@
       "tracks": [],
       "tags": [],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12154,
@@ -391,12 +393,13 @@
           "priority": 100,
           "visible": true,
           "filter": true,
+          "show_in_search": false,
           "color": "#7896FF"
         }
       ],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12153,
@@ -412,12 +415,13 @@
           "priority": 100,
           "visible": true,
           "filter": true,
+          "show_in_search": false,
           "color": "#7896FF"
         }
       ],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12340,
@@ -433,12 +437,13 @@
           "priority": 100,
           "visible": true,
           "filter": true,
+          "show_in_search": false,
           "color": "#7BD673"
         }
       ],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12339,
@@ -454,12 +459,13 @@
           "priority": 100,
           "visible": true,
           "filter": true,
+          "show_in_search": false,
           "color": "#7BD673"
         }
       ],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12323,
@@ -475,12 +481,13 @@
           "priority": 100,
           "visible": true,
           "filter": true,
+          "show_in_search": false,
           "color": "#7BD673"
         }
       ],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12320,
@@ -496,12 +503,13 @@
           "priority": 100,
           "visible": true,
           "filter": true,
+          "show_in_search": false,
           "color": "#7BD673"
         }
       ],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     },
     {
       "id": 12321,
@@ -517,12 +525,13 @@
           "priority": 100,
           "visible": true,
           "filter": true,
+          "show_in_search": false,
           "color": "#7BD673"
         }
       ],
       "show_in_search": true,
-      "show_section_titles": true,
-      "show_in_filter": true
+      "show_in_filter": true,
+      "show_section_titles": true
     }
   ],
   "_links": {
