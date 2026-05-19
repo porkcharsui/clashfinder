@@ -101,7 +101,6 @@ def compact_performer(row):
             "twitch": row["twitch_url"],
             "music": row["music_url"],
         },
-        "likes_count": row["likes_count"],
         "share_short_url": row["share_short_url"],
         "deep_link_uri": row["deep_link_uri"],
     }
@@ -198,7 +197,6 @@ for row in event_rows:
         "ends_at_iso_utc": iso_utc(row["ends_at_utc"]),
         "starts_at_local": local_time(row["starts_at_utc"], tz_name),
         "ends_at_local": local_time(row["ends_at_utc"], tz_name),
-        "scheduled_count": row["scheduled_count"],
         "event_capacity": row["event_capacity"],
         "feed_mapping_id": row["feed_mapping_id"],
         "share_short_url": row["share_short_url"],
