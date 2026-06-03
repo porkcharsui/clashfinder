@@ -668,6 +668,176 @@
       "allow_favoriting": true
     },
     {
+      "id": 2040609,
+      "external_id": "167147",
+      "published": true,
+      "name": "Neon Steve",
+      "body": "Neon Steve has gained notoriety as an elite purveyor of House Music with over 50 million streams worldwide. The Pacific Northwest-based producer holds the crown for being Beatport’s #1 Bass House artist of all time from Canada. His signature style he describes as “House Music That Bangs!” is an eclectic concoction that blurs the genre lines between Tech House, Bass House, Techno and more.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": null,
+        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626090_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626090_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626090_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626090_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "djneonsteve",
+        "instagram_user": "djneonsteve/",
+        "youtube_channel_id": "UC8yYHftCjMjiJelZ21m5Rsg",
+        "soundcloud_user": "neonsteve",
+        "spotify_artist_id": "1CNO980Lk9CaBWBnM1MZXi"
+      },
+      "performances": [
+        {
+          "id": 249988,
+          "external_id": "865956",
+          "published": true,
+          "body": "Neon Steve has gained notoriety as an elite purveyor of House Music with over 50 million streams worldwide. The Pacific Northwest-based producer holds the crown for being Beatport’s #1 Bass House artist of all time from Canada. His signature style he describes as “House Music That Bangs!” is an eclectic concoction that blurs the genre lines between Tech House, Bass House, Techno and more.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040609,
+          "stage_id": 12494,
+          "stage_name": "Fractal Forest",
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-27T06:00:00+00:00",
+          "end_time": "2025-07-27T07:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "2ciLxvH3suF5CyQkbUsJVe",
+          "streaming_service": "spotify",
+          "title": "Hip Hop",
+          "artist_name": "Neon Steve, Marten Hørger",
+          "duration": 169047,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02073bc15f4b5df074f098fef5",
+          "preview_url": "https://p.scdn.co/mp3-preview/3516b2d8b088bd8666c2442df0443025ee061d77?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0ZflVxcHweYxD4Dm5xt6KS",
+          "streaming_service": "spotify",
+          "title": "Feel The Beat",
+          "artist_name": "VOLAC, Neon Steve, RUMPUS, Rhiannon Roze",
+          "duration": 186000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02663948c4967faa18f3f3bb80",
+          "preview_url": "https://p.scdn.co/mp3-preview/bbf8283a24e56f7f58cd3e7b8da8e53a94dffb0e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5v8Gce3zzKorqTnldjxB7G",
+          "streaming_service": "spotify",
+          "title": "Don't Call",
+          "artist_name": "Neon Steve, Dakota Sixx",
+          "duration": 187500,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b2cc92aa91fcc648bfcd2956",
+          "preview_url": "https://p.scdn.co/mp3-preview/da651a5b6e9df383aaaea06c09ef12c9584e64e0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0M2b3w9y8lsKqm4r8cq3Sw",
+          "streaming_service": "spotify",
+          "title": "You Don't",
+          "artist_name": "Marten Hørger, Neon Steve",
+          "duration": 265366,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028669c2f467305ba8930a1ddf",
+          "preview_url": "https://p.scdn.co/mp3-preview/7d77bdfbfb9a90a9eade63941fd966e2da5992e0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3CQmrKyNKHknCGUnEpm7Al",
+          "streaming_service": "spotify",
+          "title": "4 The Love",
+          "artist_name": "Neon Steve",
+          "duration": 188571,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02256114008b64532bca3e78f8",
+          "preview_url": "https://p.scdn.co/mp3-preview/d80d22ffbad5a76c004c4e95017c81a49af06b83?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7jIOOtHgZRstHL5CiLuwHi",
+          "streaming_service": "spotify",
+          "title": "Bring It Back",
+          "artist_name": "Neon Steve",
+          "duration": 206769,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e023fec31d18fefc196b7ec694b",
+          "preview_url": "https://p.scdn.co/mp3-preview/e38b71baae13abbba9a4a736dd16dd8b395578d3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5SXmji0iHvrjanTEWOgs02",
+          "streaming_service": "spotify",
+          "title": "WE'RE BACK",
+          "artist_name": "Marten Hørger, Neon Steve",
+          "duration": 195483,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e7fa87caf5c56538274eb5c0",
+          "preview_url": "https://p.scdn.co/mp3-preview/e77a605232603e174bf0cc1248c08ca9c6103427?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0WiSL7poWlxoO7QpstCqdc",
+          "streaming_service": "spotify",
+          "title": "Stomper",
+          "artist_name": "Neon Steve, Jannah Beth",
+          "duration": 201904,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0247221e021b83e68a8bfa631c",
+          "preview_url": "https://p.scdn.co/mp3-preview/be4a08d07e9663b47202c274d4210ea19c132e70?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4t7c0UtYDajk8ugoHa1NL0",
+          "streaming_service": "spotify",
+          "title": "Crazy",
+          "artist_name": "Dr. Fresch, Neon Steve",
+          "duration": 232380,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e027899814aea99864131a23e2b",
+          "preview_url": "https://p.scdn.co/mp3-preview/84f0a9e003809775fdc782e0c3e9f307130c6e94?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5cQSmoTBUSMzCvBOy5c28G",
+          "streaming_service": "spotify",
+          "title": "NRG - SQWAD Remix",
+          "artist_name": "Neon Steve, Sweetie Irie, SQWAD",
+          "duration": 218880,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02cd7e98574621a7ac8521d417",
+          "preview_url": "https://p.scdn.co/mp3-preview/18ca523bfa753d7cb9dc1b1f1e4d05d0b24291ac?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2041222,
       "published": true,
       "name": "Miles Kroeker",
@@ -20850,176 +21020,6 @@
         }
       ],
       "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040609,
-      "external_id": "167147",
-      "published": true,
-      "name": "Neon Steve",
-      "body": "Neon Steve has gained notoriety as an elite purveyor of House Music with over 50 million streams worldwide. The Pacific Northwest-based producer holds the crown for being Beatport’s #1 Bass House artist of all time from Canada. His signature style he describes as “House Music That Bangs!” is an eclectic concoction that blurs the genre lines between Tech House, Bass House, Techno and more.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": null,
-        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626090_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626090_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626090_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626090_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "djneonsteve",
-        "instagram_user": "djneonsteve/",
-        "youtube_channel_id": "UC8yYHftCjMjiJelZ21m5Rsg",
-        "soundcloud_user": "neonsteve",
-        "spotify_artist_id": "1CNO980Lk9CaBWBnM1MZXi"
-      },
-      "performances": [
-        {
-          "id": 249988,
-          "external_id": "865956",
-          "published": true,
-          "body": "Neon Steve has gained notoriety as an elite purveyor of House Music with over 50 million streams worldwide. The Pacific Northwest-based producer holds the crown for being Beatport’s #1 Bass House artist of all time from Canada. His signature style he describes as “House Music That Bangs!” is an eclectic concoction that blurs the genre lines between Tech House, Bass House, Techno and more.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040609,
-          "stage_id": 12494,
-          "stage_name": "Fractal Forest",
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-27T06:00:00+00:00",
-          "end_time": "2025-07-27T07:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "2ciLxvH3suF5CyQkbUsJVe",
-          "streaming_service": "spotify",
-          "title": "Hip Hop",
-          "artist_name": "Neon Steve, Marten Hørger",
-          "duration": 169047,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02073bc15f4b5df074f098fef5",
-          "preview_url": "https://p.scdn.co/mp3-preview/3516b2d8b088bd8666c2442df0443025ee061d77?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0ZflVxcHweYxD4Dm5xt6KS",
-          "streaming_service": "spotify",
-          "title": "Feel The Beat",
-          "artist_name": "VOLAC, Neon Steve, RUMPUS, Rhiannon Roze",
-          "duration": 186000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02663948c4967faa18f3f3bb80",
-          "preview_url": "https://p.scdn.co/mp3-preview/bbf8283a24e56f7f58cd3e7b8da8e53a94dffb0e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5v8Gce3zzKorqTnldjxB7G",
-          "streaming_service": "spotify",
-          "title": "Don't Call",
-          "artist_name": "Neon Steve, Dakota Sixx",
-          "duration": 187500,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b2cc92aa91fcc648bfcd2956",
-          "preview_url": "https://p.scdn.co/mp3-preview/da651a5b6e9df383aaaea06c09ef12c9584e64e0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0M2b3w9y8lsKqm4r8cq3Sw",
-          "streaming_service": "spotify",
-          "title": "You Don't",
-          "artist_name": "Marten Hørger, Neon Steve",
-          "duration": 265366,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028669c2f467305ba8930a1ddf",
-          "preview_url": "https://p.scdn.co/mp3-preview/7d77bdfbfb9a90a9eade63941fd966e2da5992e0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3CQmrKyNKHknCGUnEpm7Al",
-          "streaming_service": "spotify",
-          "title": "4 The Love",
-          "artist_name": "Neon Steve",
-          "duration": 188571,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02256114008b64532bca3e78f8",
-          "preview_url": "https://p.scdn.co/mp3-preview/d80d22ffbad5a76c004c4e95017c81a49af06b83?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7jIOOtHgZRstHL5CiLuwHi",
-          "streaming_service": "spotify",
-          "title": "Bring It Back",
-          "artist_name": "Neon Steve",
-          "duration": 206769,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e023fec31d18fefc196b7ec694b",
-          "preview_url": "https://p.scdn.co/mp3-preview/e38b71baae13abbba9a4a736dd16dd8b395578d3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5SXmji0iHvrjanTEWOgs02",
-          "streaming_service": "spotify",
-          "title": "WE'RE BACK",
-          "artist_name": "Marten Hørger, Neon Steve",
-          "duration": 195483,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e7fa87caf5c56538274eb5c0",
-          "preview_url": "https://p.scdn.co/mp3-preview/e77a605232603e174bf0cc1248c08ca9c6103427?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0WiSL7poWlxoO7QpstCqdc",
-          "streaming_service": "spotify",
-          "title": "Stomper",
-          "artist_name": "Neon Steve, Jannah Beth",
-          "duration": 201904,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0247221e021b83e68a8bfa631c",
-          "preview_url": "https://p.scdn.co/mp3-preview/be4a08d07e9663b47202c274d4210ea19c132e70?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4t7c0UtYDajk8ugoHa1NL0",
-          "streaming_service": "spotify",
-          "title": "Crazy",
-          "artist_name": "Dr. Fresch, Neon Steve",
-          "duration": 232380,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027899814aea99864131a23e2b",
-          "preview_url": "https://p.scdn.co/mp3-preview/84f0a9e003809775fdc782e0c3e9f307130c6e94?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5cQSmoTBUSMzCvBOy5c28G",
-          "streaming_service": "spotify",
-          "title": "NRG - SQWAD Remix",
-          "artist_name": "Neon Steve, Sweetie Irie, SQWAD",
-          "duration": 218880,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02cd7e98574621a7ac8521d417",
-          "preview_url": "https://p.scdn.co/mp3-preview/18ca523bfa753d7cb9dc1b1f1e4d05d0b24291ac?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
