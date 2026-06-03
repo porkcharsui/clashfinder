@@ -668,6 +668,175 @@
       "allow_favoriting": true
     },
     {
+      "id": 2040610,
+      "external_id": "1909153",
+      "published": true,
+      "name": "Wuki",
+      "body": "Grammy nominated producer and DJ, Wuki (aka Kris Barman) has quickly cemented a global fan base with his ability to blend multiple genres and seamlessly mix booty breaks, electro, and house into hard-hitting club shakers. Wuki has architected a dynamic catalog highlighted by signature anthems such as “Sunshine (My Girl)” and “Edge of Seventeen.” The latter dominated Beatport at #1 for multiple weeks and soundtracked over 500 Peloton classes, reeling in 150 million-plus streams worldwide. During 2024, “Sunshine (My Girl)” exploded, inspiring more than 600K social media usages and 1.5 billion views, in addition to amassing north of 100 million cumulative streams. Beyond serving up official remixes for everyone from Tinashe and Saweetie to Selena Gomez, The Chainsmokers and Halsey, he garnered a GRAMMY® Award nomination in the category of “Best Remixed Recording” for “Mother’s Daughter” by Miley Cyrus. Along the way, he has graced the stages of hallowed venues such as Red Rocks Amphitheatre as well as major festivals, including mainstage of EDC Las Vegas and collabed with the who’s who of pop culture including Smokepurpp, Diplo, Shaq, and more! Magnifying his influence further, he notably launched the fan favorite viral content series Beats I Can’t Release with hundreds of episodes to date with a view count in the multi billions!",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": null,
+        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463877_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463877_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463877_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463877_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "IAMwuki",
+        "instagram_user": "wuki",
+        "twitter_user": "Wuki",
+        "youtube_user": "channel/UCz2f6P0dckd4gpTmEJ2kOkg",
+        "spotify_artist_id": "6Se1y4vDcu9fVHLqdj1N3q"
+      },
+      "performances": [
+        {
+          "id": 249989,
+          "external_id": "865879",
+          "published": true,
+          "body": "Grammy nominated producer and DJ, Wuki (aka Kris Barman) has quickly cemented a global fan base with his ability to blend multiple genres and seamlessly mix booty breaks, electro, and house into hard-hitting club shakers. Wuki has architected a dynamic catalog highlighted by signature anthems such as “Sunshine (My Girl)” and “Edge of Seventeen.” The latter dominated Beatport at #1 for multiple weeks and soundtracked over 500 Peloton classes, reeling in 150 million-plus streams worldwide. During 2024, “Sunshine (My Girl)” exploded, inspiring more than 600K social media usages and 1.5 billion views, in addition to amassing north of 100 million cumulative streams. Beyond serving up official remixes for everyone from Tinashe and Saweetie to Selena Gomez, The Chainsmokers and Halsey, he garnered a GRAMMY® Award nomination in the category of “Best Remixed Recording” for “Mother’s Daughter” by Miley Cyrus. Along the way, he has graced the stages of hallowed venues such as Red Rocks Amphitheatre as well as major festivals, including mainstage of EDC Las Vegas and collabed with the who’s who of pop culture including Smokepurpp, Diplo, Shaq, and more! Magnifying his influence further, he notably launched the fan favorite viral content series Beats I Can’t Release with hundreds of episodes to date with a view count in the multi billions!",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040610,
+          "stage_id": 12494,
+          "stage_name": "Fractal Forest",
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-27T07:00:00+00:00",
+          "end_time": "2025-07-27T08:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "5xGcpnA8ACSipKcRcYioxh",
+          "streaming_service": "spotify",
+          "title": "Better",
+          "artist_name": "Valentino Khan, Wuki, Roxanna",
+          "duration": 200000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d40ef22ff0f0c792713381f9",
+          "preview_url": "https://p.scdn.co/mp3-preview/5f3756b6f924411970ff5fb7becc8ac87ebef8c6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3LEztKH305u3WRpqKdG9Ch",
+          "streaming_service": "spotify",
+          "title": "Birdz",
+          "artist_name": "Wuki, Smokepurpp",
+          "duration": 162375,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b64a526e421b343d47e251fe",
+          "preview_url": "https://p.scdn.co/mp3-preview/5c8c11fd5bf0a595e02e407a5fd1125d87a4e216?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3L740L9Y186igjbzxz7Vfr",
+          "streaming_service": "spotify",
+          "title": "As the World Caves In - Wuki Remix",
+          "artist_name": "Sarah Cothran, Wuki",
+          "duration": 176640,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0263ea629023153d2d993f47c7"
+        },
+        {
+          "track_id": "1wVU8sMkX489OGwVRm2LIy",
+          "streaming_service": "spotify",
+          "title": "Ain't It Fun",
+          "artist_name": "Wuki",
+          "duration": 184302,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ff75f3fc7c84cf6939062f06",
+          "preview_url": "https://p.scdn.co/mp3-preview/fbe74fad4f116f4130cfdd11f215af7e70f9e268?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2juRJXaQq5vjUlyNO11U12",
+          "streaming_service": "spotify",
+          "title": "Shake It",
+          "artist_name": "Wuki, Trace",
+          "duration": 195000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024e7e3b9b93d7ed57f4f60f08",
+          "preview_url": "https://p.scdn.co/mp3-preview/5822ae637769725bb7621ef8b101d973ab6c9023?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "52WUqlqnxa0JVcSOCTzbn1",
+          "streaming_service": "spotify",
+          "title": "Sunshine (My Girl)",
+          "artist_name": "Wuki",
+          "duration": 131250,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02abe701d1d7aec52768209167",
+          "preview_url": "https://p.scdn.co/mp3-preview/49522cc40d067ce10189938ec6d95ee3f749def5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "77MN0cd5C97q1KIGNfNVA4",
+          "streaming_service": "spotify",
+          "title": "Edge of Seventeen",
+          "artist_name": "Wuki",
+          "duration": 164042,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ed9f7f0d311f3266ceaf0758",
+          "preview_url": "https://p.scdn.co/mp3-preview/9f008e7cc07a5f645781ef4ffd25735702b99d34?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3UoyCBnr5YJ4qKzHkrM2fj",
+          "streaming_service": "spotify",
+          "title": "Ring of Fire",
+          "artist_name": "Wuki",
+          "duration": 136190,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0280c0c524569853ce9854be28",
+          "preview_url": "https://p.scdn.co/mp3-preview/c470e22a5a433df5519f7e17bc151d39da684df1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1OZpwV4SxiFfQRyZX61RLN",
+          "streaming_service": "spotify",
+          "title": "Moon (Think Of You)",
+          "artist_name": "Wuki",
+          "duration": 186343,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0210feb7fee06310248c267478",
+          "preview_url": "https://p.scdn.co/mp3-preview/dd83b1a78667e5c2fae5a35df6c3dcedbd16c220?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4RyMCZwppONONriiGA435G",
+          "streaming_service": "spotify",
+          "title": "Daydreams",
+          "artist_name": "Wuki, Allegra Miles",
+          "duration": 163410,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024b7957299f550ddbc9ea0499",
+          "preview_url": "https://p.scdn.co/mp3-preview/65f7d325c3d357b7ab3ee31e37226fedbcf29f41?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2040609,
       "external_id": "167147",
       "published": true,
@@ -10173,175 +10342,6 @@
         }
       ],
       "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040610,
-      "external_id": "1909153",
-      "published": true,
-      "name": "Wuki",
-      "body": "Grammy nominated producer and DJ, Wuki (aka Kris Barman) has quickly cemented a global fan base with his ability to blend multiple genres and seamlessly mix booty breaks, electro, and house into hard-hitting club shakers. Wuki has architected a dynamic catalog highlighted by signature anthems such as “Sunshine (My Girl)” and “Edge of Seventeen.” The latter dominated Beatport at #1 for multiple weeks and soundtracked over 500 Peloton classes, reeling in 150 million-plus streams worldwide. During 2024, “Sunshine (My Girl)” exploded, inspiring more than 600K social media usages and 1.5 billion views, in addition to amassing north of 100 million cumulative streams. Beyond serving up official remixes for everyone from Tinashe and Saweetie to Selena Gomez, The Chainsmokers and Halsey, he garnered a GRAMMY® Award nomination in the category of “Best Remixed Recording” for “Mother’s Daughter” by Miley Cyrus. Along the way, he has graced the stages of hallowed venues such as Red Rocks Amphitheatre as well as major festivals, including mainstage of EDC Las Vegas and collabed with the who’s who of pop culture including Smokepurpp, Diplo, Shaq, and more! Magnifying his influence further, he notably launched the fan favorite viral content series Beats I Can’t Release with hundreds of episodes to date with a view count in the multi billions!",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": null,
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463877_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463877_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463877_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463877_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "IAMwuki",
-        "instagram_user": "wuki",
-        "twitter_user": "Wuki",
-        "youtube_user": "channel/UCz2f6P0dckd4gpTmEJ2kOkg",
-        "spotify_artist_id": "6Se1y4vDcu9fVHLqdj1N3q"
-      },
-      "performances": [
-        {
-          "id": 249989,
-          "external_id": "865879",
-          "published": true,
-          "body": "Grammy nominated producer and DJ, Wuki (aka Kris Barman) has quickly cemented a global fan base with his ability to blend multiple genres and seamlessly mix booty breaks, electro, and house into hard-hitting club shakers. Wuki has architected a dynamic catalog highlighted by signature anthems such as “Sunshine (My Girl)” and “Edge of Seventeen.” The latter dominated Beatport at #1 for multiple weeks and soundtracked over 500 Peloton classes, reeling in 150 million-plus streams worldwide. During 2024, “Sunshine (My Girl)” exploded, inspiring more than 600K social media usages and 1.5 billion views, in addition to amassing north of 100 million cumulative streams. Beyond serving up official remixes for everyone from Tinashe and Saweetie to Selena Gomez, The Chainsmokers and Halsey, he garnered a GRAMMY® Award nomination in the category of “Best Remixed Recording” for “Mother’s Daughter” by Miley Cyrus. Along the way, he has graced the stages of hallowed venues such as Red Rocks Amphitheatre as well as major festivals, including mainstage of EDC Las Vegas and collabed with the who’s who of pop culture including Smokepurpp, Diplo, Shaq, and more! Magnifying his influence further, he notably launched the fan favorite viral content series Beats I Can’t Release with hundreds of episodes to date with a view count in the multi billions!",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040610,
-          "stage_id": 12494,
-          "stage_name": "Fractal Forest",
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-27T07:00:00+00:00",
-          "end_time": "2025-07-27T08:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "5xGcpnA8ACSipKcRcYioxh",
-          "streaming_service": "spotify",
-          "title": "Better",
-          "artist_name": "Valentino Khan, Wuki, Roxanna",
-          "duration": 200000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d40ef22ff0f0c792713381f9",
-          "preview_url": "https://p.scdn.co/mp3-preview/5f3756b6f924411970ff5fb7becc8ac87ebef8c6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3LEztKH305u3WRpqKdG9Ch",
-          "streaming_service": "spotify",
-          "title": "Birdz",
-          "artist_name": "Wuki, Smokepurpp",
-          "duration": 162375,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b64a526e421b343d47e251fe",
-          "preview_url": "https://p.scdn.co/mp3-preview/5c8c11fd5bf0a595e02e407a5fd1125d87a4e216?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3L740L9Y186igjbzxz7Vfr",
-          "streaming_service": "spotify",
-          "title": "As the World Caves In - Wuki Remix",
-          "artist_name": "Sarah Cothran, Wuki",
-          "duration": 176640,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0263ea629023153d2d993f47c7"
-        },
-        {
-          "track_id": "1wVU8sMkX489OGwVRm2LIy",
-          "streaming_service": "spotify",
-          "title": "Ain't It Fun",
-          "artist_name": "Wuki",
-          "duration": 184302,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ff75f3fc7c84cf6939062f06",
-          "preview_url": "https://p.scdn.co/mp3-preview/fbe74fad4f116f4130cfdd11f215af7e70f9e268?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2juRJXaQq5vjUlyNO11U12",
-          "streaming_service": "spotify",
-          "title": "Shake It",
-          "artist_name": "Wuki, Trace",
-          "duration": 195000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024e7e3b9b93d7ed57f4f60f08",
-          "preview_url": "https://p.scdn.co/mp3-preview/5822ae637769725bb7621ef8b101d973ab6c9023?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "52WUqlqnxa0JVcSOCTzbn1",
-          "streaming_service": "spotify",
-          "title": "Sunshine (My Girl)",
-          "artist_name": "Wuki",
-          "duration": 131250,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02abe701d1d7aec52768209167",
-          "preview_url": "https://p.scdn.co/mp3-preview/49522cc40d067ce10189938ec6d95ee3f749def5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "77MN0cd5C97q1KIGNfNVA4",
-          "streaming_service": "spotify",
-          "title": "Edge of Seventeen",
-          "artist_name": "Wuki",
-          "duration": 164042,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ed9f7f0d311f3266ceaf0758",
-          "preview_url": "https://p.scdn.co/mp3-preview/9f008e7cc07a5f645781ef4ffd25735702b99d34?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3UoyCBnr5YJ4qKzHkrM2fj",
-          "streaming_service": "spotify",
-          "title": "Ring of Fire",
-          "artist_name": "Wuki",
-          "duration": 136190,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0280c0c524569853ce9854be28",
-          "preview_url": "https://p.scdn.co/mp3-preview/c470e22a5a433df5519f7e17bc151d39da684df1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1OZpwV4SxiFfQRyZX61RLN",
-          "streaming_service": "spotify",
-          "title": "Moon (Think Of You)",
-          "artist_name": "Wuki",
-          "duration": 186343,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0210feb7fee06310248c267478",
-          "preview_url": "https://p.scdn.co/mp3-preview/dd83b1a78667e5c2fae5a35df6c3dcedbd16c220?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4RyMCZwppONONriiGA435G",
-          "streaming_service": "spotify",
-          "title": "Daydreams",
-          "artist_name": "Wuki, Allegra Miles",
-          "duration": 163410,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024b7957299f550ddbc9ea0499",
-          "preview_url": "https://p.scdn.co/mp3-preview/65f7d325c3d357b7ab3ee31e37226fedbcf29f41?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
