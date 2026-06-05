@@ -668,6 +668,334 @@
       "allow_favoriting": true
     },
     {
+      "id": 2040614,
+      "external_id": "167109",
+      "published": true,
+      "name": "Father Funk",
+      "body": "Renowned for his high energy DJ sets and electrifying original productions, which fuse elements of Funk, Hip Hop, and Disco with everything from Dubstep to Drum & Bass, Father Funk's unique, genre-bending, party-rocking style has gained him a cult following worldwide. Delivered with a mischievous grin and thunderous onstage energy, Father Funk has become synonymous with instantly recognizable original productions and notorious bootlegs that have garnered international acclaim.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": null,
+        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463881_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463881_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463881_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463881_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "fatherfunk",
+        "instagram_user": "fatherfunk/",
+        "twitter_user": "fatherfunkmusic",
+        "soundcloud_user": "father-funk",
+        "spotify_artist_id": "2v8mmZp35c5E1pTDecZUkv"
+      },
+      "performances": [
+        {
+          "id": 249993,
+          "external_id": "865539",
+          "published": true,
+          "body": "Renowned for his high energy DJ sets and electrifying original productions, which fuse elements of Funk, Hip Hop, and Disco with everything from Dubstep to Drum & Bass, Father Funk's unique, genre-bending, party-rocking style has gained him a cult following worldwide. Delivered with a mischievous grin and thunderous onstage energy, Father Funk has become synonymous with instantly recognizable original productions and notorious bootlegs that have garnered international acclaim.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040614,
+          "stage_id": 12494,
+          "stage_name": "Fractal Forest",
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-27T11:00:00+00:00",
+          "end_time": "2025-07-27T12:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "1w4P729vqIe0EKL9Mg8Y3h",
+          "streaming_service": "spotify",
+          "title": "Swamp Ting",
+          "artist_name": "Boogie T, Father Funk",
+          "duration": 228275,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c9fdc9fda0caa228581383bc",
+          "preview_url": "https://p.scdn.co/mp3-preview/ea263a5f4afb2b8e9ff562ebfaefa9c25babfc6c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3NlLWyxZ6TaNBjFPch6pnZ",
+          "streaming_service": "spotify",
+          "title": "Boogie Time - Original Mix",
+          "artist_name": "Father Funk",
+          "duration": 178909,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0297602e824a75148999b6f5f3",
+          "preview_url": "https://p.scdn.co/mp3-preview/38b057b5c280ccebb1c8a56671c81a273e5e7d15?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1Q5XMRIKkWB3pbB5TI8I79",
+          "streaming_service": "spotify",
+          "title": "Legend Of The Rent",
+          "artist_name": "Father Funk",
+          "duration": 176914,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0226fb0f5a02262bfe8213fe42",
+          "preview_url": "https://p.scdn.co/mp3-preview/b02fbea526808f966baa15dca1638cea46117e5f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2lpk8tsodfZooXlPFbN5LK",
+          "streaming_service": "spotify",
+          "title": "All I Hear (is a funky bassline)",
+          "artist_name": "The Sponges, Father Funk",
+          "duration": 216975,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02559880eeaa6e1b19aceaa46e",
+          "preview_url": "https://p.scdn.co/mp3-preview/962a0f42e9d5e039fb2f9fcfa4e37e086737d682?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5eQ5jYVLrKakL1doDt9anr",
+          "streaming_service": "spotify",
+          "title": "Boogie Down",
+          "artist_name": "Father Funk, Slynk",
+          "duration": 172363,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e029f249e8c6097e24fb915b648",
+          "preview_url": "https://p.scdn.co/mp3-preview/61a79a64bf03a9fe2e18494d947ba9a6f39ca09b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "76D83eABWRqrPwq0N59sEo",
+          "streaming_service": "spotify",
+          "title": "Bring The Funk Back",
+          "artist_name": "SoDown, Father Funk",
+          "duration": 160000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024bd9b245749824f6f065cea6",
+          "preview_url": "https://p.scdn.co/mp3-preview/2e17408a908f0379f8a1b038f9ce071191532918?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7kmGfdwNsrKF5cESnfe7ih",
+          "streaming_service": "spotify",
+          "title": "Rage Again",
+          "artist_name": "Father Funk, Def3",
+          "duration": 198857,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ce01526739523b5ed4e97815",
+          "preview_url": "https://p.scdn.co/mp3-preview/937039276c15f94e39bb5feace476247801c73f2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "72fFsQ2OlKXGd5nfVSnMzc",
+          "streaming_service": "spotify",
+          "title": "Trippy Road",
+          "artist_name": "Father Funk, zoska, ProbCause",
+          "duration": 140800,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ce01526739523b5ed4e97815",
+          "preview_url": "https://p.scdn.co/mp3-preview/77bee3750d04ce88e69e91d14d669e5c0ec2024c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "633Gfp5bdRWVdalF0BbRSl",
+          "streaming_service": "spotify",
+          "title": "10 Toes Down",
+          "artist_name": "Father Funk, Kyle Goldstein",
+          "duration": 172137,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ce01526739523b5ed4e97815",
+          "preview_url": "https://p.scdn.co/mp3-preview/9c48efe8d565535ea16435444caaa7cb91b849aa?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4hnLXt9jG8t8yJAfgUABbm",
+          "streaming_service": "spotify",
+          "title": "Brass Pineapple - Father Funk Remix",
+          "artist_name": "SunSquabi, Nate Miller, Father Funk",
+          "duration": 168000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0279b3a5f64a4024e865ad4e89",
+          "preview_url": "https://p.scdn.co/mp3-preview/69245d1a9baefed1e49b56dd90a276117df30468?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040730,
+      "external_id": "188044",
+      "published": true,
+      "name": "Slander",
+      "body": "SLANDER is a Grammy-nominated American electronic music duo consisting of Derek Andersen and Scott Land based in Los Angeles, CA who are best known for their unique, emotional, melodic bass music sound.<br />\n<br />\nGoing from being Icon Collective graduates to selling out massive hard ticket venues including Red Rocks, and performing at global festivals such as EDC, Lollapalooza, Tomorrowland, and Ultra. SLANDER has become one of the hottest acts in dance music with two RIAA Gold Certifications to their name.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": null,
+        "100": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468466_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468466_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468466_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468466_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468466_performance_960.png",
+        "1080": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468466_performance_1080.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "slanderofficial",
+        "instagram_user": "slanderofficial",
+        "twitter_user": "SlanderOfficial",
+        "youtube_user": "slanderofficial",
+        "soundcloud_user": "SLANDEROFFICIAL"
+      },
+      "performances": [
+        {
+          "id": 250110,
+          "external_id": "865361",
+          "published": true,
+          "body": "SLANDER is a Grammy-nominated American electronic music duo consisting of Derek Andersen and Scott Land based in Los Angeles, CA who are best known for their unique, emotional, melodic bass music sound.\n\nGoing from being Icon Collective graduates to selling out massive hard ticket venues including Red Rocks, and performing at global festivals such as EDC, Lollapalooza, Tomorrowland, and Ultra. SLANDER has become one of the hottest acts in dance music with two RIAA Gold Certifications to their name.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040730,
+          "stage_id": 12498,
+          "stage_name": "Village",
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-27T07:30:00+00:00",
+          "end_time": "2025-07-27T09:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040731,
+      "external_id": "1920561",
+      "published": true,
+      "name": "ALLEYCVT",
+      "body": "ALLEYCVT, born in Virginia and now based in Los Angeles, has been a beacon of creativity since childhood, with a passion for drawing, painting, and music. From her early days in fourth grade writing songs, she has evolved into a dynamic force within the electronic music scene, blending melodic dubstep with modern pop-dubstep. Her approach mirrors the depth and intensity of rock music, drawing parallels between dubstep and the genre's raw emotional pull.<br />\n<br />\nHer musical epiphany came during a transformative live performance by GRiZ, where she experienced the powerful integration of organic instrumentation with psychedelic bass and electronic elements. This moment profoundly influenced her artistic direction, echoing through her music which carries the signatures of influences like Flux Pavilion, Zeds Dead, Subtronics.<br />\n<br />\nRejecting conventional labels, ALLEYCVT strives for recognition based on her comprehensive artistry. She is also a passionate environmental advocate, committing to donate a portion of her ticket sales to various charities. Her approach extends beyond music to embrace a broader mission of making a tangible impact on the world.<br />\n<br />\nHer art and brand aesthetic are as vibrant and complex as life itself, featuring a mix of cyberpunk and Deadhead styles that create a trippy, psychedelic experience. Her upcoming debut EP, \"FEEL IT,\" is a deep dive into her five-year journey in the music industry, capturing the highs and lows, the heartbreaks and triumphs, and the personal growth that comes from navigating such intense experiences.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": null,
+        "100": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464007_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464007_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464007_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464007_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "alleycvt",
+        "instagram_user": "alleycvt",
+        "twitter_user": "itsalleycvt"
+      },
+      "performances": [
+        {
+          "id": 250111,
+          "external_id": "865387",
+          "published": true,
+          "body": "ALLEYCVT, born in Virginia and now based in Los Angeles, has been a beacon of creativity since childhood, with a passion for drawing, painting, and music. From her early days in fourth grade writing songs, she has evolved into a dynamic force within the electronic music scene, blending melodic dubstep with modern pop-dubstep. Her approach mirrors the depth and intensity of rock music, drawing parallels between dubstep and the genre's raw emotional pull.\n\nHer musical epiphany came during a transformative live performance by GRiZ, where she experienced the powerful integration of organic instrumentation with psychedelic bass and electronic elements. This moment profoundly influenced her artistic direction, echoing through her music which carries the signatures of influences like Flux Pavilion, Zeds Dead, Subtronics.\n\nRejecting conventional labels, ALLEYCVT strives for recognition based on her comprehensive artistry. She is also a passionate environmental advocate, committing to donate a portion of her ticket sales to various charities. Her approach extends beyond music to embrace a broader mission of making a tangible impact on the world.\n\nHer art and brand aesthetic are as vibrant and complex as life itself, featuring a mix of cyberpunk and Deadhead styles that create a trippy, psychedelic experience. Her upcoming debut EP, \"FEEL IT,\" is a deep dive into her five-year journey in the music industry, capturing the highs and lows, the heartbreaks and triumphs, and the personal growth that comes from navigating such intense experiences.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040731,
+          "stage_id": 12498,
+          "stage_name": "Village",
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-27T09:00:00+00:00",
+          "end_time": "2025-07-27T10:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2040739,
       "external_id": "1916899",
       "published": true,
@@ -13432,83 +13760,6 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040731,
-      "external_id": "1920561",
-      "published": true,
-      "name": "ALLEYCVT",
-      "body": "ALLEYCVT, born in Virginia and now based in Los Angeles, has been a beacon of creativity since childhood, with a passion for drawing, painting, and music. From her early days in fourth grade writing songs, she has evolved into a dynamic force within the electronic music scene, blending melodic dubstep with modern pop-dubstep. Her approach mirrors the depth and intensity of rock music, drawing parallels between dubstep and the genre's raw emotional pull.<br />\n<br />\nHer musical epiphany came during a transformative live performance by GRiZ, where she experienced the powerful integration of organic instrumentation with psychedelic bass and electronic elements. This moment profoundly influenced her artistic direction, echoing through her music which carries the signatures of influences like Flux Pavilion, Zeds Dead, Subtronics.<br />\n<br />\nRejecting conventional labels, ALLEYCVT strives for recognition based on her comprehensive artistry. She is also a passionate environmental advocate, committing to donate a portion of her ticket sales to various charities. Her approach extends beyond music to embrace a broader mission of making a tangible impact on the world.<br />\n<br />\nHer art and brand aesthetic are as vibrant and complex as life itself, featuring a mix of cyberpunk and Deadhead styles that create a trippy, psychedelic experience. Her upcoming debut EP, \"FEEL IT,\" is a deep dive into her five-year journey in the music industry, capturing the highs and lows, the heartbreaks and triumphs, and the personal growth that comes from navigating such intense experiences.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": null,
-        "100": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464007_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464007_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464007_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464007_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "alleycvt",
-        "instagram_user": "alleycvt",
-        "twitter_user": "itsalleycvt"
-      },
-      "performances": [
-        {
-          "id": 250111,
-          "external_id": "865387",
-          "published": true,
-          "body": "ALLEYCVT, born in Virginia and now based in Los Angeles, has been a beacon of creativity since childhood, with a passion for drawing, painting, and music. From her early days in fourth grade writing songs, she has evolved into a dynamic force within the electronic music scene, blending melodic dubstep with modern pop-dubstep. Her approach mirrors the depth and intensity of rock music, drawing parallels between dubstep and the genre's raw emotional pull.\n\nHer musical epiphany came during a transformative live performance by GRiZ, where she experienced the powerful integration of organic instrumentation with psychedelic bass and electronic elements. This moment profoundly influenced her artistic direction, echoing through her music which carries the signatures of influences like Flux Pavilion, Zeds Dead, Subtronics.\n\nRejecting conventional labels, ALLEYCVT strives for recognition based on her comprehensive artistry. She is also a passionate environmental advocate, committing to donate a portion of her ticket sales to various charities. Her approach extends beyond music to embrace a broader mission of making a tangible impact on the world.\n\nHer art and brand aesthetic are as vibrant and complex as life itself, featuring a mix of cyberpunk and Deadhead styles that create a trippy, psychedelic experience. Her upcoming debut EP, \"FEEL IT,\" is a deep dive into her five-year journey in the music industry, capturing the highs and lows, the heartbreaks and triumphs, and the personal growth that comes from navigating such intense experiences.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040731,
-          "stage_id": 12498,
-          "stage_name": "Village",
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-27T09:00:00+00:00",
-          "end_time": "2025-07-27T10:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2040799,
       "external_id": "1916745",
       "published": true,
@@ -14794,87 +15045,6 @@
           "show_in_search": false,
           "start_time": "2025-07-27T04:15:00+00:00",
           "end_time": "2025-07-27T04:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040730,
-      "external_id": "188044",
-      "published": true,
-      "name": "Slander",
-      "body": "SLANDER is a Grammy-nominated American electronic music duo consisting of Derek Andersen and Scott Land based in Los Angeles, CA who are best known for their unique, emotional, melodic bass music sound.<br />\n<br />\nGoing from being Icon Collective graduates to selling out massive hard ticket venues including Red Rocks, and performing at global festivals such as EDC, Lollapalooza, Tomorrowland, and Ultra. SLANDER has become one of the hottest acts in dance music with two RIAA Gold Certifications to their name.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": null,
-        "100": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468466_performance_100.png",
-        "120": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468466_performance_120.png",
-        "250": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468466_performance_250.png",
-        "500": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468466_performance_500.png",
-        "960": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468466_performance_960.png",
-        "1080": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468466_performance_1080.png"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "slanderofficial",
-        "instagram_user": "slanderofficial",
-        "twitter_user": "SlanderOfficial",
-        "youtube_user": "slanderofficial",
-        "soundcloud_user": "SLANDEROFFICIAL"
-      },
-      "performances": [
-        {
-          "id": 250110,
-          "external_id": "865361",
-          "published": true,
-          "body": "SLANDER is a Grammy-nominated American electronic music duo consisting of Derek Andersen and Scott Land based in Los Angeles, CA who are best known for their unique, emotional, melodic bass music sound.\n\nGoing from being Icon Collective graduates to selling out massive hard ticket venues including Red Rocks, and performing at global festivals such as EDC, Lollapalooza, Tomorrowland, and Ultra. SLANDER has become one of the hottest acts in dance music with two RIAA Gold Certifications to their name.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040730,
-          "stage_id": 12498,
-          "stage_name": "Village",
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-27T07:30:00+00:00",
-          "end_time": "2025-07-27T09:00:00+00:00",
           "show_image_in_schedule": true,
           "hide_start_time": false,
           "hide_end_time": false,
@@ -23229,176 +23399,6 @@
           "duration": 229642,
           "image_url": "https://i.scdn.co/image/ab67616d00001e025cae525d4c502141d340fd51",
           "preview_url": "https://p.scdn.co/mp3-preview/9ea2b924765facdbd277a50c0a8e53ce4c135839?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040614,
-      "external_id": "167109",
-      "published": true,
-      "name": "Father Funk",
-      "body": "Renowned for his high energy DJ sets and electrifying original productions, which fuse elements of Funk, Hip Hop, and Disco with everything from Dubstep to Drum & Bass, Father Funk's unique, genre-bending, party-rocking style has gained him a cult following worldwide. Delivered with a mischievous grin and thunderous onstage energy, Father Funk has become synonymous with instantly recognizable original productions and notorious bootlegs that have garnered international acclaim.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": null,
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463881_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463881_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463881_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463881_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "fatherfunk",
-        "instagram_user": "fatherfunk/",
-        "twitter_user": "fatherfunkmusic",
-        "soundcloud_user": "father-funk",
-        "spotify_artist_id": "2v8mmZp35c5E1pTDecZUkv"
-      },
-      "performances": [
-        {
-          "id": 249993,
-          "external_id": "865539",
-          "published": true,
-          "body": "Renowned for his high energy DJ sets and electrifying original productions, which fuse elements of Funk, Hip Hop, and Disco with everything from Dubstep to Drum & Bass, Father Funk's unique, genre-bending, party-rocking style has gained him a cult following worldwide. Delivered with a mischievous grin and thunderous onstage energy, Father Funk has become synonymous with instantly recognizable original productions and notorious bootlegs that have garnered international acclaim.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040614,
-          "stage_id": 12494,
-          "stage_name": "Fractal Forest",
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-27T11:00:00+00:00",
-          "end_time": "2025-07-27T12:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "1w4P729vqIe0EKL9Mg8Y3h",
-          "streaming_service": "spotify",
-          "title": "Swamp Ting",
-          "artist_name": "Boogie T, Father Funk",
-          "duration": 228275,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c9fdc9fda0caa228581383bc",
-          "preview_url": "https://p.scdn.co/mp3-preview/ea263a5f4afb2b8e9ff562ebfaefa9c25babfc6c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3NlLWyxZ6TaNBjFPch6pnZ",
-          "streaming_service": "spotify",
-          "title": "Boogie Time - Original Mix",
-          "artist_name": "Father Funk",
-          "duration": 178909,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0297602e824a75148999b6f5f3",
-          "preview_url": "https://p.scdn.co/mp3-preview/38b057b5c280ccebb1c8a56671c81a273e5e7d15?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1Q5XMRIKkWB3pbB5TI8I79",
-          "streaming_service": "spotify",
-          "title": "Legend Of The Rent",
-          "artist_name": "Father Funk",
-          "duration": 176914,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0226fb0f5a02262bfe8213fe42",
-          "preview_url": "https://p.scdn.co/mp3-preview/b02fbea526808f966baa15dca1638cea46117e5f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2lpk8tsodfZooXlPFbN5LK",
-          "streaming_service": "spotify",
-          "title": "All I Hear (is a funky bassline)",
-          "artist_name": "The Sponges, Father Funk",
-          "duration": 216975,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02559880eeaa6e1b19aceaa46e",
-          "preview_url": "https://p.scdn.co/mp3-preview/962a0f42e9d5e039fb2f9fcfa4e37e086737d682?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5eQ5jYVLrKakL1doDt9anr",
-          "streaming_service": "spotify",
-          "title": "Boogie Down",
-          "artist_name": "Father Funk, Slynk",
-          "duration": 172363,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e029f249e8c6097e24fb915b648",
-          "preview_url": "https://p.scdn.co/mp3-preview/61a79a64bf03a9fe2e18494d947ba9a6f39ca09b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "76D83eABWRqrPwq0N59sEo",
-          "streaming_service": "spotify",
-          "title": "Bring The Funk Back",
-          "artist_name": "SoDown, Father Funk",
-          "duration": 160000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024bd9b245749824f6f065cea6",
-          "preview_url": "https://p.scdn.co/mp3-preview/2e17408a908f0379f8a1b038f9ce071191532918?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7kmGfdwNsrKF5cESnfe7ih",
-          "streaming_service": "spotify",
-          "title": "Rage Again",
-          "artist_name": "Father Funk, Def3",
-          "duration": 198857,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ce01526739523b5ed4e97815",
-          "preview_url": "https://p.scdn.co/mp3-preview/937039276c15f94e39bb5feace476247801c73f2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "72fFsQ2OlKXGd5nfVSnMzc",
-          "streaming_service": "spotify",
-          "title": "Trippy Road",
-          "artist_name": "Father Funk, zoska, ProbCause",
-          "duration": 140800,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ce01526739523b5ed4e97815",
-          "preview_url": "https://p.scdn.co/mp3-preview/77bee3750d04ce88e69e91d14d669e5c0ec2024c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "633Gfp5bdRWVdalF0BbRSl",
-          "streaming_service": "spotify",
-          "title": "10 Toes Down",
-          "artist_name": "Father Funk, Kyle Goldstein",
-          "duration": 172137,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ce01526739523b5ed4e97815",
-          "preview_url": "https://p.scdn.co/mp3-preview/9c48efe8d565535ea16435444caaa7cb91b849aa?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4hnLXt9jG8t8yJAfgUABbm",
-          "streaming_service": "spotify",
-          "title": "Brass Pineapple - Father Funk Remix",
-          "artist_name": "SunSquabi, Nate Miller, Father Funk",
-          "duration": 168000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0279b3a5f64a4024e865ad4e89",
-          "preview_url": "https://p.scdn.co/mp3-preview/69245d1a9baefed1e49b56dd90a276117df30468?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         }
       ],
       "show_in_search": true,
