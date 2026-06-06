@@ -668,6 +668,1102 @@
       "allow_favoriting": true
     },
     {
+      "id": 2040684,
+      "external_id": "1922400",
+      "published": true,
+      "name": "John Rolodex",
+      "body": "Featuring: Donna Dada, Rasta, Strange Manner, Oh Aces, EffnEd, Kirtay, IN2IT, Pete Shredz and MC Maponus<br />\n<br />\nSometimes the rarest inspiration emerges in the most unlikely places. At a time when few artists outside the UK were breaking through the drum and bass and jungle scene, John Rolodex rose from Edmonton, Alberta with a sound too powerful to ignore.<br />\n<br />\nHis early 2000s releases caught the attention of the genre’s elite - and beyond. The late John Peel featured his music multiple times on BBC Radio 1, a rare accolade for a Canadian producer at the time.<br />\n<br />\nA trilogy of heavyweight EPs on Ray Keith’s Dread Recordings cemented John’s reputation, but it was his signing to Goldie’s iconic Metalheadz label that marked his arrival as a key international artist in the mid-2000s.<br />\n<br />\nIn 2010, John launched Machinist Music - an independent label dedicated to raw, breakbeat-driven sound. Over the years, it has become a haven for both rising talent and veteran producers, offering an outlet for uncompromising sonic experimentation.<br />\n<br />\nJohn has headlined shows across North America and Europe, and in 2024 was invited to curate the Village Jungle Rinseout at Shambhala Music Festival - a stage-opening event that draws thousands to one of the largest bass stages in the country.<br />\n<br />\nBeyond the booth and the studio, Rolodex has hosted radio programs, led masterclasses, spoken at music conferences, and composed for film and television - bringing his deep knowledge of sound and culture to new audiences.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": null,
+        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626137_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626137_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626137_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626137_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "JohnRolodexOfficial",
+        "instagram_user": "johnrolodex",
+        "soundcloud_user": "machinistmusic",
+        "spotify_artist_id": "0TtwCJX6ctu35Euvh16EPc"
+      },
+      "performances": [
+        {
+          "id": 250063,
+          "external_id": "866076",
+          "published": true,
+          "name": "Village Rinse Out Hosted by John Rolodex",
+          "body": "Featuring: Donna Dada, Rasta, Strange Manner, Oh Aces, EffnEd, Kirtay, IN2IT, Pete Shredz and MC Maponus\n\nSometimes the rarest inspiration emerges in the most unlikely places. At a time when few artists outside the UK were breaking through the drum and bass and jungle scene, John Rolodex rose from Edmonton, Alberta with a sound too powerful to ignore.\n\nHis early 2000s releases caught the attention of the genre’s elite - and beyond. The late John Peel featured his music multiple times on BBC Radio 1, a rare accolade for a Canadian producer at the time.\n\nA trilogy of heavyweight EPs on Ray Keith’s Dread Recordings cemented John’s reputation, but it was his signing to Goldie’s iconic Metalheadz label that marked his arrival as a key international artist in the mid-2000s.\n\nIn 2010, John launched Machinist Music - an independent label dedicated to raw, breakbeat-driven sound. Over the years, it has become a haven for both rising talent and veteran producers, offering an outlet for uncompromising sonic experimentation.\n\nJohn has headlined shows across North America and Europe, and in 2024 was invited to curate the Village Jungle Rinseout at Shambhala Music Festival - a stage-opening event that draws thousands to one of the largest bass stages in the country.\n\nBeyond the booth and the studio, Rolodex has hosted radio programs, led masterclasses, spoken at music conferences, and composed for film and television - bringing his deep knowledge of sound and culture to new audiences.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040684,
+          "stage_id": 12491,
+          "stage_name": "Village",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-25T22:00:00+00:00",
+          "end_time": "2025-07-26T03:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "6ezgvm6D82vJm2LqYlryNf",
+          "streaming_service": "spotify",
+          "title": "No No - John Rolodex Remix",
+          "artist_name": "Ray Keith, Alexandra, MC Navigator, John Rolodex",
+          "duration": 391226,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028f0e9f16000ea68ee46c8b0c",
+          "preview_url": "https://p.scdn.co/mp3-preview/f234160fc3f95f671faf40c837218dfdf231bb90?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "35ZRwqnmpGyJmGZ8IK9u3X",
+          "streaming_service": "spotify",
+          "title": "Sumthin U Feel - edit",
+          "artist_name": "John Rolodex",
+          "duration": 206511,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02cb4020b2457b16a4b2c52a9a",
+          "preview_url": "https://p.scdn.co/mp3-preview/03aec60c0f36cde143c3557155536c3a1e473a6e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7IunhCWMk5gw7Lk3Ps3YHv",
+          "streaming_service": "spotify",
+          "title": "The Rainmaker",
+          "artist_name": "John Rolodex, Khadija",
+          "duration": 389558,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02faddf3f510ce3cb36d9828f1",
+          "preview_url": "https://p.scdn.co/mp3-preview/01b5b469c6db0055c2dfb69a2348a3dd43ece908?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "001JG6c5wVecuA2SpPLuwb",
+          "streaming_service": "spotify",
+          "title": "Connector - 2026 Revisited - edit",
+          "artist_name": "John Rolodex",
+          "duration": 202758,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021b5bd9e7462d1650552c5054",
+          "preview_url": "https://p.scdn.co/mp3-preview/bfcb08ade913d3422b83a4fe3f9f1ab8ea9bb64c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2nreb09uRcRNMUuXzfo4Fs",
+          "streaming_service": "spotify",
+          "title": "Tricky - edit",
+          "artist_name": "John Rolodex",
+          "duration": 212413,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02733d805c76ef265b0fbe26df",
+          "preview_url": "https://p.scdn.co/mp3-preview/c7d3881a81703f4e35d071cbe01979cb9fb76dc5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4bERrZKFcpI2hX8ILxe983",
+          "streaming_service": "spotify",
+          "title": "Stomper - edit",
+          "artist_name": "John Rolodex",
+          "duration": 228837,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028cb90a652c9c73cd0e9f6de2",
+          "preview_url": "https://p.scdn.co/mp3-preview/44a62ed1a41672c42e7542ea6a648a42a9247f61?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "38gOzZJlLPld1nhdLtgItc",
+          "streaming_service": "spotify",
+          "title": "You're the One",
+          "artist_name": "John Rolodex",
+          "duration": 309655,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ce50b53f37590b38fd0249c1",
+          "preview_url": "https://p.scdn.co/mp3-preview/4c446ee1091d2e003e7eb71747f2a4475a66d8b1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5nYUW2TQREiiytMnmNRGsJ",
+          "streaming_service": "spotify",
+          "title": "Depth of Field",
+          "artist_name": "John Rolodex",
+          "duration": 324429,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02fc82d6eea0d9723d40744b3b",
+          "preview_url": "https://p.scdn.co/mp3-preview/2338b35dd62cefb2ddac0f6b4277565defc0a626?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4m0Vp4Y3uyqgg8x5Jvoufj",
+          "streaming_service": "spotify",
+          "title": "Formless",
+          "artist_name": "John Rolodex",
+          "duration": 344491,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02fc82d6eea0d9723d40744b3b",
+          "preview_url": "https://p.scdn.co/mp3-preview/41f0f5eee23ab36cb057e1c08d305d1686970431?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "24ASqX8RK82Y0mh3FQGhjv",
+          "streaming_service": "spotify",
+          "title": "Underneath - edit",
+          "artist_name": "John Rolodex, Candice Fudge",
+          "duration": 237919,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02aecf9df6de099bdca6b38829",
+          "preview_url": "https://p.scdn.co/mp3-preview/865ef746e8054b08f677d7b2921348b20f41fb97?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040633,
+      "external_id": "1920547",
+      "published": true,
+      "name": "Shades",
+      "body": "Alix Perez (Belgium/UK) and Eprom (USA) are SHADES.<br />\n<br />\nPerez found his rise to fame in drum n bass, releasing on Shogun Audio, Exit Recordings amongst many other labels and collaborating with the foremost names in dance and electronic music such as Noisia, Foreign Beggars, dBridge, and many more.<br />\n<br />\nEprom gained his well-deserved success through his innovative take on bass music, a unique sound that has the likes of Gaslamp Killer, Kutmah, D-Styles singing his praises and supporting his music.<br />\n<br />\nSHADES exemplifies slanted grooves, a deep pocket and hard yet graceful composition. The debut self-titled EP (released on Alpha Pup) is a truly unique body of work.<br />\n<br />\nAware of each other’s music for some time before meeting, Perez and Eprom first crossed paths at the 2013/2014 Northern Bass festival in New Zealand. The following summer they met again at the Red Bull Studios LA producing the Foreign Beggars’ Modus EP. This initial studio session led to further collaborations and SHADES was born.<br />\n<br />\nXLR8R have rightly said “music that’s not only a legitimate full-frontal assault in the same vein as tunes from that golden era of gluttonous bass and synths, but that embraces that ethos while giving it a more polished feel”.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": null,
+        "100": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469671_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469671_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469671_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469671_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469671_performance_960.png",
+        "1080": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469671_performance_1080.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "shadesmusicpage",
+        "instagram_user": "shadesofrhythm",
+        "twitter_user": "shades216",
+        "spotify_artist_id": "3hZYcnuncZYCJzqO9pwpAK"
+      },
+      "performances": [
+        {
+          "id": 250011,
+          "external_id": "865489",
+          "published": true,
+          "body": "Alix Perez (Belgium/UK) and Eprom (USA) are SHADES.\n\nPerez found his rise to fame in drum n bass, releasing on Shogun Audio, Exit Recordings amongst many other labels and collaborating with the foremost names in dance and electronic music such as Noisia, Foreign Beggars, dBridge, and many more.\n\nEprom gained his well-deserved success through his innovative take on bass music, a unique sound that has the likes of Gaslamp Killer, Kutmah, D-Styles singing his praises and supporting his music.\n\nSHADES exemplifies slanted grooves, a deep pocket and hard yet graceful composition. The debut self-titled EP (released on Alpha Pup) is a truly unique body of work.\n\nAware of each other’s music for some time before meeting, Perez and Eprom first crossed paths at the 2013/2014 Northern Bass festival in New Zealand. The following summer they met again at the Red Bull Studios LA producing the Foreign Beggars’ Modus EP. This initial studio session led to further collaborations and SHADES was born.\n\nXLR8R have rightly said “music that’s not only a legitimate full-frontal assault in the same vein as tunes from that golden era of gluttonous bass and synths, but that embraces that ethos while giving it a more polished feel”.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040633,
+          "stage_id": 12486,
+          "stage_name": "AMP",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T08:30:00+00:00",
+          "end_time": "2025-07-26T10:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "2SY4Zr5ceXSyQRRkzpNPJ8",
+          "streaming_service": "spotify",
+          "title": "The Saga",
+          "artist_name": "Shades",
+          "duration": 195346,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a7ef7139cc063617739fa1d0"
+        },
+        {
+          "track_id": "62FkuXK6aBB1dP9RWOzfsw",
+          "streaming_service": "spotify",
+          "title": "Sleaze",
+          "artist_name": "Shades, Ivy Lab, Alix Perez, Eprom",
+          "duration": 226363,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f0f380ddd57af856bf6a1518",
+          "preview_url": "https://p.scdn.co/mp3-preview/635cacd47bf08870e69871e8ba250dbe493207f1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2xR2SC6CBALoxSO0t7VkKU",
+          "streaming_service": "spotify",
+          "title": "Iron Sharpens Iron",
+          "artist_name": "Shades",
+          "duration": 154333,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02949e7a9a4dd0d92df2cebf05"
+        },
+        {
+          "track_id": "47nbbK2prKbsIivJ35BYim",
+          "streaming_service": "spotify",
+          "title": "Two One Six",
+          "artist_name": "Shades",
+          "duration": 206000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0230ca07897e8db803ab8df110"
+        },
+        {
+          "track_id": "5t2iOfBwpSkAUqdSkr8tNt",
+          "streaming_service": "spotify",
+          "title": "Dark Wing",
+          "artist_name": "Shades, Alix Perez, Eprom",
+          "duration": 217750,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e029fe16231b9c5b5f1a40ba76d",
+          "preview_url": "https://p.scdn.co/mp3-preview/9b6f62ea2f08aa3e0d87e12ed9194358ed11c081?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0bLL08l99SrcZJicilocKF",
+          "streaming_service": "spotify",
+          "title": "Purification",
+          "artist_name": "Shades, Alix Perez, Eprom, The Gaslamp Killer",
+          "duration": 234465,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e029fe16231b9c5b5f1a40ba76d",
+          "preview_url": "https://p.scdn.co/mp3-preview/82cf29d3bf6b728c2206b9c579155bfd269e8238?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4bsbZ4CikNWoTMkA3Dztvv",
+          "streaming_service": "spotify",
+          "title": "Into Stone",
+          "artist_name": "Shades, Alix Perez, Eprom",
+          "duration": 296550,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e029fe16231b9c5b5f1a40ba76d",
+          "preview_url": "https://p.scdn.co/mp3-preview/9bc89cf1727114cc88843ad98fe570f671bf34b6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "78qzHV0pRmcseAZtwHvuhb",
+          "streaming_service": "spotify",
+          "title": "Chiron",
+          "artist_name": "Shades, Alix Perez, Eprom",
+          "duration": 210001,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ee0dea142e235ddaa0fee82d",
+          "preview_url": "https://p.scdn.co/mp3-preview/af0e3456ae2c6ffd0cf0ba75cf8ba5887ea78adc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "34tVJbdGRbYzmphqiGVjAd",
+          "streaming_service": "spotify",
+          "title": "Godless",
+          "artist_name": "Shades, Eprom, Alix Perez",
+          "duration": 220555,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02df22571979a8635b30467c23",
+          "preview_url": "https://p.scdn.co/mp3-preview/6508e97e9dad1e7e697d41d1b2d9303398fd5ca3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3hQzFyxBdw1jWjGp42cBZ9",
+          "streaming_service": "spotify",
+          "title": "Flame Unbroken",
+          "artist_name": "Shades, Eprom, Alix Perez",
+          "duration": 248479,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e1127604302a5b80ecd2ec99",
+          "preview_url": "https://p.scdn.co/mp3-preview/25cda851b0ef16cd488a743ff9a05b041b5405ec?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040639,
+      "external_id": "167132",
+      "published": true,
+      "name": "K+Lab",
+      "body": "Drenched in the vibrant hues of creativity and fueled by innovation, K+Lab stands as a musical virtuoso and a visual wizard. Hailing from New Zealand, he has carved a unique and encompassing audio and visual world, seamlessly blending genres to create a sonic tapestry that defies conventions. <br />\n<br />\nWith a discography that reads like a sonic odyssey, K+Lab has become synonymous with exhilarating beats, funky basslines, and an infectious energy that transcends the dancefloor. <br />\n<br />\nIn the ever-evolving landscape of electronic music, K+Lab remains at the forefront, pushing boundaries and challenging the status quo. His commitment to innovation, coupled with an insatiable appetite for experimentation, has earned him a dedicated global following. Whether on stage or through a visual masterpiece, K+Lab continues to redefine the possibilities of artistic expression, leaving an indelible mark on the intersection of music and visual art.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": null,
+        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463910_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463910_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463910_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463910_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "therealklab",
+        "instagram_user": "captainklab/",
+        "twitter_user": "Klabmusic",
+        "youtube_user": "user/aidjwhd6342wdsax",
+        "soundcloud_user": "klabnz",
+        "spotify_artist_id": "3y7GPPMrPAZKg9BlCO8cFA"
+      },
+      "performances": [
+        {
+          "id": 250017,
+          "external_id": "865576",
+          "published": true,
+          "body": "Drenched in the vibrant hues of creativity and fueled by innovation, K+Lab stands as a musical virtuoso and a visual wizard. Hailing from New Zealand, he has carved a unique and encompassing audio and visual world, seamlessly blending genres to create a sonic tapestry that defies conventions. \n\nWith a discography that reads like a sonic odyssey, K+Lab has become synonymous with exhilarating beats, funky basslines, and an infectious energy that transcends the dancefloor. \n\nIn the ever-evolving landscape of electronic music, K+Lab remains at the forefront, pushing boundaries and challenging the status quo. His commitment to innovation, coupled with an insatiable appetite for experimentation, has earned him a dedicated global following. Whether on stage or through a visual masterpiece, K+Lab continues to redefine the possibilities of artistic expression, leaving an indelible mark on the intersection of music and visual art.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040639,
+          "stage_id": 12487,
+          "stage_name": "Fractal Forest",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T04:00:00+00:00",
+          "end_time": "2025-07-26T05:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "0V5UHDHEW7XV9toqgKWVTU",
+          "streaming_service": "spotify",
+          "title": "Feel The Weight",
+          "artist_name": "Stickybuds, K+Lab",
+          "duration": 193548,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c7e4b48c95edf77095dfbc35",
+          "preview_url": "https://p.scdn.co/mp3-preview/4a1983f1cbebbb1f69391b71a0b77ae557eedbc1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0YR7T2rfii4EVnk5PhrNEy",
+          "streaming_service": "spotify",
+          "title": "What's good for ya",
+          "artist_name": "K+Lab, Megan Hamilton",
+          "duration": 241624,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b0099fe53a2d54c925d87271",
+          "preview_url": "https://p.scdn.co/mp3-preview/e9c30c61d6af3e2acc0ba515a85307636f6bcf00?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "50KJIk36YcRAKGhPQX0bSi",
+          "streaming_service": "spotify",
+          "title": "Clap Ya Hands Now",
+          "artist_name": "Stickybuds, K+Lab, KWADI",
+          "duration": 255394,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0229359ff11f280465893ee3de",
+          "preview_url": "https://p.scdn.co/mp3-preview/eb86d5f991d921a3bd0fb817a9cb46a4eccf932a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2BBAdTvt3a0B3sFuQ2OcDG",
+          "streaming_service": "spotify",
+          "title": "Forever Never Feat. Cleva Thoughts",
+          "artist_name": "K+Lab, Cleva Thoughts",
+          "duration": 274480,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e023980384a862aa92adcd591f4",
+          "preview_url": "https://p.scdn.co/mp3-preview/b5eae5cb57491d41d33b6be76c54dc58378fc361?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5vzzpT0IKFUbqpksPqSLbG",
+          "streaming_service": "spotify",
+          "title": "Pull Up",
+          "artist_name": "K+Lab, MELODOWNZ, Mustafa Akbar",
+          "duration": 201184,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024c7e92bed22710a14f10d991",
+          "preview_url": "https://p.scdn.co/mp3-preview/35149e0ca3ed90dd6fa0674b2189806947648b83?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7bU9pCv3zaUp8Jprqkhc4G",
+          "streaming_service": "spotify",
+          "title": "Bettur",
+          "artist_name": "K+Lab, SAÍGO",
+          "duration": 245188,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021f31656f06e0ab5686d53210",
+          "preview_url": "https://p.scdn.co/mp3-preview/0526a7eca0c2bd260e6befc74b9f9178ef4032c5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0ThIzIPCXCAqQZI0oaTht9",
+          "streaming_service": "spotify",
+          "title": "SMOWK",
+          "artist_name": "K+Lab",
+          "duration": 218400,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d70cabf38db1d78faab813c1",
+          "preview_url": "https://p.scdn.co/mp3-preview/b4f75abb1e02a2e98ef35bb3247b3cb8ef7c2f55?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5N8IjG8qfhvPZdyhwbIM6x",
+          "streaming_service": "spotify",
+          "title": "MEKKE FLEX",
+          "artist_name": "Opiuo, K+Lab, ProbCause",
+          "duration": 237473,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0282a86ba0f01d494cb961e338",
+          "preview_url": "https://p.scdn.co/mp3-preview/45053ed44fbf055af4a71cb6cfcb27515712c815?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6XcCP4zdx143EMlBoICplY",
+          "streaming_service": "spotify",
+          "title": "When it rains",
+          "artist_name": "K+Lab, Kodiak Kid",
+          "duration": 228260,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0209cb3cd769a64b471a6f201d",
+          "preview_url": "https://p.scdn.co/mp3-preview/431a4f0b94802c3a71592f12b79d6883bdf8baab?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7wzSBLV4fx8UrEz1wHy8Gt",
+          "streaming_service": "spotify",
+          "title": "My Friends",
+          "artist_name": "Opiuo, K+Lab",
+          "duration": 194571,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02fab77d46a33cb435878d0b53",
+          "preview_url": "https://p.scdn.co/mp3-preview/70d79a6cabf1be94b0e7ec82673ef64d364c056c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040643,
+      "external_id": "167087",
+      "published": true,
+      "name": "The Funk Hunters",
+      "body": "In a sea of carbon-copy producers, The Funk Hunters have cultivated their signature sound by creating forward-thinking electronic music that is influenced by old school funk, soul and hip-hop.<br />\n<br />\nAs longtime friends, collaborators, and multi-dimensional artists, Nick Middleton and Duncan Smith’s chemistry is perfectly aligned. Middleton steers the band’s studio efforts, having produced, co-written, and mixed their debut album, TYPECAST. And Smith anchors the project’s live show with an indefatigable charisma that compliments Middleton’s thoughtful production. Together they combine their powers as DJs, resulting in a brilliant technical display of creative collaboration between 4 turntables.<br />\n<br />\nTheir vision has resonated with both listeners and industry tastemakers alike, with their music amassing over 50 million track streams across their catalog of original productions, remixes and collaborations. Winners of the Electronic/Dance Artist of the Year at the Western Canadian Music Awards, The Funk Hunters also reached #1 on the Billboard Dance Club Chart with an official remix of U2's \"Love Is Bigger.\" Their catalog also includes other official remixes for Big Gigantic, Gramatik, Selena Gomez, and Imagine Dragons.<br />\n<br />\nIn addition to studio work, The Funk Hunters enjoy a vibrant global touring career with major festival plays at Coachella, Bonnaroo, Life Is Beautiful, Lightning in a Bottle, Electric Forest, Osheaga, Outside Lands, Burning Man, Red Rocks, and Shambhala. They consistently play to the biggest dance floors in the world - frequent collaborator Chali 2na of Jurassic 5 fame has called them \"the selectah's of the century.\"",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": null,
+        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463914_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463914_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463914_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463914_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "thefunkhunters",
+        "instagram_user": "thefunkhunters/",
+        "twitter_user": "thefunkhunters",
+        "youtube_user": "thefunkhunters",
+        "soundcloud_user": "thefunkhunters",
+        "spotify_artist_id": "5xwd7lKJeb2opUvYZnXFut"
+      },
+      "performances": [
+        {
+          "id": 250021,
+          "external_id": "865491",
+          "published": true,
+          "body": "In a sea of carbon-copy producers, The Funk Hunters have cultivated their signature sound by creating forward-thinking electronic music that is influenced by old school funk, soul and hip-hop.\n\nAs longtime friends, collaborators, and multi-dimensional artists, Nick Middleton and Duncan Smith’s chemistry is perfectly aligned. Middleton steers the band’s studio efforts, having produced, co-written, and mixed their debut album, TYPECAST. And Smith anchors the project’s live show with an indefatigable charisma that compliments Middleton’s thoughtful production. Together they combine their powers as DJs, resulting in a brilliant technical display of creative collaboration between 4 turntables.\n\nTheir vision has resonated with both listeners and industry tastemakers alike, with their music amassing over 50 million track streams across their catalog of original productions, remixes and collaborations. Winners of the Electronic/Dance Artist of the Year at the Western Canadian Music Awards, The Funk Hunters also reached #1 on the Billboard Dance Club Chart with an official remix of U2's \"Love Is Bigger.\" Their catalog also includes other official remixes for Big Gigantic, Gramatik, Selena Gomez, and Imagine Dragons.\n\nIn addition to studio work, The Funk Hunters enjoy a vibrant global touring career with major festival plays at Coachella, Bonnaroo, Life Is Beautiful, Lightning in a Bottle, Electric Forest, Osheaga, Outside Lands, Burning Man, Red Rocks, and Shambhala. They consistently play to the biggest dance floors in the world - frequent collaborator Chali 2na of Jurassic 5 fame has called them \"the selectah's of the century.\"",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040643,
+          "stage_id": 12487,
+          "stage_name": "Fractal Forest",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T08:00:00+00:00",
+          "end_time": "2025-07-26T09:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "5lEF9OdTTRzRKWbDB3mdvZ",
+          "streaming_service": "spotify",
+          "title": "Empire (feat. Flowdan) - Dr. Fresch Remix",
+          "artist_name": "The Funk Hunters, Stickybuds, Flowdan, Dr. Fresch",
+          "duration": 166989,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0213c68711e27ea30e00ee35d8",
+          "preview_url": "https://p.scdn.co/mp3-preview/eb4957b083ba9dcde57250d3bcb5857478ed6086?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0WjvrhorMuIOWlTL5Vv1DQ",
+          "streaming_service": "spotify",
+          "title": "Word To Spread (feat. Tom Thum)",
+          "artist_name": "The Funk Hunters, Chali 2na, Tom Thum",
+          "duration": 210172,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0277e3ad18a2885f9302b1125f",
+          "preview_url": "https://p.scdn.co/mp3-preview/eddc03cf8292e328a27aabb535f390348eeff139?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0xkwBq51pz25O8uinUXIYh",
+          "streaming_service": "spotify",
+          "title": "Warn Ya",
+          "artist_name": "The Funk Hunters, Defunk, Akylla",
+          "duration": 276741,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0213c68711e27ea30e00ee35d8",
+          "preview_url": "https://p.scdn.co/mp3-preview/c1bbde8377cc1798bcc095ff4b1d8217e3c7cca6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "17sEbj2E6Bls2ld6vMCe59",
+          "streaming_service": "spotify",
+          "title": "Get Involved (feat. Defunk)",
+          "artist_name": "The Funk Hunters, Chali 2na, Defunk",
+          "duration": 232782,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02983e618add6e9752e1b43741",
+          "preview_url": "https://p.scdn.co/mp3-preview/407ad9b1b61a96e79ae30874c9824741d299e3ff?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7DRmL6goCNXXpJC88suwG7",
+          "streaming_service": "spotify",
+          "title": "Get Up N Go",
+          "artist_name": "The Funk Hunters, Moontricks",
+          "duration": 227500,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0213c68711e27ea30e00ee35d8",
+          "preview_url": "https://p.scdn.co/mp3-preview/28755ae5c9a4d1832c721959141a47ae634978e0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1pbaSlyghuS1mKUk0on1RF",
+          "streaming_service": "spotify",
+          "title": "Empire (feat. Flowdan)",
+          "artist_name": "The Funk Hunters, Stickybuds, Flowdan",
+          "duration": 213193,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0213c68711e27ea30e00ee35d8",
+          "preview_url": "https://p.scdn.co/mp3-preview/ec2582a752646845b59fe7e9569d040de87e5843?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1hGmFWF1MUWig9KfQX9ycX",
+          "streaming_service": "spotify",
+          "title": "The Rock",
+          "artist_name": "Chali 2na, Cut Chemist, The Funk Hunters",
+          "duration": 179556,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02559ab23930f7efac0cadf881",
+          "preview_url": "https://p.scdn.co/mp3-preview/d6cb8f84fad7e4710d43e491313361f555c3df1b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5whOngKFU0gwuzJ0Qlrv12",
+          "streaming_service": "spotify",
+          "title": "Beat Don't Stop",
+          "artist_name": "Big Gigantic, The Funk Hunters, Chali 2na",
+          "duration": 187619,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c6705891dcc0facc1bedcce0",
+          "preview_url": "https://p.scdn.co/mp3-preview/e7cd22402314a9cfe5970fc940e08da6b98968d2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4R598MsO45frW8E9BRceAF",
+          "streaming_service": "spotify",
+          "title": "Way U Walk",
+          "artist_name": "The Funk Hunters",
+          "duration": 166762,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021e39e6458854e43c15a409c6",
+          "preview_url": "https://p.scdn.co/mp3-preview/fdeb9f9208a16d92369c2c5ebb4824b807048db6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4V1SRGoBMiq6YH9B9rJUVN",
+          "streaming_service": "spotify",
+          "title": "Gravity Check",
+          "artist_name": "The Funk Hunters, BARNUN",
+          "duration": 220000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025aeed95f1d726833932dd13d",
+          "preview_url": "https://p.scdn.co/mp3-preview/a218afe1a987d8f8ae4824a6c30cd87365baefec?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040689,
+      "external_id": "1922366",
+      "published": true,
+      "name": "BOU",
+      "body": "Manchester-based DJ, Producer and label boss Bou has quickly become one of the biggest names in the world of drum and bass. His unique sound blends heavy basslines with catchy melodies and high-energy beats, contributing to a definitive and increasingly well-received sonic blueprint.<br />\n<br />\nClocking up over 1.3 million monthly listeners on Spotify alone, Bou’s music career has already been marked by a string of successful chart-topping releases on his Gossip label, the silver-certified ‘Streetside’ with Bru-C on Crucast, and multiple DNB Allstars releases – all with support from many renowned artists in the genre.<br />\n<br />\nBou’s live performances are nothing short of electrifying, with notable sets at Creamfields, Parklife, The Warehouse Project, Reading & Leeds Festival, and a recent tour of New Zealand and Australia being the centrepiece of his ever-growing global presence.<br />\n<br />\nBou’s music has been turning heads in the industry, having just signed to Island Records/Universal, with massive singles featuring Slay planned for release in the next 6-12 months. Bou’s music continues to showcase genre-leading creativity and innovation alongside high energy, focusing on delivering unforgettable live experiences.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": null,
+        "100": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464240_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464240_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464240_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464240_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "bou_dnb/"
+      },
+      "performances": [
+        {
+          "id": 250069,
+          "external_id": "865930",
+          "published": true,
+          "name": "Bou",
+          "body": "Manchester-based DJ, Producer and label boss Bou has quickly become one of the biggest names in the world of drum and bass. His unique sound blends heavy basslines with catchy melodies and high-energy beats, contributing to a definitive and increasingly well-received sonic blueprint.\n\nClocking up over 1.3 million monthly listeners on Spotify alone, Bou’s music career has already been marked by a string of successful chart-topping releases on his Gossip label, the silver-certified ‘Streetside’ with Bru-C on Crucast, and multiple DNB Allstars releases – all with support from many renowned artists in the genre.\n\nBou’s live performances are nothing short of electrifying, with notable sets at Creamfields, Parklife, The Warehouse Project, Reading & Leeds Festival, and a recent tour of New Zealand and Australia being the centrepiece of his ever-growing global presence.\n\nBou’s music has been turning heads in the industry, having just signed to Island Records/Universal, with massive singles featuring Slay planned for release in the next 6-12 months. Bou’s music continues to showcase genre-leading creativity and innovation alongside high energy, focusing on delivering unforgettable live experiences.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040689,
+          "stage_id": 12491,
+          "stage_name": "Village",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T09:00:00+00:00",
+          "end_time": "2025-07-26T10:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040657,
+      "external_id": "167124",
+      "published": true,
+      "name": "Ivy Lab",
+      "body": "Originally starting life as a trio, Ivy Lab are now the duo of Gove Kidao & J.Fogel. North London outfit Ivy Lab were brought together out of a shared enthusiasm for  experimentations on the fringes of the UK bass music scene. The years that followed  saw them go from strength to strength, earning a place in ‘The top 10 DJ’s of 2015’ (Mixmag) and propagating a new generation of hip-hop inspired abstractions housed within the framework of their ’20/20 LDN’ project. <br />\n<br />\nThe duo now find themselves located in the hinterlands between hip-hop and leftfield  bass music; a neighbourhood characterized by transatlantic fusions channeling the  best of both Los Angeles and London.  <br />\n<br />\nIvy Lab invested further in the exploration of this sound with the creation of their  ‘20/20 LDN’ club night. Housed formerly at Brixton’s Phonox nightclub before moving  to the legendary Corsica Studios and most recently Micks Garage in Hackney Wick,  it earned the characterisation of “ultra innovative” (Timeout Magazine) and was  branded a “London standout” (Mixmag) before heading out onto the road with a  Berlin Residency (Club Gretchen) and takeovers from Bristol to Vancouver to Atlanta.  <br />\n<br />\nMinted in late 2015, and borrowing the same raison d'être as its elder sibling nightlife  brand; 20/20 LDN Recordings was unveiled with the pseudo-mixtape/compilation LP  ‘Ivy Lab presents 20/20 Volume.1’ - described as “uncompromising, insightful and  rather awesome : 9/10” (Mixmag) and “impossible to categorise : 9/10” (DJ Mag) .  Little over a year later (and only 5 releases deep) the label was awarded the title of  ’Best Breakthrough Label 2016’ in the DJ Mag ‘Best of British Awards 2016’.  <br />\n<br />\nMaintaining the aesthetic pioneered on the ‘Volume 1’ mixtape, Ivy Lab continued to  garner widespread acclaim with tracks such as ‘Spooky Dub’, ‘Can’t Say No’ &  ‘Peninsula’ , supplemented by showpiece remixes for Banks, Noisia, Wilkinson &  Wretch 32 - with the era culminating in the 2018 release of their debut album “Death  Don’t Always Taste Good” - the outfits first body of work as a duo - which launched  with the critically acclaimed single ‘Cake’. Studio projects with Amon Tobin & Claude  Von Stroke soon followed, with the former becoming a frequent collaborator following  the release of the 2019 festival anthem ‘Orange’.  <br />\nWith an increasingly solid audience in North America and 2 long-play, largely  dancefloor oriented projects behind them, the duo have increasingly experimented  with more subdued productions; doubling down on the under-produced minimalism  that was always a lingering theme of the outfit, but since 2019, has become a  touchstone of their productions.  <br />\nIvy Lab’s currency as bass music figureheads has seen them receive support from  such key festivals as Glastonbury, Coachella, EDC Vegas, SXSW, Sonar (Barcelona + HK), CTM Berlin, Dour, ADE, Woo Hah!, Shambhala, Lightning In A Bottle, Lowlands,  Origin NYE, Exit and Outlook. The pair also enjoyed the honor of producing an  edition of the BBC Radio 1 Essential mix, and saw the mix subsequently feature in the stations 5-contender shortlist for ‘Essential Mix of the Year’. <br />\nIvy Lab heads into the horizon not only with an anchored presence at the cutting edge of the bass-music landscape, but also a secured reputation as pioneering label  bosses & event promoters in ownership of one of the UK’s most exciting  contemporary music brands. <br />\nFast forward to COVID-19 pandemic, Ivy Lab took it upon themselves to thrive through the major setbacks that came into place due to borders shutting down and loss of events. Curating virtual streams to be viewed worldwide featuring world-renowned musicians and visual artists, they showcased their art globally only gaining an even larger audience to crave their sounds outside of their hometown in London. <br />\n<br />\nAs the world returned to its daily life - the duo came back to their US with their first show in over a year at one of the most famous venues in the world, Red Rocks in Colorado. Riding off the success from that show, Ivy Lab continued to tour the states hitting markets such as Los Angeles, New York, all the way to Coachella. <br />\n<br />\nIvy Lab released their album, Infinite Falling Ground, which was paired with an Audio/Visual tour in 2022-2023, & was in consideration for a Grammy Nomination. The duo embarked on their latest journey of club records in early 2024, as well as tapping back into their original roots of Drum & Bass before gearing up for the release of their next album, Infinite Falling Ground Pt. 2. They followed up the album with another Audio/Visual tour in the fall of 2024, hitting cities all across the US and Europe. <br />\n<br />\nIn 2025, Ivy Lab is kicking the year off with a run of Drum n Bass shows across the United States before they gear up for their next set of club releases.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": null,
+        "100": "https://media.appmiral.com/prod/performance/0057/26/thumb_5625198_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/26/thumb_5625198_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/26/thumb_5625198_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/26/thumb_5625198_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "IvyLab/",
+        "instagram_user": "/ivylab/",
+        "twitter_user": "IvyLab_",
+        "soundcloud_user": "ivylab",
+        "spotify_artist_id": "3VXCvo9Sr0hbZ4mk6VOKBs"
+      },
+      "performances": [
+        {
+          "id": 250035,
+          "external_id": "865475",
+          "published": true,
+          "body": "Originally starting life as a trio, Ivy Lab are now the duo of Gove Kidao & J.Fogel. North London outfit Ivy Lab were brought together out of a shared enthusiasm for  experimentations on the fringes of the UK bass music scene. The years that followed  saw them go from strength to strength, earning a place in ‘The top 10 DJ’s of 2015’ (Mixmag) and propagating a new generation of hip-hop inspired abstractions housed within the framework of their ’20/20 LDN’ project. \n\nThe duo now find themselves located in the hinterlands between hip-hop and leftfield  bass music; a neighbourhood characterized by transatlantic fusions channeling the  best of both Los Angeles and London.  \n\nIvy Lab invested further in the exploration of this sound with the creation of their  ‘20/20 LDN’ club night. Housed formerly at Brixton’s Phonox nightclub before moving  to the legendary Corsica Studios and most recently Micks Garage in Hackney Wick,  it earned the characterisation of “ultra innovative” (Timeout Magazine) and was  branded a “London standout” (Mixmag) before heading out onto the road with a  Berlin Residency (Club Gretchen) and takeovers from Bristol to Vancouver to Atlanta.  \n\nMinted in late 2015, and borrowing the same raison d'être as its elder sibling nightlife  brand; 20/20 LDN Recordings was unveiled with the pseudo-mixtape/compilation LP  ‘Ivy Lab presents 20/20 Volume.1’ - described as “uncompromising, insightful and  rather awesome : 9/10” (Mixmag) and “impossible to categorise : 9/10” (DJ Mag) .  Little over a year later (and only 5 releases deep) the label was awarded the title of  ’Best Breakthrough Label 2016’ in the DJ Mag ‘Best of British Awards 2016’.  \n\nMaintaining the aesthetic pioneered on the ‘Volume 1’ mixtape, Ivy Lab continued to  garner widespread acclaim with tracks such as ‘Spooky Dub’, ‘Can’t Say No’ &  ‘Peninsula’ , supplemented by showpiece remixes for Banks, Noisia, Wilkinson &  Wretch 32 - with the era culminating in the 2018 release of their debut album “Death  Don’t Always Taste Good” - the outfits first body of work as a duo - which launched  with the critically acclaimed single ‘Cake’. Studio projects with Amon Tobin & Claude  Von Stroke soon followed, with the former becoming a frequent collaborator following  the release of the 2019 festival anthem ‘Orange’.  \nWith an increasingly solid audience in North America and 2 long-play, largely  dancefloor oriented projects behind them, the duo have increasingly experimented  with more subdued productions; doubling down on the under-produced minimalism  that was always a lingering theme of the outfit, but since 2019, has become a  touchstone of their productions.  \nIvy Lab’s currency as bass music figureheads has seen them receive support from  such key festivals as Glastonbury, Coachella, EDC Vegas, SXSW, Sonar (Barcelona + HK), CTM Berlin, Dour, ADE, Woo Hah!, Shambhala, Lightning In A Bottle, Lowlands,  Origin NYE, Exit and Outlook. The pair also enjoyed the honor of producing an  edition of the BBC Radio 1 Essential mix, and saw the mix subsequently feature in the stations 5-contender shortlist for ‘Essential Mix of the Year’. \nIvy Lab heads into the horizon not only with an anchored presence at the cutting edge of the bass-music landscape, but also a secured reputation as pioneering label  bosses & event promoters in ownership of one of the UK’s most exciting  contemporary music brands. \nFast forward to COVID-19 pandemic, Ivy Lab took it upon themselves to thrive through the major setbacks that came into place due to borders shutting down and loss of events. Curating virtual streams to be viewed worldwide featuring world-renowned musicians and visual artists, they showcased their art globally only gaining an even larger audience to crave their sounds outside of their hometown in London. \n\nAs the world returned to its daily life - the duo came back to their US with their first show in over a year at one of the most famous venues in the world, Red Rocks in Colorado. Riding off the success from that show, Ivy Lab continued to tour the states hitting markets such as Los Angeles, New York, all the way to Coachella. \n\nIvy Lab released their album, Infinite Falling Ground, which was paired with an Audio/Visual tour in 2022-2023, & was in consideration for a Grammy Nomination. The duo embarked on their latest journey of club records in early 2024, as well as tapping back into their original roots of Drum & Bass before gearing up for the release of their next album, Infinite Falling Ground Pt. 2. They followed up the album with another Audio/Visual tour in the fall of 2024, hitting cities all across the US and Europe. \n\nIn 2025, Ivy Lab is kicking the year off with a run of Drum n Bass shows across the United States before they gear up for their next set of club releases.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040657,
+          "stage_id": 12488,
+          "stage_name": "Grove",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T05:00:00+00:00",
+          "end_time": "2025-07-26T06:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "5YSldUKXVoUVC0giG4t85B",
+          "streaming_service": "spotify",
+          "title": "Orange",
+          "artist_name": "Ivy Lab, Two Fingers, Amon Tobin",
+          "duration": 235840,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f550c0747cbd4ecde83e84f0",
+          "preview_url": "https://p.scdn.co/mp3-preview/7b679fce73451f8779368dea99716b6c22a2c38e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3fawKhD4tka2u3V6C2TJl8",
+          "streaming_service": "spotify",
+          "title": "When I Go",
+          "artist_name": "Ivy Lab",
+          "duration": 204545,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02057f1fd167e359bcad921128",
+          "preview_url": "https://p.scdn.co/mp3-preview/ee579c539bd19f2226118300b076ba91da9ba6ab?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3Zp8EP3b36ie7PLgiW4VyH",
+          "streaming_service": "spotify",
+          "title": "Cake",
+          "artist_name": "Ivy Lab",
+          "duration": 205796,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024144c072e3b6222b72725004",
+          "preview_url": "https://p.scdn.co/mp3-preview/bd63b420707eadb3a09e90dde9c0e4413a85c36b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7AsthFcXBLZlGAyDpljpoy",
+          "streaming_service": "spotify",
+          "title": "Backshifting",
+          "artist_name": "Ivy Lab",
+          "duration": 244634,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0242f40dd0e5b4098422967be8",
+          "preview_url": "https://p.scdn.co/mp3-preview/5501794939cccd5878bd3f9822895903cdbacba9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "50sOdziJOpELfu5YFHjzaL",
+          "streaming_service": "spotify",
+          "title": "Rajah",
+          "artist_name": "Ivy Lab",
+          "duration": 186175,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021da40c7e4eba70280267de75",
+          "preview_url": "https://p.scdn.co/mp3-preview/21946f0bad3858ae0efa2b97ad78e0674da55922?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3zvpcAyfKr99YLJbVFOJIU",
+          "streaming_service": "spotify",
+          "title": "Never Can Decide - Ivy Lab Remix",
+          "artist_name": "Anushka, Ivy Lab",
+          "duration": 314689,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0291cdc23b86e8bf8578d73176",
+          "preview_url": "https://p.scdn.co/mp3-preview/6191fbe63e1b18684817b6260e180aa93639c2df?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "713Uc9EWo8VOXAmbcWaGt4",
+          "streaming_service": "spotify",
+          "title": "Afterthought",
+          "artist_name": "Ivy Lab, Frank Carter III",
+          "duration": 346512,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024fbf6717aba883716b6f178e",
+          "preview_url": "https://p.scdn.co/mp3-preview/2a60f79f409276595e913851299dad8e4fe15907?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "03sFtrI9LaweRGwqaYvScA",
+          "streaming_service": "spotify",
+          "title": "20 Questions",
+          "artist_name": "Ivy Lab",
+          "duration": 363488,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02600a5ea79113963f6d0b2bbf",
+          "preview_url": "https://p.scdn.co/mp3-preview/41171db276f77ab96332f62e09ed8710dca1d2e4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1rAVvtWzgrnWeAKBwqebu2",
+          "streaming_service": "spotify",
+          "title": "Gossip",
+          "artist_name": "Ivy Lab",
+          "duration": 176561,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02020c45fc0112b1d3e1a747f3",
+          "preview_url": "https://p.scdn.co/mp3-preview/7bf6082cecf4c09a71dbb97d6c190cca4ba28db0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5fOWNQF6p3Naz4QwBO71cG",
+          "streaming_service": "spotify",
+          "title": "Point Five",
+          "artist_name": "Ivy Lab",
+          "duration": 205094,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0285f901bf6414787e789d1115",
+          "preview_url": "https://p.scdn.co/mp3-preview/c4195b3706945e73f34bd4abee9950f1ff51fa9e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040685,
+      "external_id": "180912",
+      "published": true,
+      "name": "Stylust",
+      "body": "A longtime skateboarder and hip hop devotee, Geoff “Stylust” Reich has always been a rebel with a passion for his art form, so it’s no surprise that this Canadian DJ/producer’s talent for fusing rap hooks and heavy bass with electronic music has earned him the rep as a creative renegade carving his own path.<br />\n<br />\nTouring as Stylust, Geoff has played all over the United States, Canada, and Europe, appearing at major festivals like Shambhala, Coachella, Outlook, LIB, Envision and BassCenter to name a few. Stylust’s uncanny ability to melt multiple influences and genres has led to music that’s reached millions of listeners, earning him exciting releases and collabs with artists like Bassnectar, Minnesota, Truth and many others.<br />\n<br />\nWith a bass-heavy yet timeless sound, Stylust electrifies dancefloors with his<br />\nimpeccable mixing and high energy stage presence.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": null,
+        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "stylustbeats/",
+        "instagram_user": "stylustbeats/",
+        "twitter_user": "StylustBeats",
+        "soundcloud_user": "stylustbeats",
+        "spotify_artist_id": "2Y1LgWOVPz5m1qCuzkWEQu"
+      },
+      "performances": [
+        {
+          "id": 250064,
+          "external_id": "865594",
+          "published": true,
+          "body": "A longtime skateboarder and hip hop devotee, Geoff “Stylust” Reich has always been a rebel with a passion for his art form, so it’s no surprise that this Canadian DJ/producer’s talent for fusing rap hooks and heavy bass with electronic music has earned him the rep as a creative renegade carving his own path.\n\nTouring as Stylust, Geoff has played all over the United States, Canada, and Europe, appearing at major festivals like Shambhala, Coachella, Outlook, LIB, Envision and BassCenter to name a few. Stylust’s uncanny ability to melt multiple influences and genres has led to music that’s reached millions of listeners, earning him exciting releases and collabs with artists like Bassnectar, Minnesota, Truth and many others.\n\nWith a bass-heavy yet timeless sound, Stylust electrifies dancefloors with his\nimpeccable mixing and high energy stage presence.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040685,
+          "stage_id": 12491,
+          "stage_name": "Village",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T03:30:00+00:00",
+          "end_time": "2025-07-26T04:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "0Vb2naU2kBlWsniIbfXRsG",
+          "streaming_service": "spotify",
+          "title": "Raindrops (feat. Of the Trees & Perkulat0r)",
+          "artist_name": "Stylust, Of The Trees, Perkulat0r",
+          "duration": 204000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021ca76e60751f804ef6ce2d02",
+          "preview_url": "https://p.scdn.co/mp3-preview/e1c49afa59461f7edfed85d58af5a65aea40af48?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5ai08KHbNOdG0k3Y24mHkk",
+          "streaming_service": "spotify",
+          "title": "Heavy Metal Shit (feat. Lafa Taylor & Neon Steve)",
+          "artist_name": "Stylust, Lafa Taylor, Neon Steve",
+          "duration": 177750,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021ca76e60751f804ef6ce2d02",
+          "preview_url": "https://p.scdn.co/mp3-preview/cb851d0fe2178e3db75bc08c43a15d26fc2e5ef0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5RLo69t3nlQ5YwXsJTYH5i",
+          "streaming_service": "spotify",
+          "title": "Heavyweights",
+          "artist_name": "AHEE, Stylust",
+          "duration": 184759,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e4b0f08000f873b7beba561c",
+          "preview_url": "https://p.scdn.co/mp3-preview/ddd532613d3d1abaedc2b24ade3bcd0cd66cc2e8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3h151uk2sF59N4aQHQEJEh",
+          "streaming_service": "spotify",
+          "title": "CONTROL DUB",
+          "artist_name": "Stylust",
+          "duration": 170219,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02519ce46356a3217ded712d43",
+          "preview_url": "https://p.scdn.co/mp3-preview/484208890e594027c0dad1483333ac4c3ffd6f0b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3xGPQcTd1HRvQOcEZIWgKP",
+          "streaming_service": "spotify",
+          "title": "The Elephant",
+          "artist_name": "Stylust, Ashez",
+          "duration": 215183,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ae01f7e8b40b1744f489d64b",
+          "preview_url": "https://p.scdn.co/mp3-preview/4fc5b99e3ccdc7365989fd12c2aa878eab311e36?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6UUHSZY42nNQZVjLuDUguX",
+          "streaming_service": "spotify",
+          "title": "Feel Alive",
+          "artist_name": "Stylust",
+          "duration": 162206,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e027697cb417f8b299ca7738bf3",
+          "preview_url": "https://p.scdn.co/mp3-preview/a366822f181eba046efaf581fa5d989b47e16cea?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3BYIRz0uicskFdJrLkcs7v",
+          "streaming_service": "spotify",
+          "title": "Stay Close",
+          "artist_name": "Stylust, Abstrakt Sonance, JLEON",
+          "duration": 238285,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025921948c0b972bf4e7c80633",
+          "preview_url": "https://p.scdn.co/mp3-preview/15117235416f1cff93735eabaec84544c28ccf49?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5TpjbRicHv3WLEleVVuhmt",
+          "streaming_service": "spotify",
+          "title": "We Run Sound",
+          "artist_name": "Ganja White Night, Stylust, PAV4N, Da Fuchaman",
+          "duration": 239914,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02442ce50eea60dc6c8feaedb9",
+          "preview_url": "https://p.scdn.co/mp3-preview/4ead03ee79f88ae57fd6b30e114f03d4946eeba3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0BM3ETJnR59CdZUxGi2Po9",
+          "streaming_service": "spotify",
+          "title": "Oxygen",
+          "artist_name": "AHEE, Stylust",
+          "duration": 154000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e023924bfd38f7c159c633d02c3",
+          "preview_url": "https://p.scdn.co/mp3-preview/bb51cb2e07264824b42ca04cfbced6336a77e56d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5cJ1HcWu1vOpDmW3NKU99J",
+          "streaming_service": "spotify",
+          "title": "Rebola",
+          "artist_name": "CØNTRA, Stylust",
+          "duration": 225995,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d98105cf49a4e455d3c198e3",
+          "preview_url": "https://p.scdn.co/mp3-preview/2c46813180ebf5c4659b9d50913be3338053f353?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2037961,
       "published": true,
       "name": "Shambhala Attractions Team",
@@ -2360,176 +3456,6 @@
           "duration": 148943,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02f1090c9dc33f3953be019a94",
           "preview_url": "https://p.scdn.co/mp3-preview/084950985528af41d00055ed493255d6c723da6d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040685,
-      "external_id": "180912",
-      "published": true,
-      "name": "Stylust",
-      "body": "A longtime skateboarder and hip hop devotee, Geoff “Stylust” Reich has always been a rebel with a passion for his art form, so it’s no surprise that this Canadian DJ/producer’s talent for fusing rap hooks and heavy bass with electronic music has earned him the rep as a creative renegade carving his own path.<br />\n<br />\nTouring as Stylust, Geoff has played all over the United States, Canada, and Europe, appearing at major festivals like Shambhala, Coachella, Outlook, LIB, Envision and BassCenter to name a few. Stylust’s uncanny ability to melt multiple influences and genres has led to music that’s reached millions of listeners, earning him exciting releases and collabs with artists like Bassnectar, Minnesota, Truth and many others.<br />\n<br />\nWith a bass-heavy yet timeless sound, Stylust electrifies dancefloors with his<br />\nimpeccable mixing and high energy stage presence.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": null,
-        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "stylustbeats/",
-        "instagram_user": "stylustbeats/",
-        "twitter_user": "StylustBeats",
-        "soundcloud_user": "stylustbeats",
-        "spotify_artist_id": "2Y1LgWOVPz5m1qCuzkWEQu"
-      },
-      "performances": [
-        {
-          "id": 250064,
-          "external_id": "865594",
-          "published": true,
-          "body": "A longtime skateboarder and hip hop devotee, Geoff “Stylust” Reich has always been a rebel with a passion for his art form, so it’s no surprise that this Canadian DJ/producer’s talent for fusing rap hooks and heavy bass with electronic music has earned him the rep as a creative renegade carving his own path.\n\nTouring as Stylust, Geoff has played all over the United States, Canada, and Europe, appearing at major festivals like Shambhala, Coachella, Outlook, LIB, Envision and BassCenter to name a few. Stylust’s uncanny ability to melt multiple influences and genres has led to music that’s reached millions of listeners, earning him exciting releases and collabs with artists like Bassnectar, Minnesota, Truth and many others.\n\nWith a bass-heavy yet timeless sound, Stylust electrifies dancefloors with his\nimpeccable mixing and high energy stage presence.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040685,
-          "stage_id": 12491,
-          "stage_name": "Village",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T03:30:00+00:00",
-          "end_time": "2025-07-26T04:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "0Vb2naU2kBlWsniIbfXRsG",
-          "streaming_service": "spotify",
-          "title": "Raindrops (feat. Of the Trees & Perkulat0r)",
-          "artist_name": "Stylust, Of The Trees, Perkulat0r",
-          "duration": 204000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021ca76e60751f804ef6ce2d02",
-          "preview_url": "https://p.scdn.co/mp3-preview/e1c49afa59461f7edfed85d58af5a65aea40af48?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5ai08KHbNOdG0k3Y24mHkk",
-          "streaming_service": "spotify",
-          "title": "Heavy Metal Shit (feat. Lafa Taylor & Neon Steve)",
-          "artist_name": "Stylust, Lafa Taylor, Neon Steve",
-          "duration": 177750,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021ca76e60751f804ef6ce2d02",
-          "preview_url": "https://p.scdn.co/mp3-preview/cb851d0fe2178e3db75bc08c43a15d26fc2e5ef0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5RLo69t3nlQ5YwXsJTYH5i",
-          "streaming_service": "spotify",
-          "title": "Heavyweights",
-          "artist_name": "AHEE, Stylust",
-          "duration": 184759,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e4b0f08000f873b7beba561c",
-          "preview_url": "https://p.scdn.co/mp3-preview/ddd532613d3d1abaedc2b24ade3bcd0cd66cc2e8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3h151uk2sF59N4aQHQEJEh",
-          "streaming_service": "spotify",
-          "title": "CONTROL DUB",
-          "artist_name": "Stylust",
-          "duration": 170219,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02519ce46356a3217ded712d43",
-          "preview_url": "https://p.scdn.co/mp3-preview/484208890e594027c0dad1483333ac4c3ffd6f0b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3xGPQcTd1HRvQOcEZIWgKP",
-          "streaming_service": "spotify",
-          "title": "The Elephant",
-          "artist_name": "Stylust, Ashez",
-          "duration": 215183,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ae01f7e8b40b1744f489d64b",
-          "preview_url": "https://p.scdn.co/mp3-preview/4fc5b99e3ccdc7365989fd12c2aa878eab311e36?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6UUHSZY42nNQZVjLuDUguX",
-          "streaming_service": "spotify",
-          "title": "Feel Alive",
-          "artist_name": "Stylust",
-          "duration": 162206,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027697cb417f8b299ca7738bf3",
-          "preview_url": "https://p.scdn.co/mp3-preview/a366822f181eba046efaf581fa5d989b47e16cea?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3BYIRz0uicskFdJrLkcs7v",
-          "streaming_service": "spotify",
-          "title": "Stay Close",
-          "artist_name": "Stylust, Abstrakt Sonance, JLEON",
-          "duration": 238285,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025921948c0b972bf4e7c80633",
-          "preview_url": "https://p.scdn.co/mp3-preview/15117235416f1cff93735eabaec84544c28ccf49?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5TpjbRicHv3WLEleVVuhmt",
-          "streaming_service": "spotify",
-          "title": "We Run Sound",
-          "artist_name": "Ganja White Night, Stylust, PAV4N, Da Fuchaman",
-          "duration": 239914,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02442ce50eea60dc6c8feaedb9",
-          "preview_url": "https://p.scdn.co/mp3-preview/4ead03ee79f88ae57fd6b30e114f03d4946eeba3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0BM3ETJnR59CdZUxGi2Po9",
-          "streaming_service": "spotify",
-          "title": "Oxygen",
-          "artist_name": "AHEE, Stylust",
-          "duration": 154000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e023924bfd38f7c159c633d02c3",
-          "preview_url": "https://p.scdn.co/mp3-preview/bb51cb2e07264824b42ca04cfbced6336a77e56d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5cJ1HcWu1vOpDmW3NKU99J",
-          "streaming_service": "spotify",
-          "title": "Rebola",
-          "artist_name": "CØNTRA, Stylust",
-          "duration": 225995,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d98105cf49a4e455d3c198e3",
-          "preview_url": "https://p.scdn.co/mp3-preview/2c46813180ebf5c4659b9d50913be3338053f353?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         }
       ],
       "show_in_search": true,
@@ -7324,177 +8250,6 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040643,
-      "external_id": "167087",
-      "published": true,
-      "name": "The Funk Hunters",
-      "body": "In a sea of carbon-copy producers, The Funk Hunters have cultivated their signature sound by creating forward-thinking electronic music that is influenced by old school funk, soul and hip-hop.<br />\n<br />\nAs longtime friends, collaborators, and multi-dimensional artists, Nick Middleton and Duncan Smith’s chemistry is perfectly aligned. Middleton steers the band’s studio efforts, having produced, co-written, and mixed their debut album, TYPECAST. And Smith anchors the project’s live show with an indefatigable charisma that compliments Middleton’s thoughtful production. Together they combine their powers as DJs, resulting in a brilliant technical display of creative collaboration between 4 turntables.<br />\n<br />\nTheir vision has resonated with both listeners and industry tastemakers alike, with their music amassing over 50 million track streams across their catalog of original productions, remixes and collaborations. Winners of the Electronic/Dance Artist of the Year at the Western Canadian Music Awards, The Funk Hunters also reached #1 on the Billboard Dance Club Chart with an official remix of U2's \"Love Is Bigger.\" Their catalog also includes other official remixes for Big Gigantic, Gramatik, Selena Gomez, and Imagine Dragons.<br />\n<br />\nIn addition to studio work, The Funk Hunters enjoy a vibrant global touring career with major festival plays at Coachella, Bonnaroo, Life Is Beautiful, Lightning in a Bottle, Electric Forest, Osheaga, Outside Lands, Burning Man, Red Rocks, and Shambhala. They consistently play to the biggest dance floors in the world - frequent collaborator Chali 2na of Jurassic 5 fame has called them \"the selectah's of the century.\"",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": null,
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463914_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463914_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463914_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463914_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "thefunkhunters",
-        "instagram_user": "thefunkhunters/",
-        "twitter_user": "thefunkhunters",
-        "youtube_user": "thefunkhunters",
-        "soundcloud_user": "thefunkhunters",
-        "spotify_artist_id": "5xwd7lKJeb2opUvYZnXFut"
-      },
-      "performances": [
-        {
-          "id": 250021,
-          "external_id": "865491",
-          "published": true,
-          "body": "In a sea of carbon-copy producers, The Funk Hunters have cultivated their signature sound by creating forward-thinking electronic music that is influenced by old school funk, soul and hip-hop.\n\nAs longtime friends, collaborators, and multi-dimensional artists, Nick Middleton and Duncan Smith’s chemistry is perfectly aligned. Middleton steers the band’s studio efforts, having produced, co-written, and mixed their debut album, TYPECAST. And Smith anchors the project’s live show with an indefatigable charisma that compliments Middleton’s thoughtful production. Together they combine their powers as DJs, resulting in a brilliant technical display of creative collaboration between 4 turntables.\n\nTheir vision has resonated with both listeners and industry tastemakers alike, with their music amassing over 50 million track streams across their catalog of original productions, remixes and collaborations. Winners of the Electronic/Dance Artist of the Year at the Western Canadian Music Awards, The Funk Hunters also reached #1 on the Billboard Dance Club Chart with an official remix of U2's \"Love Is Bigger.\" Their catalog also includes other official remixes for Big Gigantic, Gramatik, Selena Gomez, and Imagine Dragons.\n\nIn addition to studio work, The Funk Hunters enjoy a vibrant global touring career with major festival plays at Coachella, Bonnaroo, Life Is Beautiful, Lightning in a Bottle, Electric Forest, Osheaga, Outside Lands, Burning Man, Red Rocks, and Shambhala. They consistently play to the biggest dance floors in the world - frequent collaborator Chali 2na of Jurassic 5 fame has called them \"the selectah's of the century.\"",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040643,
-          "stage_id": 12487,
-          "stage_name": "Fractal Forest",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T08:00:00+00:00",
-          "end_time": "2025-07-26T09:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "5lEF9OdTTRzRKWbDB3mdvZ",
-          "streaming_service": "spotify",
-          "title": "Empire (feat. Flowdan) - Dr. Fresch Remix",
-          "artist_name": "The Funk Hunters, Stickybuds, Flowdan, Dr. Fresch",
-          "duration": 166989,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0213c68711e27ea30e00ee35d8",
-          "preview_url": "https://p.scdn.co/mp3-preview/eb4957b083ba9dcde57250d3bcb5857478ed6086?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0WjvrhorMuIOWlTL5Vv1DQ",
-          "streaming_service": "spotify",
-          "title": "Word To Spread (feat. Tom Thum)",
-          "artist_name": "The Funk Hunters, Chali 2na, Tom Thum",
-          "duration": 210172,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0277e3ad18a2885f9302b1125f",
-          "preview_url": "https://p.scdn.co/mp3-preview/eddc03cf8292e328a27aabb535f390348eeff139?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0xkwBq51pz25O8uinUXIYh",
-          "streaming_service": "spotify",
-          "title": "Warn Ya",
-          "artist_name": "The Funk Hunters, Defunk, Akylla",
-          "duration": 276741,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0213c68711e27ea30e00ee35d8",
-          "preview_url": "https://p.scdn.co/mp3-preview/c1bbde8377cc1798bcc095ff4b1d8217e3c7cca6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "17sEbj2E6Bls2ld6vMCe59",
-          "streaming_service": "spotify",
-          "title": "Get Involved (feat. Defunk)",
-          "artist_name": "The Funk Hunters, Chali 2na, Defunk",
-          "duration": 232782,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02983e618add6e9752e1b43741",
-          "preview_url": "https://p.scdn.co/mp3-preview/407ad9b1b61a96e79ae30874c9824741d299e3ff?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7DRmL6goCNXXpJC88suwG7",
-          "streaming_service": "spotify",
-          "title": "Get Up N Go",
-          "artist_name": "The Funk Hunters, Moontricks",
-          "duration": 227500,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0213c68711e27ea30e00ee35d8",
-          "preview_url": "https://p.scdn.co/mp3-preview/28755ae5c9a4d1832c721959141a47ae634978e0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1pbaSlyghuS1mKUk0on1RF",
-          "streaming_service": "spotify",
-          "title": "Empire (feat. Flowdan)",
-          "artist_name": "The Funk Hunters, Stickybuds, Flowdan",
-          "duration": 213193,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0213c68711e27ea30e00ee35d8",
-          "preview_url": "https://p.scdn.co/mp3-preview/ec2582a752646845b59fe7e9569d040de87e5843?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1hGmFWF1MUWig9KfQX9ycX",
-          "streaming_service": "spotify",
-          "title": "The Rock",
-          "artist_name": "Chali 2na, Cut Chemist, The Funk Hunters",
-          "duration": 179556,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02559ab23930f7efac0cadf881",
-          "preview_url": "https://p.scdn.co/mp3-preview/d6cb8f84fad7e4710d43e491313361f555c3df1b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5whOngKFU0gwuzJ0Qlrv12",
-          "streaming_service": "spotify",
-          "title": "Beat Don't Stop",
-          "artist_name": "Big Gigantic, The Funk Hunters, Chali 2na",
-          "duration": 187619,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c6705891dcc0facc1bedcce0",
-          "preview_url": "https://p.scdn.co/mp3-preview/e7cd22402314a9cfe5970fc940e08da6b98968d2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4R598MsO45frW8E9BRceAF",
-          "streaming_service": "spotify",
-          "title": "Way U Walk",
-          "artist_name": "The Funk Hunters",
-          "duration": 166762,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021e39e6458854e43c15a409c6",
-          "preview_url": "https://p.scdn.co/mp3-preview/fdeb9f9208a16d92369c2c5ebb4824b807048db6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4V1SRGoBMiq6YH9B9rJUVN",
-          "streaming_service": "spotify",
-          "title": "Gravity Check",
-          "artist_name": "The Funk Hunters, BARNUN",
-          "duration": 220000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025aeed95f1d726833932dd13d",
-          "preview_url": "https://p.scdn.co/mp3-preview/a218afe1a987d8f8ae4824a6c30cd87365baefec?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2040604,
       "external_id": "166950",
       "published": true,
@@ -8889,176 +9644,6 @@
           "duration": 228571,
           "image_url": "https://i.scdn.co/image/ab67616d00001e027ac4143c1fed647a96afae63",
           "preview_url": "https://p.scdn.co/mp3-preview/23c6e1b18df688b2ed82ac2f1cba9f2945474db4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040657,
-      "external_id": "167124",
-      "published": true,
-      "name": "Ivy Lab",
-      "body": "Originally starting life as a trio, Ivy Lab are now the duo of Gove Kidao & J.Fogel. North London outfit Ivy Lab were brought together out of a shared enthusiasm for  experimentations on the fringes of the UK bass music scene. The years that followed  saw them go from strength to strength, earning a place in ‘The top 10 DJ’s of 2015’ (Mixmag) and propagating a new generation of hip-hop inspired abstractions housed within the framework of their ’20/20 LDN’ project. <br />\n<br />\nThe duo now find themselves located in the hinterlands between hip-hop and leftfield  bass music; a neighbourhood characterized by transatlantic fusions channeling the  best of both Los Angeles and London.  <br />\n<br />\nIvy Lab invested further in the exploration of this sound with the creation of their  ‘20/20 LDN’ club night. Housed formerly at Brixton’s Phonox nightclub before moving  to the legendary Corsica Studios and most recently Micks Garage in Hackney Wick,  it earned the characterisation of “ultra innovative” (Timeout Magazine) and was  branded a “London standout” (Mixmag) before heading out onto the road with a  Berlin Residency (Club Gretchen) and takeovers from Bristol to Vancouver to Atlanta.  <br />\n<br />\nMinted in late 2015, and borrowing the same raison d'être as its elder sibling nightlife  brand; 20/20 LDN Recordings was unveiled with the pseudo-mixtape/compilation LP  ‘Ivy Lab presents 20/20 Volume.1’ - described as “uncompromising, insightful and  rather awesome : 9/10” (Mixmag) and “impossible to categorise : 9/10” (DJ Mag) .  Little over a year later (and only 5 releases deep) the label was awarded the title of  ’Best Breakthrough Label 2016’ in the DJ Mag ‘Best of British Awards 2016’.  <br />\n<br />\nMaintaining the aesthetic pioneered on the ‘Volume 1’ mixtape, Ivy Lab continued to  garner widespread acclaim with tracks such as ‘Spooky Dub’, ‘Can’t Say No’ &  ‘Peninsula’ , supplemented by showpiece remixes for Banks, Noisia, Wilkinson &  Wretch 32 - with the era culminating in the 2018 release of their debut album “Death  Don’t Always Taste Good” - the outfits first body of work as a duo - which launched  with the critically acclaimed single ‘Cake’. Studio projects with Amon Tobin & Claude  Von Stroke soon followed, with the former becoming a frequent collaborator following  the release of the 2019 festival anthem ‘Orange’.  <br />\nWith an increasingly solid audience in North America and 2 long-play, largely  dancefloor oriented projects behind them, the duo have increasingly experimented  with more subdued productions; doubling down on the under-produced minimalism  that was always a lingering theme of the outfit, but since 2019, has become a  touchstone of their productions.  <br />\nIvy Lab’s currency as bass music figureheads has seen them receive support from  such key festivals as Glastonbury, Coachella, EDC Vegas, SXSW, Sonar (Barcelona + HK), CTM Berlin, Dour, ADE, Woo Hah!, Shambhala, Lightning In A Bottle, Lowlands,  Origin NYE, Exit and Outlook. The pair also enjoyed the honor of producing an  edition of the BBC Radio 1 Essential mix, and saw the mix subsequently feature in the stations 5-contender shortlist for ‘Essential Mix of the Year’. <br />\nIvy Lab heads into the horizon not only with an anchored presence at the cutting edge of the bass-music landscape, but also a secured reputation as pioneering label  bosses & event promoters in ownership of one of the UK’s most exciting  contemporary music brands. <br />\nFast forward to COVID-19 pandemic, Ivy Lab took it upon themselves to thrive through the major setbacks that came into place due to borders shutting down and loss of events. Curating virtual streams to be viewed worldwide featuring world-renowned musicians and visual artists, they showcased their art globally only gaining an even larger audience to crave their sounds outside of their hometown in London. <br />\n<br />\nAs the world returned to its daily life - the duo came back to their US with their first show in over a year at one of the most famous venues in the world, Red Rocks in Colorado. Riding off the success from that show, Ivy Lab continued to tour the states hitting markets such as Los Angeles, New York, all the way to Coachella. <br />\n<br />\nIvy Lab released their album, Infinite Falling Ground, which was paired with an Audio/Visual tour in 2022-2023, & was in consideration for a Grammy Nomination. The duo embarked on their latest journey of club records in early 2024, as well as tapping back into their original roots of Drum & Bass before gearing up for the release of their next album, Infinite Falling Ground Pt. 2. They followed up the album with another Audio/Visual tour in the fall of 2024, hitting cities all across the US and Europe. <br />\n<br />\nIn 2025, Ivy Lab is kicking the year off with a run of Drum n Bass shows across the United States before they gear up for their next set of club releases.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": null,
-        "100": "https://media.appmiral.com/prod/performance/0057/26/thumb_5625198_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/26/thumb_5625198_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/26/thumb_5625198_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/26/thumb_5625198_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "IvyLab/",
-        "instagram_user": "/ivylab/",
-        "twitter_user": "IvyLab_",
-        "soundcloud_user": "ivylab",
-        "spotify_artist_id": "3VXCvo9Sr0hbZ4mk6VOKBs"
-      },
-      "performances": [
-        {
-          "id": 250035,
-          "external_id": "865475",
-          "published": true,
-          "body": "Originally starting life as a trio, Ivy Lab are now the duo of Gove Kidao & J.Fogel. North London outfit Ivy Lab were brought together out of a shared enthusiasm for  experimentations on the fringes of the UK bass music scene. The years that followed  saw them go from strength to strength, earning a place in ‘The top 10 DJ’s of 2015’ (Mixmag) and propagating a new generation of hip-hop inspired abstractions housed within the framework of their ’20/20 LDN’ project. \n\nThe duo now find themselves located in the hinterlands between hip-hop and leftfield  bass music; a neighbourhood characterized by transatlantic fusions channeling the  best of both Los Angeles and London.  \n\nIvy Lab invested further in the exploration of this sound with the creation of their  ‘20/20 LDN’ club night. Housed formerly at Brixton’s Phonox nightclub before moving  to the legendary Corsica Studios and most recently Micks Garage in Hackney Wick,  it earned the characterisation of “ultra innovative” (Timeout Magazine) and was  branded a “London standout” (Mixmag) before heading out onto the road with a  Berlin Residency (Club Gretchen) and takeovers from Bristol to Vancouver to Atlanta.  \n\nMinted in late 2015, and borrowing the same raison d'être as its elder sibling nightlife  brand; 20/20 LDN Recordings was unveiled with the pseudo-mixtape/compilation LP  ‘Ivy Lab presents 20/20 Volume.1’ - described as “uncompromising, insightful and  rather awesome : 9/10” (Mixmag) and “impossible to categorise : 9/10” (DJ Mag) .  Little over a year later (and only 5 releases deep) the label was awarded the title of  ’Best Breakthrough Label 2016’ in the DJ Mag ‘Best of British Awards 2016’.  \n\nMaintaining the aesthetic pioneered on the ‘Volume 1’ mixtape, Ivy Lab continued to  garner widespread acclaim with tracks such as ‘Spooky Dub’, ‘Can’t Say No’ &  ‘Peninsula’ , supplemented by showpiece remixes for Banks, Noisia, Wilkinson &  Wretch 32 - with the era culminating in the 2018 release of their debut album “Death  Don’t Always Taste Good” - the outfits first body of work as a duo - which launched  with the critically acclaimed single ‘Cake’. Studio projects with Amon Tobin & Claude  Von Stroke soon followed, with the former becoming a frequent collaborator following  the release of the 2019 festival anthem ‘Orange’.  \nWith an increasingly solid audience in North America and 2 long-play, largely  dancefloor oriented projects behind them, the duo have increasingly experimented  with more subdued productions; doubling down on the under-produced minimalism  that was always a lingering theme of the outfit, but since 2019, has become a  touchstone of their productions.  \nIvy Lab’s currency as bass music figureheads has seen them receive support from  such key festivals as Glastonbury, Coachella, EDC Vegas, SXSW, Sonar (Barcelona + HK), CTM Berlin, Dour, ADE, Woo Hah!, Shambhala, Lightning In A Bottle, Lowlands,  Origin NYE, Exit and Outlook. The pair also enjoyed the honor of producing an  edition of the BBC Radio 1 Essential mix, and saw the mix subsequently feature in the stations 5-contender shortlist for ‘Essential Mix of the Year’. \nIvy Lab heads into the horizon not only with an anchored presence at the cutting edge of the bass-music landscape, but also a secured reputation as pioneering label  bosses & event promoters in ownership of one of the UK’s most exciting  contemporary music brands. \nFast forward to COVID-19 pandemic, Ivy Lab took it upon themselves to thrive through the major setbacks that came into place due to borders shutting down and loss of events. Curating virtual streams to be viewed worldwide featuring world-renowned musicians and visual artists, they showcased their art globally only gaining an even larger audience to crave their sounds outside of their hometown in London. \n\nAs the world returned to its daily life - the duo came back to their US with their first show in over a year at one of the most famous venues in the world, Red Rocks in Colorado. Riding off the success from that show, Ivy Lab continued to tour the states hitting markets such as Los Angeles, New York, all the way to Coachella. \n\nIvy Lab released their album, Infinite Falling Ground, which was paired with an Audio/Visual tour in 2022-2023, & was in consideration for a Grammy Nomination. The duo embarked on their latest journey of club records in early 2024, as well as tapping back into their original roots of Drum & Bass before gearing up for the release of their next album, Infinite Falling Ground Pt. 2. They followed up the album with another Audio/Visual tour in the fall of 2024, hitting cities all across the US and Europe. \n\nIn 2025, Ivy Lab is kicking the year off with a run of Drum n Bass shows across the United States before they gear up for their next set of club releases.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040657,
-          "stage_id": 12488,
-          "stage_name": "Grove",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T05:00:00+00:00",
-          "end_time": "2025-07-26T06:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "5YSldUKXVoUVC0giG4t85B",
-          "streaming_service": "spotify",
-          "title": "Orange",
-          "artist_name": "Ivy Lab, Two Fingers, Amon Tobin",
-          "duration": 235840,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f550c0747cbd4ecde83e84f0",
-          "preview_url": "https://p.scdn.co/mp3-preview/7b679fce73451f8779368dea99716b6c22a2c38e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3fawKhD4tka2u3V6C2TJl8",
-          "streaming_service": "spotify",
-          "title": "When I Go",
-          "artist_name": "Ivy Lab",
-          "duration": 204545,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02057f1fd167e359bcad921128",
-          "preview_url": "https://p.scdn.co/mp3-preview/ee579c539bd19f2226118300b076ba91da9ba6ab?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3Zp8EP3b36ie7PLgiW4VyH",
-          "streaming_service": "spotify",
-          "title": "Cake",
-          "artist_name": "Ivy Lab",
-          "duration": 205796,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024144c072e3b6222b72725004",
-          "preview_url": "https://p.scdn.co/mp3-preview/bd63b420707eadb3a09e90dde9c0e4413a85c36b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7AsthFcXBLZlGAyDpljpoy",
-          "streaming_service": "spotify",
-          "title": "Backshifting",
-          "artist_name": "Ivy Lab",
-          "duration": 244634,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0242f40dd0e5b4098422967be8",
-          "preview_url": "https://p.scdn.co/mp3-preview/5501794939cccd5878bd3f9822895903cdbacba9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "50sOdziJOpELfu5YFHjzaL",
-          "streaming_service": "spotify",
-          "title": "Rajah",
-          "artist_name": "Ivy Lab",
-          "duration": 186175,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021da40c7e4eba70280267de75",
-          "preview_url": "https://p.scdn.co/mp3-preview/21946f0bad3858ae0efa2b97ad78e0674da55922?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3zvpcAyfKr99YLJbVFOJIU",
-          "streaming_service": "spotify",
-          "title": "Never Can Decide - Ivy Lab Remix",
-          "artist_name": "Anushka, Ivy Lab",
-          "duration": 314689,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0291cdc23b86e8bf8578d73176",
-          "preview_url": "https://p.scdn.co/mp3-preview/6191fbe63e1b18684817b6260e180aa93639c2df?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "713Uc9EWo8VOXAmbcWaGt4",
-          "streaming_service": "spotify",
-          "title": "Afterthought",
-          "artist_name": "Ivy Lab, Frank Carter III",
-          "duration": 346512,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024fbf6717aba883716b6f178e",
-          "preview_url": "https://p.scdn.co/mp3-preview/2a60f79f409276595e913851299dad8e4fe15907?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "03sFtrI9LaweRGwqaYvScA",
-          "streaming_service": "spotify",
-          "title": "20 Questions",
-          "artist_name": "Ivy Lab",
-          "duration": 363488,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02600a5ea79113963f6d0b2bbf",
-          "preview_url": "https://p.scdn.co/mp3-preview/41171db276f77ab96332f62e09ed8710dca1d2e4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1rAVvtWzgrnWeAKBwqebu2",
-          "streaming_service": "spotify",
-          "title": "Gossip",
-          "artist_name": "Ivy Lab",
-          "duration": 176561,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02020c45fc0112b1d3e1a747f3",
-          "preview_url": "https://p.scdn.co/mp3-preview/7bf6082cecf4c09a71dbb97d6c190cca4ba28db0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5fOWNQF6p3Naz4QwBO71cG",
-          "streaming_service": "spotify",
-          "title": "Point Five",
-          "artist_name": "Ivy Lab",
-          "duration": 205094,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0285f901bf6414787e789d1115",
-          "preview_url": "https://p.scdn.co/mp3-preview/c4195b3706945e73f34bd4abee9950f1ff51fa9e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         }
       ],
       "show_in_search": true,
@@ -16470,176 +17055,6 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040684,
-      "external_id": "1922400",
-      "published": true,
-      "name": "John Rolodex",
-      "body": "Featuring: Donna Dada, Rasta, Strange Manner, Oh Aces, EffnEd, Kirtay, IN2IT, Pete Shredz and MC Maponus<br />\n<br />\nSometimes the rarest inspiration emerges in the most unlikely places. At a time when few artists outside the UK were breaking through the drum and bass and jungle scene, John Rolodex rose from Edmonton, Alberta with a sound too powerful to ignore.<br />\n<br />\nHis early 2000s releases caught the attention of the genre’s elite - and beyond. The late John Peel featured his music multiple times on BBC Radio 1, a rare accolade for a Canadian producer at the time.<br />\n<br />\nA trilogy of heavyweight EPs on Ray Keith’s Dread Recordings cemented John’s reputation, but it was his signing to Goldie’s iconic Metalheadz label that marked his arrival as a key international artist in the mid-2000s.<br />\n<br />\nIn 2010, John launched Machinist Music - an independent label dedicated to raw, breakbeat-driven sound. Over the years, it has become a haven for both rising talent and veteran producers, offering an outlet for uncompromising sonic experimentation.<br />\n<br />\nJohn has headlined shows across North America and Europe, and in 2024 was invited to curate the Village Jungle Rinseout at Shambhala Music Festival - a stage-opening event that draws thousands to one of the largest bass stages in the country.<br />\n<br />\nBeyond the booth and the studio, Rolodex has hosted radio programs, led masterclasses, spoken at music conferences, and composed for film and television - bringing his deep knowledge of sound and culture to new audiences.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": null,
-        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626137_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626137_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626137_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626137_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "JohnRolodexOfficial",
-        "instagram_user": "johnrolodex",
-        "soundcloud_user": "machinistmusic",
-        "spotify_artist_id": "0TtwCJX6ctu35Euvh16EPc"
-      },
-      "performances": [
-        {
-          "id": 250063,
-          "external_id": "866076",
-          "published": true,
-          "name": "Village Rinse Out Hosted by John Rolodex",
-          "body": "Featuring: Donna Dada, Rasta, Strange Manner, Oh Aces, EffnEd, Kirtay, IN2IT, Pete Shredz and MC Maponus\n\nSometimes the rarest inspiration emerges in the most unlikely places. At a time when few artists outside the UK were breaking through the drum and bass and jungle scene, John Rolodex rose from Edmonton, Alberta with a sound too powerful to ignore.\n\nHis early 2000s releases caught the attention of the genre’s elite - and beyond. The late John Peel featured his music multiple times on BBC Radio 1, a rare accolade for a Canadian producer at the time.\n\nA trilogy of heavyweight EPs on Ray Keith’s Dread Recordings cemented John’s reputation, but it was his signing to Goldie’s iconic Metalheadz label that marked his arrival as a key international artist in the mid-2000s.\n\nIn 2010, John launched Machinist Music - an independent label dedicated to raw, breakbeat-driven sound. Over the years, it has become a haven for both rising talent and veteran producers, offering an outlet for uncompromising sonic experimentation.\n\nJohn has headlined shows across North America and Europe, and in 2024 was invited to curate the Village Jungle Rinseout at Shambhala Music Festival - a stage-opening event that draws thousands to one of the largest bass stages in the country.\n\nBeyond the booth and the studio, Rolodex has hosted radio programs, led masterclasses, spoken at music conferences, and composed for film and television - bringing his deep knowledge of sound and culture to new audiences.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040684,
-          "stage_id": 12491,
-          "stage_name": "Village",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-25T22:00:00+00:00",
-          "end_time": "2025-07-26T03:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "6ezgvm6D82vJm2LqYlryNf",
-          "streaming_service": "spotify",
-          "title": "No No - John Rolodex Remix",
-          "artist_name": "Ray Keith, Alexandra, MC Navigator, John Rolodex",
-          "duration": 391226,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028f0e9f16000ea68ee46c8b0c",
-          "preview_url": "https://p.scdn.co/mp3-preview/f234160fc3f95f671faf40c837218dfdf231bb90?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "35ZRwqnmpGyJmGZ8IK9u3X",
-          "streaming_service": "spotify",
-          "title": "Sumthin U Feel - edit",
-          "artist_name": "John Rolodex",
-          "duration": 206511,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02cb4020b2457b16a4b2c52a9a",
-          "preview_url": "https://p.scdn.co/mp3-preview/03aec60c0f36cde143c3557155536c3a1e473a6e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7IunhCWMk5gw7Lk3Ps3YHv",
-          "streaming_service": "spotify",
-          "title": "The Rainmaker",
-          "artist_name": "John Rolodex, Khadija",
-          "duration": 389558,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02faddf3f510ce3cb36d9828f1",
-          "preview_url": "https://p.scdn.co/mp3-preview/01b5b469c6db0055c2dfb69a2348a3dd43ece908?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "001JG6c5wVecuA2SpPLuwb",
-          "streaming_service": "spotify",
-          "title": "Connector - 2026 Revisited - edit",
-          "artist_name": "John Rolodex",
-          "duration": 202758,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021b5bd9e7462d1650552c5054",
-          "preview_url": "https://p.scdn.co/mp3-preview/bfcb08ade913d3422b83a4fe3f9f1ab8ea9bb64c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2nreb09uRcRNMUuXzfo4Fs",
-          "streaming_service": "spotify",
-          "title": "Tricky - edit",
-          "artist_name": "John Rolodex",
-          "duration": 212413,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02733d805c76ef265b0fbe26df",
-          "preview_url": "https://p.scdn.co/mp3-preview/c7d3881a81703f4e35d071cbe01979cb9fb76dc5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4bERrZKFcpI2hX8ILxe983",
-          "streaming_service": "spotify",
-          "title": "Stomper - edit",
-          "artist_name": "John Rolodex",
-          "duration": 228837,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028cb90a652c9c73cd0e9f6de2",
-          "preview_url": "https://p.scdn.co/mp3-preview/44a62ed1a41672c42e7542ea6a648a42a9247f61?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "38gOzZJlLPld1nhdLtgItc",
-          "streaming_service": "spotify",
-          "title": "You're the One",
-          "artist_name": "John Rolodex",
-          "duration": 309655,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ce50b53f37590b38fd0249c1",
-          "preview_url": "https://p.scdn.co/mp3-preview/4c446ee1091d2e003e7eb71747f2a4475a66d8b1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5nYUW2TQREiiytMnmNRGsJ",
-          "streaming_service": "spotify",
-          "title": "Depth of Field",
-          "artist_name": "John Rolodex",
-          "duration": 324429,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02fc82d6eea0d9723d40744b3b",
-          "preview_url": "https://p.scdn.co/mp3-preview/2338b35dd62cefb2ddac0f6b4277565defc0a626?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4m0Vp4Y3uyqgg8x5Jvoufj",
-          "streaming_service": "spotify",
-          "title": "Formless",
-          "artist_name": "John Rolodex",
-          "duration": 344491,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02fc82d6eea0d9723d40744b3b",
-          "preview_url": "https://p.scdn.co/mp3-preview/41f0f5eee23ab36cb057e1c08d305d1686970431?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "24ASqX8RK82Y0mh3FQGhjv",
-          "streaming_service": "spotify",
-          "title": "Underneath - edit",
-          "artist_name": "John Rolodex, Candice Fudge",
-          "duration": 237919,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02aecf9df6de099bdca6b38829",
-          "preview_url": "https://p.scdn.co/mp3-preview/865ef746e8054b08f677d7b2921348b20f41fb97?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2054720,
       "external_id": "1923498",
       "published": true,
@@ -17189,7 +17604,7 @@
           "title": "Joy",
           "artist_name": "salute",
           "duration": 281381,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f6119e1c5dc4fed90bdc8c0f",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0271750b32203c353e15dedfe4",
           "preview_url": "https://p.scdn.co/mp3-preview/5321622bda2247f79ba77fae0a9383e2bcbdb90c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         },
         {
@@ -17901,82 +18316,6 @@
           "show_in_search": false,
           "start_time": "2025-07-26T06:30:00+00:00",
           "end_time": "2025-07-26T08:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040689,
-      "external_id": "1922366",
-      "published": true,
-      "name": "BOU",
-      "body": "Manchester-based DJ, Producer and label boss Bou has quickly become one of the biggest names in the world of drum and bass. His unique sound blends heavy basslines with catchy melodies and high-energy beats, contributing to a definitive and increasingly well-received sonic blueprint.<br />\n<br />\nClocking up over 1.3 million monthly listeners on Spotify alone, Bou’s music career has already been marked by a string of successful chart-topping releases on his Gossip label, the silver-certified ‘Streetside’ with Bru-C on Crucast, and multiple DNB Allstars releases – all with support from many renowned artists in the genre.<br />\n<br />\nBou’s live performances are nothing short of electrifying, with notable sets at Creamfields, Parklife, The Warehouse Project, Reading & Leeds Festival, and a recent tour of New Zealand and Australia being the centrepiece of his ever-growing global presence.<br />\n<br />\nBou’s music has been turning heads in the industry, having just signed to Island Records/Universal, with massive singles featuring Slay planned for release in the next 6-12 months. Bou’s music continues to showcase genre-leading creativity and innovation alongside high energy, focusing on delivering unforgettable live experiences.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": null,
-        "100": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464240_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464240_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464240_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464240_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "bou_dnb/"
-      },
-      "performances": [
-        {
-          "id": 250069,
-          "external_id": "865930",
-          "published": true,
-          "name": "Bou",
-          "body": "Manchester-based DJ, Producer and label boss Bou has quickly become one of the biggest names in the world of drum and bass. His unique sound blends heavy basslines with catchy melodies and high-energy beats, contributing to a definitive and increasingly well-received sonic blueprint.\n\nClocking up over 1.3 million monthly listeners on Spotify alone, Bou’s music career has already been marked by a string of successful chart-topping releases on his Gossip label, the silver-certified ‘Streetside’ with Bru-C on Crucast, and multiple DNB Allstars releases – all with support from many renowned artists in the genre.\n\nBou’s live performances are nothing short of electrifying, with notable sets at Creamfields, Parklife, The Warehouse Project, Reading & Leeds Festival, and a recent tour of New Zealand and Australia being the centrepiece of his ever-growing global presence.\n\nBou’s music has been turning heads in the industry, having just signed to Island Records/Universal, with massive singles featuring Slay planned for release in the next 6-12 months. Bou’s music continues to showcase genre-leading creativity and innovation alongside high energy, focusing on delivering unforgettable live experiences.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040689,
-          "stage_id": 12491,
-          "stage_name": "Village",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T09:00:00+00:00",
-          "end_time": "2025-07-26T10:00:00+00:00",
           "show_image_in_schedule": true,
           "hide_start_time": false,
           "hide_end_time": false,
@@ -19590,177 +19929,6 @@
           "duration": 310373,
           "image_url": "https://i.scdn.co/image/ab67616d00001e026f842c9eac41960e2cbe7261",
           "preview_url": "https://p.scdn.co/mp3-preview/f0355523b64bcc9c23c1155d6d18c3c0b05ba84c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040639,
-      "external_id": "167132",
-      "published": true,
-      "name": "K+Lab",
-      "body": "Drenched in the vibrant hues of creativity and fueled by innovation, K+Lab stands as a musical virtuoso and a visual wizard. Hailing from New Zealand, he has carved a unique and encompassing audio and visual world, seamlessly blending genres to create a sonic tapestry that defies conventions. <br />\n<br />\nWith a discography that reads like a sonic odyssey, K+Lab has become synonymous with exhilarating beats, funky basslines, and an infectious energy that transcends the dancefloor. <br />\n<br />\nIn the ever-evolving landscape of electronic music, K+Lab remains at the forefront, pushing boundaries and challenging the status quo. His commitment to innovation, coupled with an insatiable appetite for experimentation, has earned him a dedicated global following. Whether on stage or through a visual masterpiece, K+Lab continues to redefine the possibilities of artistic expression, leaving an indelible mark on the intersection of music and visual art.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": null,
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463910_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463910_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463910_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463910_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "therealklab",
-        "instagram_user": "captainklab/",
-        "twitter_user": "Klabmusic",
-        "youtube_user": "user/aidjwhd6342wdsax",
-        "soundcloud_user": "klabnz",
-        "spotify_artist_id": "3y7GPPMrPAZKg9BlCO8cFA"
-      },
-      "performances": [
-        {
-          "id": 250017,
-          "external_id": "865576",
-          "published": true,
-          "body": "Drenched in the vibrant hues of creativity and fueled by innovation, K+Lab stands as a musical virtuoso and a visual wizard. Hailing from New Zealand, he has carved a unique and encompassing audio and visual world, seamlessly blending genres to create a sonic tapestry that defies conventions. \n\nWith a discography that reads like a sonic odyssey, K+Lab has become synonymous with exhilarating beats, funky basslines, and an infectious energy that transcends the dancefloor. \n\nIn the ever-evolving landscape of electronic music, K+Lab remains at the forefront, pushing boundaries and challenging the status quo. His commitment to innovation, coupled with an insatiable appetite for experimentation, has earned him a dedicated global following. Whether on stage or through a visual masterpiece, K+Lab continues to redefine the possibilities of artistic expression, leaving an indelible mark on the intersection of music and visual art.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040639,
-          "stage_id": 12487,
-          "stage_name": "Fractal Forest",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T04:00:00+00:00",
-          "end_time": "2025-07-26T05:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "0V5UHDHEW7XV9toqgKWVTU",
-          "streaming_service": "spotify",
-          "title": "Feel The Weight",
-          "artist_name": "Stickybuds, K+Lab",
-          "duration": 193548,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c7e4b48c95edf77095dfbc35",
-          "preview_url": "https://p.scdn.co/mp3-preview/4a1983f1cbebbb1f69391b71a0b77ae557eedbc1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0YR7T2rfii4EVnk5PhrNEy",
-          "streaming_service": "spotify",
-          "title": "What's good for ya",
-          "artist_name": "K+Lab, Megan Hamilton",
-          "duration": 241624,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b0099fe53a2d54c925d87271",
-          "preview_url": "https://p.scdn.co/mp3-preview/e9c30c61d6af3e2acc0ba515a85307636f6bcf00?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "50KJIk36YcRAKGhPQX0bSi",
-          "streaming_service": "spotify",
-          "title": "Clap Ya Hands Now",
-          "artist_name": "Stickybuds, K+Lab, KWADI",
-          "duration": 255394,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0229359ff11f280465893ee3de",
-          "preview_url": "https://p.scdn.co/mp3-preview/eb86d5f991d921a3bd0fb817a9cb46a4eccf932a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2BBAdTvt3a0B3sFuQ2OcDG",
-          "streaming_service": "spotify",
-          "title": "Forever Never Feat. Cleva Thoughts",
-          "artist_name": "K+Lab, Cleva Thoughts",
-          "duration": 274480,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e023980384a862aa92adcd591f4",
-          "preview_url": "https://p.scdn.co/mp3-preview/b5eae5cb57491d41d33b6be76c54dc58378fc361?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5vzzpT0IKFUbqpksPqSLbG",
-          "streaming_service": "spotify",
-          "title": "Pull Up",
-          "artist_name": "K+Lab, MELODOWNZ, Mustafa Akbar",
-          "duration": 201184,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024c7e92bed22710a14f10d991",
-          "preview_url": "https://p.scdn.co/mp3-preview/35149e0ca3ed90dd6fa0674b2189806947648b83?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7bU9pCv3zaUp8Jprqkhc4G",
-          "streaming_service": "spotify",
-          "title": "Bettur",
-          "artist_name": "K+Lab, SAÍGO",
-          "duration": 245188,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021f31656f06e0ab5686d53210",
-          "preview_url": "https://p.scdn.co/mp3-preview/0526a7eca0c2bd260e6befc74b9f9178ef4032c5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0ThIzIPCXCAqQZI0oaTht9",
-          "streaming_service": "spotify",
-          "title": "SMOWK",
-          "artist_name": "K+Lab",
-          "duration": 218400,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d70cabf38db1d78faab813c1",
-          "preview_url": "https://p.scdn.co/mp3-preview/b4f75abb1e02a2e98ef35bb3247b3cb8ef7c2f55?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5N8IjG8qfhvPZdyhwbIM6x",
-          "streaming_service": "spotify",
-          "title": "MEKKE FLEX",
-          "artist_name": "Opiuo, K+Lab, ProbCause",
-          "duration": 237473,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0282a86ba0f01d494cb961e338",
-          "preview_url": "https://p.scdn.co/mp3-preview/45053ed44fbf055af4a71cb6cfcb27515712c815?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6XcCP4zdx143EMlBoICplY",
-          "streaming_service": "spotify",
-          "title": "When it rains",
-          "artist_name": "K+Lab, Kodiak Kid",
-          "duration": 228260,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0209cb3cd769a64b471a6f201d",
-          "preview_url": "https://p.scdn.co/mp3-preview/431a4f0b94802c3a71592f12b79d6883bdf8baab?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7wzSBLV4fx8UrEz1wHy8Gt",
-          "streaming_service": "spotify",
-          "title": "My Friends",
-          "artist_name": "Opiuo, K+Lab",
-          "duration": 194571,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02fab77d46a33cb435878d0b53",
-          "preview_url": "https://p.scdn.co/mp3-preview/70d79a6cabf1be94b0e7ec82673ef64d364c056c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         }
       ],
       "show_in_search": true,
@@ -27090,174 +27258,6 @@
         }
       ],
       "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040633,
-      "external_id": "1920547",
-      "published": true,
-      "name": "Shades",
-      "body": "Alix Perez (Belgium/UK) and Eprom (USA) are SHADES.<br />\n<br />\nPerez found his rise to fame in drum n bass, releasing on Shogun Audio, Exit Recordings amongst many other labels and collaborating with the foremost names in dance and electronic music such as Noisia, Foreign Beggars, dBridge, and many more.<br />\n<br />\nEprom gained his well-deserved success through his innovative take on bass music, a unique sound that has the likes of Gaslamp Killer, Kutmah, D-Styles singing his praises and supporting his music.<br />\n<br />\nSHADES exemplifies slanted grooves, a deep pocket and hard yet graceful composition. The debut self-titled EP (released on Alpha Pup) is a truly unique body of work.<br />\n<br />\nAware of each other’s music for some time before meeting, Perez and Eprom first crossed paths at the 2013/2014 Northern Bass festival in New Zealand. The following summer they met again at the Red Bull Studios LA producing the Foreign Beggars’ Modus EP. This initial studio session led to further collaborations and SHADES was born.<br />\n<br />\nXLR8R have rightly said “music that’s not only a legitimate full-frontal assault in the same vein as tunes from that golden era of gluttonous bass and synths, but that embraces that ethos while giving it a more polished feel”.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": null,
-        "100": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469671_performance_100.png",
-        "120": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469671_performance_120.png",
-        "250": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469671_performance_250.png",
-        "500": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469671_performance_500.png",
-        "960": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469671_performance_960.png",
-        "1080": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469671_performance_1080.png"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "shadesmusicpage",
-        "instagram_user": "shadesofrhythm",
-        "twitter_user": "shades216",
-        "spotify_artist_id": "3hZYcnuncZYCJzqO9pwpAK"
-      },
-      "performances": [
-        {
-          "id": 250011,
-          "external_id": "865489",
-          "published": true,
-          "body": "Alix Perez (Belgium/UK) and Eprom (USA) are SHADES.\n\nPerez found his rise to fame in drum n bass, releasing on Shogun Audio, Exit Recordings amongst many other labels and collaborating with the foremost names in dance and electronic music such as Noisia, Foreign Beggars, dBridge, and many more.\n\nEprom gained his well-deserved success through his innovative take on bass music, a unique sound that has the likes of Gaslamp Killer, Kutmah, D-Styles singing his praises and supporting his music.\n\nSHADES exemplifies slanted grooves, a deep pocket and hard yet graceful composition. The debut self-titled EP (released on Alpha Pup) is a truly unique body of work.\n\nAware of each other’s music for some time before meeting, Perez and Eprom first crossed paths at the 2013/2014 Northern Bass festival in New Zealand. The following summer they met again at the Red Bull Studios LA producing the Foreign Beggars’ Modus EP. This initial studio session led to further collaborations and SHADES was born.\n\nXLR8R have rightly said “music that’s not only a legitimate full-frontal assault in the same vein as tunes from that golden era of gluttonous bass and synths, but that embraces that ethos while giving it a more polished feel”.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040633,
-          "stage_id": 12486,
-          "stage_name": "AMP",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T08:30:00+00:00",
-          "end_time": "2025-07-26T10:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "2SY4Zr5ceXSyQRRkzpNPJ8",
-          "streaming_service": "spotify",
-          "title": "The Saga",
-          "artist_name": "Shades",
-          "duration": 195346,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a7ef7139cc063617739fa1d0"
-        },
-        {
-          "track_id": "62FkuXK6aBB1dP9RWOzfsw",
-          "streaming_service": "spotify",
-          "title": "Sleaze",
-          "artist_name": "Shades, Ivy Lab, Alix Perez, Eprom",
-          "duration": 226363,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f0f380ddd57af856bf6a1518",
-          "preview_url": "https://p.scdn.co/mp3-preview/635cacd47bf08870e69871e8ba250dbe493207f1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2xR2SC6CBALoxSO0t7VkKU",
-          "streaming_service": "spotify",
-          "title": "Iron Sharpens Iron",
-          "artist_name": "Shades",
-          "duration": 154333,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02949e7a9a4dd0d92df2cebf05"
-        },
-        {
-          "track_id": "47nbbK2prKbsIivJ35BYim",
-          "streaming_service": "spotify",
-          "title": "Two One Six",
-          "artist_name": "Shades",
-          "duration": 206000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0230ca07897e8db803ab8df110"
-        },
-        {
-          "track_id": "5t2iOfBwpSkAUqdSkr8tNt",
-          "streaming_service": "spotify",
-          "title": "Dark Wing",
-          "artist_name": "Shades, Alix Perez, Eprom",
-          "duration": 217750,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e029fe16231b9c5b5f1a40ba76d",
-          "preview_url": "https://p.scdn.co/mp3-preview/9b6f62ea2f08aa3e0d87e12ed9194358ed11c081?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0bLL08l99SrcZJicilocKF",
-          "streaming_service": "spotify",
-          "title": "Purification",
-          "artist_name": "Shades, Alix Perez, Eprom, The Gaslamp Killer",
-          "duration": 234465,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e029fe16231b9c5b5f1a40ba76d",
-          "preview_url": "https://p.scdn.co/mp3-preview/82cf29d3bf6b728c2206b9c579155bfd269e8238?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4bsbZ4CikNWoTMkA3Dztvv",
-          "streaming_service": "spotify",
-          "title": "Into Stone",
-          "artist_name": "Shades, Alix Perez, Eprom",
-          "duration": 296550,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e029fe16231b9c5b5f1a40ba76d",
-          "preview_url": "https://p.scdn.co/mp3-preview/9bc89cf1727114cc88843ad98fe570f671bf34b6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "78qzHV0pRmcseAZtwHvuhb",
-          "streaming_service": "spotify",
-          "title": "Chiron",
-          "artist_name": "Shades, Alix Perez, Eprom",
-          "duration": 210001,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ee0dea142e235ddaa0fee82d",
-          "preview_url": "https://p.scdn.co/mp3-preview/af0e3456ae2c6ffd0cf0ba75cf8ba5887ea78adc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "34tVJbdGRbYzmphqiGVjAd",
-          "streaming_service": "spotify",
-          "title": "Godless",
-          "artist_name": "Shades, Eprom, Alix Perez",
-          "duration": 220555,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02df22571979a8635b30467c23",
-          "preview_url": "https://p.scdn.co/mp3-preview/6508e97e9dad1e7e697d41d1b2d9303398fd5ca3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3hQzFyxBdw1jWjGp42cBZ9",
-          "streaming_service": "spotify",
-          "title": "Flame Unbroken",
-          "artist_name": "Shades, Eprom, Alix Perez",
-          "duration": 248479,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e1127604302a5b80ecd2ec99",
-          "preview_url": "https://p.scdn.co/mp3-preview/25cda851b0ef16cd488a743ff9a05b041b5405ec?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
