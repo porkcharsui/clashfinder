@@ -668,6 +668,175 @@
       "allow_favoriting": true
     },
     {
+      "id": 2040661,
+      "external_id": "181165",
+      "published": true,
+      "name": "OAKK",
+      "body": "OAKK is the brainchild of Vancouver based singer and producer Cole Edwards. Self-described as “sad boy R&B meets electronica”, OAKK conveys his feelings through melodic soundscapes that offer escapism from the mundane. Emotive music: sometimes depressive, sometimes uplifting, but always pretty. <br />\n<br />\nIn late 2022, we saw the release of ‘Butter & Gold’ on Ivy Lab’s imprint TW/TW London which has become an increasingly recognizable track with the mantra “I just wanna say how I feel about you”. It garnered the attention of industry legend Gilles Peterson, making his ‘Best Of The Year’ shortlist in 2022. With steady releases on TW/TW London, a collaboration with the label heads and an evergrowing catalog of music that ebbs and flows through a full spectrum of sound, OAKK continues to push the boundary of emotionally driven electronic music. <br />\n<br />\nWith notable performances at premier festivals like LIB, Shambhala, Okeechobeee, Bass Coast and a Live Boiler Room, as well as supporting Ivy Lab on their ‘Infinite Falling Ground’ US Tour, OAKK has been carving out his space in the music and arts world.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463940_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463940_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463940_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463940_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "oakkmusic/",
+        "youtube_channel_id": "UCAWqUe9vk8EodMzdobBPauQ",
+        "soundcloud_user": "oakkmusic",
+        "spotify_artist_id": "5Fxhpw4yw2CH0k6q3b4q0y"
+      },
+      "performances": [
+        {
+          "id": 250039,
+          "external_id": "865583",
+          "published": true,
+          "body": "OAKK is the brainchild of Vancouver based singer and producer Cole Edwards. Self-described as “sad boy R&B meets electronica”, OAKK conveys his feelings through melodic soundscapes that offer escapism from the mundane. Emotive music: sometimes depressive, sometimes uplifting, but always pretty. \n\nIn late 2022, we saw the release of ‘Butter & Gold’ on Ivy Lab’s imprint TW/TW London which has become an increasingly recognizable track with the mantra “I just wanna say how I feel about you”. It garnered the attention of industry legend Gilles Peterson, making his ‘Best Of The Year’ shortlist in 2022. With steady releases on TW/TW London, a collaboration with the label heads and an evergrowing catalog of music that ebbs and flows through a full spectrum of sound, OAKK continues to push the boundary of emotionally driven electronic music. \n\nWith notable performances at premier festivals like LIB, Shambhala, Okeechobeee, Bass Coast and a Live Boiler Room, as well as supporting Ivy Lab on their ‘Infinite Falling Ground’ US Tour, OAKK has been carving out his space in the music and arts world.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040661,
+          "stage_id": 12488,
+          "stage_name": "Grove",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T11:00:00+00:00",
+          "end_time": "2025-07-26T12:15:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "6lAwUmgsaY5CLey5dqD9IY",
+          "streaming_service": "spotify",
+          "title": "Gimme That",
+          "artist_name": "OAKK",
+          "duration": 142040,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0285328abf4088aab70fc01cb0",
+          "preview_url": "https://p.scdn.co/mp3-preview/8e622724e65456191e8660bede8302100df19f32?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0S7ThpY6ejtyTT3halKfDy",
+          "streaming_service": "spotify",
+          "title": "Bota",
+          "artist_name": "OAKK",
+          "duration": 120000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0285328abf4088aab70fc01cb0",
+          "preview_url": "https://p.scdn.co/mp3-preview/dab6a69eb68fb822fb7977ea07ba6291bdae7816?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0WDcrqLUZPwpq3aevguauA",
+          "streaming_service": "spotify",
+          "title": "Moving On",
+          "artist_name": "OAKK",
+          "duration": 217500,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ae51be186e43f54146785256",
+          "preview_url": "https://p.scdn.co/mp3-preview/153085196316148a1a95308478b018a2b76325bc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "61B7Bv6OeNh8VjDetpbUlY",
+          "streaming_service": "spotify",
+          "title": "Butter & Gold",
+          "artist_name": "OAKK",
+          "duration": 180923,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f737237f0704d9374aa026dd",
+          "preview_url": "https://p.scdn.co/mp3-preview/e85c2ef2fb3f17711d5f21dc7a597973717921a5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6oEhkcugoBjh36rG5kiJpQ",
+          "streaming_service": "spotify",
+          "title": "Green Tea",
+          "artist_name": "OAKK",
+          "duration": 185084,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f737237f0704d9374aa026dd",
+          "preview_url": "https://p.scdn.co/mp3-preview/75a7ae0b0524b25bf322eb4b727829e256354644?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5eUpaYEGD3zsaXpsksrs2J",
+          "streaming_service": "spotify",
+          "title": "Sunshower",
+          "artist_name": "OAKK, Ivy Lab",
+          "duration": 218899,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0295ddd21bf1837f9ff475b20e",
+          "preview_url": "https://p.scdn.co/mp3-preview/b8b74a30efdde9c7582bacd02e12a54586ca6a00?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "05JJRtA6LnI1XiEs4avMMv",
+          "streaming_service": "spotify",
+          "title": "Madeleine",
+          "artist_name": "OAKK",
+          "duration": 226165,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0295ddd21bf1837f9ff475b20e",
+          "preview_url": "https://p.scdn.co/mp3-preview/0f8dd3551a5b38bf50b482425be27e9a21fc1af9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0NXYuoScXVYibx4nb8DgDa",
+          "streaming_service": "spotify",
+          "title": "Dreams - OAKK Remix",
+          "artist_name": "DnA, Dov1, An-Ten-Nae, OAKK",
+          "duration": 191712,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02af83023d3e6227d051a61578",
+          "preview_url": "https://p.scdn.co/mp3-preview/75ff225e3e36abca00d5e13822b817f5fdb79a5e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7EB4y2574W72uPpzMrbQFf",
+          "streaming_service": "spotify",
+          "title": "patience",
+          "artist_name": "OAKK",
+          "duration": 191067,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c1a81f3356b16bf88d8252c9",
+          "preview_url": "https://p.scdn.co/mp3-preview/87a154bb5263677256a7b70d0951c566f1bcf74f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2Tlg79q9eRGbry2vnPczRi",
+          "streaming_service": "spotify",
+          "title": "WAY U",
+          "artist_name": "OAKK",
+          "duration": 214153,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025e89584177b8ff82fae5558c",
+          "preview_url": "https://p.scdn.co/mp3-preview/5c4bc3538e49133c3b09871516df9616b583551c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2040567,
       "external_id": "1922140",
       "published": true,
@@ -16056,175 +16225,6 @@
         }
       ],
       "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040661,
-      "external_id": "181165",
-      "published": true,
-      "name": "OAKK",
-      "body": "OAKK is the brainchild of Vancouver based singer and producer Cole Edwards. Self-described as “sad boy R&B meets electronica”, OAKK conveys his feelings through melodic soundscapes that offer escapism from the mundane. Emotive music: sometimes depressive, sometimes uplifting, but always pretty. <br />\n<br />\nIn late 2022, we saw the release of ‘Butter & Gold’ on Ivy Lab’s imprint TW/TW London which has become an increasingly recognizable track with the mantra “I just wanna say how I feel about you”. It garnered the attention of industry legend Gilles Peterson, making his ‘Best Of The Year’ shortlist in 2022. With steady releases on TW/TW London, a collaboration with the label heads and an evergrowing catalog of music that ebbs and flows through a full spectrum of sound, OAKK continues to push the boundary of emotionally driven electronic music. <br />\n<br />\nWith notable performances at premier festivals like LIB, Shambhala, Okeechobeee, Bass Coast and a Live Boiler Room, as well as supporting Ivy Lab on their ‘Infinite Falling Ground’ US Tour, OAKK has been carving out his space in the music and arts world.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463940_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463940_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463940_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463940_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "oakkmusic/",
-        "youtube_channel_id": "UCAWqUe9vk8EodMzdobBPauQ",
-        "soundcloud_user": "oakkmusic",
-        "spotify_artist_id": "5Fxhpw4yw2CH0k6q3b4q0y"
-      },
-      "performances": [
-        {
-          "id": 250039,
-          "external_id": "865583",
-          "published": true,
-          "body": "OAKK is the brainchild of Vancouver based singer and producer Cole Edwards. Self-described as “sad boy R&B meets electronica”, OAKK conveys his feelings through melodic soundscapes that offer escapism from the mundane. Emotive music: sometimes depressive, sometimes uplifting, but always pretty. \n\nIn late 2022, we saw the release of ‘Butter & Gold’ on Ivy Lab’s imprint TW/TW London which has become an increasingly recognizable track with the mantra “I just wanna say how I feel about you”. It garnered the attention of industry legend Gilles Peterson, making his ‘Best Of The Year’ shortlist in 2022. With steady releases on TW/TW London, a collaboration with the label heads and an evergrowing catalog of music that ebbs and flows through a full spectrum of sound, OAKK continues to push the boundary of emotionally driven electronic music. \n\nWith notable performances at premier festivals like LIB, Shambhala, Okeechobeee, Bass Coast and a Live Boiler Room, as well as supporting Ivy Lab on their ‘Infinite Falling Ground’ US Tour, OAKK has been carving out his space in the music and arts world.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040661,
-          "stage_id": 12488,
-          "stage_name": "Grove",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T11:00:00+00:00",
-          "end_time": "2025-07-26T12:15:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "6lAwUmgsaY5CLey5dqD9IY",
-          "streaming_service": "spotify",
-          "title": "Gimme That",
-          "artist_name": "OAKK",
-          "duration": 142040,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0285328abf4088aab70fc01cb0",
-          "preview_url": "https://p.scdn.co/mp3-preview/8e622724e65456191e8660bede8302100df19f32?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0S7ThpY6ejtyTT3halKfDy",
-          "streaming_service": "spotify",
-          "title": "Bota",
-          "artist_name": "OAKK",
-          "duration": 120000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0285328abf4088aab70fc01cb0",
-          "preview_url": "https://p.scdn.co/mp3-preview/dab6a69eb68fb822fb7977ea07ba6291bdae7816?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0WDcrqLUZPwpq3aevguauA",
-          "streaming_service": "spotify",
-          "title": "Moving On",
-          "artist_name": "OAKK",
-          "duration": 217500,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ae51be186e43f54146785256",
-          "preview_url": "https://p.scdn.co/mp3-preview/153085196316148a1a95308478b018a2b76325bc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "61B7Bv6OeNh8VjDetpbUlY",
-          "streaming_service": "spotify",
-          "title": "Butter & Gold",
-          "artist_name": "OAKK",
-          "duration": 180923,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f737237f0704d9374aa026dd",
-          "preview_url": "https://p.scdn.co/mp3-preview/e85c2ef2fb3f17711d5f21dc7a597973717921a5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6oEhkcugoBjh36rG5kiJpQ",
-          "streaming_service": "spotify",
-          "title": "Green Tea",
-          "artist_name": "OAKK",
-          "duration": 185084,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f737237f0704d9374aa026dd",
-          "preview_url": "https://p.scdn.co/mp3-preview/75a7ae0b0524b25bf322eb4b727829e256354644?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5eUpaYEGD3zsaXpsksrs2J",
-          "streaming_service": "spotify",
-          "title": "Sunshower",
-          "artist_name": "OAKK, Ivy Lab",
-          "duration": 218899,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0295ddd21bf1837f9ff475b20e",
-          "preview_url": "https://p.scdn.co/mp3-preview/b8b74a30efdde9c7582bacd02e12a54586ca6a00?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "05JJRtA6LnI1XiEs4avMMv",
-          "streaming_service": "spotify",
-          "title": "Madeleine",
-          "artist_name": "OAKK",
-          "duration": 226165,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0295ddd21bf1837f9ff475b20e",
-          "preview_url": "https://p.scdn.co/mp3-preview/0f8dd3551a5b38bf50b482425be27e9a21fc1af9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0NXYuoScXVYibx4nb8DgDa",
-          "streaming_service": "spotify",
-          "title": "Dreams - OAKK Remix",
-          "artist_name": "DnA, Dov1, An-Ten-Nae, OAKK",
-          "duration": 191712,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02af83023d3e6227d051a61578",
-          "preview_url": "https://p.scdn.co/mp3-preview/75ff225e3e36abca00d5e13822b817f5fdb79a5e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7EB4y2574W72uPpzMrbQFf",
-          "streaming_service": "spotify",
-          "title": "patience",
-          "artist_name": "OAKK",
-          "duration": 191067,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c1a81f3356b16bf88d8252c9",
-          "preview_url": "https://p.scdn.co/mp3-preview/87a154bb5263677256a7b70d0951c566f1bcf74f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2Tlg79q9eRGbry2vnPczRi",
-          "streaming_service": "spotify",
-          "title": "WAY U",
-          "artist_name": "OAKK",
-          "duration": 214153,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025e89584177b8ff82fae5558c",
-          "preview_url": "https://p.scdn.co/mp3-preview/5c4bc3538e49133c3b09871516df9616b583551c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
