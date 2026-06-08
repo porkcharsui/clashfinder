@@ -668,6 +668,345 @@
       "allow_favoriting": true
     },
     {
+      "id": 2040573,
+      "external_id": "1922259",
+      "published": true,
+      "name": "Effin",
+      "body": "Rising bass music artist Effin combines explosive sound design with hard hitting drums to deliver cutting edge production. After moving to LA and refining his technical skills at the renowned Icon Collective, Effin has continued to churn out high quality bass music that continues to turn heads. With no signs of slowing down, Effin proves with each release that he is a must-watch artist.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464243_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464243_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464243_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464243_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "effinofficial",
+        "twitter_user": "EffinOfficial",
+        "soundcloud_user": "effin",
+        "spotify_artist_id": "6l0u1oM2imxw0isrGcXpmH"
+      },
+      "performances": [
+        {
+          "id": 249952,
+          "external_id": "865689",
+          "published": true,
+          "body": "Rising bass music artist Effin combines explosive sound design with hard hitting drums to deliver cutting edge production. After moving to LA and refining his technical skills at the renowned Icon Collective, Effin has continued to churn out high quality bass music that continues to turn heads. With no signs of slowing down, Effin proves with each release that he is a must-watch artist.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040573,
+          "stage_id": 12479,
+          "stage_name": "AMP",
+          "date_id": 4325,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-25T04:00:00+00:00",
+          "end_time": "2025-07-25T05:15:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "3Z0aVXkpXQhpYosTStTu4t",
+          "streaming_service": "spotify",
+          "title": "In The Sky",
+          "artist_name": "Effin",
+          "duration": 233142,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02458b7059c6b78c1e6ec71d7b",
+          "preview_url": "https://p.scdn.co/mp3-preview/65a6f5158f2f885f1620b480fcc9fbacfa25a9ec?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0YhHb73exyTlzcHyUxmG2S",
+          "streaming_service": "spotify",
+          "title": "Love Potion",
+          "artist_name": "Effin",
+          "duration": 246857,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e027229cd699a27967f063bb368",
+          "preview_url": "https://p.scdn.co/mp3-preview/dac32b2c51330c48128b8cb08f133466a59010a8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4YssZJDemgkA1Tty80kDXK",
+          "streaming_service": "spotify",
+          "title": "Divine",
+          "artist_name": "Effin",
+          "duration": 232000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b6892c052e445bf8c3f66f0b",
+          "preview_url": "https://p.scdn.co/mp3-preview/fc3cc3de558faa514de989f2171fc71fb8783a0f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0aGXAYTQ1z5fATfRQi8ziB",
+          "streaming_service": "spotify",
+          "title": "Painted",
+          "artist_name": "Effin, Anna-Sophia Henry",
+          "duration": 228000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0246aac7258b342c100eb5cd6b"
+        },
+        {
+          "track_id": "0qXDgXXfh92DHfGzwNbpuo",
+          "streaming_service": "spotify",
+          "title": "Ups and Downs",
+          "artist_name": "Effin, Tape B",
+          "duration": 267428,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028b379daf90f3318d79b56c3e",
+          "preview_url": "https://p.scdn.co/mp3-preview/e6b5531d6250a92a882d6cb6c1ee10cd7e59c957?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4N26bddMOIbODSTod2iW5K",
+          "streaming_service": "spotify",
+          "title": "Dreams Come True",
+          "artist_name": "Effin",
+          "duration": 243428,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028b379daf90f3318d79b56c3e",
+          "preview_url": "https://p.scdn.co/mp3-preview/e9f1d395a7739e8f30a98ee832090f7b86570c74?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4ESaz98jq3rVEimEIrVAzN",
+          "streaming_service": "spotify",
+          "title": "Lonesome",
+          "artist_name": "Effin",
+          "duration": 243428,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028b379daf90f3318d79b56c3e",
+          "preview_url": "https://p.scdn.co/mp3-preview/371371adca39113a0647ccfb981ed3636c715fea?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2xGFTN4MLVZyl2kKdyQQ8z",
+          "streaming_service": "spotify",
+          "title": "What's In Your Heart",
+          "artist_name": "Effin",
+          "duration": 242727,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02647ac725ad367f3394b9f389",
+          "preview_url": "https://p.scdn.co/mp3-preview/fa28f9128ade3f5105a8b0eb14f8b0d25f8e33f6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7un8JFmWkQnlSDyJHQ8B2k",
+          "streaming_service": "spotify",
+          "title": "Another Dream",
+          "artist_name": "Effin",
+          "duration": 217600,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028b379daf90f3318d79b56c3e",
+          "preview_url": "https://p.scdn.co/mp3-preview/55d5d62335738b98479c1cbcd410c6df317a1d6a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4bvIrm4sguGaFArRZxqZHX",
+          "streaming_service": "spotify",
+          "title": "When I'm Hot",
+          "artist_name": "GRiZ, Effin, ProbCause",
+          "duration": 168827,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02197b4235f98cf5bff2fb4940",
+          "preview_url": "https://p.scdn.co/mp3-preview/984f68f6e874d696007f22f5354a89ad04544294?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040686,
+      "external_id": "167082",
+      "published": true,
+      "name": "Armanni Reign",
+      "body": "From the lunchroom tables to street corner cyphas... from battle rap competitions to hosting some of the biggest festivals in the world... the MC Armanni Reign has become one of the most versatile multi-genre MC's on the planet. Since 2004, MC Armanni Reign has become a go to recording voice regardless of genre from hosting stages with some of the world's most elite DJ's and other music acts to music recordings creating performance memories and chart topping smashers like Ray Volpe's \"Purpose\", Spag Heddy's \"Strayed UP\", Barely Alive's \"Hackers\", Riot's \"LSAR\", Zomboy's \"Outbreak\", Virtual Riot's \"Running from the Cops\" to Hybrid Trap like Stereolize's \"Paper Chaser\", A Boy and a Girl's \"Stampede\", Mark Instinct's \"The Show\", \"Suicide Pill\", and \"Pour It Out\". From STS9's \"Balancing\" to 12th Planet and The Trickaz's floor killer \"Bless That\" or smoother vibes like AC Slater x TS7's \"Step Back\", Kastle's \"Timeless\" to Mayhem and Logam's DnB roller \"We Will\", he has proven versatility is an asset. Armanni Reign has DB releases currently on RAM, ProgRAM, Gasm, Freak, Intasound, Westbay Music Group, TekDbz accompanied by Dubstep/EDM Trap releases on Monstercat, Disciple, Circus, Play Me, Never Say Die, Rotton, Uplink Audio, Buygore and Firepower as well as Hip Hop projects on SKRONG and Division. His affinity for movies and video games has translated over to the sync world. His music can be heard on AAA television and internet advertising campaigns such as \"Fast and Furious 9\", Square Enix's \"Just Cause 4\", Gearbox's \"Borderlands 3\", Ubisoft's \"Ghost Recon: Breakpoint\" and more as a solo artist or collaborative act known as Artizan with a music catalog that stretches across everything from Netflix to MTV.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463970_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463970_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463970_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463970_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "ArmanniReignOfficial/",
+        "instagram_user": "armannireign/",
+        "twitter_user": "armannireign/",
+        "youtube_user": "armannireign",
+        "soundcloud_user": "Armannireign",
+        "spotify_artist_id": "7eLk4SsrtZtCANV4X713uI"
+      },
+      "performances": [
+        {
+          "id": 250065,
+          "external_id": "865525",
+          "published": true,
+          "body": "From the lunchroom tables to street corner cyphas... from battle rap competitions to hosting some of the biggest festivals in the world... the MC Armanni Reign has become one of the most versatile multi-genre MC's on the planet. Since 2004, MC Armanni Reign has become a go to recording voice regardless of genre from hosting stages with some of the world's most elite DJ's and other music acts to music recordings creating performance memories and chart topping smashers like Ray Volpe's \"Purpose\", Spag Heddy's \"Strayed UP\", Barely Alive's \"Hackers\", Riot's \"LSAR\", Zomboy's \"Outbreak\", Virtual Riot's \"Running from the Cops\" to Hybrid Trap like Stereolize's \"Paper Chaser\", A Boy and a Girl's \"Stampede\", Mark Instinct's \"The Show\", \"Suicide Pill\", and \"Pour It Out\". From STS9's \"Balancing\" to 12th Planet and The Trickaz's floor killer \"Bless That\" or smoother vibes like AC Slater x TS7's \"Step Back\", Kastle's \"Timeless\" to Mayhem and Logam's DnB roller \"We Will\", he has proven versatility is an asset. Armanni Reign has DB releases currently on RAM, ProgRAM, Gasm, Freak, Intasound, Westbay Music Group, TekDbz accompanied by Dubstep/EDM Trap releases on Monstercat, Disciple, Circus, Play Me, Never Say Die, Rotton, Uplink Audio, Buygore and Firepower as well as Hip Hop projects on SKRONG and Division. His affinity for movies and video games has translated over to the sync world. His music can be heard on AAA television and internet advertising campaigns such as \"Fast and Furious 9\", Square Enix's \"Just Cause 4\", Gearbox's \"Borderlands 3\", Ubisoft's \"Ghost Recon: Breakpoint\" and more as a solo artist or collaborative act known as Artizan with a music catalog that stretches across everything from Netflix to MTV.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040686,
+          "stage_id": 12491,
+          "stage_name": "Village",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T04:30:00+00:00",
+          "end_time": "2025-07-26T05:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "39idOEgTVYoK5SO6hAYVhL",
+          "streaming_service": "spotify",
+          "title": "Brothers Keeper (feat. Armanni Reign) - Original Mix",
+          "artist_name": "Armanni Reign, Mark Instinct",
+          "duration": 254204,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c00e92ab527fa401dd390554",
+          "preview_url": "https://p.scdn.co/mp3-preview/84816907a77204bebc5c124cbbeaae51ba7a3c25?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6NwJSK1w6kOPCWsd02G6Jj",
+          "streaming_service": "spotify",
+          "title": "Let 'em Know (feat. Armanni Reign)",
+          "artist_name": "Datsik, Armanni Reign",
+          "duration": 218607,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028b96f1cfe525e7bcf8f2109a",
+          "preview_url": "https://p.scdn.co/mp3-preview/00bebde26f3d26e0b29ffa6607176546f57c9a76?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4jYz735iW5Swp3c096LMHt",
+          "streaming_service": "spotify",
+          "title": "Reach",
+          "artist_name": "Armanni Reign",
+          "duration": 220000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02bdafc5237026bf1c1c1729e1",
+          "preview_url": "https://p.scdn.co/mp3-preview/eaef6442c4d87493e192cb0b3af318525977ba9e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3m0pZEPPmDF9wv4K2f0ONY",
+          "streaming_service": "spotify",
+          "title": "Heretics",
+          "artist_name": "Bandlez, Armanni Reign",
+          "duration": 131200,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c710b6382d1297dbf65c6a0e",
+          "preview_url": "https://p.scdn.co/mp3-preview/3e5e7202f3ffa59c00c2a01a19ebb8c0e23be62c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0AXy1WIqI8iiakkGGDZ6YA",
+          "streaming_service": "spotify",
+          "title": "Shocked",
+          "artist_name": "Armanni Reign, Franky Nuts",
+          "duration": 172137,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c269e5e4bc6cdf352095fb57",
+          "preview_url": "https://p.scdn.co/mp3-preview/a02464ebd10477867a9cb1215c7aecf0eefcf19d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2kjKaTm5pKEPxvLl2TfhFM",
+          "streaming_service": "spotify",
+          "title": "Stampede - Rafii Remix",
+          "artist_name": "Reid Speed, A Boy & A Girl, Armanni Reign, Rafii",
+          "duration": 238000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ec9bf3bdf39afd75ce3aed58",
+          "preview_url": "https://p.scdn.co/mp3-preview/ddee01107c1fb6c84f2ae920a02f440fb3d6a41d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "19iT5aMfCLakt6Fazc9H1k",
+          "streaming_service": "spotify",
+          "title": "In The Trunk (feat. Armanni Reign)",
+          "artist_name": "Riot Ten, Armanni Reign",
+          "duration": 187507,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02856810a91da4a02a0beb23ea",
+          "preview_url": "https://p.scdn.co/mp3-preview/6114f1d0d3864b0825c183cc096cdeac77641842?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6YZozqtX6K8pkARXgcxsUq",
+          "streaming_service": "spotify",
+          "title": "Old Tales",
+          "artist_name": "Last Rhetoric, Bro Safari, Armanni Reign",
+          "duration": 226625,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a13f0903fb96c073114fdedc",
+          "preview_url": "https://p.scdn.co/mp3-preview/0ebf7c9db87fe4da3aace238d3234acdacb95910?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0Jv1zxylfT4wy0BSSW5N9W",
+          "streaming_service": "spotify",
+          "title": "The Takeoff",
+          "artist_name": "Whiskey Pete, Armanni Reign, Keith Mackenzie",
+          "duration": 216645,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02806a16a7e7fad0ba03e89ad7",
+          "preview_url": "https://p.scdn.co/mp3-preview/e7d3cb83648af8eb0918d1643400fb116ecc9ba5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4jC4g8QA09USuIBkC1tJsP",
+          "streaming_service": "spotify",
+          "title": "Icarus (Feat. Armanni Reign)",
+          "artist_name": "Armanni Reign, Teddy Killerz",
+          "duration": 209604,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02958147ede94d94923feb2cf1",
+          "preview_url": "https://p.scdn.co/mp3-preview/a20da757d6f0162fb94c37b93244ddec1e08531d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2040661,
       "external_id": "181165",
       "published": true,
@@ -1323,174 +1662,6 @@
           "duration": 454800,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02e0fa46c314e1f7588d7a3c87",
           "preview_url": "https://p.scdn.co/mp3-preview/0d1ab27f7653039b6610730ecd1cdf26981f7601?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040573,
-      "external_id": "1922259",
-      "published": true,
-      "name": "Effin",
-      "body": "Rising bass music artist Effin combines explosive sound design with hard hitting drums to deliver cutting edge production. After moving to LA and refining his technical skills at the renowned Icon Collective, Effin has continued to churn out high quality bass music that continues to turn heads. With no signs of slowing down, Effin proves with each release that he is a must-watch artist.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464243_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464243_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464243_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464243_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "effinofficial",
-        "twitter_user": "EffinOfficial",
-        "soundcloud_user": "effin",
-        "spotify_artist_id": "6l0u1oM2imxw0isrGcXpmH"
-      },
-      "performances": [
-        {
-          "id": 249952,
-          "external_id": "865689",
-          "published": true,
-          "body": "Rising bass music artist Effin combines explosive sound design with hard hitting drums to deliver cutting edge production. After moving to LA and refining his technical skills at the renowned Icon Collective, Effin has continued to churn out high quality bass music that continues to turn heads. With no signs of slowing down, Effin proves with each release that he is a must-watch artist.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040573,
-          "stage_id": 12479,
-          "stage_name": "AMP",
-          "date_id": 4325,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-25T04:00:00+00:00",
-          "end_time": "2025-07-25T05:15:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "3Z0aVXkpXQhpYosTStTu4t",
-          "streaming_service": "spotify",
-          "title": "In The Sky",
-          "artist_name": "Effin",
-          "duration": 233142,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02458b7059c6b78c1e6ec71d7b",
-          "preview_url": "https://p.scdn.co/mp3-preview/65a6f5158f2f885f1620b480fcc9fbacfa25a9ec?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0YhHb73exyTlzcHyUxmG2S",
-          "streaming_service": "spotify",
-          "title": "Love Potion",
-          "artist_name": "Effin",
-          "duration": 246857,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027229cd699a27967f063bb368",
-          "preview_url": "https://p.scdn.co/mp3-preview/dac32b2c51330c48128b8cb08f133466a59010a8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4YssZJDemgkA1Tty80kDXK",
-          "streaming_service": "spotify",
-          "title": "Divine",
-          "artist_name": "Effin",
-          "duration": 232000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b6892c052e445bf8c3f66f0b",
-          "preview_url": "https://p.scdn.co/mp3-preview/fc3cc3de558faa514de989f2171fc71fb8783a0f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0aGXAYTQ1z5fATfRQi8ziB",
-          "streaming_service": "spotify",
-          "title": "Painted",
-          "artist_name": "Effin, Anna-Sophia Henry",
-          "duration": 228000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0246aac7258b342c100eb5cd6b"
-        },
-        {
-          "track_id": "0qXDgXXfh92DHfGzwNbpuo",
-          "streaming_service": "spotify",
-          "title": "Ups and Downs",
-          "artist_name": "Effin, Tape B",
-          "duration": 267428,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028b379daf90f3318d79b56c3e",
-          "preview_url": "https://p.scdn.co/mp3-preview/e6b5531d6250a92a882d6cb6c1ee10cd7e59c957?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4N26bddMOIbODSTod2iW5K",
-          "streaming_service": "spotify",
-          "title": "Dreams Come True",
-          "artist_name": "Effin",
-          "duration": 243428,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028b379daf90f3318d79b56c3e",
-          "preview_url": "https://p.scdn.co/mp3-preview/e9f1d395a7739e8f30a98ee832090f7b86570c74?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4ESaz98jq3rVEimEIrVAzN",
-          "streaming_service": "spotify",
-          "title": "Lonesome",
-          "artist_name": "Effin",
-          "duration": 243428,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028b379daf90f3318d79b56c3e",
-          "preview_url": "https://p.scdn.co/mp3-preview/371371adca39113a0647ccfb981ed3636c715fea?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2xGFTN4MLVZyl2kKdyQQ8z",
-          "streaming_service": "spotify",
-          "title": "What's In Your Heart",
-          "artist_name": "Effin",
-          "duration": 242727,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02647ac725ad367f3394b9f389",
-          "preview_url": "https://p.scdn.co/mp3-preview/fa28f9128ade3f5105a8b0eb14f8b0d25f8e33f6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7un8JFmWkQnlSDyJHQ8B2k",
-          "streaming_service": "spotify",
-          "title": "Another Dream",
-          "artist_name": "Effin",
-          "duration": 217600,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028b379daf90f3318d79b56c3e",
-          "preview_url": "https://p.scdn.co/mp3-preview/55d5d62335738b98479c1cbcd410c6df317a1d6a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4bvIrm4sguGaFArRZxqZHX",
-          "streaming_service": "spotify",
-          "title": "When I'm Hot",
-          "artist_name": "GRiZ, Effin, ProbCause",
-          "duration": 168827,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02197b4235f98cf5bff2fb4940",
-          "preview_url": "https://p.scdn.co/mp3-preview/984f68f6e874d696007f22f5354a89ad04544294?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         }
       ],
       "show_in_search": true,
@@ -26227,177 +26398,6 @@
         }
       ],
       "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040686,
-      "external_id": "167082",
-      "published": true,
-      "name": "Armanni Reign",
-      "body": "From the lunchroom tables to street corner cyphas... from battle rap competitions to hosting some of the biggest festivals in the world... the MC Armanni Reign has become one of the most versatile multi-genre MC's on the planet. Since 2004, MC Armanni Reign has become a go to recording voice regardless of genre from hosting stages with some of the world's most elite DJ's and other music acts to music recordings creating performance memories and chart topping smashers like Ray Volpe's \"Purpose\", Spag Heddy's \"Strayed UP\", Barely Alive's \"Hackers\", Riot's \"LSAR\", Zomboy's \"Outbreak\", Virtual Riot's \"Running from the Cops\" to Hybrid Trap like Stereolize's \"Paper Chaser\", A Boy and a Girl's \"Stampede\", Mark Instinct's \"The Show\", \"Suicide Pill\", and \"Pour It Out\". From STS9's \"Balancing\" to 12th Planet and The Trickaz's floor killer \"Bless That\" or smoother vibes like AC Slater x TS7's \"Step Back\", Kastle's \"Timeless\" to Mayhem and Logam's DnB roller \"We Will\", he has proven versatility is an asset. Armanni Reign has DB releases currently on RAM, ProgRAM, Gasm, Freak, Intasound, Westbay Music Group, TekDbz accompanied by Dubstep/EDM Trap releases on Monstercat, Disciple, Circus, Play Me, Never Say Die, Rotton, Uplink Audio, Buygore and Firepower as well as Hip Hop projects on SKRONG and Division. His affinity for movies and video games has translated over to the sync world. His music can be heard on AAA television and internet advertising campaigns such as \"Fast and Furious 9\", Square Enix's \"Just Cause 4\", Gearbox's \"Borderlands 3\", Ubisoft's \"Ghost Recon: Breakpoint\" and more as a solo artist or collaborative act known as Artizan with a music catalog that stretches across everything from Netflix to MTV.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463970_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463970_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463970_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463970_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "ArmanniReignOfficial/",
-        "instagram_user": "armannireign/",
-        "twitter_user": "armannireign/",
-        "youtube_user": "armannireign",
-        "soundcloud_user": "Armannireign",
-        "spotify_artist_id": "7eLk4SsrtZtCANV4X713uI"
-      },
-      "performances": [
-        {
-          "id": 250065,
-          "external_id": "865525",
-          "published": true,
-          "body": "From the lunchroom tables to street corner cyphas... from battle rap competitions to hosting some of the biggest festivals in the world... the MC Armanni Reign has become one of the most versatile multi-genre MC's on the planet. Since 2004, MC Armanni Reign has become a go to recording voice regardless of genre from hosting stages with some of the world's most elite DJ's and other music acts to music recordings creating performance memories and chart topping smashers like Ray Volpe's \"Purpose\", Spag Heddy's \"Strayed UP\", Barely Alive's \"Hackers\", Riot's \"LSAR\", Zomboy's \"Outbreak\", Virtual Riot's \"Running from the Cops\" to Hybrid Trap like Stereolize's \"Paper Chaser\", A Boy and a Girl's \"Stampede\", Mark Instinct's \"The Show\", \"Suicide Pill\", and \"Pour It Out\". From STS9's \"Balancing\" to 12th Planet and The Trickaz's floor killer \"Bless That\" or smoother vibes like AC Slater x TS7's \"Step Back\", Kastle's \"Timeless\" to Mayhem and Logam's DnB roller \"We Will\", he has proven versatility is an asset. Armanni Reign has DB releases currently on RAM, ProgRAM, Gasm, Freak, Intasound, Westbay Music Group, TekDbz accompanied by Dubstep/EDM Trap releases on Monstercat, Disciple, Circus, Play Me, Never Say Die, Rotton, Uplink Audio, Buygore and Firepower as well as Hip Hop projects on SKRONG and Division. His affinity for movies and video games has translated over to the sync world. His music can be heard on AAA television and internet advertising campaigns such as \"Fast and Furious 9\", Square Enix's \"Just Cause 4\", Gearbox's \"Borderlands 3\", Ubisoft's \"Ghost Recon: Breakpoint\" and more as a solo artist or collaborative act known as Artizan with a music catalog that stretches across everything from Netflix to MTV.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040686,
-          "stage_id": 12491,
-          "stage_name": "Village",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T04:30:00+00:00",
-          "end_time": "2025-07-26T05:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "39idOEgTVYoK5SO6hAYVhL",
-          "streaming_service": "spotify",
-          "title": "Brothers Keeper (feat. Armanni Reign) - Original Mix",
-          "artist_name": "Armanni Reign, Mark Instinct",
-          "duration": 254204,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c00e92ab527fa401dd390554",
-          "preview_url": "https://p.scdn.co/mp3-preview/84816907a77204bebc5c124cbbeaae51ba7a3c25?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6NwJSK1w6kOPCWsd02G6Jj",
-          "streaming_service": "spotify",
-          "title": "Let 'em Know (feat. Armanni Reign)",
-          "artist_name": "Datsik, Armanni Reign",
-          "duration": 218607,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028b96f1cfe525e7bcf8f2109a",
-          "preview_url": "https://p.scdn.co/mp3-preview/00bebde26f3d26e0b29ffa6607176546f57c9a76?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4jYz735iW5Swp3c096LMHt",
-          "streaming_service": "spotify",
-          "title": "Reach",
-          "artist_name": "Armanni Reign",
-          "duration": 220000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02bdafc5237026bf1c1c1729e1",
-          "preview_url": "https://p.scdn.co/mp3-preview/eaef6442c4d87493e192cb0b3af318525977ba9e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3m0pZEPPmDF9wv4K2f0ONY",
-          "streaming_service": "spotify",
-          "title": "Heretics",
-          "artist_name": "Bandlez, Armanni Reign",
-          "duration": 131200,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c710b6382d1297dbf65c6a0e",
-          "preview_url": "https://p.scdn.co/mp3-preview/3e5e7202f3ffa59c00c2a01a19ebb8c0e23be62c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0AXy1WIqI8iiakkGGDZ6YA",
-          "streaming_service": "spotify",
-          "title": "Shocked",
-          "artist_name": "Armanni Reign, Franky Nuts",
-          "duration": 172137,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c269e5e4bc6cdf352095fb57",
-          "preview_url": "https://p.scdn.co/mp3-preview/a02464ebd10477867a9cb1215c7aecf0eefcf19d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2kjKaTm5pKEPxvLl2TfhFM",
-          "streaming_service": "spotify",
-          "title": "Stampede - Rafii Remix",
-          "artist_name": "Reid Speed, A Boy & A Girl, Armanni Reign, Rafii",
-          "duration": 238000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ec9bf3bdf39afd75ce3aed58",
-          "preview_url": "https://p.scdn.co/mp3-preview/ddee01107c1fb6c84f2ae920a02f440fb3d6a41d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "19iT5aMfCLakt6Fazc9H1k",
-          "streaming_service": "spotify",
-          "title": "In The Trunk (feat. Armanni Reign)",
-          "artist_name": "Riot Ten, Armanni Reign",
-          "duration": 187507,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02856810a91da4a02a0beb23ea",
-          "preview_url": "https://p.scdn.co/mp3-preview/6114f1d0d3864b0825c183cc096cdeac77641842?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6YZozqtX6K8pkARXgcxsUq",
-          "streaming_service": "spotify",
-          "title": "Old Tales",
-          "artist_name": "Last Rhetoric, Bro Safari, Armanni Reign",
-          "duration": 226625,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a13f0903fb96c073114fdedc",
-          "preview_url": "https://p.scdn.co/mp3-preview/0ebf7c9db87fe4da3aace238d3234acdacb95910?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0Jv1zxylfT4wy0BSSW5N9W",
-          "streaming_service": "spotify",
-          "title": "The Takeoff",
-          "artist_name": "Whiskey Pete, Armanni Reign, Keith Mackenzie",
-          "duration": 216645,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02806a16a7e7fad0ba03e89ad7",
-          "preview_url": "https://p.scdn.co/mp3-preview/e7d3cb83648af8eb0918d1643400fb116ecc9ba5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4jC4g8QA09USuIBkC1tJsP",
-          "streaming_service": "spotify",
-          "title": "Icarus (Feat. Armanni Reign)",
-          "artist_name": "Armanni Reign, Teddy Killerz",
-          "duration": 209604,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02958147ede94d94923feb2cf1",
-          "preview_url": "https://p.scdn.co/mp3-preview/a20da757d6f0162fb94c37b93244ddec1e08531d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
