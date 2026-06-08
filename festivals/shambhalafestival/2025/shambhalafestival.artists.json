@@ -1,177 +1,6 @@
 {
   "data": [
     {
-      "id": 2040635,
-      "external_id": "166948",
-      "published": true,
-      "name": "Freddy J",
-      "body": "Since his beginnings in 2001, Freddy J has been on a focused mission of constant developement, moulding a unique style that is sure to deliver dancefloor mayhem. With twenty years as a leader of the scene, he has cemented himself as one of Canada’s premiere DJ’s.  <br />\n<br />\nHe never fails to bring the best bass-driven party funk possible, with a style that can be described as electro meets funky, dirty, whompy, groovy, bassline. Having headlined at a multitude of club and festival events, the experience Freddy J brings to the tables shines through and gets people moving on the dancefloor. <br />\n<br />\n2024 saw Freddy J open the Fractal Forest as part of his 14th appearance at Shambhala Music Festival, and once again he showed why he keeps getting invited back year after year... this is definitely one DJ you won’t want to miss!",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626129_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626129_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626129_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626129_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "FreddyJBass",
-        "instagram_user": "freddyj222/",
-        "twitter_user": "FreddyJ_Music",
-        "youtube_channel_id": "UCH80YK8VDF5NqQUq9_g2wrw",
-        "soundcloud_user": "freddy-j",
-        "spotify_artist_id": "5CaXdBG1pAucHTcMot3cPs"
-      },
-      "performances": [
-        {
-          "id": 250013,
-          "external_id": "866060",
-          "published": true,
-          "body": "Since his beginnings in 2001, Freddy J has been on a focused mission of constant developement, moulding a unique style that is sure to deliver dancefloor mayhem. With twenty years as a leader of the scene, he has cemented himself as one of Canada’s premiere DJ’s.  \n\nHe never fails to bring the best bass-driven party funk possible, with a style that can be described as electro meets funky, dirty, whompy, groovy, bassline. Having headlined at a multitude of club and festival events, the experience Freddy J brings to the tables shines through and gets people moving on the dancefloor. \n\n2024 saw Freddy J open the Fractal Forest as part of his 14th appearance at Shambhala Music Festival, and once again he showed why he keeps getting invited back year after year... this is definitely one DJ you won’t want to miss!",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040635,
-          "stage_id": 12487,
-          "stage_name": "Fractal Forest",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-25T23:30:00+00:00",
-          "end_time": "2025-07-26T01:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "1D7PHtDWrwWRAuvlPIu2Zo",
-          "streaming_service": "spotify",
-          "title": "All My Freaks - Radio-Edit",
-          "artist_name": "Freddy J, Underdog",
-          "duration": 207360,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0218374d38e1c5a5428a875cc1",
-          "preview_url": "https://p.scdn.co/mp3-preview/fe909a6d3267b31e3277601376810e5e100a42ad?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5jR5sqIMOKBzMlkOOK7KVP",
-          "streaming_service": "spotify",
-          "title": "Got 2 Feet - Original Mix",
-          "artist_name": "Freddy J, Underdog",
-          "duration": 236190,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02adb04cc42b4ea1b094354db5",
-          "preview_url": "https://p.scdn.co/mp3-preview/a3400faaf5517546129d682f4d9f7bac43ccb1a8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0eiubD67Lxyp2jgaVASXUs",
-          "streaming_service": "spotify",
-          "title": "GET IT",
-          "artist_name": "Diemetic, Freddy J, Electrostep Network",
-          "duration": 157500,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b7d6e5969a8d2d9732d1855d",
-          "preview_url": "https://p.scdn.co/mp3-preview/20426428a9b5d2a661c227e1af3d391064ca8f8d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7n1SM4oGSs3BnzISQJrjlI",
-          "streaming_service": "spotify",
-          "title": "Go Insane",
-          "artist_name": "Freddy J, Wes Please",
-          "duration": 214335,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02bd8f0d34a8626419bfb59605",
-          "preview_url": "https://p.scdn.co/mp3-preview/1ba4acaf6b36ebea958ba78dbbe1f46dea3f69be?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "041SdRu1u94RSAZ3kCN1ZW",
-          "streaming_service": "spotify",
-          "title": "Shine Bright",
-          "artist_name": "Funkinright, Freddy J",
-          "duration": 240000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e026eb88ee3ac33e41e8f1fe860",
-          "preview_url": "https://p.scdn.co/mp3-preview/0e3e3d175f3d0e93baab6dddb102cecc6964596c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "16mgsx0SHJrew6yeRD8yDa",
-          "streaming_service": "spotify",
-          "title": "Take A Ride - Original Mix",
-          "artist_name": "Freddy J",
-          "duration": 150000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a9e2c62f5d21b3cc861a3cf0",
-          "preview_url": "https://p.scdn.co/mp3-preview/2ed2187be5c3e5091b724f4a67cea8e06c96adb8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7IZvtlIVODjDvKqF29ndFB",
-          "streaming_service": "spotify",
-          "title": "Got 2 Feet - Pacific Mix",
-          "artist_name": "Freddy J, Pacific, Underdog",
-          "duration": 243557,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024081c8c07afde68c69639394",
-          "preview_url": "https://p.scdn.co/mp3-preview/bd90ab1fd77692fc7553406e853d3764a63443ae?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1EMlWWHj4ZoY0bRr9sSK97",
-          "streaming_service": "spotify",
-          "title": "Bad As Hell - Original Mix",
-          "artist_name": "Donald Bump, Freddy J",
-          "duration": 271096,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021cd58cd32c31244da03e9ae0",
-          "preview_url": "https://p.scdn.co/mp3-preview/40ccc17022ce1e452d76bb6cda8ee64cf2a24220?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "34AvVD6MAa7LLOCx1KJtUw",
-          "streaming_service": "spotify",
-          "title": "Outta Your Mind",
-          "artist_name": "Freddy J, Wes Please",
-          "duration": 260787,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d38d4f1ed803237e60724172",
-          "preview_url": "https://p.scdn.co/mp3-preview/14806615b9cd0ae352867bfc76c28fc33f6ba9d1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "446As77zWONEP8ram18ebM",
-          "streaming_service": "spotify",
-          "title": "Dance All Night VIP",
-          "artist_name": "Freddy J, Kristal Jem",
-          "duration": 291840,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d38d4f1ed803237e60724172",
-          "preview_url": "https://p.scdn.co/mp3-preview/71c6111996484f56c89d9eda885c06be590c8b87?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2040631,
       "external_id": "187852",
       "published": true,
@@ -830,6 +659,177 @@
           "duration": 208533,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0257a57cbb4bcfc2842872f4b9",
           "preview_url": "https://p.scdn.co/mp3-preview/7430979bf0d2b43ec98ca61bbc74e2146d0e3a66?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040635,
+      "external_id": "166948",
+      "published": true,
+      "name": "Freddy J",
+      "body": "Since his beginnings in 2001, Freddy J has been on a focused mission of constant developement, moulding a unique style that is sure to deliver dancefloor mayhem. With twenty years as a leader of the scene, he has cemented himself as one of Canada’s premiere DJ’s.  <br />\n<br />\nHe never fails to bring the best bass-driven party funk possible, with a style that can be described as electro meets funky, dirty, whompy, groovy, bassline. Having headlined at a multitude of club and festival events, the experience Freddy J brings to the tables shines through and gets people moving on the dancefloor. <br />\n<br />\n2024 saw Freddy J open the Fractal Forest as part of his 14th appearance at Shambhala Music Festival, and once again he showed why he keeps getting invited back year after year... this is definitely one DJ you won’t want to miss!",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626129_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626129_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626129_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626129_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "FreddyJBass",
+        "instagram_user": "freddyj222/",
+        "twitter_user": "FreddyJ_Music",
+        "youtube_channel_id": "UCH80YK8VDF5NqQUq9_g2wrw",
+        "soundcloud_user": "freddy-j",
+        "spotify_artist_id": "5CaXdBG1pAucHTcMot3cPs"
+      },
+      "performances": [
+        {
+          "id": 250013,
+          "external_id": "866060",
+          "published": true,
+          "body": "Since his beginnings in 2001, Freddy J has been on a focused mission of constant developement, moulding a unique style that is sure to deliver dancefloor mayhem. With twenty years as a leader of the scene, he has cemented himself as one of Canada’s premiere DJ’s.  \n\nHe never fails to bring the best bass-driven party funk possible, with a style that can be described as electro meets funky, dirty, whompy, groovy, bassline. Having headlined at a multitude of club and festival events, the experience Freddy J brings to the tables shines through and gets people moving on the dancefloor. \n\n2024 saw Freddy J open the Fractal Forest as part of his 14th appearance at Shambhala Music Festival, and once again he showed why he keeps getting invited back year after year... this is definitely one DJ you won’t want to miss!",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040635,
+          "stage_id": 12487,
+          "stage_name": "Fractal Forest",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-25T23:30:00+00:00",
+          "end_time": "2025-07-26T01:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "1D7PHtDWrwWRAuvlPIu2Zo",
+          "streaming_service": "spotify",
+          "title": "All My Freaks - Radio-Edit",
+          "artist_name": "Freddy J, Underdog",
+          "duration": 207360,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0218374d38e1c5a5428a875cc1",
+          "preview_url": "https://p.scdn.co/mp3-preview/fe909a6d3267b31e3277601376810e5e100a42ad?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5jR5sqIMOKBzMlkOOK7KVP",
+          "streaming_service": "spotify",
+          "title": "Got 2 Feet - Original Mix",
+          "artist_name": "Freddy J, Underdog",
+          "duration": 236190,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02adb04cc42b4ea1b094354db5",
+          "preview_url": "https://p.scdn.co/mp3-preview/a3400faaf5517546129d682f4d9f7bac43ccb1a8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0eiubD67Lxyp2jgaVASXUs",
+          "streaming_service": "spotify",
+          "title": "GET IT",
+          "artist_name": "Diemetic, Freddy J, Electrostep Network",
+          "duration": 157500,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b7d6e5969a8d2d9732d1855d",
+          "preview_url": "https://p.scdn.co/mp3-preview/20426428a9b5d2a661c227e1af3d391064ca8f8d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7n1SM4oGSs3BnzISQJrjlI",
+          "streaming_service": "spotify",
+          "title": "Go Insane",
+          "artist_name": "Freddy J, Wes Please",
+          "duration": 214335,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02bd8f0d34a8626419bfb59605",
+          "preview_url": "https://p.scdn.co/mp3-preview/1ba4acaf6b36ebea958ba78dbbe1f46dea3f69be?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "041SdRu1u94RSAZ3kCN1ZW",
+          "streaming_service": "spotify",
+          "title": "Shine Bright",
+          "artist_name": "Funkinright, Freddy J",
+          "duration": 240000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e026eb88ee3ac33e41e8f1fe860",
+          "preview_url": "https://p.scdn.co/mp3-preview/0e3e3d175f3d0e93baab6dddb102cecc6964596c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "16mgsx0SHJrew6yeRD8yDa",
+          "streaming_service": "spotify",
+          "title": "Take A Ride - Original Mix",
+          "artist_name": "Freddy J",
+          "duration": 150000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a9e2c62f5d21b3cc861a3cf0",
+          "preview_url": "https://p.scdn.co/mp3-preview/2ed2187be5c3e5091b724f4a67cea8e06c96adb8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7IZvtlIVODjDvKqF29ndFB",
+          "streaming_service": "spotify",
+          "title": "Got 2 Feet - Pacific Mix",
+          "artist_name": "Freddy J, Pacific, Underdog",
+          "duration": 243557,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024081c8c07afde68c69639394",
+          "preview_url": "https://p.scdn.co/mp3-preview/bd90ab1fd77692fc7553406e853d3764a63443ae?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1EMlWWHj4ZoY0bRr9sSK97",
+          "streaming_service": "spotify",
+          "title": "Bad As Hell - Original Mix",
+          "artist_name": "Donald Bump, Freddy J",
+          "duration": 271096,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021cd58cd32c31244da03e9ae0",
+          "preview_url": "https://p.scdn.co/mp3-preview/40ccc17022ce1e452d76bb6cda8ee64cf2a24220?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "34AvVD6MAa7LLOCx1KJtUw",
+          "streaming_service": "spotify",
+          "title": "Outta Your Mind",
+          "artist_name": "Freddy J, Wes Please",
+          "duration": 260787,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d38d4f1ed803237e60724172",
+          "preview_url": "https://p.scdn.co/mp3-preview/14806615b9cd0ae352867bfc76c28fc33f6ba9d1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "446As77zWONEP8ram18ebM",
+          "streaming_service": "spotify",
+          "title": "Dance All Night VIP",
+          "artist_name": "Freddy J, Kristal Jem",
+          "duration": 291840,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d38d4f1ed803237e60724172",
+          "preview_url": "https://p.scdn.co/mp3-preview/71c6111996484f56c89d9eda885c06be590c8b87?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         }
       ],
       "show_in_search": true,
