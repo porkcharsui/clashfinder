@@ -668,6 +668,1187 @@
       "allow_favoriting": true
     },
     {
+      "id": 2040799,
+      "external_id": "1916745",
+      "published": true,
+      "name": "Tape B",
+      "body": "Tape B, born Kemal Berk Alkanat, is a dynamic force in today’s electronic music scene, merging the nostalgic vibes of old-school dubstep with contemporary bass music and hip-hop. Born in Turkey and raised in the U.S. from the age of three, Tape B brings a distinctive sound that captivates with a blend of nostalgia and modernity, termed \"Old School x New School.\"<br />\n<br />\nHis musical journey began at the University of Central Florida, influenced by early 2000s hip-hop and electronic pioneers like UKF and The Glitch Mob. His career took a professional turn after a revelatory experience at the Lost Lands Music Festival in 2019. Tape B's rise to prominence was fueled by viral SoundCloud mixes and dynamic live performances, including his iconic \"Yo, Tape B\" tag which has become a recognizable call throughout modern clubland and festivals.<br />\n<br />\nAchieving significant traction with remixes and original tracks, including the standout \"Trippy Land\" with Mersiv and Juicy J, “Gas Pedal Remix” with John Summit and Subtronics and “Ganja Tape” with Ganja White Night, Tape B has redefined expectations within bass music. As of 2024, Tape B achieved sellouts of every headline since December 2023, including rapid ticket sales at Denver’s Mission Ballroom and New York’s Great Hall. His introduction of Tape B Block Parties in 2024, as recently showcased across Texas with two sold-out events, has brought classic and modern dubstep brilliance to the forefront, further cementing his influence in the scene.<br />\n<br />\nWith plans for a debut album that encapsulates years of sonic exploration and a desire to influence the hip-hop scene more profoundly, Tape B remains a vibrant and influential figure in electronic music. His commitment to innovation, community, and joy through music continues to drive his rapidly ascending career.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464064_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464064_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464064_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464064_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "tapebbeats",
+        "twitter_user": "Tapebbeats",
+        "soundcloud_user": "tape-b-official",
+        "spotify_artist_id": "59tlsKpLWoLTxjNNS2wdPi"
+      },
+      "performances": [
+        {
+          "id": 250185,
+          "external_id": "865363",
+          "published": true,
+          "body": "Tape B, born Kemal Berk Alkanat, is a dynamic force in today’s electronic music scene, merging the nostalgic vibes of old-school dubstep with contemporary bass music and hip-hop. Born in Turkey and raised in the U.S. from the age of three, Tape B brings a distinctive sound that captivates with a blend of nostalgia and modernity, termed \"Old School x New School.\"\n\nHis musical journey began at the University of Central Florida, influenced by early 2000s hip-hop and electronic pioneers like UKF and The Glitch Mob. His career took a professional turn after a revelatory experience at the Lost Lands Music Festival in 2019. Tape B's rise to prominence was fueled by viral SoundCloud mixes and dynamic live performances, including his iconic \"Yo, Tape B\" tag which has become a recognizable call throughout modern clubland and festivals.\n\nAchieving significant traction with remixes and original tracks, including the standout \"Trippy Land\" with Mersiv and Juicy J, “Gas Pedal Remix” with John Summit and Subtronics and “Ganja Tape” with Ganja White Night, Tape B has redefined expectations within bass music. As of 2024, Tape B achieved sellouts of every headline since December 2023, including rapid ticket sales at Denver’s Mission Ballroom and New York’s Great Hall. His introduction of Tape B Block Parties in 2024, as recently showcased across Texas with two sold-out events, has brought classic and modern dubstep brilliance to the forefront, further cementing his influence in the scene.\n\nWith plans for a debut album that encapsulates years of sonic exploration and a desire to influence the hip-hop scene more profoundly, Tape B remains a vibrant and influential figure in electronic music. His commitment to innovation, community, and joy through music continues to drive his rapidly ascending career.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040799,
+          "stage_id": 12504,
+          "stage_name": "Pagoda",
+          "date_id": 3940,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-28T07:45:00+00:00",
+          "end_time": "2025-07-28T08:45:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "3xE0aFAEDbS3hjtBB5PKLT",
+          "streaming_service": "spotify",
+          "title": "Flip It - Tape B Remix",
+          "artist_name": "Levity, Tape B, Dem Jointz",
+          "duration": 187916,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02535f5a48ad805ef2be624809"
+        },
+        {
+          "track_id": "7vFKcXQ39f74XNrZmXADIT",
+          "streaming_service": "spotify",
+          "title": "Dopamine",
+          "artist_name": "Wooli, Tape B",
+          "duration": 158896,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02313af49060b87ae9488ec240",
+          "preview_url": "https://p.scdn.co/mp3-preview/8c546c565cca14b1a314c05e40b2db95b4e5dd6f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1LcPGiq7EjLLFRTAITK1CA",
+          "streaming_service": "spotify",
+          "title": "Gas Pedal Remix",
+          "artist_name": "John Summit, Subtronics, Tape B, Sage The Gemini",
+          "duration": 130070,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02424d54c76741572e4351eb88"
+        },
+        {
+          "track_id": "1QxmUaYhXatdzxYLBe6O3P",
+          "streaming_service": "spotify",
+          "title": "About Me Too",
+          "artist_name": "Tape B",
+          "duration": 149178,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ceab3bf72dea2e3730c804d0",
+          "preview_url": "https://p.scdn.co/mp3-preview/6da804590a35a71d1ad0c77d19f2133cea2a5381?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1VFhKHCKAtpDACB8fsCBCA",
+          "streaming_service": "spotify",
+          "title": "Sleeptalk",
+          "artist_name": "Tape B",
+          "duration": 155357,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ceab3bf72dea2e3730c804d0",
+          "preview_url": "https://p.scdn.co/mp3-preview/d93bec253d4039098eb889404f3fca4374bb7c90?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0qXDgXXfh92DHfGzwNbpuo",
+          "streaming_service": "spotify",
+          "title": "Ups and Downs",
+          "artist_name": "Effin, Tape B",
+          "duration": 267428,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028b379daf90f3318d79b56c3e",
+          "preview_url": "https://p.scdn.co/mp3-preview/e6b5531d6250a92a882d6cb6c1ee10cd7e59c957?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6fpwtsLQwN6CcJIyaSYosE",
+          "streaming_service": "spotify",
+          "title": "Light You Up ft. CREG",
+          "artist_name": "GRiZ, Tape B, CREG",
+          "duration": 188571,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0248c508d9915d334da63cb4f6",
+          "preview_url": "https://p.scdn.co/mp3-preview/bf829b5721aee5286c884dd845463d94ed297925?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5uCOhMc7WQy7jawqJbdhh2",
+          "streaming_service": "spotify",
+          "title": "Cocaine Inside My Blunts (Tape B Remix)",
+          "artist_name": "Disco Lines, Tape B",
+          "duration": 171428,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02fc6992e4b797f0f83fa12f51",
+          "preview_url": "https://p.scdn.co/mp3-preview/88871d048205b5a3722807077544d2e60640dea8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "080hAFjUF8vlrqr45hXQHd",
+          "streaming_service": "spotify",
+          "title": "Word Scramble",
+          "artist_name": "Zeds Dead, Subtronics, Tape B",
+          "duration": 178285,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0257ec27bb560f1ba473e0d8fc"
+        },
+        {
+          "track_id": "69LK77IjL8NtKTgpMmRuCB",
+          "streaming_service": "spotify",
+          "title": "Brackish",
+          "artist_name": "Of The Trees, Tape B",
+          "duration": 169714,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e026dfdc2c7e9f32fddc3629e9a",
+          "preview_url": "https://p.scdn.co/mp3-preview/3a647657ee9ac1bc13662fe2739dd24241d9e530?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040808,
+      "external_id": "1920572",
+      "published": true,
+      "name": "Super Future",
+      "body": "On his wave as a truly unique electronic musician, Super Future is riding the momentum of his inaugural years performing at major festivals and headlining national tours. Masterfully blending a wide range of music from the bright and ethereal downtempo, to deep and heavy freeform, some sassy twerk and trap with good friend Wreckno, and even an occasional guitar solo, Super Future provides listeners with an engaging spectrum of sound that becomes a journey with every live experience. While being known for mesmerizing sound design, his fans (aka the “Super Humans”) also admire the introspective themes he brings to his art and community. Nick delivers a metaphysical experience and message to his audiences, while masterfully keeping the energy high with bass. Follow him across the country from main stages to the underground to hear the forward-thinking sound Super Future is always creating!",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464072_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464072_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464072_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464072_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "SuperFutureDJ",
+        "instagram_user": "SuperFutureDJ",
+        "twitter_user": "superfuturedj",
+        "soundcloud_user": "superxfuture",
+        "spotify_artist_id": "6Xri2X6xp5SDLr08hva6Bb"
+      },
+      "performances": [
+        {
+          "id": 250194,
+          "external_id": "865595",
+          "published": true,
+          "body": "On his wave as a truly unique electronic musician, Super Future is riding the momentum of his inaugural years performing at major festivals and headlining national tours. Masterfully blending a wide range of music from the bright and ethereal downtempo, to deep and heavy freeform, some sassy twerk and trap with good friend Wreckno, and even an occasional guitar solo, Super Future provides listeners with an engaging spectrum of sound that becomes a journey with every live experience. While being known for mesmerizing sound design, his fans (aka the “Super Humans”) also admire the introspective themes he brings to his art and community. Nick delivers a metaphysical experience and message to his audiences, while masterfully keeping the energy high with bass. Follow him across the country from main stages to the underground to hear the forward-thinking sound Super Future is always creating!",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040808,
+          "stage_id": 12505,
+          "stage_name": "Village",
+          "date_id": 3940,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-28T04:00:00+00:00",
+          "end_time": "2025-07-28T05:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "60J5MfZgaDUQYhwJMdWjFI",
+          "streaming_service": "spotify",
+          "title": "Bout Me",
+          "artist_name": "Super Future, Wreckno",
+          "duration": 231529,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f2e048665421b8a92bf4b82a",
+          "preview_url": "https://p.scdn.co/mp3-preview/25ea9260c2ae432e0383755461668821f72a16ca?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1ZIglHDIFjtMiFV2VItzPg",
+          "streaming_service": "spotify",
+          "title": "Bassline",
+          "artist_name": "Super Future, Wreckno",
+          "duration": 254117,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02875ff7437c8fe75f9439dcd4"
+        },
+        {
+          "track_id": "0IaQfOsYjYWm48e792RlVV",
+          "streaming_service": "spotify",
+          "title": "Grove St. Party (feat. Kebo Gotti) [Super Future Remix]",
+          "artist_name": "Waka Flocka Flame, Kebo Gotti, Super Future",
+          "duration": 181714,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ac75057537bce55211b485b4",
+          "preview_url": "https://p.scdn.co/mp3-preview/18b3af59906855e4ecf3a556396347616fa99ed8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "64PL3j3eRGz0HHzUWSSXeL",
+          "streaming_service": "spotify",
+          "title": "Iced Out",
+          "artist_name": "Super Future, rSUN",
+          "duration": 194823,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0270f61a6257b8df0539154859",
+          "preview_url": "https://p.scdn.co/mp3-preview/3c02781062bfe4963743f5949a20e31a9294d327?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7bq5A5shQqz8G4mqRvDDtg",
+          "streaming_service": "spotify",
+          "title": "Sublime",
+          "artist_name": "Super Future",
+          "duration": 271020,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e8b3f5bc229ac0008a812e96",
+          "preview_url": "https://p.scdn.co/mp3-preview/1430db583bcc1968e8899318433200ee39a98086?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0GvbfAQHJYC6A6C55wGgRX",
+          "streaming_service": "spotify",
+          "title": "Lay It Back",
+          "artist_name": "Super Future, Viskus",
+          "duration": 176551,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02fa1c5de0ed511b7bac15835d",
+          "preview_url": "https://p.scdn.co/mp3-preview/8c3ac7514296d9d10f5cc30afb3d28287d5b5200?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5kzxrx7uts6KIa5GFgXPWq",
+          "streaming_service": "spotify",
+          "title": "WEEKENDS",
+          "artist_name": "Wreckno, Super Future, Eco X2",
+          "duration": 223542,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02dff58d2269a04b62eea744fa",
+          "preview_url": "https://p.scdn.co/mp3-preview/ffb6ee28e3e8b2fef9eaec2ca9a7b8d43f6d8d88?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3MgIQJdaPXaPeQPoZupuGr",
+          "streaming_service": "spotify",
+          "title": "Dark Star",
+          "artist_name": "Super Future",
+          "duration": 197571,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0254e2f8d0021c4ca6d78d5300",
+          "preview_url": "https://p.scdn.co/mp3-preview/176280459f7a62aab1deca52c68f240d0eccca05?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5fOeBtjlMJgSLduj6Croaf",
+          "streaming_service": "spotify",
+          "title": "Got Them Weak!",
+          "artist_name": "Super Future",
+          "duration": 147555,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025e8215e967141d85450a4836",
+          "preview_url": "https://p.scdn.co/mp3-preview/e69c84aef0701f564b7d2d43a713de18dc15acc6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "60wesx1GNSN8lp4qYc7AXb",
+          "streaming_service": "spotify",
+          "title": "KING SH!T",
+          "artist_name": "Super Future",
+          "duration": 195000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025e8215e967141d85450a4836",
+          "preview_url": "https://p.scdn.co/mp3-preview/bf0a35f10db5fb53b34caaac0c89778348dcee3b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040761,
+      "external_id": "1916784",
+      "published": true,
+      "name": "Thomas Anthony",
+      "body": "Thomas Anthony is a seasoned music producer and DJ from Edmonton, AB, Canada, on a mission to effortlessly blend the commanding force of bass & tech house with the timeless elegance of classic piano.<br />\n<br />\nHis high-energy house music, known as Thicc House Music, has accumulated over 10 million streams and received support from top-tier artists such as Benny Benassi, Idris Elba, KSHMR, Don Diablo, Marten Horger, Dr. Fresch, Alok, Wuki, Cat Dealers, and Bijou at world-renowned music festivals (Tomorrowland, Creamfields, Shambhala, Beyond Wonderland, and Escape Halloween).<br />\n<br />\nWith official releases on Hexhibition, Confession, DND Recs, Box Of Cats, and Enormous Tunes, along with 11 chart-topping remixes, all signs point to more Thicc House Music.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627058_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627058_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627058_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627058_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "ItsTomAnthony",
+        "instagram_user": "ItsTomAnthony",
+        "youtube_user": "itstomanthony",
+        "soundcloud_user": "ItsTomAnthony",
+        "spotify_artist_id": "2Kipffvr3gbA2BpMFe0RsI"
+      },
+      "performances": [
+        {
+          "id": 250145,
+          "external_id": "866031",
+          "published": true,
+          "body": "Thomas Anthony is a seasoned music producer and DJ from Edmonton, AB, Canada, on a mission to effortlessly blend the commanding force of bass & tech house with the timeless elegance of classic piano.\n\nHis high-energy house music, known as Thicc House Music, has accumulated over 10 million streams and received support from top-tier artists such as Benny Benassi, Idris Elba, KSHMR, Don Diablo, Marten Horger, Dr. Fresch, Alok, Wuki, Cat Dealers, and Bijou at world-renowned music festivals (Tomorrowland, Creamfields, Shambhala, Beyond Wonderland, and Escape Halloween).\n\nWith official releases on Hexhibition, Confession, DND Recs, Box Of Cats, and Enormous Tunes, along with 11 chart-topping remixes, all signs point to more Thicc House Music.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040761,
+          "stage_id": 12501,
+          "stage_name": "Fractal Forest",
+          "date_id": 3940,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-28T11:00:00+00:00",
+          "end_time": "2025-07-28T12:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "5ok1fjcYf8JUtcxK8ruOzP",
+          "streaming_service": "spotify",
+          "title": "Tom’s Diner - Club Mix",
+          "artist_name": "Thomas Anthony, White Gypsy",
+          "duration": 214000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02927c5906d002b9b4c1e39ab9",
+          "preview_url": "https://p.scdn.co/mp3-preview/3cc18800d63a28a62a0aa4ed97157ca12f85f65c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7JzAnBLfDFs8iwuoFDhcCb",
+          "streaming_service": "spotify",
+          "title": "Tom’s Diner",
+          "artist_name": "Thomas Anthony, White Gypsy",
+          "duration": 251764,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02927c5906d002b9b4c1e39ab9",
+          "preview_url": "https://p.scdn.co/mp3-preview/f09da7900908a4422d6641d4d53c320dc9fa92f0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2DuMiidQDXoWrdYkYImWb6",
+          "streaming_service": "spotify",
+          "title": "Turn up the Volume",
+          "artist_name": "Thomas Anthony",
+          "duration": 162187,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ac04f29285ec7a7e8917df1f",
+          "preview_url": "https://p.scdn.co/mp3-preview/98417e583c72a2049425ab25fcd45902a8b137c7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7bQ9IsEEdaSO7UWEsNOc4U",
+          "streaming_service": "spotify",
+          "title": "Underwater",
+          "artist_name": "Thomas Anthony, We Are Robots",
+          "duration": 261190,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0201b132d12c2224f9eab1e036",
+          "preview_url": "https://p.scdn.co/mp3-preview/5a62516c7ac58979013fc9b23d3c42cac9ff36f6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3kCjlZSVK6qmeTdjko4xMq",
+          "streaming_service": "spotify",
+          "title": "Rude Boi Riddem",
+          "artist_name": "Thomas Anthony, AXON",
+          "duration": 170989,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e027127e429f0d728dd65b9881a",
+          "preview_url": "https://p.scdn.co/mp3-preview/28f4c9a12a98c4fef30658ee5cee5eefb22c564a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6kSzovQcMFwA78j7iag0Rt",
+          "streaming_service": "spotify",
+          "title": "Repent",
+          "artist_name": "Thomas Anthony, Avi Sic",
+          "duration": 239076,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e7e1536fd70c84a5023c2b65",
+          "preview_url": "https://p.scdn.co/mp3-preview/4a7f72545c8dea6d15bfcae2b249cc003eb5ab9d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "79pVD2PQskvzYZI4T9QyYq",
+          "streaming_service": "spotify",
+          "title": "Teen Spirit",
+          "artist_name": "Thomas Anthony",
+          "duration": 193777,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024872cf0bcbc618d4c49067cc",
+          "preview_url": "https://p.scdn.co/mp3-preview/708593cd3b43b7b922a9feb0ff9422d51a42e114?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2Uv0cyRiDRUQrakHJVnFE2",
+          "streaming_service": "spotify",
+          "title": "Teen Spirit - Extended Mix",
+          "artist_name": "Thomas Anthony",
+          "duration": 256000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024872cf0bcbc618d4c49067cc",
+          "preview_url": "https://p.scdn.co/mp3-preview/fddc5e9c5c9ea59a02191dac97d0b3c47fdce3de?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "26ymYN71kHUlWnK7i3xP3i",
+          "streaming_service": "spotify",
+          "title": "Make It Right",
+          "artist_name": "Cat Dealers, Thomas Anthony",
+          "duration": 208636,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e023eba0351aa21e34293bc2d0d",
+          "preview_url": "https://p.scdn.co/mp3-preview/655be133c443d9e7212085f32c4874103937636d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4sDnA9wWPqa9zWqeEvmqS2",
+          "streaming_service": "spotify",
+          "title": "Loneliness",
+          "artist_name": "Thomas Anthony, Palmer",
+          "duration": 234545,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0289413419a9239db4f6f7d534",
+          "preview_url": "https://p.scdn.co/mp3-preview/b4830c0a3e41af597a5038020e36501425b71d4b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040675,
+      "external_id": "1920550",
+      "published": true,
+      "name": "TKO",
+      "body": "TKO is a Calgary, Canada-based producer and DJ celebrated for his genre-fluid approach to electronic music. Since 2012, he's been making waves with releases on respected labels like Dirtybird, Force Of Habit, Feral One, Tall Door Records and more. His music has not only captured attention but has also led him to share the stage with some of the industry's biggest names, solidifying his status as an innovative force in the scene.<br />\n<br />\nWhen it comes to his performances, he keeps things fresh and unpredictable. His sets are a dynamic mix of unreleased edits, original tracks, and clever genre blends, reflecting his profound love for music and his talent for engaging crowds. His commitment to crafting memorable experiences sets him apart in the world of electronic music.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626140_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626140_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626140_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626140_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "tykromm",
+        "instagram_user": "tykromm",
+        "soundcloud_user": "tko-sound",
+        "spotify_artist_id": "4DMc9TmJtmUcq2xKJiWqR2"
+      },
+      "performances": [
+        {
+          "id": 250054,
+          "external_id": "866073",
+          "published": true,
+          "body": "TKO is a Calgary, Canada-based producer and DJ celebrated for his genre-fluid approach to electronic music. Since 2012, he's been making waves with releases on respected labels like Dirtybird, Force Of Habit, Feral One, Tall Door Records and more. His music has not only captured attention but has also led him to share the stage with some of the industry's biggest names, solidifying his status as an innovative force in the scene.\n\nWhen it comes to his performances, he keeps things fresh and unpredictable. His sets are a dynamic mix of unreleased edits, original tracks, and clever genre blends, reflecting his profound love for music and his talent for engaging crowds. His commitment to crafting memorable experiences sets him apart in the world of electronic music.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040675,
+          "stage_id": 12490,
+          "stage_name": "Pagoda",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T00:00:00+00:00",
+          "end_time": "2025-07-26T01:15:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "6ulUiHMb0cP7xUM5trFjXi",
+          "streaming_service": "spotify",
+          "title": "Dance",
+          "artist_name": "Eric Mark, Kivi, TKO",
+          "duration": 233040,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0214dc5963d322daf438428485",
+          "preview_url": "https://p.scdn.co/mp3-preview/7cb7469b8d1d1916e8e69a7c7b4339c208c86154?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4qo0pz8ZfzFNkyRhAhmGjn",
+          "streaming_service": "spotify",
+          "title": "LOUD",
+          "artist_name": "TKO, FOOTWURK",
+          "duration": 208203,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0214649ff18099fd517eceb680",
+          "preview_url": "https://p.scdn.co/mp3-preview/f857ef9710ebe259371022e526b24f28ab9b3afb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3rQ3wGuScLsovvD8DU6ndk",
+          "streaming_service": "spotify",
+          "title": "Oneironaut - Original Mix",
+          "artist_name": "Longstocking, TKO",
+          "duration": 349838,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e023fb92546eac2556ed94cfc30",
+          "preview_url": "https://p.scdn.co/mp3-preview/45ac81c2652214d04425d03289ad8460d2b24f38?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5Fulck5nPLhd4yhudE0KAB",
+          "streaming_service": "spotify",
+          "title": "Babe - TKO Remix",
+          "artist_name": "Lodgepole Kind, TKO",
+          "duration": 183333,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02767acf782d2b1f6a8719db14",
+          "preview_url": "https://p.scdn.co/mp3-preview/2b1837d7d5739a68de02d0a41dbf5b6d75a27e13?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2nwnFmCTj8QCet9zytdkL2",
+          "streaming_service": "spotify",
+          "title": "Fomo",
+          "artist_name": "FOOTWURK, TKO",
+          "duration": 161102,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ad7332b0f4b4e6d3c5f25de2",
+          "preview_url": "https://p.scdn.co/mp3-preview/37d55c9633a04197792aee94172ab2f567a45964?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1djEERtdtlXdAOJSHY552w",
+          "streaming_service": "spotify",
+          "title": "Smile & Wave - TKO Remix",
+          "artist_name": "Longstocking, D-Tek, TKO",
+          "duration": 232038,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02af42a7cd06752f635bcc2f7c",
+          "preview_url": "https://p.scdn.co/mp3-preview/ad851a59c46e7861dbd083dd84b4ca255b7056fe?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3hE1V8eIIEqVdg19dykzes",
+          "streaming_service": "spotify",
+          "title": "In The Background",
+          "artist_name": "TKO",
+          "duration": 289523,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025b068c8a13611b10cc6c81e6",
+          "preview_url": "https://p.scdn.co/mp3-preview/bd86735ed46b8c114cb3b0f53925568503c65385?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2P4UVILq1DpXY8PNmCBRlf",
+          "streaming_service": "spotify",
+          "title": "Quick Bite",
+          "artist_name": "Good Neighbor, TKO",
+          "duration": 243750,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0235748aebf1b1d248302c840e",
+          "preview_url": "https://p.scdn.co/mp3-preview/7fc98de68d848e86a70d25e9ca0725fa8abd9192?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6Qc6x8DZdJNM4h23LWrmeT",
+          "streaming_service": "spotify",
+          "title": "Tricked Ya",
+          "artist_name": "TKO",
+          "duration": 278413,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021934dc1458fd8a598147fd0d",
+          "preview_url": "https://p.scdn.co/mp3-preview/aec3e08db693275505469b28242b13d027f9388c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6dQ5xJTPkbHsnwmGwxZEzr",
+          "streaming_service": "spotify",
+          "title": "Puma (TKO Remix)",
+          "artist_name": "TKO, Travis Lydian",
+          "duration": 251612,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0259c25c4ab9afc1bc0bfe4e21",
+          "preview_url": "https://p.scdn.co/mp3-preview/2b2f363091a2e473bbdbb93c01c1978bb31568cb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040626,
+      "external_id": "1920555",
+      "published": true,
+      "name": "Flying Lotus",
+      "body": "It's impossible to examine the music of the 2010s without considering Steven Ellison, aka Flying Lotus. A creative of many mediums, Ellison is just as likely to appear at Sundance with a film as he is to headline a music festival. His run of six studio albums, featuring collaborators like Thom Yorke, Erykah Badu, David Lynch, and longtime friend Thundercat, solidified him as one of the decade's driving musical forces. So renowned is his aptitude that everyone from Kendrick Lamar, who recruited Ellison for the landmark To Pimp A Butterfly, to Cartoon Network's Adult Swim turns to him for inspiration. Pitchfork designated the LA-based artist an icon of the past 25 years, while the Recording Academy nominated him as Producer of the Year at the 63rd Grammy Awards. <br />\n<br />\nGrowing up in LA, Ellison found himself surrounded by artistic inspiration. His lineage includes relations to musical legends, Marilyn McLeod and Alice Coltrane, and his interests spanned everything from beat-making to anime. By the late 2000s, his ability to incorporate jazz, hip-hop, and nebulous, futuristic elements had established him within LA's famed Low End Theory and beyond. While he himself signed to the famous Warp Records label, Ellison began a label of his own, Brainfeeder, putting out music by Grammy-recognized artists such as Thundercat, George Clinton, Kamasi Washington, and Hiatus Kaiyote.<br />\n<br />\nThanks to his passion for animation, experimental films, and the future, Ellison’s visual output has been equally as expansive, provocative, and avant-garde. His live sets draw acclaim for their immersive visuals that engulf him and his machinery, from behind which he’ll emerge as his rap alter ego, Captain Murphy. This attention to the visual details of his compositions translates over to the screen as well. His music is strongly associated with Adult Swim, one of Ellison’s longtime champions and creative partners. More recently, Ellison has delved deeper into the art of visual storytelling. He directed Kuso (2016), a body horror film that premiered at Sundance, and served as an executive producer as well as composer for Netflix’s animated series Yasuke, starring Lakeith Stanfield as the titular samurai. Most recently, Ellison co-wrote, directed and scored a segment for the renowned found footage horror anthology V/H/S/99, and has announced a development deal between his Brainfeeder Films and Paris based Logical Pictures and XYZ Films, to direct and produce a slate of forthcoming projects.  He has also just announced the Sci-Fi Horror film he directed and scored, Ash which stars Aaron Paul (Breaking Bad) & Eiza Gonzalez (3 Body Problem) will be in theaters and streaming in early 2025. In tandem with his musical talents, Ellison’s visual artwork solidifies him as one of the foremost creatives of his time.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463893_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463893_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463893_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463893_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "flyinglotus",
+        "soundcloud_user": "flyinglotus",
+        "spotify_artist_id": "29XOeO6KIWxGthejQqn793"
+      },
+      "performances": [
+        {
+          "id": 250005,
+          "external_id": "865354",
+          "published": true,
+          "body": "It's impossible to examine the music of the 2010s without considering Steven Ellison, aka Flying Lotus. A creative of many mediums, Ellison is just as likely to appear at Sundance with a film as he is to headline a music festival. His run of six studio albums, featuring collaborators like Thom Yorke, Erykah Badu, David Lynch, and longtime friend Thundercat, solidified him as one of the decade's driving musical forces. So renowned is his aptitude that everyone from Kendrick Lamar, who recruited Ellison for the landmark To Pimp A Butterfly, to Cartoon Network's Adult Swim turns to him for inspiration. Pitchfork designated the LA-based artist an icon of the past 25 years, while the Recording Academy nominated him as Producer of the Year at the 63rd Grammy Awards. \n\nGrowing up in LA, Ellison found himself surrounded by artistic inspiration. His lineage includes relations to musical legends, Marilyn McLeod and Alice Coltrane, and his interests spanned everything from beat-making to anime. By the late 2000s, his ability to incorporate jazz, hip-hop, and nebulous, futuristic elements had established him within LA's famed Low End Theory and beyond. While he himself signed to the famous Warp Records label, Ellison began a label of his own, Brainfeeder, putting out music by Grammy-recognized artists such as Thundercat, George Clinton, Kamasi Washington, and Hiatus Kaiyote.\n\nThanks to his passion for animation, experimental films, and the future, Ellison’s visual output has been equally as expansive, provocative, and avant-garde. His live sets draw acclaim for their immersive visuals that engulf him and his machinery, from behind which he’ll emerge as his rap alter ego, Captain Murphy. This attention to the visual details of his compositions translates over to the screen as well. His music is strongly associated with Adult Swim, one of Ellison’s longtime champions and creative partners. More recently, Ellison has delved deeper into the art of visual storytelling. He directed Kuso (2016), a body horror film that premiered at Sundance, and served as an executive producer as well as composer for Netflix’s animated series Yasuke, starring Lakeith Stanfield as the titular samurai. Most recently, Ellison co-wrote, directed and scored a segment for the renowned found footage horror anthology V/H/S/99, and has announced a development deal between his Brainfeeder Films and Paris based Logical Pictures and XYZ Films, to direct and produce a slate of forthcoming projects.  He has also just announced the Sci-Fi Horror film he directed and scored, Ash which stars Aaron Paul (Breaking Bad) & Eiza Gonzalez (3 Body Problem) will be in theaters and streaming in early 2025. In tandem with his musical talents, Ellison’s visual artwork solidifies him as one of the foremost creatives of his time.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040626,
+          "stage_id": 12495,
+          "stage_name": "Grove",
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-27T08:00:00+00:00",
+          "end_time": "2025-07-27T09:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "1KOqY0QTSadQFRgbNw1sLh",
+          "streaming_service": "spotify",
+          "title": "Never Catch Me",
+          "artist_name": "Flying Lotus, Kendrick Lamar",
+          "duration": 234486,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d7c4a4148cdd06da03368ae5",
+          "preview_url": "https://p.scdn.co/mp3-preview/ae20cff54b52753df0d3dd78cce96c0600cc332a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6ri6ZQWxqIZgYd2RfsnKNa",
+          "streaming_service": "spotify",
+          "title": "Crust",
+          "artist_name": "Flying Lotus",
+          "duration": 133520,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f0ada3febcf50c3fb4e759b5",
+          "preview_url": "https://p.scdn.co/mp3-preview/f2cbe872533ae55d7d60a44c42de96850198bb9c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2dQNBDqHumZS3tfzjrfUHi",
+          "streaming_service": "spotify",
+          "title": "Using What You Got",
+          "artist_name": "Flying Lotus",
+          "duration": 65293,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f0ada3febcf50c3fb4e759b5",
+          "preview_url": "https://p.scdn.co/mp3-preview/6ad946346c7294955e30756ea5eb7b954f07e8f2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1TtSn2KTXMZh6iOJJ74cUv",
+          "streaming_service": "spotify",
+          "title": "Do The Astral Plane",
+          "artist_name": "Flying Lotus",
+          "duration": 237920,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e026f0c962b04f02c839726f41f",
+          "preview_url": "https://p.scdn.co/mp3-preview/3ac1f4bf5deb7a07ea14160335f639adccb2e8d2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "02RxTXoojHi7ISW3EbqdR5",
+          "streaming_service": "spotify",
+          "title": "Black Balloons Reprise",
+          "artist_name": "Flying Lotus, Denzel Curry",
+          "duration": 161971,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024a1e9e46a1f3a177597053cf",
+          "preview_url": "https://p.scdn.co/mp3-preview/1528cc03678ebc25e399d60bf0fdb8ae260ea889?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4aACgDKoyJp3Rga4KDjhWX",
+          "streaming_service": "spotify",
+          "title": "More",
+          "artist_name": "Flying Lotus, Anderson .Paak",
+          "duration": 257587,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024a1e9e46a1f3a177597053cf",
+          "preview_url": "https://p.scdn.co/mp3-preview/7e738db005f3cdbf50a28a4ffe6892f2a9227e82?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3V4VlZvJ1ggairG00ZMaiD",
+          "streaming_service": "spotify",
+          "title": "Land Of Honey",
+          "artist_name": "Flying Lotus, Solange",
+          "duration": 207994,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024a1e9e46a1f3a177597053cf",
+          "preview_url": "https://p.scdn.co/mp3-preview/aa0c718c8c2582bde10c62d7e2dc9a282520dc0f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3qgdg6mAzmI6Lx2hseDSel",
+          "streaming_service": "spotify",
+          "title": "CAPTAIN KERNEL",
+          "artist_name": "Flying Lotus",
+          "duration": 184083,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ae1e81d828533ae21a99250b",
+          "preview_url": "https://p.scdn.co/mp3-preview/fff929adbd21a086e725519dfeca8566050d81f4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1Kp5d6hIrg1bj0H2beA7ON",
+          "streaming_service": "spotify",
+          "title": "1983",
+          "artist_name": "Flying Lotus",
+          "duration": 310373,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e026f842c9eac41960e2cbe7261",
+          "preview_url": "https://p.scdn.co/mp3-preview/f0355523b64bcc9c23c1155d6d18c3c0b05ba84c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6measgcwVZxbpSkySsQM93",
+          "streaming_service": "spotify",
+          "title": "Mudhole",
+          "artist_name": "Captain Murphy, Flying Lotus, Little Snake",
+          "duration": 153655,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c2911f751baefa6a5dc909c6",
+          "preview_url": "https://p.scdn.co/mp3-preview/f7f9971be994359ed3a96ffa27e42e47623189cc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040609,
+      "external_id": "167147",
+      "published": true,
+      "name": "Neon Steve",
+      "body": "Neon Steve has gained notoriety as an elite purveyor of House Music with over 50 million streams worldwide. The Pacific Northwest-based producer holds the crown for being Beatport’s #1 Bass House artist of all time from Canada. His signature style he describes as “House Music That Bangs!” is an eclectic concoction that blurs the genre lines between Tech House, Bass House, Techno and more.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626090_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626090_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626090_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626090_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "djneonsteve",
+        "instagram_user": "djneonsteve/",
+        "youtube_channel_id": "UC8yYHftCjMjiJelZ21m5Rsg",
+        "soundcloud_user": "neonsteve",
+        "spotify_artist_id": "1CNO980Lk9CaBWBnM1MZXi"
+      },
+      "performances": [
+        {
+          "id": 249988,
+          "external_id": "865956",
+          "published": true,
+          "body": "Neon Steve has gained notoriety as an elite purveyor of House Music with over 50 million streams worldwide. The Pacific Northwest-based producer holds the crown for being Beatport’s #1 Bass House artist of all time from Canada. His signature style he describes as “House Music That Bangs!” is an eclectic concoction that blurs the genre lines between Tech House, Bass House, Techno and more.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040609,
+          "stage_id": 12494,
+          "stage_name": "Fractal Forest",
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-27T06:00:00+00:00",
+          "end_time": "2025-07-27T07:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "2ciLxvH3suF5CyQkbUsJVe",
+          "streaming_service": "spotify",
+          "title": "Hip Hop",
+          "artist_name": "Neon Steve, Marten Hørger",
+          "duration": 169047,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02073bc15f4b5df074f098fef5",
+          "preview_url": "https://p.scdn.co/mp3-preview/3516b2d8b088bd8666c2442df0443025ee061d77?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0ZflVxcHweYxD4Dm5xt6KS",
+          "streaming_service": "spotify",
+          "title": "Feel The Beat",
+          "artist_name": "VOLAC, Neon Steve, RUMPUS, Rhiannon Roze",
+          "duration": 186000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02663948c4967faa18f3f3bb80",
+          "preview_url": "https://p.scdn.co/mp3-preview/bbf8283a24e56f7f58cd3e7b8da8e53a94dffb0e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5v8Gce3zzKorqTnldjxB7G",
+          "streaming_service": "spotify",
+          "title": "Don't Call",
+          "artist_name": "Neon Steve, Dakota Sixx",
+          "duration": 187500,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b2cc92aa91fcc648bfcd2956",
+          "preview_url": "https://p.scdn.co/mp3-preview/da651a5b6e9df383aaaea06c09ef12c9584e64e0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0M2b3w9y8lsKqm4r8cq3Sw",
+          "streaming_service": "spotify",
+          "title": "You Don't",
+          "artist_name": "Marten Hørger, Neon Steve",
+          "duration": 265366,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028669c2f467305ba8930a1ddf",
+          "preview_url": "https://p.scdn.co/mp3-preview/7d77bdfbfb9a90a9eade63941fd966e2da5992e0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3CQmrKyNKHknCGUnEpm7Al",
+          "streaming_service": "spotify",
+          "title": "4 The Love",
+          "artist_name": "Neon Steve",
+          "duration": 188571,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02256114008b64532bca3e78f8",
+          "preview_url": "https://p.scdn.co/mp3-preview/d80d22ffbad5a76c004c4e95017c81a49af06b83?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7jIOOtHgZRstHL5CiLuwHi",
+          "streaming_service": "spotify",
+          "title": "Bring It Back",
+          "artist_name": "Neon Steve",
+          "duration": 206769,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e023fec31d18fefc196b7ec694b",
+          "preview_url": "https://p.scdn.co/mp3-preview/e38b71baae13abbba9a4a736dd16dd8b395578d3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5SXmji0iHvrjanTEWOgs02",
+          "streaming_service": "spotify",
+          "title": "WE'RE BACK",
+          "artist_name": "Marten Hørger, Neon Steve",
+          "duration": 195483,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e7fa87caf5c56538274eb5c0",
+          "preview_url": "https://p.scdn.co/mp3-preview/e77a605232603e174bf0cc1248c08ca9c6103427?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0WiSL7poWlxoO7QpstCqdc",
+          "streaming_service": "spotify",
+          "title": "Stomper",
+          "artist_name": "Neon Steve, Jannah Beth",
+          "duration": 201904,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0247221e021b83e68a8bfa631c",
+          "preview_url": "https://p.scdn.co/mp3-preview/be4a08d07e9663b47202c274d4210ea19c132e70?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5cQSmoTBUSMzCvBOy5c28G",
+          "streaming_service": "spotify",
+          "title": "NRG - SQWAD Remix",
+          "artist_name": "Neon Steve, Sweetie Irie, SQWAD",
+          "duration": 218880,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02cd7e98574621a7ac8521d417",
+          "preview_url": "https://p.scdn.co/mp3-preview/18ca523bfa753d7cb9dc1b1f1e4d05d0b24291ac?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6LsfqirlTZyqOa1tpY8QbM",
+          "streaming_service": "spotify",
+          "title": "Howl At The Moon",
+          "artist_name": "Neon Steve",
+          "duration": 230859,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0284633e328205a6f28617ac06",
+          "preview_url": "https://p.scdn.co/mp3-preview/23f5bfac77daeb70173575ec64dedd7564f87f3e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040570,
+      "external_id": "1916465",
+      "published": true,
+      "name": "AMP Live",
+      "body": "Amp Live has fuses the sounds of boom bap hip hop, bass music, melodic soul,  and reggae with a technical and classical sensibility. His hybrid production style not only transcends in the studio, but also onto the live stage. Amp has captivated audiences around the world combining a modern dj set with his \"frankenstein like\" beat machines. Amp Live has collaborated with some heavy hitting artists such as Liquid Stranger, Dirt Monkey, Mad Zach, and Subdocta. For his releases, he has also partnered with various labels, such as Ganja White Night’s Subcarbon Records, 19k Records, and Gravitas Music Recordings. Outside of Amp's own solo projects, he has also produced for Saweetie, 21 Savage, Rebelution, H.E.R., E40, Too Short, Collie Buddz, and Atmosphere, as well as an official Radiohead remix album. Amp also co-founded the hip hop duo Zion I, Unified Highway with Rebelution’s lead singer Eric Rachmany, and the Del the Funky Homosapien & Amp Live project. Amp Live is soft-spoken and polite in his demeanor, but his sounds are loud, daring, and continuously prove to be ahead of the curve.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627056_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627056_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627056_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627056_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "AMPLIVESWORLD/",
+        "youtube_channel_id": "UCZFvYK-jkH_MwOoWJxTsFMw",
+        "soundcloud_user": "AMPLIVE",
+        "spotify_artist_id": "4WoeMzXhDQyoFCKdji4FlL"
+      },
+      "performances": [
+        {
+          "id": 249949,
+          "external_id": "865523",
+          "published": true,
+          "body": "Amp Live has fuses the sounds of boom bap hip hop, bass music, melodic soul,  and reggae with a technical and classical sensibility. His hybrid production style not only transcends in the studio, but also onto the live stage. Amp has captivated audiences around the world combining a modern dj set with his \"frankenstein like\" beat machines. Amp Live has collaborated with some heavy hitting artists such as Liquid Stranger, Dirt Monkey, Mad Zach, and Subdocta. For his releases, he has also partnered with various labels, such as Ganja White Night’s Subcarbon Records, 19k Records, and Gravitas Music Recordings. Outside of Amp's own solo projects, he has also produced for Saweetie, 21 Savage, Rebelution, H.E.R., E40, Too Short, Collie Buddz, and Atmosphere, as well as an official Radiohead remix album. Amp also co-founded the hip hop duo Zion I, Unified Highway with Rebelution’s lead singer Eric Rachmany, and the Del the Funky Homosapien & Amp Live project. Amp Live is soft-spoken and polite in his demeanor, but his sounds are loud, daring, and continuously prove to be ahead of the curve.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040570,
+          "stage_id": 12479,
+          "stage_name": "AMP",
+          "date_id": 4325,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-25T00:30:00+00:00",
+          "end_time": "2025-07-25T01:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "1nj3fP1BRNJWfWZOFZ56nu",
+          "streaming_service": "spotify",
+          "title": "One Thing (feat. Cristina Soto) - Amp Live Remix",
+          "artist_name": "Psymbionic, Amp Live, Cristina Soto",
+          "duration": 261401,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0224be3555331912eb0951d44e",
+          "preview_url": "https://p.scdn.co/mp3-preview/4dfc24b7041cac2801630f6aa27a4e941923d569?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3vzLGvRFJgPtLIaNZcKxpw",
+          "streaming_service": "spotify",
+          "title": "Flight in G Minor",
+          "artist_name": "Amp Live, Dirty Cello",
+          "duration": 244421,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e96ddab290dc50d01a1a871e",
+          "preview_url": "https://p.scdn.co/mp3-preview/f494fd72377daf6313b9f2862bbfe2bda6f6ca97?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "30rmz7OJYaDnYrgxkzpsS1",
+          "streaming_service": "spotify",
+          "title": "Penny Nickel Dime",
+          "artist_name": "Amp Live, Anya, Prof",
+          "duration": 232483,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e96ddab290dc50d01a1a871e",
+          "preview_url": "https://p.scdn.co/mp3-preview/a877bfdf0fb9ee833e378bcddfaf555a74cb4918?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "51T88D2jWZjltP0BmAS0eq",
+          "streaming_service": "spotify",
+          "title": "1940 - AmpLive Remix",
+          "artist_name": "The Submarines, Amp Live",
+          "duration": 194880,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0259788932355148a9608ababa",
+          "preview_url": "https://p.scdn.co/mp3-preview/97dfb5cb81cc15235109b4e2c02b0023845938e8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "29utx3aQRREuzabvXM5D1O",
+          "streaming_service": "spotify",
+          "title": "Sit Ya Ass Down",
+          "artist_name": "Amp Live, Del The Funky Homosapien",
+          "duration": 212783,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02220fb44e1c2d5214544da4c8",
+          "preview_url": "https://p.scdn.co/mp3-preview/ffa93a2081a954d10e71d3eccdecf1da699fad66?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "50VJIl48B7gVlY4mTrLwG4",
+          "streaming_service": "spotify",
+          "title": "I Got 5",
+          "artist_name": "Amp Live",
+          "duration": 185217,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0223795f38b3fad5e64b53d2f1",
+          "preview_url": "https://p.scdn.co/mp3-preview/6fee0f3dfc9aa8436031b54b7e43c97a87cff032?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "21lk4LSxItVHNNOUOZyWPR",
+          "streaming_service": "spotify",
+          "title": "Rolling Down The Street",
+          "artist_name": "Amp Live",
+          "duration": 134400,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0223795f38b3fad5e64b53d2f1",
+          "preview_url": "https://p.scdn.co/mp3-preview/c550633af6b5435a33cd27bf67103c6b8b985243?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3oqnSJu2wGgnR9JDQzUxP9",
+          "streaming_service": "spotify",
+          "title": "High Life",
+          "artist_name": "Morillo, Amp Live",
+          "duration": 194666,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c08bf07d667961231cb607d9",
+          "preview_url": "https://p.scdn.co/mp3-preview/82f27159c799b66dc7dfb20d01e8fc674f6085c3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1TQbzSCqQS2Gp9ASWVVUDJ",
+          "streaming_service": "spotify",
+          "title": "Flying High",
+          "artist_name": "Amp Live",
+          "duration": 121333,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e928a1ec99da4e1b5740a604",
+          "preview_url": "https://p.scdn.co/mp3-preview/b8e75929ceebe228e07c056c06f032025caef159?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3ob3OSqOKk1QqcnIhMBieL",
+          "streaming_service": "spotify",
+          "title": "Help",
+          "artist_name": "Amp Live, Del The Funky Homosapien, Adult Karate",
+          "duration": 220890,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02220fb44e1c2d5214544da4c8",
+          "preview_url": "https://p.scdn.co/mp3-preview/5084bff6a6b714687529bdcfb59e1ceaca96cd19?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2040579,
       "external_id": "1922369",
       "published": true,
@@ -889,176 +2070,6 @@
         }
       ],
       "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040609,
-      "external_id": "167147",
-      "published": true,
-      "name": "Neon Steve",
-      "body": "Neon Steve has gained notoriety as an elite purveyor of House Music with over 50 million streams worldwide. The Pacific Northwest-based producer holds the crown for being Beatport’s #1 Bass House artist of all time from Canada. His signature style he describes as “House Music That Bangs!” is an eclectic concoction that blurs the genre lines between Tech House, Bass House, Techno and more.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626090_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626090_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626090_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626090_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "djneonsteve",
-        "instagram_user": "djneonsteve/",
-        "youtube_channel_id": "UC8yYHftCjMjiJelZ21m5Rsg",
-        "soundcloud_user": "neonsteve",
-        "spotify_artist_id": "1CNO980Lk9CaBWBnM1MZXi"
-      },
-      "performances": [
-        {
-          "id": 249988,
-          "external_id": "865956",
-          "published": true,
-          "body": "Neon Steve has gained notoriety as an elite purveyor of House Music with over 50 million streams worldwide. The Pacific Northwest-based producer holds the crown for being Beatport’s #1 Bass House artist of all time from Canada. His signature style he describes as “House Music That Bangs!” is an eclectic concoction that blurs the genre lines between Tech House, Bass House, Techno and more.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040609,
-          "stage_id": 12494,
-          "stage_name": "Fractal Forest",
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-27T06:00:00+00:00",
-          "end_time": "2025-07-27T07:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "2ciLxvH3suF5CyQkbUsJVe",
-          "streaming_service": "spotify",
-          "title": "Hip Hop",
-          "artist_name": "Neon Steve, Marten Hørger",
-          "duration": 169047,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02073bc15f4b5df074f098fef5",
-          "preview_url": "https://p.scdn.co/mp3-preview/3516b2d8b088bd8666c2442df0443025ee061d77?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0ZflVxcHweYxD4Dm5xt6KS",
-          "streaming_service": "spotify",
-          "title": "Feel The Beat",
-          "artist_name": "VOLAC, Neon Steve, RUMPUS, Rhiannon Roze",
-          "duration": 186000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02663948c4967faa18f3f3bb80",
-          "preview_url": "https://p.scdn.co/mp3-preview/bbf8283a24e56f7f58cd3e7b8da8e53a94dffb0e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5v8Gce3zzKorqTnldjxB7G",
-          "streaming_service": "spotify",
-          "title": "Don't Call",
-          "artist_name": "Neon Steve, Dakota Sixx",
-          "duration": 187500,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b2cc92aa91fcc648bfcd2956",
-          "preview_url": "https://p.scdn.co/mp3-preview/da651a5b6e9df383aaaea06c09ef12c9584e64e0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0M2b3w9y8lsKqm4r8cq3Sw",
-          "streaming_service": "spotify",
-          "title": "You Don't",
-          "artist_name": "Marten Hørger, Neon Steve",
-          "duration": 265366,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028669c2f467305ba8930a1ddf",
-          "preview_url": "https://p.scdn.co/mp3-preview/7d77bdfbfb9a90a9eade63941fd966e2da5992e0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3CQmrKyNKHknCGUnEpm7Al",
-          "streaming_service": "spotify",
-          "title": "4 The Love",
-          "artist_name": "Neon Steve",
-          "duration": 188571,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02256114008b64532bca3e78f8",
-          "preview_url": "https://p.scdn.co/mp3-preview/d80d22ffbad5a76c004c4e95017c81a49af06b83?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7jIOOtHgZRstHL5CiLuwHi",
-          "streaming_service": "spotify",
-          "title": "Bring It Back",
-          "artist_name": "Neon Steve",
-          "duration": 206769,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e023fec31d18fefc196b7ec694b",
-          "preview_url": "https://p.scdn.co/mp3-preview/e38b71baae13abbba9a4a736dd16dd8b395578d3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0oxaM718smCBM4edmJ9A2z",
-          "streaming_service": "spotify",
-          "title": "Lights Out",
-          "artist_name": "Neon Steve",
-          "duration": 180000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c8b9b53692b6833e01a2994f",
-          "preview_url": "https://p.scdn.co/mp3-preview/639fdae184cb9bb55f696d5f6f5c1a6080f9aa46?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5SXmji0iHvrjanTEWOgs02",
-          "streaming_service": "spotify",
-          "title": "WE'RE BACK",
-          "artist_name": "Marten Hørger, Neon Steve",
-          "duration": 195483,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e7fa87caf5c56538274eb5c0",
-          "preview_url": "https://p.scdn.co/mp3-preview/e77a605232603e174bf0cc1248c08ca9c6103427?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0WiSL7poWlxoO7QpstCqdc",
-          "streaming_service": "spotify",
-          "title": "Stomper",
-          "artist_name": "Neon Steve, Jannah Beth",
-          "duration": 201904,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0247221e021b83e68a8bfa631c",
-          "preview_url": "https://p.scdn.co/mp3-preview/be4a08d07e9663b47202c274d4210ea19c132e70?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5cQSmoTBUSMzCvBOy5c28G",
-          "streaming_service": "spotify",
-          "title": "NRG - SQWAD Remix",
-          "artist_name": "Neon Steve, Sweetie Irie, SQWAD",
-          "duration": 218880,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02cd7e98574621a7ac8521d417",
-          "preview_url": "https://p.scdn.co/mp3-preview/18ca523bfa753d7cb9dc1b1f1e4d05d0b24291ac?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
@@ -3433,175 +4444,6 @@
           "duration": 194571,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02fab77d46a33cb435878d0b53",
           "preview_url": "https://p.scdn.co/mp3-preview/70d79a6cabf1be94b0e7ec82673ef64d364c056c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040570,
-      "external_id": "1916465",
-      "published": true,
-      "name": "AMP Live",
-      "body": "Amp Live has fuses the sounds of boom bap hip hop, bass music, melodic soul,  and reggae with a technical and classical sensibility. His hybrid production style not only transcends in the studio, but also onto the live stage. Amp has captivated audiences around the world combining a modern dj set with his \"frankenstein like\" beat machines. Amp Live has collaborated with some heavy hitting artists such as Liquid Stranger, Dirt Monkey, Mad Zach, and Subdocta. For his releases, he has also partnered with various labels, such as Ganja White Night’s Subcarbon Records, 19k Records, and Gravitas Music Recordings. Outside of Amp's own solo projects, he has also produced for Saweetie, 21 Savage, Rebelution, H.E.R., E40, Too Short, Collie Buddz, and Atmosphere, as well as an official Radiohead remix album. Amp also co-founded the hip hop duo Zion I, Unified Highway with Rebelution’s lead singer Eric Rachmany, and the Del the Funky Homosapien & Amp Live project. Amp Live is soft-spoken and polite in his demeanor, but his sounds are loud, daring, and continuously prove to be ahead of the curve.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627056_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627056_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627056_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627056_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "AMPLIVESWORLD/",
-        "youtube_channel_id": "UCZFvYK-jkH_MwOoWJxTsFMw",
-        "soundcloud_user": "AMPLIVE",
-        "spotify_artist_id": "4WoeMzXhDQyoFCKdji4FlL"
-      },
-      "performances": [
-        {
-          "id": 249949,
-          "external_id": "865523",
-          "published": true,
-          "body": "Amp Live has fuses the sounds of boom bap hip hop, bass music, melodic soul,  and reggae with a technical and classical sensibility. His hybrid production style not only transcends in the studio, but also onto the live stage. Amp has captivated audiences around the world combining a modern dj set with his \"frankenstein like\" beat machines. Amp Live has collaborated with some heavy hitting artists such as Liquid Stranger, Dirt Monkey, Mad Zach, and Subdocta. For his releases, he has also partnered with various labels, such as Ganja White Night’s Subcarbon Records, 19k Records, and Gravitas Music Recordings. Outside of Amp's own solo projects, he has also produced for Saweetie, 21 Savage, Rebelution, H.E.R., E40, Too Short, Collie Buddz, and Atmosphere, as well as an official Radiohead remix album. Amp also co-founded the hip hop duo Zion I, Unified Highway with Rebelution’s lead singer Eric Rachmany, and the Del the Funky Homosapien & Amp Live project. Amp Live is soft-spoken and polite in his demeanor, but his sounds are loud, daring, and continuously prove to be ahead of the curve.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040570,
-          "stage_id": 12479,
-          "stage_name": "AMP",
-          "date_id": 4325,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-25T00:30:00+00:00",
-          "end_time": "2025-07-25T01:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "1nj3fP1BRNJWfWZOFZ56nu",
-          "streaming_service": "spotify",
-          "title": "One Thing (feat. Cristina Soto) - Amp Live Remix",
-          "artist_name": "Psymbionic, Amp Live, Cristina Soto",
-          "duration": 261401,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0224be3555331912eb0951d44e",
-          "preview_url": "https://p.scdn.co/mp3-preview/4dfc24b7041cac2801630f6aa27a4e941923d569?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3vzLGvRFJgPtLIaNZcKxpw",
-          "streaming_service": "spotify",
-          "title": "Flight in G Minor",
-          "artist_name": "Amp Live, Dirty Cello",
-          "duration": 244421,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e96ddab290dc50d01a1a871e",
-          "preview_url": "https://p.scdn.co/mp3-preview/f494fd72377daf6313b9f2862bbfe2bda6f6ca97?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "30rmz7OJYaDnYrgxkzpsS1",
-          "streaming_service": "spotify",
-          "title": "Penny Nickel Dime",
-          "artist_name": "Amp Live, Anya, Prof",
-          "duration": 232483,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e96ddab290dc50d01a1a871e",
-          "preview_url": "https://p.scdn.co/mp3-preview/a877bfdf0fb9ee833e378bcddfaf555a74cb4918?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "51T88D2jWZjltP0BmAS0eq",
-          "streaming_service": "spotify",
-          "title": "1940 - AmpLive Remix",
-          "artist_name": "The Submarines, Amp Live",
-          "duration": 194880,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0259788932355148a9608ababa",
-          "preview_url": "https://p.scdn.co/mp3-preview/97dfb5cb81cc15235109b4e2c02b0023845938e8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "29utx3aQRREuzabvXM5D1O",
-          "streaming_service": "spotify",
-          "title": "Sit Ya Ass Down",
-          "artist_name": "Amp Live, Del The Funky Homosapien",
-          "duration": 212783,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02220fb44e1c2d5214544da4c8",
-          "preview_url": "https://p.scdn.co/mp3-preview/ffa93a2081a954d10e71d3eccdecf1da699fad66?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "50VJIl48B7gVlY4mTrLwG4",
-          "streaming_service": "spotify",
-          "title": "I Got 5",
-          "artist_name": "Amp Live",
-          "duration": 185217,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0223795f38b3fad5e64b53d2f1",
-          "preview_url": "https://p.scdn.co/mp3-preview/6fee0f3dfc9aa8436031b54b7e43c97a87cff032?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "21lk4LSxItVHNNOUOZyWPR",
-          "streaming_service": "spotify",
-          "title": "Rolling Down The Street",
-          "artist_name": "Amp Live",
-          "duration": 134400,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0223795f38b3fad5e64b53d2f1",
-          "preview_url": "https://p.scdn.co/mp3-preview/c550633af6b5435a33cd27bf67103c6b8b985243?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3oqnSJu2wGgnR9JDQzUxP9",
-          "streaming_service": "spotify",
-          "title": "High Life",
-          "artist_name": "Morillo, Amp Live",
-          "duration": 194666,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c08bf07d667961231cb607d9",
-          "preview_url": "https://p.scdn.co/mp3-preview/82f27159c799b66dc7dfb20d01e8fc674f6085c3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1TQbzSCqQS2Gp9ASWVVUDJ",
-          "streaming_service": "spotify",
-          "title": "Flying High",
-          "artist_name": "Amp Live",
-          "duration": 121333,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e928a1ec99da4e1b5740a604",
-          "preview_url": "https://p.scdn.co/mp3-preview/b8e75929ceebe228e07c056c06f032025caef159?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5VjkmYbcLcqmg4fZHwN4T0",
-          "streaming_service": "spotify",
-          "title": "CA Love",
-          "artist_name": "Amp Live",
-          "duration": 112258,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0223795f38b3fad5e64b53d2f1",
-          "preview_url": "https://p.scdn.co/mp3-preview/2e1867185753170fcd89fdd6e23da45e84e45ace?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         }
       ],
       "show_in_search": true,
@@ -8350,174 +9192,6 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040626,
-      "external_id": "1920555",
-      "published": true,
-      "name": "Flying Lotus",
-      "body": "It's impossible to examine the music of the 2010s without considering Steven Ellison, aka Flying Lotus. A creative of many mediums, Ellison is just as likely to appear at Sundance with a film as he is to headline a music festival. His run of six studio albums, featuring collaborators like Thom Yorke, Erykah Badu, David Lynch, and longtime friend Thundercat, solidified him as one of the decade's driving musical forces. So renowned is his aptitude that everyone from Kendrick Lamar, who recruited Ellison for the landmark To Pimp A Butterfly, to Cartoon Network's Adult Swim turns to him for inspiration. Pitchfork designated the LA-based artist an icon of the past 25 years, while the Recording Academy nominated him as Producer of the Year at the 63rd Grammy Awards. <br />\n<br />\nGrowing up in LA, Ellison found himself surrounded by artistic inspiration. His lineage includes relations to musical legends, Marilyn McLeod and Alice Coltrane, and his interests spanned everything from beat-making to anime. By the late 2000s, his ability to incorporate jazz, hip-hop, and nebulous, futuristic elements had established him within LA's famed Low End Theory and beyond. While he himself signed to the famous Warp Records label, Ellison began a label of his own, Brainfeeder, putting out music by Grammy-recognized artists such as Thundercat, George Clinton, Kamasi Washington, and Hiatus Kaiyote.<br />\n<br />\nThanks to his passion for animation, experimental films, and the future, Ellison’s visual output has been equally as expansive, provocative, and avant-garde. His live sets draw acclaim for their immersive visuals that engulf him and his machinery, from behind which he’ll emerge as his rap alter ego, Captain Murphy. This attention to the visual details of his compositions translates over to the screen as well. His music is strongly associated with Adult Swim, one of Ellison’s longtime champions and creative partners. More recently, Ellison has delved deeper into the art of visual storytelling. He directed Kuso (2016), a body horror film that premiered at Sundance, and served as an executive producer as well as composer for Netflix’s animated series Yasuke, starring Lakeith Stanfield as the titular samurai. Most recently, Ellison co-wrote, directed and scored a segment for the renowned found footage horror anthology V/H/S/99, and has announced a development deal between his Brainfeeder Films and Paris based Logical Pictures and XYZ Films, to direct and produce a slate of forthcoming projects.  He has also just announced the Sci-Fi Horror film he directed and scored, Ash which stars Aaron Paul (Breaking Bad) & Eiza Gonzalez (3 Body Problem) will be in theaters and streaming in early 2025. In tandem with his musical talents, Ellison’s visual artwork solidifies him as one of the foremost creatives of his time.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463893_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463893_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463893_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463893_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "flyinglotus",
-        "soundcloud_user": "flyinglotus",
-        "spotify_artist_id": "29XOeO6KIWxGthejQqn793"
-      },
-      "performances": [
-        {
-          "id": 250005,
-          "external_id": "865354",
-          "published": true,
-          "body": "It's impossible to examine the music of the 2010s without considering Steven Ellison, aka Flying Lotus. A creative of many mediums, Ellison is just as likely to appear at Sundance with a film as he is to headline a music festival. His run of six studio albums, featuring collaborators like Thom Yorke, Erykah Badu, David Lynch, and longtime friend Thundercat, solidified him as one of the decade's driving musical forces. So renowned is his aptitude that everyone from Kendrick Lamar, who recruited Ellison for the landmark To Pimp A Butterfly, to Cartoon Network's Adult Swim turns to him for inspiration. Pitchfork designated the LA-based artist an icon of the past 25 years, while the Recording Academy nominated him as Producer of the Year at the 63rd Grammy Awards. \n\nGrowing up in LA, Ellison found himself surrounded by artistic inspiration. His lineage includes relations to musical legends, Marilyn McLeod and Alice Coltrane, and his interests spanned everything from beat-making to anime. By the late 2000s, his ability to incorporate jazz, hip-hop, and nebulous, futuristic elements had established him within LA's famed Low End Theory and beyond. While he himself signed to the famous Warp Records label, Ellison began a label of his own, Brainfeeder, putting out music by Grammy-recognized artists such as Thundercat, George Clinton, Kamasi Washington, and Hiatus Kaiyote.\n\nThanks to his passion for animation, experimental films, and the future, Ellison’s visual output has been equally as expansive, provocative, and avant-garde. His live sets draw acclaim for their immersive visuals that engulf him and his machinery, from behind which he’ll emerge as his rap alter ego, Captain Murphy. This attention to the visual details of his compositions translates over to the screen as well. His music is strongly associated with Adult Swim, one of Ellison’s longtime champions and creative partners. More recently, Ellison has delved deeper into the art of visual storytelling. He directed Kuso (2016), a body horror film that premiered at Sundance, and served as an executive producer as well as composer for Netflix’s animated series Yasuke, starring Lakeith Stanfield as the titular samurai. Most recently, Ellison co-wrote, directed and scored a segment for the renowned found footage horror anthology V/H/S/99, and has announced a development deal between his Brainfeeder Films and Paris based Logical Pictures and XYZ Films, to direct and produce a slate of forthcoming projects.  He has also just announced the Sci-Fi Horror film he directed and scored, Ash which stars Aaron Paul (Breaking Bad) & Eiza Gonzalez (3 Body Problem) will be in theaters and streaming in early 2025. In tandem with his musical talents, Ellison’s visual artwork solidifies him as one of the foremost creatives of his time.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040626,
-          "stage_id": 12495,
-          "stage_name": "Grove",
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-27T08:00:00+00:00",
-          "end_time": "2025-07-27T09:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "1KOqY0QTSadQFRgbNw1sLh",
-          "streaming_service": "spotify",
-          "title": "Never Catch Me",
-          "artist_name": "Flying Lotus, Kendrick Lamar",
-          "duration": 234486,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d7c4a4148cdd06da03368ae5",
-          "preview_url": "https://p.scdn.co/mp3-preview/ae20cff54b52753df0d3dd78cce96c0600cc332a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6ri6ZQWxqIZgYd2RfsnKNa",
-          "streaming_service": "spotify",
-          "title": "Crust",
-          "artist_name": "Flying Lotus",
-          "duration": 133520,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f0ada3febcf50c3fb4e759b5",
-          "preview_url": "https://p.scdn.co/mp3-preview/f2cbe872533ae55d7d60a44c42de96850198bb9c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2dQNBDqHumZS3tfzjrfUHi",
-          "streaming_service": "spotify",
-          "title": "Using What You Got",
-          "artist_name": "Flying Lotus",
-          "duration": 65293,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f0ada3febcf50c3fb4e759b5",
-          "preview_url": "https://p.scdn.co/mp3-preview/6ad946346c7294955e30756ea5eb7b954f07e8f2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1TtSn2KTXMZh6iOJJ74cUv",
-          "streaming_service": "spotify",
-          "title": "Do The Astral Plane",
-          "artist_name": "Flying Lotus",
-          "duration": 237920,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e026f0c962b04f02c839726f41f",
-          "preview_url": "https://p.scdn.co/mp3-preview/3ac1f4bf5deb7a07ea14160335f639adccb2e8d2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "02RxTXoojHi7ISW3EbqdR5",
-          "streaming_service": "spotify",
-          "title": "Black Balloons Reprise",
-          "artist_name": "Flying Lotus, Denzel Curry",
-          "duration": 161971,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024a1e9e46a1f3a177597053cf",
-          "preview_url": "https://p.scdn.co/mp3-preview/1528cc03678ebc25e399d60bf0fdb8ae260ea889?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4aACgDKoyJp3Rga4KDjhWX",
-          "streaming_service": "spotify",
-          "title": "More",
-          "artist_name": "Flying Lotus, Anderson .Paak",
-          "duration": 257587,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024a1e9e46a1f3a177597053cf",
-          "preview_url": "https://p.scdn.co/mp3-preview/7e738db005f3cdbf50a28a4ffe6892f2a9227e82?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7euupBRn1BnMdWecnyBWU6",
-          "streaming_service": "spotify",
-          "title": "The Room",
-          "artist_name": "Flying Lotus, Devin Tracy",
-          "duration": 137546,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c6109c5c2ef81060b9e43e72",
-          "preview_url": "https://p.scdn.co/mp3-preview/f79f92e6bc25434618950077dbe338845c76ea60?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3V4VlZvJ1ggairG00ZMaiD",
-          "streaming_service": "spotify",
-          "title": "Land Of Honey",
-          "artist_name": "Flying Lotus, Solange",
-          "duration": 207994,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024a1e9e46a1f3a177597053cf",
-          "preview_url": "https://p.scdn.co/mp3-preview/aa0c718c8c2582bde10c62d7e2dc9a282520dc0f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3qgdg6mAzmI6Lx2hseDSel",
-          "streaming_service": "spotify",
-          "title": "CAPTAIN KERNEL",
-          "artist_name": "Flying Lotus",
-          "duration": 184083,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ae1e81d828533ae21a99250b",
-          "preview_url": "https://p.scdn.co/mp3-preview/fff929adbd21a086e725519dfeca8566050d81f4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1Kp5d6hIrg1bj0H2beA7ON",
-          "streaming_service": "spotify",
-          "title": "1983",
-          "artist_name": "Flying Lotus",
-          "duration": 310373,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e026f842c9eac41960e2cbe7261",
-          "preview_url": "https://p.scdn.co/mp3-preview/f0355523b64bcc9c23c1155d6d18c3c0b05ba84c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2040614,
       "external_id": "167109",
       "published": true,
@@ -10571,172 +11245,6 @@
         }
       ],
       "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040799,
-      "external_id": "1916745",
-      "published": true,
-      "name": "Tape B",
-      "body": "Tape B, born Kemal Berk Alkanat, is a dynamic force in today’s electronic music scene, merging the nostalgic vibes of old-school dubstep with contemporary bass music and hip-hop. Born in Turkey and raised in the U.S. from the age of three, Tape B brings a distinctive sound that captivates with a blend of nostalgia and modernity, termed \"Old School x New School.\"<br />\n<br />\nHis musical journey began at the University of Central Florida, influenced by early 2000s hip-hop and electronic pioneers like UKF and The Glitch Mob. His career took a professional turn after a revelatory experience at the Lost Lands Music Festival in 2019. Tape B's rise to prominence was fueled by viral SoundCloud mixes and dynamic live performances, including his iconic \"Yo, Tape B\" tag which has become a recognizable call throughout modern clubland and festivals.<br />\n<br />\nAchieving significant traction with remixes and original tracks, including the standout \"Trippy Land\" with Mersiv and Juicy J, “Gas Pedal Remix” with John Summit and Subtronics and “Ganja Tape” with Ganja White Night, Tape B has redefined expectations within bass music. As of 2024, Tape B achieved sellouts of every headline since December 2023, including rapid ticket sales at Denver’s Mission Ballroom and New York’s Great Hall. His introduction of Tape B Block Parties in 2024, as recently showcased across Texas with two sold-out events, has brought classic and modern dubstep brilliance to the forefront, further cementing his influence in the scene.<br />\n<br />\nWith plans for a debut album that encapsulates years of sonic exploration and a desire to influence the hip-hop scene more profoundly, Tape B remains a vibrant and influential figure in electronic music. His commitment to innovation, community, and joy through music continues to drive his rapidly ascending career.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464064_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464064_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464064_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464064_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "tapebbeats",
-        "twitter_user": "Tapebbeats",
-        "soundcloud_user": "tape-b-official",
-        "spotify_artist_id": "59tlsKpLWoLTxjNNS2wdPi"
-      },
-      "performances": [
-        {
-          "id": 250185,
-          "external_id": "865363",
-          "published": true,
-          "body": "Tape B, born Kemal Berk Alkanat, is a dynamic force in today’s electronic music scene, merging the nostalgic vibes of old-school dubstep with contemporary bass music and hip-hop. Born in Turkey and raised in the U.S. from the age of three, Tape B brings a distinctive sound that captivates with a blend of nostalgia and modernity, termed \"Old School x New School.\"\n\nHis musical journey began at the University of Central Florida, influenced by early 2000s hip-hop and electronic pioneers like UKF and The Glitch Mob. His career took a professional turn after a revelatory experience at the Lost Lands Music Festival in 2019. Tape B's rise to prominence was fueled by viral SoundCloud mixes and dynamic live performances, including his iconic \"Yo, Tape B\" tag which has become a recognizable call throughout modern clubland and festivals.\n\nAchieving significant traction with remixes and original tracks, including the standout \"Trippy Land\" with Mersiv and Juicy J, “Gas Pedal Remix” with John Summit and Subtronics and “Ganja Tape” with Ganja White Night, Tape B has redefined expectations within bass music. As of 2024, Tape B achieved sellouts of every headline since December 2023, including rapid ticket sales at Denver’s Mission Ballroom and New York’s Great Hall. His introduction of Tape B Block Parties in 2024, as recently showcased across Texas with two sold-out events, has brought classic and modern dubstep brilliance to the forefront, further cementing his influence in the scene.\n\nWith plans for a debut album that encapsulates years of sonic exploration and a desire to influence the hip-hop scene more profoundly, Tape B remains a vibrant and influential figure in electronic music. His commitment to innovation, community, and joy through music continues to drive his rapidly ascending career.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040799,
-          "stage_id": 12504,
-          "stage_name": "Pagoda",
-          "date_id": 3940,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-28T07:45:00+00:00",
-          "end_time": "2025-07-28T08:45:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "3xE0aFAEDbS3hjtBB5PKLT",
-          "streaming_service": "spotify",
-          "title": "Flip It - Tape B Remix",
-          "artist_name": "Levity, Tape B, Dem Jointz",
-          "duration": 187916,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02535f5a48ad805ef2be624809"
-        },
-        {
-          "track_id": "7vFKcXQ39f74XNrZmXADIT",
-          "streaming_service": "spotify",
-          "title": "Dopamine",
-          "artist_name": "Wooli, Tape B",
-          "duration": 158896,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02313af49060b87ae9488ec240",
-          "preview_url": "https://p.scdn.co/mp3-preview/8c546c565cca14b1a314c05e40b2db95b4e5dd6f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1LcPGiq7EjLLFRTAITK1CA",
-          "streaming_service": "spotify",
-          "title": "Gas Pedal Remix",
-          "artist_name": "John Summit, Subtronics, Tape B, Sage The Gemini",
-          "duration": 130070,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02424d54c76741572e4351eb88"
-        },
-        {
-          "track_id": "1QxmUaYhXatdzxYLBe6O3P",
-          "streaming_service": "spotify",
-          "title": "About Me Too",
-          "artist_name": "Tape B",
-          "duration": 149178,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ceab3bf72dea2e3730c804d0",
-          "preview_url": "https://p.scdn.co/mp3-preview/6da804590a35a71d1ad0c77d19f2133cea2a5381?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1VFhKHCKAtpDACB8fsCBCA",
-          "streaming_service": "spotify",
-          "title": "Sleeptalk",
-          "artist_name": "Tape B",
-          "duration": 155357,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ceab3bf72dea2e3730c804d0",
-          "preview_url": "https://p.scdn.co/mp3-preview/d93bec253d4039098eb889404f3fca4374bb7c90?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0qXDgXXfh92DHfGzwNbpuo",
-          "streaming_service": "spotify",
-          "title": "Ups and Downs",
-          "artist_name": "Effin, Tape B",
-          "duration": 267428,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028b379daf90f3318d79b56c3e",
-          "preview_url": "https://p.scdn.co/mp3-preview/e6b5531d6250a92a882d6cb6c1ee10cd7e59c957?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6fpwtsLQwN6CcJIyaSYosE",
-          "streaming_service": "spotify",
-          "title": "Light You Up ft. CREG",
-          "artist_name": "GRiZ, Tape B, CREG",
-          "duration": 188571,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0248c508d9915d334da63cb4f6",
-          "preview_url": "https://p.scdn.co/mp3-preview/bf829b5721aee5286c884dd845463d94ed297925?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5uCOhMc7WQy7jawqJbdhh2",
-          "streaming_service": "spotify",
-          "title": "Cocaine Inside My Blunts (Tape B Remix)",
-          "artist_name": "Disco Lines, Tape B",
-          "duration": 171428,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02fc6992e4b797f0f83fa12f51",
-          "preview_url": "https://p.scdn.co/mp3-preview/88871d048205b5a3722807077544d2e60640dea8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "080hAFjUF8vlrqr45hXQHd",
-          "streaming_service": "spotify",
-          "title": "Word Scramble",
-          "artist_name": "Zeds Dead, Subtronics, Tape B",
-          "duration": 178285,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0257ec27bb560f1ba473e0d8fc"
-        },
-        {
-          "track_id": "69LK77IjL8NtKTgpMmRuCB",
-          "streaming_service": "spotify",
-          "title": "Brackish",
-          "artist_name": "Of The Trees, Tape B",
-          "duration": 169714,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e026dfdc2c7e9f32fddc3629e9a",
-          "preview_url": "https://p.scdn.co/mp3-preview/3a647657ee9ac1bc13662fe2739dd24241d9e530?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
@@ -19534,175 +20042,6 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040808,
-      "external_id": "1920572",
-      "published": true,
-      "name": "Super Future",
-      "body": "On his wave as a truly unique electronic musician, Super Future is riding the momentum of his inaugural years performing at major festivals and headlining national tours. Masterfully blending a wide range of music from the bright and ethereal downtempo, to deep and heavy freeform, some sassy twerk and trap with good friend Wreckno, and even an occasional guitar solo, Super Future provides listeners with an engaging spectrum of sound that becomes a journey with every live experience. While being known for mesmerizing sound design, his fans (aka the “Super Humans”) also admire the introspective themes he brings to his art and community. Nick delivers a metaphysical experience and message to his audiences, while masterfully keeping the energy high with bass. Follow him across the country from main stages to the underground to hear the forward-thinking sound Super Future is always creating!",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464072_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464072_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464072_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464072_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "SuperFutureDJ",
-        "instagram_user": "SuperFutureDJ",
-        "twitter_user": "superfuturedj",
-        "soundcloud_user": "superxfuture",
-        "spotify_artist_id": "6Xri2X6xp5SDLr08hva6Bb"
-      },
-      "performances": [
-        {
-          "id": 250194,
-          "external_id": "865595",
-          "published": true,
-          "body": "On his wave as a truly unique electronic musician, Super Future is riding the momentum of his inaugural years performing at major festivals and headlining national tours. Masterfully blending a wide range of music from the bright and ethereal downtempo, to deep and heavy freeform, some sassy twerk and trap with good friend Wreckno, and even an occasional guitar solo, Super Future provides listeners with an engaging spectrum of sound that becomes a journey with every live experience. While being known for mesmerizing sound design, his fans (aka the “Super Humans”) also admire the introspective themes he brings to his art and community. Nick delivers a metaphysical experience and message to his audiences, while masterfully keeping the energy high with bass. Follow him across the country from main stages to the underground to hear the forward-thinking sound Super Future is always creating!",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040808,
-          "stage_id": 12505,
-          "stage_name": "Village",
-          "date_id": 3940,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-28T04:00:00+00:00",
-          "end_time": "2025-07-28T05:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "60J5MfZgaDUQYhwJMdWjFI",
-          "streaming_service": "spotify",
-          "title": "Bout Me",
-          "artist_name": "Super Future, Wreckno",
-          "duration": 231529,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f2e048665421b8a92bf4b82a",
-          "preview_url": "https://p.scdn.co/mp3-preview/25ea9260c2ae432e0383755461668821f72a16ca?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1ZIglHDIFjtMiFV2VItzPg",
-          "streaming_service": "spotify",
-          "title": "Bassline",
-          "artist_name": "Super Future, Wreckno",
-          "duration": 254117,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02875ff7437c8fe75f9439dcd4"
-        },
-        {
-          "track_id": "0IaQfOsYjYWm48e792RlVV",
-          "streaming_service": "spotify",
-          "title": "Grove St. Party (feat. Kebo Gotti) [Super Future Remix]",
-          "artist_name": "Waka Flocka Flame, Kebo Gotti, Super Future",
-          "duration": 181714,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ac75057537bce55211b485b4",
-          "preview_url": "https://p.scdn.co/mp3-preview/18b3af59906855e4ecf3a556396347616fa99ed8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7bq5A5shQqz8G4mqRvDDtg",
-          "streaming_service": "spotify",
-          "title": "Sublime",
-          "artist_name": "Super Future",
-          "duration": 271020,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e8b3f5bc229ac0008a812e96",
-          "preview_url": "https://p.scdn.co/mp3-preview/1430db583bcc1968e8899318433200ee39a98086?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0GvbfAQHJYC6A6C55wGgRX",
-          "streaming_service": "spotify",
-          "title": "Lay It Back",
-          "artist_name": "Super Future, Viskus",
-          "duration": 176551,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02fa1c5de0ed511b7bac15835d",
-          "preview_url": "https://p.scdn.co/mp3-preview/8c3ac7514296d9d10f5cc30afb3d28287d5b5200?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5kzxrx7uts6KIa5GFgXPWq",
-          "streaming_service": "spotify",
-          "title": "WEEKENDS",
-          "artist_name": "Wreckno, Super Future, Eco X2",
-          "duration": 223542,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02dff58d2269a04b62eea744fa",
-          "preview_url": "https://p.scdn.co/mp3-preview/ffb6ee28e3e8b2fef9eaec2ca9a7b8d43f6d8d88?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3MgIQJdaPXaPeQPoZupuGr",
-          "streaming_service": "spotify",
-          "title": "Dark Star",
-          "artist_name": "Super Future",
-          "duration": 197571,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0254e2f8d0021c4ca6d78d5300",
-          "preview_url": "https://p.scdn.co/mp3-preview/176280459f7a62aab1deca52c68f240d0eccca05?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5fOeBtjlMJgSLduj6Croaf",
-          "streaming_service": "spotify",
-          "title": "Got Them Weak!",
-          "artist_name": "Super Future",
-          "duration": 147555,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025e8215e967141d85450a4836",
-          "preview_url": "https://p.scdn.co/mp3-preview/e69c84aef0701f564b7d2d43a713de18dc15acc6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "60wesx1GNSN8lp4qYc7AXb",
-          "streaming_service": "spotify",
-          "title": "KING SH!T",
-          "artist_name": "Super Future",
-          "duration": 195000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025e8215e967141d85450a4836",
-          "preview_url": "https://p.scdn.co/mp3-preview/bf0a35f10db5fb53b34caaac0c89778348dcee3b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3uPZ63Nb4TwJByKZPAnm73",
-          "streaming_service": "spotify",
-          "title": "Want",
-          "artist_name": "Super Future",
-          "duration": 173333,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025e8215e967141d85450a4836",
-          "preview_url": "https://p.scdn.co/mp3-preview/3e7785d4252d93095a1049123fb3039e202fa0a5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2040795,
       "external_id": "1909092",
       "published": true,
@@ -20113,176 +20452,6 @@
           "duration": 256239,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0230254afeba6a8c93852587e4",
           "preview_url": "https://p.scdn.co/mp3-preview/f2031986785eaee760136dfb51e19a6cd4c3885a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040761,
-      "external_id": "1916784",
-      "published": true,
-      "name": "Thomas Anthony",
-      "body": "Thomas Anthony is a seasoned music producer and DJ from Edmonton, AB, Canada, on a mission to effortlessly blend the commanding force of bass & tech house with the timeless elegance of classic piano.<br />\n<br />\nHis high-energy house music, known as Thicc House Music, has accumulated over 10 million streams and received support from top-tier artists such as Benny Benassi, Idris Elba, KSHMR, Don Diablo, Marten Horger, Dr. Fresch, Alok, Wuki, Cat Dealers, and Bijou at world-renowned music festivals (Tomorrowland, Creamfields, Shambhala, Beyond Wonderland, and Escape Halloween).<br />\n<br />\nWith official releases on Hexhibition, Confession, DND Recs, Box Of Cats, and Enormous Tunes, along with 11 chart-topping remixes, all signs point to more Thicc House Music.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627058_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627058_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627058_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627058_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "ItsTomAnthony",
-        "instagram_user": "ItsTomAnthony",
-        "youtube_user": "itstomanthony",
-        "soundcloud_user": "ItsTomAnthony",
-        "spotify_artist_id": "2Kipffvr3gbA2BpMFe0RsI"
-      },
-      "performances": [
-        {
-          "id": 250145,
-          "external_id": "866031",
-          "published": true,
-          "body": "Thomas Anthony is a seasoned music producer and DJ from Edmonton, AB, Canada, on a mission to effortlessly blend the commanding force of bass & tech house with the timeless elegance of classic piano.\n\nHis high-energy house music, known as Thicc House Music, has accumulated over 10 million streams and received support from top-tier artists such as Benny Benassi, Idris Elba, KSHMR, Don Diablo, Marten Horger, Dr. Fresch, Alok, Wuki, Cat Dealers, and Bijou at world-renowned music festivals (Tomorrowland, Creamfields, Shambhala, Beyond Wonderland, and Escape Halloween).\n\nWith official releases on Hexhibition, Confession, DND Recs, Box Of Cats, and Enormous Tunes, along with 11 chart-topping remixes, all signs point to more Thicc House Music.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040761,
-          "stage_id": 12501,
-          "stage_name": "Fractal Forest",
-          "date_id": 3940,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-28T11:00:00+00:00",
-          "end_time": "2025-07-28T12:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "5ok1fjcYf8JUtcxK8ruOzP",
-          "streaming_service": "spotify",
-          "title": "Tom’s Diner - Club Mix",
-          "artist_name": "Thomas Anthony, White Gypsy",
-          "duration": 214000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02927c5906d002b9b4c1e39ab9",
-          "preview_url": "https://p.scdn.co/mp3-preview/3cc18800d63a28a62a0aa4ed97157ca12f85f65c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7JzAnBLfDFs8iwuoFDhcCb",
-          "streaming_service": "spotify",
-          "title": "Tom’s Diner",
-          "artist_name": "Thomas Anthony, White Gypsy",
-          "duration": 251764,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02927c5906d002b9b4c1e39ab9",
-          "preview_url": "https://p.scdn.co/mp3-preview/f09da7900908a4422d6641d4d53c320dc9fa92f0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0gfGy5EirG8EfV1GsMdBNd",
-          "streaming_service": "spotify",
-          "title": "Rhythm Is Groove",
-          "artist_name": "Thomas Anthony, Mood Swing & Chevy Bass, Sharif D",
-          "duration": 186666,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0233f12339a78efabf2125e8d4",
-          "preview_url": "https://p.scdn.co/mp3-preview/0f46a24db6f3202cf0d23741982e7bdd06283f8b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2DuMiidQDXoWrdYkYImWb6",
-          "streaming_service": "spotify",
-          "title": "Turn up the Volume",
-          "artist_name": "Thomas Anthony",
-          "duration": 162187,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ac04f29285ec7a7e8917df1f",
-          "preview_url": "https://p.scdn.co/mp3-preview/98417e583c72a2049425ab25fcd45902a8b137c7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7bQ9IsEEdaSO7UWEsNOc4U",
-          "streaming_service": "spotify",
-          "title": "Underwater",
-          "artist_name": "Thomas Anthony, We Are Robots",
-          "duration": 261190,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0201b132d12c2224f9eab1e036",
-          "preview_url": "https://p.scdn.co/mp3-preview/5a62516c7ac58979013fc9b23d3c42cac9ff36f6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3kCjlZSVK6qmeTdjko4xMq",
-          "streaming_service": "spotify",
-          "title": "Rude Boi Riddem",
-          "artist_name": "Thomas Anthony, AXON",
-          "duration": 170989,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027127e429f0d728dd65b9881a",
-          "preview_url": "https://p.scdn.co/mp3-preview/28f4c9a12a98c4fef30658ee5cee5eefb22c564a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6kSzovQcMFwA78j7iag0Rt",
-          "streaming_service": "spotify",
-          "title": "Repent",
-          "artist_name": "Thomas Anthony, Avi Sic",
-          "duration": 239076,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e7e1536fd70c84a5023c2b65",
-          "preview_url": "https://p.scdn.co/mp3-preview/4a7f72545c8dea6d15bfcae2b249cc003eb5ab9d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "79pVD2PQskvzYZI4T9QyYq",
-          "streaming_service": "spotify",
-          "title": "Teen Spirit",
-          "artist_name": "Thomas Anthony",
-          "duration": 193777,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024872cf0bcbc618d4c49067cc",
-          "preview_url": "https://p.scdn.co/mp3-preview/708593cd3b43b7b922a9feb0ff9422d51a42e114?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2Uv0cyRiDRUQrakHJVnFE2",
-          "streaming_service": "spotify",
-          "title": "Teen Spirit - Extended Mix",
-          "artist_name": "Thomas Anthony",
-          "duration": 256000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024872cf0bcbc618d4c49067cc",
-          "preview_url": "https://p.scdn.co/mp3-preview/fddc5e9c5c9ea59a02191dac97d0b3c47fdce3de?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "26ymYN71kHUlWnK7i3xP3i",
-          "streaming_service": "spotify",
-          "title": "Make It Right",
-          "artist_name": "Cat Dealers, Thomas Anthony",
-          "duration": 208636,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e023eba0351aa21e34293bc2d0d",
-          "preview_url": "https://p.scdn.co/mp3-preview/655be133c443d9e7212085f32c4874103937636d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         }
       ],
       "show_in_search": true,
@@ -27417,175 +27586,6 @@
         }
       ],
       "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040675,
-      "external_id": "1920550",
-      "published": true,
-      "name": "TKO",
-      "body": "TKO is a Calgary, Canada-based producer and DJ celebrated for his genre-fluid approach to electronic music. Since 2012, he's been making waves with releases on respected labels like Dirtybird, Force Of Habit, Feral One, Tall Door Records and more. His music has not only captured attention but has also led him to share the stage with some of the industry's biggest names, solidifying his status as an innovative force in the scene.<br />\n<br />\nWhen it comes to his performances, he keeps things fresh and unpredictable. His sets are a dynamic mix of unreleased edits, original tracks, and clever genre blends, reflecting his profound love for music and his talent for engaging crowds. His commitment to crafting memorable experiences sets him apart in the world of electronic music.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626140_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626140_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626140_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626140_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "tykromm",
-        "instagram_user": "tykromm",
-        "soundcloud_user": "tko-sound",
-        "spotify_artist_id": "4DMc9TmJtmUcq2xKJiWqR2"
-      },
-      "performances": [
-        {
-          "id": 250054,
-          "external_id": "866073",
-          "published": true,
-          "body": "TKO is a Calgary, Canada-based producer and DJ celebrated for his genre-fluid approach to electronic music. Since 2012, he's been making waves with releases on respected labels like Dirtybird, Force Of Habit, Feral One, Tall Door Records and more. His music has not only captured attention but has also led him to share the stage with some of the industry's biggest names, solidifying his status as an innovative force in the scene.\n\nWhen it comes to his performances, he keeps things fresh and unpredictable. His sets are a dynamic mix of unreleased edits, original tracks, and clever genre blends, reflecting his profound love for music and his talent for engaging crowds. His commitment to crafting memorable experiences sets him apart in the world of electronic music.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040675,
-          "stage_id": 12490,
-          "stage_name": "Pagoda",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T00:00:00+00:00",
-          "end_time": "2025-07-26T01:15:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "6ulUiHMb0cP7xUM5trFjXi",
-          "streaming_service": "spotify",
-          "title": "Dance",
-          "artist_name": "Eric Mark, Kivi, TKO",
-          "duration": 233040,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0214dc5963d322daf438428485",
-          "preview_url": "https://p.scdn.co/mp3-preview/7cb7469b8d1d1916e8e69a7c7b4339c208c86154?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4qo0pz8ZfzFNkyRhAhmGjn",
-          "streaming_service": "spotify",
-          "title": "LOUD",
-          "artist_name": "TKO, FOOTWURK",
-          "duration": 208203,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0214649ff18099fd517eceb680",
-          "preview_url": "https://p.scdn.co/mp3-preview/f857ef9710ebe259371022e526b24f28ab9b3afb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3rQ3wGuScLsovvD8DU6ndk",
-          "streaming_service": "spotify",
-          "title": "Oneironaut - Original Mix",
-          "artist_name": "Longstocking, TKO",
-          "duration": 349838,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e023fb92546eac2556ed94cfc30",
-          "preview_url": "https://p.scdn.co/mp3-preview/45ac81c2652214d04425d03289ad8460d2b24f38?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5Fulck5nPLhd4yhudE0KAB",
-          "streaming_service": "spotify",
-          "title": "Babe - TKO Remix",
-          "artist_name": "Lodgepole Kind, TKO",
-          "duration": 183333,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02767acf782d2b1f6a8719db14",
-          "preview_url": "https://p.scdn.co/mp3-preview/2b1837d7d5739a68de02d0a41dbf5b6d75a27e13?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2nwnFmCTj8QCet9zytdkL2",
-          "streaming_service": "spotify",
-          "title": "Fomo",
-          "artist_name": "FOOTWURK, TKO",
-          "duration": 161102,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ad7332b0f4b4e6d3c5f25de2",
-          "preview_url": "https://p.scdn.co/mp3-preview/37d55c9633a04197792aee94172ab2f567a45964?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1djEERtdtlXdAOJSHY552w",
-          "streaming_service": "spotify",
-          "title": "Smile & Wave - TKO Remix",
-          "artist_name": "Longstocking, D-Tek, TKO",
-          "duration": 232038,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02af42a7cd06752f635bcc2f7c",
-          "preview_url": "https://p.scdn.co/mp3-preview/ad851a59c46e7861dbd083dd84b4ca255b7056fe?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3hE1V8eIIEqVdg19dykzes",
-          "streaming_service": "spotify",
-          "title": "In The Background",
-          "artist_name": "TKO",
-          "duration": 289523,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025b068c8a13611b10cc6c81e6",
-          "preview_url": "https://p.scdn.co/mp3-preview/bd86735ed46b8c114cb3b0f53925568503c65385?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2P4UVILq1DpXY8PNmCBRlf",
-          "streaming_service": "spotify",
-          "title": "Quick Bite",
-          "artist_name": "Good Neighbor, TKO",
-          "duration": 243750,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0235748aebf1b1d248302c840e",
-          "preview_url": "https://p.scdn.co/mp3-preview/7fc98de68d848e86a70d25e9ca0725fa8abd9192?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1LDGKm4XaLZjN82P23wr78",
-          "streaming_service": "spotify",
-          "title": "Mind & Soul",
-          "artist_name": "TKO, MHNUS",
-          "duration": 281580,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02612f0f6166d6342915412378",
-          "preview_url": "https://p.scdn.co/mp3-preview/2afa780b650fe3e793d70e705d35125b678ac64f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6dQ5xJTPkbHsnwmGwxZEzr",
-          "streaming_service": "spotify",
-          "title": "Puma (TKO Remix)",
-          "artist_name": "TKO, Travis Lydian",
-          "duration": 251612,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0259c25c4ab9afc1bc0bfe4e21",
-          "preview_url": "https://p.scdn.co/mp3-preview/2b2f363091a2e473bbdbb93c01c1978bb31568cb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
