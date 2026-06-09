@@ -668,6 +668,672 @@
       "allow_favoriting": true
     },
     {
+      "id": 2040654,
+      "external_id": "1916936",
+      "published": true,
+      "name": "Ashez",
+      "body": "ASHEZ is a global bass music sensation hailing from Auckland, New Zealand. His innovative sound has captivated audiences worldwide, amassing millions of streams across various platforms.<br />\n<br />\nThroughout his career, ASHEZ has collaborated with some of the biggest names in the bass music scene, including CloZee, Opiuo, Truth, Stylust, and K+Lab. He has toured extensively across the U.S., Canada, Australia, and New Zealand, performing at renowned festivals such as Lightning in a Bottle, Envision, Texas Eclipse, Shambhala, Rabbits Eat Lettuce, Splendour In The Grass, and Esoteric.<br />\n<br />\nWith releases on major labels like Warner Music Australia, Deep Dark and Dangerous, Wakaan, Odyzey, and Wormhole Music Group, ASHEZ continues to push the boundaries of bass music. Known for his high-energy performances and culturally creative style, he offers a refreshing take on the genre.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/31/thumb_5630129_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/31/thumb_5630129_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/31/thumb_5630129_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/31/thumb_5630129_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "ashezmusic",
+        "instagram_user": "ashezmusic",
+        "twitter_user": "ashezmusic",
+        "youtube_channel_id": "UC5dAKRquMINgzgmAbPmhKqw",
+        "soundcloud_user": "ashezmusic",
+        "spotify_artist_id": "4EmkjZuqatnvAygxt3a3tC"
+      },
+      "performances": [
+        {
+          "id": 250032,
+          "external_id": "865527",
+          "published": true,
+          "body": "ASHEZ is a global bass music sensation hailing from Auckland, New Zealand. His innovative sound has captivated audiences worldwide, amassing millions of streams across various platforms.\n\nThroughout his career, ASHEZ has collaborated with some of the biggest names in the bass music scene, including CloZee, Opiuo, Truth, Stylust, and K+Lab. He has toured extensively across the U.S., Canada, Australia, and New Zealand, performing at renowned festivals such as Lightning in a Bottle, Envision, Texas Eclipse, Shambhala, Rabbits Eat Lettuce, Splendour In The Grass, and Esoteric.\n\nWith releases on major labels like Warner Music Australia, Deep Dark and Dangerous, Wakaan, Odyzey, and Wormhole Music Group, ASHEZ continues to push the boundaries of bass music. Known for his high-energy performances and culturally creative style, he offers a refreshing take on the genre.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040654,
+          "stage_id": 12488,
+          "stage_name": "Grove",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T02:30:00+00:00",
+          "end_time": "2025-07-26T03:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "3xGPQcTd1HRvQOcEZIWgKP",
+          "streaming_service": "spotify",
+          "title": "The Elephant",
+          "artist_name": "Stylust, Ashez",
+          "duration": 215183,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ae01f7e8b40b1744f489d64b",
+          "preview_url": "https://p.scdn.co/mp3-preview/4fc5b99e3ccdc7365989fd12c2aa878eab311e36?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0NnxNNHEDApEKFAOuiPEED",
+          "streaming_service": "spotify",
+          "title": "Feel",
+          "artist_name": "Ashez, Efriend",
+          "duration": 244965,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02650468c76b07d6536e411dbc",
+          "preview_url": "https://p.scdn.co/mp3-preview/6974af16f5a4290b6087528d94d2bb41d47ff0f2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1HYA9qwrAX5fcofifHZwAm",
+          "streaming_service": "spotify",
+          "title": "It Made Me Fearless - ASHEZ Remix",
+          "artist_name": "L*o*J, Ashez",
+          "duration": 213333,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f3a9eb9853a55ae6c753dc37",
+          "preview_url": "https://p.scdn.co/mp3-preview/a39a4dbd2f74427371eba3cf0f30b56607a4fcba?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "05j0dS7ZvaC6a4jnkjMags",
+          "streaming_service": "spotify",
+          "title": "Sound - Chmura Remix",
+          "artist_name": "Ashez, Chmura",
+          "duration": 257321,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0252774081b3007c8f57a2fd80",
+          "preview_url": "https://p.scdn.co/mp3-preview/d088fc6f72bfd804981511cac8c3dcfca222456e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0gOK1mXS8EIEwQzKLnQtqG",
+          "streaming_service": "spotify",
+          "title": "Easy To Love",
+          "artist_name": "Ashez",
+          "duration": 279724,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b9e0a9152de16b2ea71f919a",
+          "preview_url": "https://p.scdn.co/mp3-preview/a99608e41cdab519e23f75c3ca4fff05dd2d0fdf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4LWkiX6p8miAZwlgeCEK8h",
+          "streaming_service": "spotify",
+          "title": "Hollow Thrills",
+          "artist_name": "Ashez",
+          "duration": 227988,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a621b9ce7d4a4671eba22f0f",
+          "preview_url": "https://p.scdn.co/mp3-preview/6b289a4b10ae3c34c5d431a1e8f35d9479e8ee67?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4ZdbgG1lzEJY5YFWomSnKZ",
+          "streaming_service": "spotify",
+          "title": "Headway",
+          "artist_name": "Ashez, Gallium",
+          "duration": 195403,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021b0dac20afb9a29af6b18538",
+          "preview_url": "https://p.scdn.co/mp3-preview/36adb104483c30791be2433773b7f47f9b01b197?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6Xx6KRpa03FgxyLy1H11XY",
+          "streaming_service": "spotify",
+          "title": "Gold",
+          "artist_name": "Ashez, Heirz",
+          "duration": 233142,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0222810b37505a3e28f4885df4",
+          "preview_url": "https://p.scdn.co/mp3-preview/163c01b28f382c8f4bc176d58768dac7e804a95f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3o827YUS77gxIoH758dRmE",
+          "streaming_service": "spotify",
+          "title": "Goodtime",
+          "artist_name": "Ashez, Kaipora",
+          "duration": 240000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d7eb95772169adb8f24f3a9b",
+          "preview_url": "https://p.scdn.co/mp3-preview/a713dfb892c0dcb5dac65e2e9e6aaf8de0db8e14?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2PUXhQdRmJOr84WmeCOGwu",
+          "streaming_service": "spotify",
+          "title": "Bad",
+          "artist_name": "Saturna, Chmura, Ashez",
+          "duration": 211764,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a3784bf9b46e5a3587e9b9ed",
+          "preview_url": "https://p.scdn.co/mp3-preview/e5bf55fa626d9a71fb0ec944758bac86e963a232?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040665,
+      "external_id": "1920455",
+      "published": true,
+      "name": "Flipout",
+      "body": "DJ Flipout, known as Canada’s Hip Hop Ambassador, is a Vancouver-based DJ, producer, and vinyl collector with a legacy spanning over two decades. Renowned for his deep knowledge of music, Flipout has a special affinity for 7\" 45rpm vinyl records, focusing on rare finds that can’t be found online. His love for these small but powerful records led him to co-found Flip N Jay Records with longtime collaborator Jay Swing. Known for his refined approach to collecting and DJing, Flipout has built a reputation as a true specialist in the 45 format, embracing its unique history and sound quality.<br />\n<br />\nAlongside his vinyl passion, Flipout is also a respected radio host, author, and the long-time emcee for the Red Bull 3Style World DJ Championships. Whether he’s digging for rare gems or curating eclectic sets, his deep connection to vinyl continues to define his career, making him a key figure in the world of music and DJ culture.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626086_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626086_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626086_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626086_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "flipout",
+        "twitter_user": "flipout",
+        "youtube_channel_id": "UCWnmNgPXNsvEnpbQsmUfuLw"
+      },
+      "performances": [
+        {
+          "id": 250044,
+          "external_id": "865541",
+          "published": true,
+          "body": "DJ Flipout, known as Canada’s Hip Hop Ambassador, is a Vancouver-based DJ, producer, and vinyl collector with a legacy spanning over two decades. Renowned for his deep knowledge of music, Flipout has a special affinity for 7\" 45rpm vinyl records, focusing on rare finds that can’t be found online. His love for these small but powerful records led him to co-found Flip N Jay Records with longtime collaborator Jay Swing. Known for his refined approach to collecting and DJing, Flipout has built a reputation as a true specialist in the 45 format, embracing its unique history and sound quality.\n\nAlongside his vinyl passion, Flipout is also a respected radio host, author, and the long-time emcee for the Red Bull 3Style World DJ Championships. Whether he’s digging for rare gems or curating eclectic sets, his deep connection to vinyl continues to define his career, making him a key figure in the world of music and DJ culture.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040665,
+          "stage_id": 12489,
+          "stage_name": "Living Room",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-25T23:00:00+00:00",
+          "end_time": "2025-07-26T00:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040641,
+      "external_id": "167149",
+      "published": true,
+      "name": "Opiuo",
+      "body": "Opiuo is a genre-bending plethora of auditory and visual masterclasses. Born in 1984 in rural New Zealand, his parents provided the land upon which music festivals were held. This<br />\nextremely formative growth surrounded by the early incarnations of Aotearoa’s electronic music scene exposed him to the celebration of life through self-expression, dance, and giant sound systems. These experiences shaped so much of who he is & what he stands for today. Positivity and movement at the core of the project, his music is an infectious electronic based blend of funk, soul, psychedelia, and booty-shaking bass.<br />\n<br />\nNow calling Australia home, Oscar tours his party-starting music throughout the globe. Having spent more than a decade performing at some of the world's most renowned festivals and venues including Lollapalooza, Glastonbury, and Coachella, as well as selling out Colorado’s famous Red Rocks Amphitheatre multiple times, he’s performed his music in an unimaginably large array of formats. From self-built Orchestras, to collaborating with symphony choirs, touring his own Opiuo Band, and as an immersive solo audio & visual show, his live creativity is limitless.<br />\n<br />\nTaking home the New Zealand Music Award for Best Electronic Album in 2014, his catalogue is vast. Having released 6 full-length albums, 10 EPs, and a myriad of singles and remixes over the last 14 years. In his own words, he is still \"just getting started!\"",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463912_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463912_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463912_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463912_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463912_performance_960.png",
+        "1080": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463912_performance_1080.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "opiuo",
+        "instagram_user": "opiuo"
+      },
+      "performances": [
+        {
+          "id": 250019,
+          "external_id": "865486",
+          "published": true,
+          "body": "Opiuo is a genre-bending plethora of auditory and visual masterclasses. Born in 1984 in rural New Zealand, his parents provided the land upon which music festivals were held. This\nextremely formative growth surrounded by the early incarnations of Aotearoa’s electronic music scene exposed him to the celebration of life through self-expression, dance, and giant sound systems. These experiences shaped so much of who he is & what he stands for today. Positivity and movement at the core of the project, his music is an infectious electronic based blend of funk, soul, psychedelia, and booty-shaking bass.\n\nNow calling Australia home, Oscar tours his party-starting music throughout the globe. Having spent more than a decade performing at some of the world's most renowned festivals and venues including Lollapalooza, Glastonbury, and Coachella, as well as selling out Colorado’s famous Red Rocks Amphitheatre multiple times, he’s performed his music in an unimaginably large array of formats. From self-built Orchestras, to collaborating with symphony choirs, touring his own Opiuo Band, and as an immersive solo audio & visual show, his live creativity is limitless.\n\nTaking home the New Zealand Music Award for Best Electronic Album in 2014, his catalogue is vast. Having released 6 full-length albums, 10 EPs, and a myriad of singles and remixes over the last 14 years. In his own words, he is still \"just getting started!\"",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040641,
+          "stage_id": 12487,
+          "stage_name": "Fractal Forest",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T06:00:00+00:00",
+          "end_time": "2025-07-26T07:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040594,
+      "external_id": "167182",
+      "published": true,
+      "name": "WHIPPED CREAM",
+      "body": "Spinning on ice isn’t the only thing WHIPPED CREAM’s turning heads on. Once a competitive<br />\nfigure skater, Toronto-born Caroline Cecil knows how to bewitch a crowd. Channeling her love<br />\nand passion for all things music on and off the ice - WHIPPED CREAM, captivated by cinematic<br />\nsoundscapes and underlying bass riffs - turned to production to hone in on her creative ingenuity. Paving her own lane unlike any other with influences from the likes of Hans Zimmer<br />\nto Kanye to Skrillex - WHIPPED CREAM is formulating her own sound while expressing through<br />\ndynamic live performances an incomparable energy.<br />\n<br />\nNever not creating, WHIPPED CREAM continues to ever expand on her sound, showcased<br />\nthroughout the music she continues to release in 2025 including her most recent body of work -<br />\nCareline - and alter ego exploring the House and Techno space. Not just a Producer and DJ, but a<br />\nSongwriter, Vocalist, Musician - pushing her own boundaries to be the best Artist she can be<br />\nwhile being true to her most authentic self. Fusing her passion and love for hip-hop, cinema,<br />\nelectronica and everything in between, she impressively navigates these genres fluidly, truly<br />\ninvoking a feeling like no other.<br />\n<br />\nEnding the year strong with her ‘is this real?’ North America headline tour - 2025 expect more<br />\nshows, festivals, releases and more. With past momentous performance accolades such as<br />\nCoachella, Lollapalooza, Tomorrowland and more high-caliber experiences on the books for this<br />\nyear, the WHIPPED CREAM experience is one that can’t be replicated. Whether you’re watching<br />\nher perform or streaming her music, WHIPPED CREAM is here to provide a high-energy,<br />\nthought-provoking feeling - appealing to any music and art lover.<br />\nYour producer's favorite producer is now in session.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463864_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463864_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463864_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463864_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "whippedcreammusic",
+        "instagram_user": "whippedcream/",
+        "twitter_user": "whippedcream",
+        "youtube_user": "channel/UC0946nS6sk6G_0VV3gHPmkA",
+        "spotify_artist_id": "5CMaNobmJYgXcfiT0zYOwi"
+      },
+      "performances": [
+        {
+          "id": 249973,
+          "external_id": "865492",
+          "published": true,
+          "body": "Spinning on ice isn’t the only thing WHIPPED CREAM’s turning heads on. Once a competitive\nfigure skater, Toronto-born Caroline Cecil knows how to bewitch a crowd. Channeling her love\nand passion for all things music on and off the ice - WHIPPED CREAM, captivated by cinematic\nsoundscapes and underlying bass riffs - turned to production to hone in on her creative ingenuity. Paving her own lane unlike any other with influences from the likes of Hans Zimmer\nto Kanye to Skrillex - WHIPPED CREAM is formulating her own sound while expressing through\ndynamic live performances an incomparable energy.\n\nNever not creating, WHIPPED CREAM continues to ever expand on her sound, showcased\nthroughout the music she continues to release in 2025 including her most recent body of work -\nCareline - and alter ego exploring the House and Techno space. Not just a Producer and DJ, but a\nSongwriter, Vocalist, Musician - pushing her own boundaries to be the best Artist she can be\nwhile being true to her most authentic self. Fusing her passion and love for hip-hop, cinema,\nelectronica and everything in between, she impressively navigates these genres fluidly, truly\ninvoking a feeling like no other.\n\nEnding the year strong with her ‘is this real?’ North America headline tour - 2025 expect more\nshows, festivals, releases and more. With past momentous performance accolades such as\nCoachella, Lollapalooza, Tomorrowland and more high-caliber experiences on the books for this\nyear, the WHIPPED CREAM experience is one that can’t be replicated. Whether you’re watching\nher perform or streaming her music, WHIPPED CREAM is here to provide a high-energy,\nthought-provoking feeling - appealing to any music and art lover.\nYour producer's favorite producer is now in session.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040594,
+          "stage_id": 12486,
+          "stage_name": "AMP",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T06:00:00+00:00",
+          "end_time": "2025-07-26T07:15:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "4JXgJ33UmguXF3F9B5LwlD",
+          "streaming_service": "spotify",
+          "title": "Be Here (La La La)",
+          "artist_name": "WHIPPED CREAM, The Duchess",
+          "duration": 140645,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a6db8573d7757400117e5f4e",
+          "preview_url": "https://p.scdn.co/mp3-preview/88c14cfb5610e2d64709b2dfc9f84634b787476d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2v5lLKdZG0PsXGWfvigk55",
+          "streaming_service": "spotify",
+          "title": "Rewind.. (But I Love You)",
+          "artist_name": "WHIPPED CREAM",
+          "duration": 173609,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0220e1128855ce92371fdd9744",
+          "preview_url": "https://p.scdn.co/mp3-preview/717cb685539e1cac034c9c500dca8c436d3310ba?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "13vQWuSdCKWW7HgalrdMqH",
+          "streaming_service": "spotify",
+          "title": "Angels",
+          "artist_name": "WHIPPED CREAM",
+          "duration": 197647,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0293eca5656853cdf8068c6902",
+          "preview_url": "https://p.scdn.co/mp3-preview/84d764b5e4f4c2fe64884b4a49d19c59d583ddf7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3jMeoTAxDrZfkVxMmWcWCg",
+          "streaming_service": "spotify",
+          "title": "Light of Mine",
+          "artist_name": "WHIPPED CREAM, Jimorrow",
+          "duration": 150250,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e023d6477f6291b31a1aca2fd87",
+          "preview_url": "https://p.scdn.co/mp3-preview/368ec248a85cda6a2acb7d09a5786c57bc01383f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5REKvuYgfoy1LzwG6JC8Qg",
+          "streaming_service": "spotify",
+          "title": "real 4 me",
+          "artist_name": "WHIPPED CREAM, BKAYE",
+          "duration": 145588,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ab6e368ad282d9908add4032",
+          "preview_url": "https://p.scdn.co/mp3-preview/1c69e6f0e6fa52f6a11a9981f2247e559e0a9d12?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5fu8pfEsXXA9mY0F9grAce",
+          "streaming_service": "spotify",
+          "title": "midnight moon",
+          "artist_name": "WHIPPED CREAM",
+          "duration": 137538,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f1090c9dc33f3953be019a94",
+          "preview_url": "https://p.scdn.co/mp3-preview/0d967a4a793b69f7cc425218dc1707ab8f19fad7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4oUGpA6hRlkiN1qe9m7CcB",
+          "streaming_service": "spotify",
+          "title": "it's time to go home",
+          "artist_name": "WHIPPED CREAM",
+          "duration": 167142,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f1090c9dc33f3953be019a94",
+          "preview_url": "https://p.scdn.co/mp3-preview/20dc06313484110d3a8f122307d6839549740d03?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "40FXPAPxfMdhlSRyWlIVzC",
+          "streaming_service": "spotify",
+          "title": "life",
+          "artist_name": "WHIPPED CREAM",
+          "duration": 156279,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f1090c9dc33f3953be019a94",
+          "preview_url": "https://p.scdn.co/mp3-preview/c85ce433e40319613b993a3f6e865b79436593f8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "17UTj4DVP0mOqoHqJpFKep",
+          "streaming_service": "spotify",
+          "title": "2 u",
+          "artist_name": "WHIPPED CREAM",
+          "duration": 136170,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f1090c9dc33f3953be019a94",
+          "preview_url": "https://p.scdn.co/mp3-preview/4f6286ea0d4cc761e4c93d7e195091aa0be28d00?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7rIncPcHyKmnsZgyvGhoDw",
+          "streaming_service": "spotify",
+          "title": "stranger",
+          "artist_name": "WHIPPED CREAM, Ehiorobo",
+          "duration": 148943,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f1090c9dc33f3953be019a94",
+          "preview_url": "https://p.scdn.co/mp3-preview/084950985528af41d00055ed493255d6c723da6d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040685,
+      "external_id": "180912",
+      "published": true,
+      "name": "Stylust",
+      "body": "A longtime skateboarder and hip hop devotee, Geoff “Stylust” Reich has always been a rebel with a passion for his art form, so it’s no surprise that this Canadian DJ/producer’s talent for fusing rap hooks and heavy bass with electronic music has earned him the rep as a creative renegade carving his own path.<br />\n<br />\nTouring as Stylust, Geoff has played all over the United States, Canada, and Europe, appearing at major festivals like Shambhala, Coachella, Outlook, LIB, Envision and BassCenter to name a few. Stylust’s uncanny ability to melt multiple influences and genres has led to music that’s reached millions of listeners, earning him exciting releases and collabs with artists like Bassnectar, Minnesota, Truth and many others.<br />\n<br />\nWith a bass-heavy yet timeless sound, Stylust electrifies dancefloors with his<br />\nimpeccable mixing and high energy stage presence.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "stylustbeats/",
+        "instagram_user": "stylustbeats/",
+        "twitter_user": "StylustBeats",
+        "soundcloud_user": "stylustbeats",
+        "spotify_artist_id": "2Y1LgWOVPz5m1qCuzkWEQu"
+      },
+      "performances": [
+        {
+          "id": 250064,
+          "external_id": "865594",
+          "published": true,
+          "body": "A longtime skateboarder and hip hop devotee, Geoff “Stylust” Reich has always been a rebel with a passion for his art form, so it’s no surprise that this Canadian DJ/producer’s talent for fusing rap hooks and heavy bass with electronic music has earned him the rep as a creative renegade carving his own path.\n\nTouring as Stylust, Geoff has played all over the United States, Canada, and Europe, appearing at major festivals like Shambhala, Coachella, Outlook, LIB, Envision and BassCenter to name a few. Stylust’s uncanny ability to melt multiple influences and genres has led to music that’s reached millions of listeners, earning him exciting releases and collabs with artists like Bassnectar, Minnesota, Truth and many others.\n\nWith a bass-heavy yet timeless sound, Stylust electrifies dancefloors with his\nimpeccable mixing and high energy stage presence.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040685,
+          "stage_id": 12491,
+          "stage_name": "Village",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T03:30:00+00:00",
+          "end_time": "2025-07-26T04:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "0Vb2naU2kBlWsniIbfXRsG",
+          "streaming_service": "spotify",
+          "title": "Raindrops (feat. Of the Trees & Perkulat0r)",
+          "artist_name": "Stylust, Of The Trees, Perkulat0r",
+          "duration": 204000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021ca76e60751f804ef6ce2d02",
+          "preview_url": "https://p.scdn.co/mp3-preview/e1c49afa59461f7edfed85d58af5a65aea40af48?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5ai08KHbNOdG0k3Y24mHkk",
+          "streaming_service": "spotify",
+          "title": "Heavy Metal Shit (feat. Lafa Taylor & Neon Steve)",
+          "artist_name": "Stylust, Lafa Taylor, Neon Steve",
+          "duration": 177750,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021ca76e60751f804ef6ce2d02",
+          "preview_url": "https://p.scdn.co/mp3-preview/cb851d0fe2178e3db75bc08c43a15d26fc2e5ef0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5RLo69t3nlQ5YwXsJTYH5i",
+          "streaming_service": "spotify",
+          "title": "Heavyweights",
+          "artist_name": "AHEE, Stylust",
+          "duration": 184759,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e4b0f08000f873b7beba561c",
+          "preview_url": "https://p.scdn.co/mp3-preview/ddd532613d3d1abaedc2b24ade3bcd0cd66cc2e8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3h151uk2sF59N4aQHQEJEh",
+          "streaming_service": "spotify",
+          "title": "CONTROL DUB",
+          "artist_name": "Stylust",
+          "duration": 170219,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02519ce46356a3217ded712d43",
+          "preview_url": "https://p.scdn.co/mp3-preview/484208890e594027c0dad1483333ac4c3ffd6f0b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3xGPQcTd1HRvQOcEZIWgKP",
+          "streaming_service": "spotify",
+          "title": "The Elephant",
+          "artist_name": "Stylust, Ashez",
+          "duration": 215183,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ae01f7e8b40b1744f489d64b",
+          "preview_url": "https://p.scdn.co/mp3-preview/4fc5b99e3ccdc7365989fd12c2aa878eab311e36?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6UUHSZY42nNQZVjLuDUguX",
+          "streaming_service": "spotify",
+          "title": "Feel Alive",
+          "artist_name": "Stylust",
+          "duration": 162206,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e027697cb417f8b299ca7738bf3",
+          "preview_url": "https://p.scdn.co/mp3-preview/a366822f181eba046efaf581fa5d989b47e16cea?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3BYIRz0uicskFdJrLkcs7v",
+          "streaming_service": "spotify",
+          "title": "Stay Close",
+          "artist_name": "Stylust, Abstrakt Sonance, JLEON",
+          "duration": 238285,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025921948c0b972bf4e7c80633",
+          "preview_url": "https://p.scdn.co/mp3-preview/15117235416f1cff93735eabaec84544c28ccf49?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5TpjbRicHv3WLEleVVuhmt",
+          "streaming_service": "spotify",
+          "title": "We Run Sound",
+          "artist_name": "Ganja White Night, Stylust, PAV4N, Da Fuchaman",
+          "duration": 239914,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02442ce50eea60dc6c8feaedb9",
+          "preview_url": "https://p.scdn.co/mp3-preview/4ead03ee79f88ae57fd6b30e114f03d4946eeba3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0BM3ETJnR59CdZUxGi2Po9",
+          "streaming_service": "spotify",
+          "title": "Oxygen",
+          "artist_name": "AHEE, Stylust",
+          "duration": 154000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e023924bfd38f7c159c633d02c3",
+          "preview_url": "https://p.scdn.co/mp3-preview/bb51cb2e07264824b42ca04cfbced6336a77e56d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5cJ1HcWu1vOpDmW3NKU99J",
+          "streaming_service": "spotify",
+          "title": "Rebola",
+          "artist_name": "CØNTRA, Stylust",
+          "duration": 225995,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d98105cf49a4e455d3c198e3",
+          "preview_url": "https://p.scdn.co/mp3-preview/2c46813180ebf5c4659b9d50913be3338053f353?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2040799,
       "external_id": "1916745",
       "published": true,
@@ -4632,83 +5298,6 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040665,
-      "external_id": "1920455",
-      "published": true,
-      "name": "Flipout",
-      "body": "DJ Flipout, known as Canada’s Hip Hop Ambassador, is a Vancouver-based DJ, producer, and vinyl collector with a legacy spanning over two decades. Renowned for his deep knowledge of music, Flipout has a special affinity for 7\" 45rpm vinyl records, focusing on rare finds that can’t be found online. His love for these small but powerful records led him to co-found Flip N Jay Records with longtime collaborator Jay Swing. Known for his refined approach to collecting and DJing, Flipout has built a reputation as a true specialist in the 45 format, embracing its unique history and sound quality.<br />\n<br />\nAlongside his vinyl passion, Flipout is also a respected radio host, author, and the long-time emcee for the Red Bull 3Style World DJ Championships. Whether he’s digging for rare gems or curating eclectic sets, his deep connection to vinyl continues to define his career, making him a key figure in the world of music and DJ culture.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626086_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626086_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626086_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626086_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "flipout",
-        "twitter_user": "flipout",
-        "youtube_channel_id": "UCWnmNgPXNsvEnpbQsmUfuLw"
-      },
-      "performances": [
-        {
-          "id": 250044,
-          "external_id": "865541",
-          "published": true,
-          "body": "DJ Flipout, known as Canada’s Hip Hop Ambassador, is a Vancouver-based DJ, producer, and vinyl collector with a legacy spanning over two decades. Renowned for his deep knowledge of music, Flipout has a special affinity for 7\" 45rpm vinyl records, focusing on rare finds that can’t be found online. His love for these small but powerful records led him to co-found Flip N Jay Records with longtime collaborator Jay Swing. Known for his refined approach to collecting and DJing, Flipout has built a reputation as a true specialist in the 45 format, embracing its unique history and sound quality.\n\nAlongside his vinyl passion, Flipout is also a respected radio host, author, and the long-time emcee for the Red Bull 3Style World DJ Championships. Whether he’s digging for rare gems or curating eclectic sets, his deep connection to vinyl continues to define his career, making him a key figure in the world of music and DJ culture.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040665,
-          "stage_id": 12489,
-          "stage_name": "Living Room",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-25T23:00:00+00:00",
-          "end_time": "2025-07-26T00:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2040698,
       "external_id": "188019",
       "published": true,
@@ -5371,177 +5960,6 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040654,
-      "external_id": "1916936",
-      "published": true,
-      "name": "Ashez",
-      "body": "ASHEZ is a global bass music sensation hailing from Auckland, New Zealand. His innovative sound has captivated audiences worldwide, amassing millions of streams across various platforms.<br />\n<br />\nThroughout his career, ASHEZ has collaborated with some of the biggest names in the bass music scene, including CloZee, Opiuo, Truth, Stylust, and K+Lab. He has toured extensively across the U.S., Canada, Australia, and New Zealand, performing at renowned festivals such as Lightning in a Bottle, Envision, Texas Eclipse, Shambhala, Rabbits Eat Lettuce, Splendour In The Grass, and Esoteric.<br />\n<br />\nWith releases on major labels like Warner Music Australia, Deep Dark and Dangerous, Wakaan, Odyzey, and Wormhole Music Group, ASHEZ continues to push the boundaries of bass music. Known for his high-energy performances and culturally creative style, he offers a refreshing take on the genre.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/31/thumb_5630129_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/31/thumb_5630129_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/31/thumb_5630129_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/31/thumb_5630129_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "ashezmusic",
-        "instagram_user": "ashezmusic",
-        "twitter_user": "ashezmusic",
-        "youtube_channel_id": "UC5dAKRquMINgzgmAbPmhKqw",
-        "soundcloud_user": "ashezmusic",
-        "spotify_artist_id": "4EmkjZuqatnvAygxt3a3tC"
-      },
-      "performances": [
-        {
-          "id": 250032,
-          "external_id": "865527",
-          "published": true,
-          "body": "ASHEZ is a global bass music sensation hailing from Auckland, New Zealand. His innovative sound has captivated audiences worldwide, amassing millions of streams across various platforms.\n\nThroughout his career, ASHEZ has collaborated with some of the biggest names in the bass music scene, including CloZee, Opiuo, Truth, Stylust, and K+Lab. He has toured extensively across the U.S., Canada, Australia, and New Zealand, performing at renowned festivals such as Lightning in a Bottle, Envision, Texas Eclipse, Shambhala, Rabbits Eat Lettuce, Splendour In The Grass, and Esoteric.\n\nWith releases on major labels like Warner Music Australia, Deep Dark and Dangerous, Wakaan, Odyzey, and Wormhole Music Group, ASHEZ continues to push the boundaries of bass music. Known for his high-energy performances and culturally creative style, he offers a refreshing take on the genre.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040654,
-          "stage_id": 12488,
-          "stage_name": "Grove",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T02:30:00+00:00",
-          "end_time": "2025-07-26T03:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "3xGPQcTd1HRvQOcEZIWgKP",
-          "streaming_service": "spotify",
-          "title": "The Elephant",
-          "artist_name": "Stylust, Ashez",
-          "duration": 215183,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ae01f7e8b40b1744f489d64b",
-          "preview_url": "https://p.scdn.co/mp3-preview/4fc5b99e3ccdc7365989fd12c2aa878eab311e36?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0NnxNNHEDApEKFAOuiPEED",
-          "streaming_service": "spotify",
-          "title": "Feel",
-          "artist_name": "Ashez, Efriend",
-          "duration": 244965,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02650468c76b07d6536e411dbc",
-          "preview_url": "https://p.scdn.co/mp3-preview/6974af16f5a4290b6087528d94d2bb41d47ff0f2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1HYA9qwrAX5fcofifHZwAm",
-          "streaming_service": "spotify",
-          "title": "It Made Me Fearless - ASHEZ Remix",
-          "artist_name": "L*o*J, Ashez",
-          "duration": 213333,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f3a9eb9853a55ae6c753dc37",
-          "preview_url": "https://p.scdn.co/mp3-preview/a39a4dbd2f74427371eba3cf0f30b56607a4fcba?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "05j0dS7ZvaC6a4jnkjMags",
-          "streaming_service": "spotify",
-          "title": "Sound - Chmura Remix",
-          "artist_name": "Ashez, Chmura",
-          "duration": 257321,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0252774081b3007c8f57a2fd80",
-          "preview_url": "https://p.scdn.co/mp3-preview/d088fc6f72bfd804981511cac8c3dcfca222456e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0gOK1mXS8EIEwQzKLnQtqG",
-          "streaming_service": "spotify",
-          "title": "Easy To Love",
-          "artist_name": "Ashez",
-          "duration": 279724,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b9e0a9152de16b2ea71f919a",
-          "preview_url": "https://p.scdn.co/mp3-preview/a99608e41cdab519e23f75c3ca4fff05dd2d0fdf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4LWkiX6p8miAZwlgeCEK8h",
-          "streaming_service": "spotify",
-          "title": "Hollow Thrills",
-          "artist_name": "Ashez",
-          "duration": 227988,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a621b9ce7d4a4671eba22f0f",
-          "preview_url": "https://p.scdn.co/mp3-preview/6b289a4b10ae3c34c5d431a1e8f35d9479e8ee67?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4ZdbgG1lzEJY5YFWomSnKZ",
-          "streaming_service": "spotify",
-          "title": "Headway",
-          "artist_name": "Ashez, Gallium",
-          "duration": 195403,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021b0dac20afb9a29af6b18538",
-          "preview_url": "https://p.scdn.co/mp3-preview/36adb104483c30791be2433773b7f47f9b01b197?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6Xx6KRpa03FgxyLy1H11XY",
-          "streaming_service": "spotify",
-          "title": "Gold",
-          "artist_name": "Ashez, Heirz",
-          "duration": 233142,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0222810b37505a3e28f4885df4",
-          "preview_url": "https://p.scdn.co/mp3-preview/163c01b28f382c8f4bc176d58768dac7e804a95f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3o827YUS77gxIoH758dRmE",
-          "streaming_service": "spotify",
-          "title": "Goodtime",
-          "artist_name": "Ashez, Kaipora",
-          "duration": 240000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d7eb95772169adb8f24f3a9b",
-          "preview_url": "https://p.scdn.co/mp3-preview/a713dfb892c0dcb5dac65e2e9e6aaf8de0db8e14?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2PUXhQdRmJOr84WmeCOGwu",
-          "streaming_service": "spotify",
-          "title": "Bad",
-          "artist_name": "Saturna, Chmura, Ashez",
-          "duration": 211764,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a3784bf9b46e5a3587e9b9ed",
-          "preview_url": "https://p.scdn.co/mp3-preview/e5bf55fa626d9a71fb0ec944758bac86e963a232?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2040655,
       "external_id": "167173",
       "published": true,
@@ -5790,84 +6208,6 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040641,
-      "external_id": "167149",
-      "published": true,
-      "name": "Opiuo",
-      "body": "Opiuo is a genre-bending plethora of auditory and visual masterclasses. Born in 1984 in rural New Zealand, his parents provided the land upon which music festivals were held. This<br />\nextremely formative growth surrounded by the early incarnations of Aotearoa’s electronic music scene exposed him to the celebration of life through self-expression, dance, and giant sound systems. These experiences shaped so much of who he is & what he stands for today. Positivity and movement at the core of the project, his music is an infectious electronic based blend of funk, soul, psychedelia, and booty-shaking bass.<br />\n<br />\nNow calling Australia home, Oscar tours his party-starting music throughout the globe. Having spent more than a decade performing at some of the world's most renowned festivals and venues including Lollapalooza, Glastonbury, and Coachella, as well as selling out Colorado’s famous Red Rocks Amphitheatre multiple times, he’s performed his music in an unimaginably large array of formats. From self-built Orchestras, to collaborating with symphony choirs, touring his own Opiuo Band, and as an immersive solo audio & visual show, his live creativity is limitless.<br />\n<br />\nTaking home the New Zealand Music Award for Best Electronic Album in 2014, his catalogue is vast. Having released 6 full-length albums, 10 EPs, and a myriad of singles and remixes over the last 14 years. In his own words, he is still \"just getting started!\"",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463912_performance_100.png",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463912_performance_120.png",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463912_performance_250.png",
-        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463912_performance_500.png",
-        "960": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463912_performance_960.png",
-        "1080": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463912_performance_1080.png"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "opiuo",
-        "instagram_user": "opiuo"
-      },
-      "performances": [
-        {
-          "id": 250019,
-          "external_id": "865486",
-          "published": true,
-          "body": "Opiuo is a genre-bending plethora of auditory and visual masterclasses. Born in 1984 in rural New Zealand, his parents provided the land upon which music festivals were held. This\nextremely formative growth surrounded by the early incarnations of Aotearoa’s electronic music scene exposed him to the celebration of life through self-expression, dance, and giant sound systems. These experiences shaped so much of who he is & what he stands for today. Positivity and movement at the core of the project, his music is an infectious electronic based blend of funk, soul, psychedelia, and booty-shaking bass.\n\nNow calling Australia home, Oscar tours his party-starting music throughout the globe. Having spent more than a decade performing at some of the world's most renowned festivals and venues including Lollapalooza, Glastonbury, and Coachella, as well as selling out Colorado’s famous Red Rocks Amphitheatre multiple times, he’s performed his music in an unimaginably large array of formats. From self-built Orchestras, to collaborating with symphony choirs, touring his own Opiuo Band, and as an immersive solo audio & visual show, his live creativity is limitless.\n\nTaking home the New Zealand Music Award for Best Electronic Album in 2014, his catalogue is vast. Having released 6 full-length albums, 10 EPs, and a myriad of singles and remixes over the last 14 years. In his own words, he is still \"just getting started!\"",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040641,
-          "stage_id": 12487,
-          "stage_name": "Fractal Forest",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T06:00:00+00:00",
-          "end_time": "2025-07-26T07:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2040643,
       "external_id": "167087",
       "published": true,
@@ -6030,346 +6370,6 @@
           "duration": 220000,
           "image_url": "https://i.scdn.co/image/ab67616d00001e025aeed95f1d726833932dd13d",
           "preview_url": "https://p.scdn.co/mp3-preview/a218afe1a987d8f8ae4824a6c30cd87365baefec?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040594,
-      "external_id": "167182",
-      "published": true,
-      "name": "WHIPPED CREAM",
-      "body": "Spinning on ice isn’t the only thing WHIPPED CREAM’s turning heads on. Once a competitive<br />\nfigure skater, Toronto-born Caroline Cecil knows how to bewitch a crowd. Channeling her love<br />\nand passion for all things music on and off the ice - WHIPPED CREAM, captivated by cinematic<br />\nsoundscapes and underlying bass riffs - turned to production to hone in on her creative ingenuity. Paving her own lane unlike any other with influences from the likes of Hans Zimmer<br />\nto Kanye to Skrillex - WHIPPED CREAM is formulating her own sound while expressing through<br />\ndynamic live performances an incomparable energy.<br />\n<br />\nNever not creating, WHIPPED CREAM continues to ever expand on her sound, showcased<br />\nthroughout the music she continues to release in 2025 including her most recent body of work -<br />\nCareline - and alter ego exploring the House and Techno space. Not just a Producer and DJ, but a<br />\nSongwriter, Vocalist, Musician - pushing her own boundaries to be the best Artist she can be<br />\nwhile being true to her most authentic self. Fusing her passion and love for hip-hop, cinema,<br />\nelectronica and everything in between, she impressively navigates these genres fluidly, truly<br />\ninvoking a feeling like no other.<br />\n<br />\nEnding the year strong with her ‘is this real?’ North America headline tour - 2025 expect more<br />\nshows, festivals, releases and more. With past momentous performance accolades such as<br />\nCoachella, Lollapalooza, Tomorrowland and more high-caliber experiences on the books for this<br />\nyear, the WHIPPED CREAM experience is one that can’t be replicated. Whether you’re watching<br />\nher perform or streaming her music, WHIPPED CREAM is here to provide a high-energy,<br />\nthought-provoking feeling - appealing to any music and art lover.<br />\nYour producer's favorite producer is now in session.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463864_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463864_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463864_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463864_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "whippedcreammusic",
-        "instagram_user": "whippedcream/",
-        "twitter_user": "whippedcream",
-        "youtube_user": "channel/UC0946nS6sk6G_0VV3gHPmkA",
-        "spotify_artist_id": "5CMaNobmJYgXcfiT0zYOwi"
-      },
-      "performances": [
-        {
-          "id": 249973,
-          "external_id": "865492",
-          "published": true,
-          "body": "Spinning on ice isn’t the only thing WHIPPED CREAM’s turning heads on. Once a competitive\nfigure skater, Toronto-born Caroline Cecil knows how to bewitch a crowd. Channeling her love\nand passion for all things music on and off the ice - WHIPPED CREAM, captivated by cinematic\nsoundscapes and underlying bass riffs - turned to production to hone in on her creative ingenuity. Paving her own lane unlike any other with influences from the likes of Hans Zimmer\nto Kanye to Skrillex - WHIPPED CREAM is formulating her own sound while expressing through\ndynamic live performances an incomparable energy.\n\nNever not creating, WHIPPED CREAM continues to ever expand on her sound, showcased\nthroughout the music she continues to release in 2025 including her most recent body of work -\nCareline - and alter ego exploring the House and Techno space. Not just a Producer and DJ, but a\nSongwriter, Vocalist, Musician - pushing her own boundaries to be the best Artist she can be\nwhile being true to her most authentic self. Fusing her passion and love for hip-hop, cinema,\nelectronica and everything in between, she impressively navigates these genres fluidly, truly\ninvoking a feeling like no other.\n\nEnding the year strong with her ‘is this real?’ North America headline tour - 2025 expect more\nshows, festivals, releases and more. With past momentous performance accolades such as\nCoachella, Lollapalooza, Tomorrowland and more high-caliber experiences on the books for this\nyear, the WHIPPED CREAM experience is one that can’t be replicated. Whether you’re watching\nher perform or streaming her music, WHIPPED CREAM is here to provide a high-energy,\nthought-provoking feeling - appealing to any music and art lover.\nYour producer's favorite producer is now in session.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040594,
-          "stage_id": 12486,
-          "stage_name": "AMP",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T06:00:00+00:00",
-          "end_time": "2025-07-26T07:15:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "4JXgJ33UmguXF3F9B5LwlD",
-          "streaming_service": "spotify",
-          "title": "Be Here (La La La)",
-          "artist_name": "WHIPPED CREAM, The Duchess",
-          "duration": 140645,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a6db8573d7757400117e5f4e",
-          "preview_url": "https://p.scdn.co/mp3-preview/88c14cfb5610e2d64709b2dfc9f84634b787476d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2v5lLKdZG0PsXGWfvigk55",
-          "streaming_service": "spotify",
-          "title": "Rewind.. (But I Love You)",
-          "artist_name": "WHIPPED CREAM",
-          "duration": 173609,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0220e1128855ce92371fdd9744",
-          "preview_url": "https://p.scdn.co/mp3-preview/717cb685539e1cac034c9c500dca8c436d3310ba?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "13vQWuSdCKWW7HgalrdMqH",
-          "streaming_service": "spotify",
-          "title": "Angels",
-          "artist_name": "WHIPPED CREAM",
-          "duration": 197647,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0293eca5656853cdf8068c6902",
-          "preview_url": "https://p.scdn.co/mp3-preview/84d764b5e4f4c2fe64884b4a49d19c59d583ddf7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3jMeoTAxDrZfkVxMmWcWCg",
-          "streaming_service": "spotify",
-          "title": "Light of Mine",
-          "artist_name": "WHIPPED CREAM, Jimorrow",
-          "duration": 150250,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e023d6477f6291b31a1aca2fd87",
-          "preview_url": "https://p.scdn.co/mp3-preview/368ec248a85cda6a2acb7d09a5786c57bc01383f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5REKvuYgfoy1LzwG6JC8Qg",
-          "streaming_service": "spotify",
-          "title": "real 4 me",
-          "artist_name": "WHIPPED CREAM, BKAYE",
-          "duration": 145588,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ab6e368ad282d9908add4032",
-          "preview_url": "https://p.scdn.co/mp3-preview/1c69e6f0e6fa52f6a11a9981f2247e559e0a9d12?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5fu8pfEsXXA9mY0F9grAce",
-          "streaming_service": "spotify",
-          "title": "midnight moon",
-          "artist_name": "WHIPPED CREAM",
-          "duration": 137538,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f1090c9dc33f3953be019a94",
-          "preview_url": "https://p.scdn.co/mp3-preview/0d967a4a793b69f7cc425218dc1707ab8f19fad7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4oUGpA6hRlkiN1qe9m7CcB",
-          "streaming_service": "spotify",
-          "title": "it's time to go home",
-          "artist_name": "WHIPPED CREAM",
-          "duration": 167142,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f1090c9dc33f3953be019a94",
-          "preview_url": "https://p.scdn.co/mp3-preview/20dc06313484110d3a8f122307d6839549740d03?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "40FXPAPxfMdhlSRyWlIVzC",
-          "streaming_service": "spotify",
-          "title": "life",
-          "artist_name": "WHIPPED CREAM",
-          "duration": 156279,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f1090c9dc33f3953be019a94",
-          "preview_url": "https://p.scdn.co/mp3-preview/c85ce433e40319613b993a3f6e865b79436593f8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "17UTj4DVP0mOqoHqJpFKep",
-          "streaming_service": "spotify",
-          "title": "2 u",
-          "artist_name": "WHIPPED CREAM",
-          "duration": 136170,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f1090c9dc33f3953be019a94",
-          "preview_url": "https://p.scdn.co/mp3-preview/4f6286ea0d4cc761e4c93d7e195091aa0be28d00?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7rIncPcHyKmnsZgyvGhoDw",
-          "streaming_service": "spotify",
-          "title": "stranger",
-          "artist_name": "WHIPPED CREAM, Ehiorobo",
-          "duration": 148943,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f1090c9dc33f3953be019a94",
-          "preview_url": "https://p.scdn.co/mp3-preview/084950985528af41d00055ed493255d6c723da6d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040685,
-      "external_id": "180912",
-      "published": true,
-      "name": "Stylust",
-      "body": "A longtime skateboarder and hip hop devotee, Geoff “Stylust” Reich has always been a rebel with a passion for his art form, so it’s no surprise that this Canadian DJ/producer’s talent for fusing rap hooks and heavy bass with electronic music has earned him the rep as a creative renegade carving his own path.<br />\n<br />\nTouring as Stylust, Geoff has played all over the United States, Canada, and Europe, appearing at major festivals like Shambhala, Coachella, Outlook, LIB, Envision and BassCenter to name a few. Stylust’s uncanny ability to melt multiple influences and genres has led to music that’s reached millions of listeners, earning him exciting releases and collabs with artists like Bassnectar, Minnesota, Truth and many others.<br />\n<br />\nWith a bass-heavy yet timeless sound, Stylust electrifies dancefloors with his<br />\nimpeccable mixing and high energy stage presence.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "stylustbeats/",
-        "instagram_user": "stylustbeats/",
-        "twitter_user": "StylustBeats",
-        "soundcloud_user": "stylustbeats",
-        "spotify_artist_id": "2Y1LgWOVPz5m1qCuzkWEQu"
-      },
-      "performances": [
-        {
-          "id": 250064,
-          "external_id": "865594",
-          "published": true,
-          "body": "A longtime skateboarder and hip hop devotee, Geoff “Stylust” Reich has always been a rebel with a passion for his art form, so it’s no surprise that this Canadian DJ/producer’s talent for fusing rap hooks and heavy bass with electronic music has earned him the rep as a creative renegade carving his own path.\n\nTouring as Stylust, Geoff has played all over the United States, Canada, and Europe, appearing at major festivals like Shambhala, Coachella, Outlook, LIB, Envision and BassCenter to name a few. Stylust’s uncanny ability to melt multiple influences and genres has led to music that’s reached millions of listeners, earning him exciting releases and collabs with artists like Bassnectar, Minnesota, Truth and many others.\n\nWith a bass-heavy yet timeless sound, Stylust electrifies dancefloors with his\nimpeccable mixing and high energy stage presence.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040685,
-          "stage_id": 12491,
-          "stage_name": "Village",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T03:30:00+00:00",
-          "end_time": "2025-07-26T04:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "0Vb2naU2kBlWsniIbfXRsG",
-          "streaming_service": "spotify",
-          "title": "Raindrops (feat. Of the Trees & Perkulat0r)",
-          "artist_name": "Stylust, Of The Trees, Perkulat0r",
-          "duration": 204000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021ca76e60751f804ef6ce2d02",
-          "preview_url": "https://p.scdn.co/mp3-preview/e1c49afa59461f7edfed85d58af5a65aea40af48?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5ai08KHbNOdG0k3Y24mHkk",
-          "streaming_service": "spotify",
-          "title": "Heavy Metal Shit (feat. Lafa Taylor & Neon Steve)",
-          "artist_name": "Stylust, Lafa Taylor, Neon Steve",
-          "duration": 177750,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021ca76e60751f804ef6ce2d02",
-          "preview_url": "https://p.scdn.co/mp3-preview/cb851d0fe2178e3db75bc08c43a15d26fc2e5ef0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5RLo69t3nlQ5YwXsJTYH5i",
-          "streaming_service": "spotify",
-          "title": "Heavyweights",
-          "artist_name": "AHEE, Stylust",
-          "duration": 184759,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e4b0f08000f873b7beba561c",
-          "preview_url": "https://p.scdn.co/mp3-preview/ddd532613d3d1abaedc2b24ade3bcd0cd66cc2e8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3h151uk2sF59N4aQHQEJEh",
-          "streaming_service": "spotify",
-          "title": "CONTROL DUB",
-          "artist_name": "Stylust",
-          "duration": 170219,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02519ce46356a3217ded712d43",
-          "preview_url": "https://p.scdn.co/mp3-preview/484208890e594027c0dad1483333ac4c3ffd6f0b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3xGPQcTd1HRvQOcEZIWgKP",
-          "streaming_service": "spotify",
-          "title": "The Elephant",
-          "artist_name": "Stylust, Ashez",
-          "duration": 215183,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ae01f7e8b40b1744f489d64b",
-          "preview_url": "https://p.scdn.co/mp3-preview/4fc5b99e3ccdc7365989fd12c2aa878eab311e36?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6UUHSZY42nNQZVjLuDUguX",
-          "streaming_service": "spotify",
-          "title": "Feel Alive",
-          "artist_name": "Stylust",
-          "duration": 162206,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027697cb417f8b299ca7738bf3",
-          "preview_url": "https://p.scdn.co/mp3-preview/a366822f181eba046efaf581fa5d989b47e16cea?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3BYIRz0uicskFdJrLkcs7v",
-          "streaming_service": "spotify",
-          "title": "Stay Close",
-          "artist_name": "Stylust, Abstrakt Sonance, JLEON",
-          "duration": 238285,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025921948c0b972bf4e7c80633",
-          "preview_url": "https://p.scdn.co/mp3-preview/15117235416f1cff93735eabaec84544c28ccf49?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5TpjbRicHv3WLEleVVuhmt",
-          "streaming_service": "spotify",
-          "title": "We Run Sound",
-          "artist_name": "Ganja White Night, Stylust, PAV4N, Da Fuchaman",
-          "duration": 239914,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02442ce50eea60dc6c8feaedb9",
-          "preview_url": "https://p.scdn.co/mp3-preview/4ead03ee79f88ae57fd6b30e114f03d4946eeba3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0BM3ETJnR59CdZUxGi2Po9",
-          "streaming_service": "spotify",
-          "title": "Oxygen",
-          "artist_name": "AHEE, Stylust",
-          "duration": 154000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e023924bfd38f7c159c633d02c3",
-          "preview_url": "https://p.scdn.co/mp3-preview/bb51cb2e07264824b42ca04cfbced6336a77e56d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5cJ1HcWu1vOpDmW3NKU99J",
-          "streaming_service": "spotify",
-          "title": "Rebola",
-          "artist_name": "CØNTRA, Stylust",
-          "duration": 225995,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d98105cf49a4e455d3c198e3",
-          "preview_url": "https://p.scdn.co/mp3-preview/2c46813180ebf5c4659b9d50913be3338053f353?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         }
       ],
       "show_in_search": true,
