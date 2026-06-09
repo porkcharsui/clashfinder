@@ -668,6 +668,234 @@
       "allow_favoriting": true
     },
     {
+      "id": 2040579,
+      "external_id": "1922369",
+      "published": true,
+      "name": "Spanda",
+      "body": "Spanda is an electrifying and passionate force behind the decks, bringing an unstoppable energy that keeps dancefloors moving. Hailing from Northern California, Spanda is known for crafting inspiring sets that blend breakbeats, breakhop, drum & bass, Afro rhythms, and beyond—always igniting the crowd with her infectious spirit.<br />\n<br />\nWith an ear for the unexpected and a deep love for old school rhythms, rhymes and bass-grooves, Spanda aims to deliver a sonic journey that hits hard and lifts spirits. Whether it's the rolling funk of breakbeats, the deep pulse of DnB, or the infectious bounce of Afro-infused beats, her sets are designed for pure movement. As a DJ/Producer Spanda takes inspiration and has shared the stage with many mentors and friends such as Krafty Kuts, A. Skillz. The Gaff, Deekline, Stickybuds and many more.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467521_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467521_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467521_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467521_performance_500.jpeg",
+        "960": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467521_performance_960.jpeg",
+        "1080": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467521_performance_1080.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {},
+      "performances": [
+        {
+          "id": 249958,
+          "external_id": "865943",
+          "published": true,
+          "body": "Spanda is an electrifying and passionate force behind the decks, bringing an unstoppable energy that keeps dancefloors moving. Hailing from Northern California, Spanda is known for crafting inspiring sets that blend breakbeats, breakhop, drum & bass, Afro rhythms, and beyond—always igniting the crowd with her infectious spirit.\n\nWith an ear for the unexpected and a deep love for old school rhythms, rhymes and bass-grooves, Spanda aims to deliver a sonic journey that hits hard and lifts spirits. Whether it's the rolling funk of breakbeats, the deep pulse of DnB, or the infectious bounce of Afro-infused beats, her sets are designed for pure movement. As a DJ/Producer Spanda takes inspiration and has shared the stage with many mentors and friends such as Krafty Kuts, A. Skillz. The Gaff, Deekline, Stickybuds and many more.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040579,
+          "stage_id": 12482,
+          "stage_name": "Living Room",
+          "date_id": 4325,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-24T21:30:00+00:00",
+          "end_time": "2025-07-24T23:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040656,
+      "external_id": "1921320",
+      "published": true,
+      "name": "Sacred G's",
+      "body": "The Sacred G’s is a street arts collective rooted in street dance, community and movement arts. A multicultural group of DJs, MCs, dancers, educators, healers and creatives, their common thread is a passion for the transformative nature of art. The “G” in their name does not stand for any one particular word, and yet The Sacred G’s stands for the empowerment, inspiration and artistic enrichment of humanity. It believes in the power of the light to weave intentionality into one’s work. The Sacred G’s mission is to create work that strengthens connect to the one’s heart and that catalyzes social change. <br />\n<br />\nSince 2014, The Sacred G’s has instructed movement and performed at an array of festivals and events around North America, with three chapters spanning Phoenix, AZ, Los Angeles, CA, and Portland, OR. As educators, the G's facilitates embodied knowledge experiences––from street dance to tai chi to yoga to creative movement practices. The G’s repertory draws from nature, old teachings, spiritual practices and themes of the human experience. Performance credits include Kai Cenat, Diplo, Steve Aoki, Purity Ring, Com Truise, Of The Trees, and many more. IG/FB: @thesacredgs",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/64/thumb_5663668_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/64/thumb_5663668_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/64/thumb_5663668_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/64/thumb_5663668_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "thesacredgs",
+        "youtube_user": "thesacredgs"
+      },
+      "performances": [
+        {
+          "id": 250034,
+          "external_id": "865713",
+          "published": true,
+          "body": "The Sacred G’s is a street arts collective rooted in street dance, community and movement arts. A multicultural group of DJs, MCs, dancers, educators, healers and creatives, their common thread is a passion for the transformative nature of art. The “G” in their name does not stand for any one particular word, and yet The Sacred G’s stands for the empowerment, inspiration and artistic enrichment of humanity. It believes in the power of the light to weave intentionality into one’s work. The Sacred G’s mission is to create work that strengthens connect to the one’s heart and that catalyzes social change. \n\nSince 2014, The Sacred G’s has instructed movement and performed at an array of festivals and events around North America, with three chapters spanning Phoenix, AZ, Los Angeles, CA, and Portland, OR. As educators, the G's facilitates embodied knowledge experiences––from street dance to tai chi to yoga to creative movement practices. The G’s repertory draws from nature, old teachings, spiritual practices and themes of the human experience. Performance credits include Kai Cenat, Diplo, Steve Aoki, Purity Ring, Com Truise, Of The Trees, and many more. IG/FB: @thesacredgs",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040656,
+          "stage_id": 12488,
+          "stage_name": "Grove",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T04:45:00+00:00",
+          "end_time": "2025-07-26T05:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040677,
+      "external_id": "166964",
+      "published": true,
+      "name": "DJ Soup",
+      "body": "Shambhala Music Festival CANADA's Robbie Campbell Soup, is no stranger to a good party. He has been a longtime resident of the Kootenay rave scene and helped grow the dance culture in Nelson BC Canada from tiny mountain town parties to hosting one of the most legendary festivals in the world. He has performed from Europe to Brazil, all over the USA and Canada.<br />\n<br />\nHis sets are high energy with good vibes. A SOUP performance will have no regard for genres and seamlessly blast through tunes remastered and reedited from the past, present and future. The only constant, is that you will wanna dance.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/64/thumb_5663669_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/64/thumb_5663669_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/64/thumb_5663669_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/64/thumb_5663669_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "djcampbellsoup/",
+        "instagram_user": "djsoupofficial",
+        "soundcloud_user": "discofari"
+      },
+      "performances": [
+        {
+          "id": 250056,
+          "external_id": "866075",
+          "published": true,
+          "body": "Shambhala Music Festival CANADA's Robbie Campbell Soup, is no stranger to a good party. He has been a longtime resident of the Kootenay rave scene and helped grow the dance culture in Nelson BC Canada from tiny mountain town parties to hosting one of the most legendary festivals in the world. He has performed from Europe to Brazil, all over the USA and Canada.\n\nHis sets are high energy with good vibes. A SOUP performance will have no regard for genres and seamlessly blast through tunes remastered and reedited from the past, present and future. The only constant, is that you will wanna dance.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040677,
+          "stage_id": 12490,
+          "stage_name": "Pagoda",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T02:30:00+00:00",
+          "end_time": "2025-07-26T03:45:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2040609,
       "external_id": "167147",
       "published": true,
@@ -22594,83 +22822,6 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040677,
-      "external_id": "166964",
-      "published": true,
-      "name": "DJ Soup",
-      "body": "Shambhala Music Festival CANADA's Robbie Campbell Soup, is no stranger to a good party. He has been a longtime resident of the Kootenay rave scene and helped grow the dance culture in Nelson BC Canada from tiny mountain town parties to hosting one of the most legendary festivals in the world. He has performed from Europe to Brazil, all over the USA and Canada.<br />\n<br />\nHis sets are high energy with good vibes. A SOUP performance will have no regard for genres and seamlessly blast through tunes remastered and reedited from the past, present and future. The only constant, is that you will wanna dance.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464244_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464244_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464244_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/65/thumb_5464244_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "djcampbellsoup/",
-        "instagram_user": "djsoupofficial",
-        "soundcloud_user": "discofari"
-      },
-      "performances": [
-        {
-          "id": 250056,
-          "external_id": "866075",
-          "published": true,
-          "body": "Shambhala Music Festival CANADA's Robbie Campbell Soup, is no stranger to a good party. He has been a longtime resident of the Kootenay rave scene and helped grow the dance culture in Nelson BC Canada from tiny mountain town parties to hosting one of the most legendary festivals in the world. He has performed from Europe to Brazil, all over the USA and Canada.\n\nHis sets are high energy with good vibes. A SOUP performance will have no regard for genres and seamlessly blast through tunes remastered and reedited from the past, present and future. The only constant, is that you will wanna dance.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040677,
-          "stage_id": 12490,
-          "stage_name": "Pagoda",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T02:30:00+00:00",
-          "end_time": "2025-07-26T03:45:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2042141,
       "published": true,
       "name": "Vo Vera",
@@ -29736,82 +29887,6 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040656,
-      "external_id": "1921320",
-      "published": true,
-      "name": "Sacred G's",
-      "body": "The Sacred G’s is a street arts collective rooted in street dance, community and movement arts. A multicultural group of DJs, MCs, dancers, educators, healers and creatives, their common thread is a passion for the transformative nature of art. The “G” in their name does not stand for any one particular word, and yet The Sacred G’s stands for the empowerment, inspiration and artistic enrichment of humanity. It believes in the power of the light to weave intentionality into one’s work. The Sacred G’s mission is to create work that strengthens connect to the one’s heart and that catalyzes social change. <br />\n<br />\nSince 2014, The Sacred G’s has instructed movement and performed at an array of festivals and events around North America, with three chapters spanning Phoenix, AZ, Los Angeles, CA, and Portland, OR. As educators, the G's facilitates embodied knowledge experiences––from street dance to tai chi to yoga to creative movement practices. The G’s repertory draws from nature, old teachings, spiritual practices and themes of the human experience. Performance credits include Kai Cenat, Diplo, Steve Aoki, Purity Ring, Com Truise, Of The Trees, and many more. IG/FB: @thesacredgs",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627040_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627040_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627040_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627040_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "thesacredgs",
-        "youtube_user": "thesacredgs"
-      },
-      "performances": [
-        {
-          "id": 250034,
-          "external_id": "865713",
-          "published": true,
-          "body": "The Sacred G’s is a street arts collective rooted in street dance, community and movement arts. A multicultural group of DJs, MCs, dancers, educators, healers and creatives, their common thread is a passion for the transformative nature of art. The “G” in their name does not stand for any one particular word, and yet The Sacred G’s stands for the empowerment, inspiration and artistic enrichment of humanity. It believes in the power of the light to weave intentionality into one’s work. The Sacred G’s mission is to create work that strengthens connect to the one’s heart and that catalyzes social change. \n\nSince 2014, The Sacred G’s has instructed movement and performed at an array of festivals and events around North America, with three chapters spanning Phoenix, AZ, Los Angeles, CA, and Portland, OR. As educators, the G's facilitates embodied knowledge experiences––from street dance to tai chi to yoga to creative movement practices. The G’s repertory draws from nature, old teachings, spiritual practices and themes of the human experience. Performance credits include Kai Cenat, Diplo, Steve Aoki, Purity Ring, Com Truise, Of The Trees, and many more. IG/FB: @thesacredgs",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040656,
-          "stage_id": 12488,
-          "stage_name": "Grove",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T04:45:00+00:00",
-          "end_time": "2025-07-26T05:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2040702,
       "external_id": "1910116",
       "published": true,
@@ -34227,81 +34302,6 @@
           "show_in_search": false,
           "start_time": "2025-07-24T20:00:00+00:00",
           "end_time": "2025-07-24T21:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040579,
-      "external_id": "1922369",
-      "published": true,
-      "name": "Spanda",
-      "body": "Spanda is an electrifying and passionate force behind the decks, bringing an unstoppable energy that keeps dancefloors moving. Hailing from Northern California, Spanda is known for crafting inspiring sets that blend breakbeats, breakhop, drum & bass, Afro rhythms, and beyond—always igniting the crowd with her infectious spirit.<br />\n<br />\nWith an ear for the unexpected and a deep love for old school rhythms, rhymes and bass-grooves, Spanda aims to deliver a sonic journey that hits hard and lifts spirits. Whether it's the rolling funk of breakbeats, the deep pulse of DnB, or the infectious bounce of Afro-infused beats, her sets are designed for pure movement. As a DJ/Producer Spanda takes inspiration and has shared the stage with many mentors and friends such as Krafty Kuts, A. Skillz. The Gaff, Deekline, Stickybuds and many more.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467521_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467521_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467521_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467521_performance_500.jpeg",
-        "960": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467521_performance_960.jpeg",
-        "1080": "https://media.appmiral.com/prod/performance/0055/68/thumb_5467521_performance_1080.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {},
-      "performances": [
-        {
-          "id": 249958,
-          "external_id": "865943",
-          "published": true,
-          "body": "Spanda is an electrifying and passionate force behind the decks, bringing an unstoppable energy that keeps dancefloors moving. Hailing from Northern California, Spanda is known for crafting inspiring sets that blend breakbeats, breakhop, drum & bass, Afro rhythms, and beyond—always igniting the crowd with her infectious spirit.\n\nWith an ear for the unexpected and a deep love for old school rhythms, rhymes and bass-grooves, Spanda aims to deliver a sonic journey that hits hard and lifts spirits. Whether it's the rolling funk of breakbeats, the deep pulse of DnB, or the infectious bounce of Afro-infused beats, her sets are designed for pure movement. As a DJ/Producer Spanda takes inspiration and has shared the stage with many mentors and friends such as Krafty Kuts, A. Skillz. The Gaff, Deekline, Stickybuds and many more.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040579,
-          "stage_id": 12482,
-          "stage_name": "Living Room",
-          "date_id": 4325,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-24T21:30:00+00:00",
-          "end_time": "2025-07-24T23:00:00+00:00",
           "show_image_in_schedule": true,
           "hide_start_time": false,
           "hide_end_time": false,
