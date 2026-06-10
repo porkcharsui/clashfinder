@@ -255,177 +255,6 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040760,
-      "external_id": "181178",
-      "published": true,
-      "name": "RUMPUS",
-      "body": "Award-winning house music DJ and producer, RUMPUS, brings the highly contagious energy of his punk rock roots to the stage, incorporating live drumming into his uniquely electrifying performances, which have earned him the moniker RUMPUS—meaning “a noisy disturbance; a commotion.”<br />\n<br />\nFusing various sub-genres of house, his distinctive style has captivated audiences in clubs and festivals around the globe in over 12 countries. With multiple Beatport-charting tracks, he has released music on influential labels likeInsomniac, Club Sweat, Space Yacht, DND, Hood Politics, and Westwood Recordings. His music has been featured on Spotify’s top dance music playlists and in 2024 alone, his tracks have been supported by notable artists including John Summit, Solomun, Dom Dolla, Marten Hørger, Tiësto, Kaskade, Nora En Pure, and more. He has performed at some of the world’s best music festivals including Shambhala, Burning Man, Envision, Bass Coast, and Lightning in a Bottle, and has had notable collaborations with Volac, Neon Steve, and Cazztek.<br />\n<br />\nRUMPUS is the 3x recipient of Sask Music’s Electronic Artist of the Year award, and CBC Music featured him as “an artist who’s shaping the future of electronic music in Canada,” while DJ Mag listed him as “an emerging artist that people should keep an eye on.” His hit single “Feel the Beat” has racked up over 5 million Spotify streams, and his viral edit of RÜFÜS DU SOL’s “Innerbloom” dominated the Hypeddit progressive house charts, holding the #1 spot for five consecutive months in 2024. With a recent guest mix on Diplo’s Revolution and a stacked library of unreleased music, it’s no secret that the past year has been a breakout moment for this artist and why he’s turning the heads of the biggest tastemakers in the industry.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626100_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626100_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626100_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626100_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "itsrumpus",
-        "instagram_user": "itsrumpus/",
-        "youtube_channel_id": "UCzgEKC4lRGRaF7hOdRcWInQ",
-        "soundcloud_user": "itsrumpus",
-        "spotify_artist_id": "6UbKjDmDWrGKZdHNYxjveJ"
-      },
-      "performances": [
-        {
-          "id": 250144,
-          "external_id": "866029",
-          "published": true,
-          "name": "Rumpus",
-          "body": "Award-winning house music DJ and producer, RUMPUS, brings the highly contagious energy of his punk rock roots to the stage, incorporating live drumming into his uniquely electrifying performances, which have earned him the moniker RUMPUS—meaning “a noisy disturbance; a commotion.”\n\nFusing various sub-genres of house, his distinctive style has captivated audiences in clubs and festivals around the globe in over 12 countries. With multiple Beatport-charting tracks, he has released music on influential labels likeInsomniac, Club Sweat, Space Yacht, DND, Hood Politics, and Westwood Recordings. His music has been featured on Spotify’s top dance music playlists and in 2024 alone, his tracks have been supported by notable artists including John Summit, Solomun, Dom Dolla, Marten Hørger, Tiësto, Kaskade, Nora En Pure, and more. He has performed at some of the world’s best music festivals including Shambhala, Burning Man, Envision, Bass Coast, and Lightning in a Bottle, and has had notable collaborations with Volac, Neon Steve, and Cazztek.\n\nRUMPUS is the 3x recipient of Sask Music’s Electronic Artist of the Year award, and CBC Music featured him as “an artist who’s shaping the future of electronic music in Canada,” while DJ Mag listed him as “an emerging artist that people should keep an eye on.” His hit single “Feel the Beat” has racked up over 5 million Spotify streams, and his viral edit of RÜFÜS DU SOL’s “Innerbloom” dominated the Hypeddit progressive house charts, holding the #1 spot for five consecutive months in 2024. With a recent guest mix on Diplo’s Revolution and a stacked library of unreleased music, it’s no secret that the past year has been a breakout moment for this artist and why he’s turning the heads of the biggest tastemakers in the industry.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040760,
-          "stage_id": 12501,
-          "stage_name": "Fractal Forest",
-          "date_id": 3940,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-28T10:00:00+00:00",
-          "end_time": "2025-07-28T11:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "0ZflVxcHweYxD4Dm5xt6KS",
-          "streaming_service": "spotify",
-          "title": "Feel The Beat",
-          "artist_name": "VOLAC, Neon Steve, RUMPUS, Rhiannon Roze",
-          "duration": 186000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02663948c4967faa18f3f3bb80",
-          "preview_url": "https://p.scdn.co/mp3-preview/bbf8283a24e56f7f58cd3e7b8da8e53a94dffb0e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "124J6I63soamhZZwgmYbxM",
-          "streaming_service": "spotify",
-          "title": "Set It Off",
-          "artist_name": "RUMPUS",
-          "duration": 207500,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0270b8587ffbddcfe9062ffe2f",
-          "preview_url": "https://p.scdn.co/mp3-preview/7a75154f32b55b3457c848d8050f2f53bb0cff0c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4l3Q10nhiqIAj4dkCJU7DX",
-          "streaming_service": "spotify",
-          "title": "OMW",
-          "artist_name": "RUMPUS, Rhiannon Roze, Control Room",
-          "duration": 160714,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0265cc7c132901e953c1a1da4a",
-          "preview_url": "https://p.scdn.co/mp3-preview/7628dfa5a326a7d26fc92ac72632a7c3a6afa983?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7ibhRpXvr7TXMVZkTCAd5E",
-          "streaming_service": "spotify",
-          "title": "Hustlers - Radio Edit",
-          "artist_name": "RUMPUS, Stund",
-          "duration": 152420,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e022b6d4025c1ace94563dfa212",
-          "preview_url": "https://p.scdn.co/mp3-preview/8c007619c4c9bcd8c7b8831a1404bc8b506bd2de?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0XSumYHVF367ixAdnlqIbK",
-          "streaming_service": "spotify",
-          "title": "Pay Up",
-          "artist_name": "RUMPUS, Control Room, AK RENNY",
-          "duration": 179141,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e020d8eeb5558d5189177cf8b4d",
-          "preview_url": "https://p.scdn.co/mp3-preview/c2818672caf893523691e3ebb1248fcc29a7c55f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2EbpE8okSpiKk0VgtB8497",
-          "streaming_service": "spotify",
-          "title": "The Afters",
-          "artist_name": "RUMPUS, David LeSal",
-          "duration": 234285,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02502a2e9e044a10521a47ff91",
-          "preview_url": "https://p.scdn.co/mp3-preview/68ca7f4226a4911aa1302df4cc0a3dc22f376b01?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0SlhHeNYhm4I1EjqaPZ7pc",
-          "streaming_service": "spotify",
-          "title": "Hide and Seek",
-          "artist_name": "RUMPUS",
-          "duration": 174374,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e020004b4988c50184746be0bc6",
-          "preview_url": "https://p.scdn.co/mp3-preview/0204cf09b323bc55a2dc45c0f4cc21ca697de392?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "22yZVpnaHULGqdfTi7VNWk",
-          "streaming_service": "spotify",
-          "title": "Hide and Seek - Extended",
-          "artist_name": "RUMPUS",
-          "duration": 243750,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e020004b4988c50184746be0bc6",
-          "preview_url": "https://p.scdn.co/mp3-preview/14d236c6eecba769486d047fe52074f983c790a5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4HeHZRHrRYhKArxvkbqm2a",
-          "streaming_service": "spotify",
-          "title": "All Along",
-          "artist_name": "Return Of The Jaded, RUMPUS, Lovlee",
-          "duration": 199384,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a321b83bd7c06181a72b8dd5",
-          "preview_url": "https://p.scdn.co/mp3-preview/cde459bbae7463b04229b9f517248c21cc4f51da?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0QraPyADNKn3rfbFYchayq",
-          "streaming_service": "spotify",
-          "title": "Up In Here",
-          "artist_name": "RUMPUS",
-          "duration": 187250,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b51e4109b989b9ce2463ee68",
-          "preview_url": "https://p.scdn.co/mp3-preview/c4d66eea62254f2a3202c53c9c9bc7ea7efa3672?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2040774,
       "external_id": "1916916",
       "published": true,
@@ -830,6 +659,177 @@
           "duration": 208533,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0257a57cbb4bcfc2842872f4b9",
           "preview_url": "https://p.scdn.co/mp3-preview/7430979bf0d2b43ec98ca61bbc74e2146d0e3a66?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040760,
+      "external_id": "181178",
+      "published": true,
+      "name": "RUMPUS",
+      "body": "Award-winning house music DJ and producer, RUMPUS, brings the highly contagious energy of his punk rock roots to the stage, incorporating live drumming into his uniquely electrifying performances, which have earned him the moniker RUMPUS—meaning “a noisy disturbance; a commotion.”<br />\n<br />\nFusing various sub-genres of house, his distinctive style has captivated audiences in clubs and festivals around the globe in over 12 countries. With multiple Beatport-charting tracks, he has released music on influential labels likeInsomniac, Club Sweat, Space Yacht, DND, Hood Politics, and Westwood Recordings. His music has been featured on Spotify’s top dance music playlists and in 2024 alone, his tracks have been supported by notable artists including John Summit, Solomun, Dom Dolla, Marten Hørger, Tiësto, Kaskade, Nora En Pure, and more. He has performed at some of the world’s best music festivals including Shambhala, Burning Man, Envision, Bass Coast, and Lightning in a Bottle, and has had notable collaborations with Volac, Neon Steve, and Cazztek.<br />\n<br />\nRUMPUS is the 3x recipient of Sask Music’s Electronic Artist of the Year award, and CBC Music featured him as “an artist who’s shaping the future of electronic music in Canada,” while DJ Mag listed him as “an emerging artist that people should keep an eye on.” His hit single “Feel the Beat” has racked up over 5 million Spotify streams, and his viral edit of RÜFÜS DU SOL’s “Innerbloom” dominated the Hypeddit progressive house charts, holding the #1 spot for five consecutive months in 2024. With a recent guest mix on Diplo’s Revolution and a stacked library of unreleased music, it’s no secret that the past year has been a breakout moment for this artist and why he’s turning the heads of the biggest tastemakers in the industry.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626100_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626100_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626100_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626100_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "itsrumpus",
+        "instagram_user": "itsrumpus/",
+        "youtube_channel_id": "UCzgEKC4lRGRaF7hOdRcWInQ",
+        "soundcloud_user": "itsrumpus",
+        "spotify_artist_id": "6UbKjDmDWrGKZdHNYxjveJ"
+      },
+      "performances": [
+        {
+          "id": 250144,
+          "external_id": "866029",
+          "published": true,
+          "name": "Rumpus",
+          "body": "Award-winning house music DJ and producer, RUMPUS, brings the highly contagious energy of his punk rock roots to the stage, incorporating live drumming into his uniquely electrifying performances, which have earned him the moniker RUMPUS—meaning “a noisy disturbance; a commotion.”\n\nFusing various sub-genres of house, his distinctive style has captivated audiences in clubs and festivals around the globe in over 12 countries. With multiple Beatport-charting tracks, he has released music on influential labels likeInsomniac, Club Sweat, Space Yacht, DND, Hood Politics, and Westwood Recordings. His music has been featured on Spotify’s top dance music playlists and in 2024 alone, his tracks have been supported by notable artists including John Summit, Solomun, Dom Dolla, Marten Hørger, Tiësto, Kaskade, Nora En Pure, and more. He has performed at some of the world’s best music festivals including Shambhala, Burning Man, Envision, Bass Coast, and Lightning in a Bottle, and has had notable collaborations with Volac, Neon Steve, and Cazztek.\n\nRUMPUS is the 3x recipient of Sask Music’s Electronic Artist of the Year award, and CBC Music featured him as “an artist who’s shaping the future of electronic music in Canada,” while DJ Mag listed him as “an emerging artist that people should keep an eye on.” His hit single “Feel the Beat” has racked up over 5 million Spotify streams, and his viral edit of RÜFÜS DU SOL’s “Innerbloom” dominated the Hypeddit progressive house charts, holding the #1 spot for five consecutive months in 2024. With a recent guest mix on Diplo’s Revolution and a stacked library of unreleased music, it’s no secret that the past year has been a breakout moment for this artist and why he’s turning the heads of the biggest tastemakers in the industry.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040760,
+          "stage_id": 12501,
+          "stage_name": "Fractal Forest",
+          "date_id": 3940,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-28T10:00:00+00:00",
+          "end_time": "2025-07-28T11:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "0ZflVxcHweYxD4Dm5xt6KS",
+          "streaming_service": "spotify",
+          "title": "Feel The Beat",
+          "artist_name": "VOLAC, Neon Steve, RUMPUS, Rhiannon Roze",
+          "duration": 186000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02663948c4967faa18f3f3bb80",
+          "preview_url": "https://p.scdn.co/mp3-preview/bbf8283a24e56f7f58cd3e7b8da8e53a94dffb0e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "124J6I63soamhZZwgmYbxM",
+          "streaming_service": "spotify",
+          "title": "Set It Off",
+          "artist_name": "RUMPUS",
+          "duration": 207500,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0270b8587ffbddcfe9062ffe2f",
+          "preview_url": "https://p.scdn.co/mp3-preview/7a75154f32b55b3457c848d8050f2f53bb0cff0c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4l3Q10nhiqIAj4dkCJU7DX",
+          "streaming_service": "spotify",
+          "title": "OMW",
+          "artist_name": "RUMPUS, Rhiannon Roze, Control Room",
+          "duration": 160714,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0265cc7c132901e953c1a1da4a",
+          "preview_url": "https://p.scdn.co/mp3-preview/7628dfa5a326a7d26fc92ac72632a7c3a6afa983?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7ibhRpXvr7TXMVZkTCAd5E",
+          "streaming_service": "spotify",
+          "title": "Hustlers - Radio Edit",
+          "artist_name": "RUMPUS, Stund",
+          "duration": 152420,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e022b6d4025c1ace94563dfa212",
+          "preview_url": "https://p.scdn.co/mp3-preview/8c007619c4c9bcd8c7b8831a1404bc8b506bd2de?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0XSumYHVF367ixAdnlqIbK",
+          "streaming_service": "spotify",
+          "title": "Pay Up",
+          "artist_name": "RUMPUS, Control Room, AK RENNY",
+          "duration": 179141,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e020d8eeb5558d5189177cf8b4d",
+          "preview_url": "https://p.scdn.co/mp3-preview/c2818672caf893523691e3ebb1248fcc29a7c55f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2EbpE8okSpiKk0VgtB8497",
+          "streaming_service": "spotify",
+          "title": "The Afters",
+          "artist_name": "RUMPUS, David LeSal",
+          "duration": 234285,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02502a2e9e044a10521a47ff91",
+          "preview_url": "https://p.scdn.co/mp3-preview/68ca7f4226a4911aa1302df4cc0a3dc22f376b01?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0SlhHeNYhm4I1EjqaPZ7pc",
+          "streaming_service": "spotify",
+          "title": "Hide and Seek",
+          "artist_name": "RUMPUS",
+          "duration": 174374,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e020004b4988c50184746be0bc6",
+          "preview_url": "https://p.scdn.co/mp3-preview/0204cf09b323bc55a2dc45c0f4cc21ca697de392?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "22yZVpnaHULGqdfTi7VNWk",
+          "streaming_service": "spotify",
+          "title": "Hide and Seek - Extended",
+          "artist_name": "RUMPUS",
+          "duration": 243750,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e020004b4988c50184746be0bc6",
+          "preview_url": "https://p.scdn.co/mp3-preview/14d236c6eecba769486d047fe52074f983c790a5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4HeHZRHrRYhKArxvkbqm2a",
+          "streaming_service": "spotify",
+          "title": "All Along",
+          "artist_name": "Return Of The Jaded, RUMPUS, Lovlee",
+          "duration": 199384,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a321b83bd7c06181a72b8dd5",
+          "preview_url": "https://p.scdn.co/mp3-preview/cde459bbae7463b04229b9f517248c21cc4f51da?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0QraPyADNKn3rfbFYchayq",
+          "streaming_service": "spotify",
+          "title": "Up In Here",
+          "artist_name": "RUMPUS",
+          "duration": 187250,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b51e4109b989b9ce2463ee68",
+          "preview_url": "https://p.scdn.co/mp3-preview/c4d66eea62254f2a3202c53c9c9bc7ea7efa3672?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         }
       ],
       "show_in_search": true,
