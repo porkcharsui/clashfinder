@@ -668,6 +668,252 @@
       "allow_favoriting": true
     },
     {
+      "id": 2040678,
+      "external_id": "1918214",
+      "published": true,
+      "name": "N2N",
+      "body": "Over the last ten years, N2N has become broadly recognized for his blistering marathon sets fueled by infectiously joyful house music. In 2018, he was mentioned by ​Billboard​ in its list of the nine best sets from Burning Man, as his yearly sunrise performance has garnered a cult-like following. A lifelong student of music, his sets seamlessly blending genres have become crowd favorites across the country. In the studio, his versatility shines through, as his quirky feel-good style has landed him major label signings as well as support from who’s who in the industry, including Fatboy Slim, Nicole Moudaber, David Guetta, and Idris Elba. Undeniably authentic, joyful, and enigmatic, N2N is an act poised for a major 2025.<br />\n<br />\nBeyond the decks, Nick has become an outspoken advocate for mental health. He hopes to use his platform to break down the stigma associated with depression and encourage others in similar situations to speak freely in a time heavily dictated by external appearance. In his spare time, you’ll find him tending to his gargantuan plant collection or whispering sweet nothings to his cats Bucket & Shoe.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626105_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626105_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626105_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626105_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "n2nmusic",
+        "youtube_channel_id": "UCqtF1VWz-G7V5aK4CwhrJ5w",
+        "soundcloud_user": "n2nmusic",
+        "spotify_artist_id": "3ZnVC33s8MBcF0KmAC4rj5"
+      },
+      "performances": [
+        {
+          "id": 250057,
+          "external_id": "865577",
+          "published": true,
+          "body": "Over the last ten years, N2N has become broadly recognized for his blistering marathon sets fueled by infectiously joyful house music. In 2018, he was mentioned by ​Billboard​ in its list of the nine best sets from Burning Man, as his yearly sunrise performance has garnered a cult-like following. A lifelong student of music, his sets seamlessly blending genres have become crowd favorites across the country. In the studio, his versatility shines through, as his quirky feel-good style has landed him major label signings as well as support from who’s who in the industry, including Fatboy Slim, Nicole Moudaber, David Guetta, and Idris Elba. Undeniably authentic, joyful, and enigmatic, N2N is an act poised for a major 2025.\n\nBeyond the decks, Nick has become an outspoken advocate for mental health. He hopes to use his platform to break down the stigma associated with depression and encourage others in similar situations to speak freely in a time heavily dictated by external appearance. In his spare time, you’ll find him tending to his gargantuan plant collection or whispering sweet nothings to his cats Bucket & Shoe.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040678,
+          "stage_id": 12490,
+          "stage_name": "Pagoda",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T03:45:00+00:00",
+          "end_time": "2025-07-26T05:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "3rO0TlnVlPQviUMnUkfJ1A",
+          "streaming_service": "spotify",
+          "title": "Don't Talk To Me",
+          "artist_name": "N2N",
+          "duration": 186962,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02dd816360caa7a06fd4509084",
+          "preview_url": "https://p.scdn.co/mp3-preview/913cc2f1cf0fad6ec6bea6670cbcc5046c74aa46?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0syF2z8puWwWyVjioMSNE8",
+          "streaming_service": "spotify",
+          "title": "Provide",
+          "artist_name": "N2N, Rob Marion",
+          "duration": 197952,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e027d33f45c626e345c829739b4",
+          "preview_url": "https://p.scdn.co/mp3-preview/2a422e6999380399db0eaf1d843389f2bd4735ea?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4gKXDKK8dqwOVkmpXxK8Ql",
+          "streaming_service": "spotify",
+          "title": "Tension",
+          "artist_name": "N2N, Modern Lover",
+          "duration": 169133,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e022e321519cc16550d0d421956",
+          "preview_url": "https://p.scdn.co/mp3-preview/8cb3ebda1935841eb24bf222a533cf270cbc3858?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6uyPxNh9jZSdwQkfaOF9FF",
+          "streaming_service": "spotify",
+          "title": "Tease",
+          "artist_name": "N2N",
+          "duration": 183500,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02bb5cf75a9227436b61df029c",
+          "preview_url": "https://p.scdn.co/mp3-preview/870d9e44ff2957708431011d069f02e0161a0470?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5qJwqsF6xbC6Th1CpdRIae",
+          "streaming_service": "spotify",
+          "title": "ABC - N2N & Andie Roy Remix",
+          "artist_name": "The Jackson 5, N2N, Andie Roy",
+          "duration": 203873,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0260314aa1cd9477b3c373173f"
+        },
+        {
+          "track_id": "6OiMMbc4FOuV9txJxY0Rqv",
+          "streaming_service": "spotify",
+          "title": "Girls Do What They Want",
+          "artist_name": "N2N, Rose Motion",
+          "duration": 179637,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02335226c0cddf88d86db914f9",
+          "preview_url": "https://p.scdn.co/mp3-preview/802d07a0ca71656da1538c218e882ab333f40687?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3pxapRReH7gzXkcLf7ZBhs",
+          "streaming_service": "spotify",
+          "title": "My Type",
+          "artist_name": "N2N, Rob Marion, JiLLi",
+          "duration": 169453,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02676b7dbd7a967608bcc3d38f",
+          "preview_url": "https://p.scdn.co/mp3-preview/d3baeefe3db20bc749c836ef65399b11a93233cf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0dBALukXMsEEnfMbbevTlw",
+          "streaming_service": "spotify",
+          "title": "Indie",
+          "artist_name": "N2N, MNTRA, Modern Lover",
+          "duration": 243750,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d6489e4bc35f5f2c974bb078",
+          "preview_url": "https://p.scdn.co/mp3-preview/6cc6b1b91d70d38227d289c74758b7d19915ea3a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2t6MSO4QH0Cx8czh3QSLMi",
+          "streaming_service": "spotify",
+          "title": "I Want",
+          "artist_name": "N2N, Modern Lover",
+          "duration": 196279,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b1c3c1f80953ca83a11a9c45",
+          "preview_url": "https://p.scdn.co/mp3-preview/d18b893aec4db398c9500909787b325b1f9d0a4d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3nHkrXgY61pBL5xnH39XNq",
+          "streaming_service": "spotify",
+          "title": "Loose Unit",
+          "artist_name": "N2N",
+          "duration": 185625,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02361db3c03ceada7ff68e303e",
+          "preview_url": "https://p.scdn.co/mp3-preview/4deab580798c89fee431386176b49b18e1f7c734?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040679,
+      "external_id": "1920560",
+      "published": true,
+      "name": "Eats Everything",
+      "body": "A contemporary UK electronic music institution, Eats Everything (AKA Daniel Pearce) has a global reputation built on versatility, superlative skills and a positive outlook - core fundamentals that have made him one of the most in-demand artists around. With his roots firmly embedded in the vibrant, influential music culture of his hometown, Bristol, Eats Everything channels his broad musical palette into every aspect of his output. In 2021 the globetrotting DJ, accomplished producer, prolific remixer, label owner, radio host and mastermind behind a collection of popular party brands celebrated 10 years of his now infamous pseudonym.  His latest releases, ‘Vaccine’ and ‘Move’, showcase his eclectic taste and talent as a producer across multiple genres. Eats’ latest release on Three Six Zero, ’R&L’ is a different look for him again, emotional melodies and rolling breakbeats take the place of a thumping 4/4. A track that is dedicated to his children Ralph and Lennie. <br />\n<br />\nBack in 2011, when Eats arrived on the scene, he was in the last chance saloon; working a job he wasn’t enjoying, while DJing was a hobby. Had it not been for the success of ‘Entrance Song’ he might still be working in recruitment. Fortunately, he broke through and, 11 years on, has not only maintained the energy of that first release, but has surpassed it with a consistently high level of production and a diverse range of styles. Since that breakthrough his production abilities have been demonstrated time and time again across an extensive back catalogue that includes an array of infamous ‘Rebeef’ mixes, edits, original solo cuts and collaborations. <br />\n<br />\nRecent highlights from Dan’s discography includes recent collaborations with Shermanology with ‘Tell Me Something Good’ and ‘Bristol to Brighton’ which featured vocals from Fatboy Slim. As well as rave-tinged banger ‘Miss Honey’ on FFRR, ‘All The Ladies’ with Fatboy Slim, which landed on Southern Fried in March 2020, plus remixes of ‘My House’ by Jodie Harsh and a funked up ‘10 Years Of Eats Everything’ rework of the classic ‘God Made Me Phunky’ by MD X-Press on Defected. As well as releasing on his own Edible and EI8HT labels, Eats has been featured on Desolat, PETS, Intec, Kneaded Pains, Dirtybird, Crosstown Rebels, Cajual, Hypercolour and many more. <br />\n<br />\nEats Everything was a raver first and foremost, spending his formative years in Bristol’s infamous clubs (like Lakota and the FireStation) where his love for music was cemented. The result is an artist who is able to establish a deep bond with the crowd in front of him, with an intuitive understanding of how to keep the dancefloor pumped all night long. Dan began playing records when he was 12 and he’s been dedicated to electronic music ever since. With his turntables set up at his bedroom window he would look out from behind the  decks and imagine playing to thousands of people. Now that dream is a reality and he’s relishing every second. <br />\n<br />\nDan’s technical ability combined with his musical knowledge - spans house, techno, disco, garage, jungle and much more. There are many sides to Eats Everything, but at his core is the essence of rave culture: cultivating the party energy that unites everyone on the dancefloor. He’s commanded the big stage at festivals, played captain on boat parties, smashed dancefloors at clubs from Brazil to Australia and everywhere in between, and appeared at a wide range of unusual locations from a butcher’s shop in the Austrian mountains, a church in Amsterdam to London’s Natural History Museum, a pizza shop,  a fish’n’chip shop in his native Bristol and most recently a hot air balloon!<br />\n<br />\nHe supported Fatboy Slim on his UK arena tour, and the two men performed their Fat Boy Eats Everything back-to-back show at Glastonbury’s Arcadia stage in 2019 as well as at Glastonbury’s Stonebridge Bar at the first History of Rave takeover.  Other highlights include his close ties with globally-respected brands at Defected and Elrow, two powerhouse rave outfits that have welcomed Eats into their respective family units. Elsewhere he has brought the house down at Warehouse Project and Watergate plus worked his way through all-night-long sets at fabric in London and Lakota in Bristol with typical Eats Everything panache. Not forgetting huge shows at Printworks in London, EDC Vegas and Boomtown. Just a snippet from the long list of clubs and festivals he’s appeared at. <br />\n<br />\nIn 2012 Dan’s prolific approach to edits led to the recording of a classic Essential Mix made up entirely of his own beefed up reworks - his second appearance on the Essential Mix that year, and the first time an artist appeared twice in the same year. More recently Dan returned to Radio One in 2023 and performed his first studio Essential Mix. Other notable mix credits include a contribution to fabric’s world-renowned series. ‘Fabric 86’ was released in 2015 picking up high praise from peers and fans alike. <br />\n<br />\nOn the label tip, he launched Edible back in 2015, followed by EI8HT in 2019. Edible focuses on good quality house music, across the board, signing artists such as Paul Woolford, Elliot Adamson, Jesse Perez, Seb Zito, Catz ‘n Dogz, Waze & Odyssey, Melé and more. Meanwhile, EI8HT takes the techno blueprint and injects it with funk and groove. Both labels continue to support new music, maintaining a constant flow of releases throughout the global shutdown and keeping fans entertained across the planet. With three decades spent on the dancefloor and in the booth, both labels benefit from Eats Everything’s experience. All the years spent raving, DJing and producing have blessed him with an incredibly refined ear and an instinctive knack for identifying what works. <br />\n<br />\nAs anyone who’s witnessed him in action will attest, both on air and on screen Dan’s gregarious personality shines through. An artist who is serious about the party but never takes himself too seriously, his wit, good nature and buoyant West Country accent have made him a favourite of fans all over the world. This led to a residency with BBC Radio 1 for 12 months in 2017, regular appearances on their Friday night shows and his integration into the Radio 1 family. Alongside this, he presented his own ‘Edible Beats’ radio show for many years, which was aired on over 70 FM radio stations around the world from Argentina to Australia.<br />\n<br />\nDespite his global success, Dan has always kept his feet firmly on the ground with an unpretentious attitude that has led to him being labelled the ‘People’s Champion’. This has been demonstrated in his charity work and events like ‘Come Rave With Me’, where he invited lucky fans to join him behind-the-scenes as he toured the UK and Ireland in 2019. Alongside the raves, he has held three ‘Food For Thought’ lectures across schools in England, talking to students about his musical journey and creative processes within the studio. Dan has also created a course for online music education platform Virtuoso, where students can learn how to ‘rebeef’ records in Eats’ inimitable style. On top of this, he has been a firm advocate for the ‘Last Night a DJ Saved My Life’ charity, raising funds to provide safe clean water across Africa and India with special NYE performances. He also played a surprise charity show in his hometown in 2017 to raise money for two local charities (Crisis Centre Ministries and LoveBristol) that work with those affected by homelessness and addiction.<br />\n<br />\n2022 saw the beginning of Dan’s events brand ‘Eats Everything presents History of Rave’. A night with a focus of allowing DJs to play the music they love but may not get to play at their usual sets. In Dan’s words: History Of Rave is not about nostalgia, not about the past, it’s an all encompassing tribute to the rave and its culture, from a minute ago to the foundations of disco & boogie. The HoR policy is play what you like and have a lovely time doing it. The first History of Rave at Glastonbury’s Stonebridge bar was the place to be on Thursday. Returning in 2023 for a second year running, once again completely full from start to finish. HoR has since appeared at fabric London, Motion, Rise Festival, Boomtown and Love Saves The Day.. Dan is incredibly excited to be taking HoR to the next level in 2024.<br />\n<br />\nGood natured and full of laughs, Eats Everything’s down-to-earth attitude belies his star status, winning him an army of loyal followers all over the world. As an artist he represents the roots of dance music culture; an open-minded selector who channels the essence of rave to cultivate an inclusive, unified feeling on the dancefloor. Despite living out his dream and achieving an array of life-affirming milestones, he remains as humble, passionate and committed as he was before success came knocking and because of that, his legacy and positive influence will endure for many years to come...",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463962_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463962_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463962_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463962_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "MrEatsEverything",
+        "instagram_user": "eatseverything",
+        "youtube_user": "eatseverything",
+        "soundcloud_user": "eatseverything"
+      },
+      "performances": [
+        {
+          "id": 250058,
+          "external_id": "865472",
+          "published": true,
+          "body": "A contemporary UK electronic music institution, Eats Everything (AKA Daniel Pearce) has a global reputation built on versatility, superlative skills and a positive outlook - core fundamentals that have made him one of the most in-demand artists around. With his roots firmly embedded in the vibrant, influential music culture of his hometown, Bristol, Eats Everything channels his broad musical palette into every aspect of his output. In 2021 the globetrotting DJ, accomplished producer, prolific remixer, label owner, radio host and mastermind behind a collection of popular party brands celebrated 10 years of his now infamous pseudonym.  His latest releases, ‘Vaccine’ and ‘Move’, showcase his eclectic taste and talent as a producer across multiple genres. Eats’ latest release on Three Six Zero, ’R&L’ is a different look for him again, emotional melodies and rolling breakbeats take the place of a thumping 4/4. A track that is dedicated to his children Ralph and Lennie. \n\nBack in 2011, when Eats arrived on the scene, he was in the last chance saloon; working a job he wasn’t enjoying, while DJing was a hobby. Had it not been for the success of ‘Entrance Song’ he might still be working in recruitment. Fortunately, he broke through and, 11 years on, has not only maintained the energy of that first release, but has surpassed it with a consistently high level of production and a diverse range of styles. Since that breakthrough his production abilities have been demonstrated time and time again across an extensive back catalogue that includes an array of infamous ‘Rebeef’ mixes, edits, original solo cuts and collaborations. \n\nRecent highlights from Dan’s discography includes recent collaborations with Shermanology with ‘Tell Me Something Good’ and ‘Bristol to Brighton’ which featured vocals from Fatboy Slim. As well as rave-tinged banger ‘Miss Honey’ on FFRR, ‘All The Ladies’ with Fatboy Slim, which landed on Southern Fried in March 2020, plus remixes of ‘My House’ by Jodie Harsh and a funked up ‘10 Years Of Eats Everything’ rework of the classic ‘God Made Me Phunky’ by MD X-Press on Defected. As well as releasing on his own Edible and EI8HT labels, Eats has been featured on Desolat, PETS, Intec, Kneaded Pains, Dirtybird, Crosstown Rebels, Cajual, Hypercolour and many more. \n\nEats Everything was a raver first and foremost, spending his formative years in Bristol’s infamous clubs (like Lakota and the FireStation) where his love for music was cemented. The result is an artist who is able to establish a deep bond with the crowd in front of him, with an intuitive understanding of how to keep the dancefloor pumped all night long. Dan began playing records when he was 12 and he’s been dedicated to electronic music ever since. With his turntables set up at his bedroom window he would look out from behind the  decks and imagine playing to thousands of people. Now that dream is a reality and he’s relishing every second. \n\nDan’s technical ability combined with his musical knowledge - spans house, techno, disco, garage, jungle and much more. There are many sides to Eats Everything, but at his core is the essence of rave culture: cultivating the party energy that unites everyone on the dancefloor. He’s commanded the big stage at festivals, played captain on boat parties, smashed dancefloors at clubs from Brazil to Australia and everywhere in between, and appeared at a wide range of unusual locations from a butcher’s shop in the Austrian mountains, a church in Amsterdam to London’s Natural History Museum, a pizza shop,  a fish’n’chip shop in his native Bristol and most recently a hot air balloon!\n\nHe supported Fatboy Slim on his UK arena tour, and the two men performed their Fat Boy Eats Everything back-to-back show at Glastonbury’s Arcadia stage in 2019 as well as at Glastonbury’s Stonebridge Bar at the first History of Rave takeover.  Other highlights include his close ties with globally-respected brands at Defected and Elrow, two powerhouse rave outfits that have welcomed Eats into their respective family units. Elsewhere he has brought the house down at Warehouse Project and Watergate plus worked his way through all-night-long sets at fabric in London and Lakota in Bristol with typical Eats Everything panache. Not forgetting huge shows at Printworks in London, EDC Vegas and Boomtown. Just a snippet from the long list of clubs and festivals he’s appeared at. \n\nIn 2012 Dan’s prolific approach to edits led to the recording of a classic Essential Mix made up entirely of his own beefed up reworks - his second appearance on the Essential Mix that year, and the first time an artist appeared twice in the same year. More recently Dan returned to Radio One in 2023 and performed his first studio Essential Mix. Other notable mix credits include a contribution to fabric’s world-renowned series. ‘Fabric 86’ was released in 2015 picking up high praise from peers and fans alike. \n\nOn the label tip, he launched Edible back in 2015, followed by EI8HT in 2019. Edible focuses on good quality house music, across the board, signing artists such as Paul Woolford, Elliot Adamson, Jesse Perez, Seb Zito, Catz ‘n Dogz, Waze & Odyssey, Melé and more. Meanwhile, EI8HT takes the techno blueprint and injects it with funk and groove. Both labels continue to support new music, maintaining a constant flow of releases throughout the global shutdown and keeping fans entertained across the planet. With three decades spent on the dancefloor and in the booth, both labels benefit from Eats Everything’s experience. All the years spent raving, DJing and producing have blessed him with an incredibly refined ear and an instinctive knack for identifying what works. \n\nAs anyone who’s witnessed him in action will attest, both on air and on screen Dan’s gregarious personality shines through. An artist who is serious about the party but never takes himself too seriously, his wit, good nature and buoyant West Country accent have made him a favourite of fans all over the world. This led to a residency with BBC Radio 1 for 12 months in 2017, regular appearances on their Friday night shows and his integration into the Radio 1 family. Alongside this, he presented his own ‘Edible Beats’ radio show for many years, which was aired on over 70 FM radio stations around the world from Argentina to Australia.\n\nDespite his global success, Dan has always kept his feet firmly on the ground with an unpretentious attitude that has led to him being labelled the ‘People’s Champion’. This has been demonstrated in his charity work and events like ‘Come Rave With Me’, where he invited lucky fans to join him behind-the-scenes as he toured the UK and Ireland in 2019. Alongside the raves, he has held three ‘Food For Thought’ lectures across schools in England, talking to students about his musical journey and creative processes within the studio. Dan has also created a course for online music education platform Virtuoso, where students can learn how to ‘rebeef’ records in Eats’ inimitable style. On top of this, he has been a firm advocate for the ‘Last Night a DJ Saved My Life’ charity, raising funds to provide safe clean water across Africa and India with special NYE performances. He also played a surprise charity show in his hometown in 2017 to raise money for two local charities (Crisis Centre Ministries and LoveBristol) that work with those affected by homelessness and addiction.\n\n2022 saw the beginning of Dan’s events brand ‘Eats Everything presents History of Rave’. A night with a focus of allowing DJs to play the music they love but may not get to play at their usual sets. In Dan’s words: History Of Rave is not about nostalgia, not about the past, it’s an all encompassing tribute to the rave and its culture, from a minute ago to the foundations of disco & boogie. The HoR policy is play what you like and have a lovely time doing it. The first History of Rave at Glastonbury’s Stonebridge bar was the place to be on Thursday. Returning in 2023 for a second year running, once again completely full from start to finish. HoR has since appeared at fabric London, Motion, Rise Festival, Boomtown and Love Saves The Day.. Dan is incredibly excited to be taking HoR to the next level in 2024.\n\nGood natured and full of laughs, Eats Everything’s down-to-earth attitude belies his star status, winning him an army of loyal followers all over the world. As an artist he represents the roots of dance music culture; an open-minded selector who channels the essence of rave to cultivate an inclusive, unified feeling on the dancefloor. Despite living out his dream and achieving an array of life-affirming milestones, he remains as humble, passionate and committed as he was before success came knocking and because of that, his legacy and positive influence will endure for many years to come...",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040679,
+          "stage_id": 12490,
+          "stage_name": "Pagoda",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T05:00:00+00:00",
+          "end_time": "2025-07-26T06:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2040570,
       "external_id": "1916465",
       "published": true,
@@ -3126,174 +3372,6 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040678,
-      "external_id": "1918214",
-      "published": true,
-      "name": "N2N",
-      "body": "Over the last ten years, N2N has become broadly recognized for his blistering marathon sets fueled by infectiously joyful house music. In 2018, he was mentioned by ​Billboard​ in its list of the nine best sets from Burning Man, as his yearly sunrise performance has garnered a cult-like following. A lifelong student of music, his sets seamlessly blending genres have become crowd favorites across the country. In the studio, his versatility shines through, as his quirky feel-good style has landed him major label signings as well as support from who’s who in the industry, including Fatboy Slim, Nicole Moudaber, David Guetta, and Idris Elba. Undeniably authentic, joyful, and enigmatic, N2N is an act poised for a major 2025.<br />\n<br />\nBeyond the decks, Nick has become an outspoken advocate for mental health. He hopes to use his platform to break down the stigma associated with depression and encourage others in similar situations to speak freely in a time heavily dictated by external appearance. In his spare time, you’ll find him tending to his gargantuan plant collection or whispering sweet nothings to his cats Bucket & Shoe.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626105_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626105_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626105_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626105_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "n2nmusic",
-        "youtube_channel_id": "UCqtF1VWz-G7V5aK4CwhrJ5w",
-        "soundcloud_user": "n2nmusic",
-        "spotify_artist_id": "3ZnVC33s8MBcF0KmAC4rj5"
-      },
-      "performances": [
-        {
-          "id": 250057,
-          "external_id": "865577",
-          "published": true,
-          "body": "Over the last ten years, N2N has become broadly recognized for his blistering marathon sets fueled by infectiously joyful house music. In 2018, he was mentioned by ​Billboard​ in its list of the nine best sets from Burning Man, as his yearly sunrise performance has garnered a cult-like following. A lifelong student of music, his sets seamlessly blending genres have become crowd favorites across the country. In the studio, his versatility shines through, as his quirky feel-good style has landed him major label signings as well as support from who’s who in the industry, including Fatboy Slim, Nicole Moudaber, David Guetta, and Idris Elba. Undeniably authentic, joyful, and enigmatic, N2N is an act poised for a major 2025.\n\nBeyond the decks, Nick has become an outspoken advocate for mental health. He hopes to use his platform to break down the stigma associated with depression and encourage others in similar situations to speak freely in a time heavily dictated by external appearance. In his spare time, you’ll find him tending to his gargantuan plant collection or whispering sweet nothings to his cats Bucket & Shoe.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040678,
-          "stage_id": 12490,
-          "stage_name": "Pagoda",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T03:45:00+00:00",
-          "end_time": "2025-07-26T05:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "3rO0TlnVlPQviUMnUkfJ1A",
-          "streaming_service": "spotify",
-          "title": "Don't Talk To Me",
-          "artist_name": "N2N",
-          "duration": 186962,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02dd816360caa7a06fd4509084",
-          "preview_url": "https://p.scdn.co/mp3-preview/913cc2f1cf0fad6ec6bea6670cbcc5046c74aa46?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0syF2z8puWwWyVjioMSNE8",
-          "streaming_service": "spotify",
-          "title": "Provide",
-          "artist_name": "N2N, Rob Marion",
-          "duration": 197952,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027d33f45c626e345c829739b4",
-          "preview_url": "https://p.scdn.co/mp3-preview/2a422e6999380399db0eaf1d843389f2bd4735ea?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4gKXDKK8dqwOVkmpXxK8Ql",
-          "streaming_service": "spotify",
-          "title": "Tension",
-          "artist_name": "N2N, Modern Lover",
-          "duration": 169133,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e022e321519cc16550d0d421956",
-          "preview_url": "https://p.scdn.co/mp3-preview/8cb3ebda1935841eb24bf222a533cf270cbc3858?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6uyPxNh9jZSdwQkfaOF9FF",
-          "streaming_service": "spotify",
-          "title": "Tease",
-          "artist_name": "N2N",
-          "duration": 183500,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02bb5cf75a9227436b61df029c",
-          "preview_url": "https://p.scdn.co/mp3-preview/870d9e44ff2957708431011d069f02e0161a0470?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5qJwqsF6xbC6Th1CpdRIae",
-          "streaming_service": "spotify",
-          "title": "ABC - N2N & Andie Roy Remix",
-          "artist_name": "The Jackson 5, N2N, Andie Roy",
-          "duration": 203873,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0260314aa1cd9477b3c373173f"
-        },
-        {
-          "track_id": "6OiMMbc4FOuV9txJxY0Rqv",
-          "streaming_service": "spotify",
-          "title": "Girls Do What They Want",
-          "artist_name": "N2N, Rose Motion",
-          "duration": 179637,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02335226c0cddf88d86db914f9",
-          "preview_url": "https://p.scdn.co/mp3-preview/802d07a0ca71656da1538c218e882ab333f40687?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3pxapRReH7gzXkcLf7ZBhs",
-          "streaming_service": "spotify",
-          "title": "My Type",
-          "artist_name": "N2N, Rob Marion, JiLLi",
-          "duration": 169453,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02676b7dbd7a967608bcc3d38f",
-          "preview_url": "https://p.scdn.co/mp3-preview/d3baeefe3db20bc749c836ef65399b11a93233cf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0dBALukXMsEEnfMbbevTlw",
-          "streaming_service": "spotify",
-          "title": "Indie",
-          "artist_name": "N2N, MNTRA, Modern Lover",
-          "duration": 243750,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d6489e4bc35f5f2c974bb078",
-          "preview_url": "https://p.scdn.co/mp3-preview/6cc6b1b91d70d38227d289c74758b7d19915ea3a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2t6MSO4QH0Cx8czh3QSLMi",
-          "streaming_service": "spotify",
-          "title": "I Want",
-          "artist_name": "N2N, Modern Lover",
-          "duration": 196279,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b1c3c1f80953ca83a11a9c45",
-          "preview_url": "https://p.scdn.co/mp3-preview/d18b893aec4db398c9500909787b325b1f9d0a4d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3nHkrXgY61pBL5xnH39XNq",
-          "streaming_service": "spotify",
-          "title": "Loose Unit",
-          "artist_name": "N2N",
-          "duration": 185625,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02361db3c03ceada7ff68e303e",
-          "preview_url": "https://p.scdn.co/mp3-preview/4deab580798c89fee431386176b49b18e1f7c734?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2040655,
       "external_id": "167173",
       "published": true,
@@ -4109,84 +4187,6 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": false,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040679,
-      "external_id": "1920560",
-      "published": true,
-      "name": "Eats Everything",
-      "body": "A contemporary UK electronic music institution, Eats Everything (AKA Daniel Pearce) has a global reputation built on versatility, superlative skills and a positive outlook - core fundamentals that have made him one of the most in-demand artists around. With his roots firmly embedded in the vibrant, influential music culture of his hometown, Bristol, Eats Everything channels his broad musical palette into every aspect of his output. In 2021 the globetrotting DJ, accomplished producer, prolific remixer, label owner, radio host and mastermind behind a collection of popular party brands celebrated 10 years of his now infamous pseudonym.  His latest releases, ‘Vaccine’ and ‘Move’, showcase his eclectic taste and talent as a producer across multiple genres. Eats’ latest release on Three Six Zero, ’R&L’ is a different look for him again, emotional melodies and rolling breakbeats take the place of a thumping 4/4. A track that is dedicated to his children Ralph and Lennie. <br />\n<br />\nBack in 2011, when Eats arrived on the scene, he was in the last chance saloon; working a job he wasn’t enjoying, while DJing was a hobby. Had it not been for the success of ‘Entrance Song’ he might still be working in recruitment. Fortunately, he broke through and, 11 years on, has not only maintained the energy of that first release, but has surpassed it with a consistently high level of production and a diverse range of styles. Since that breakthrough his production abilities have been demonstrated time and time again across an extensive back catalogue that includes an array of infamous ‘Rebeef’ mixes, edits, original solo cuts and collaborations. <br />\n<br />\nRecent highlights from Dan’s discography includes recent collaborations with Shermanology with ‘Tell Me Something Good’ and ‘Bristol to Brighton’ which featured vocals from Fatboy Slim. As well as rave-tinged banger ‘Miss Honey’ on FFRR, ‘All The Ladies’ with Fatboy Slim, which landed on Southern Fried in March 2020, plus remixes of ‘My House’ by Jodie Harsh and a funked up ‘10 Years Of Eats Everything’ rework of the classic ‘God Made Me Phunky’ by MD X-Press on Defected. As well as releasing on his own Edible and EI8HT labels, Eats has been featured on Desolat, PETS, Intec, Kneaded Pains, Dirtybird, Crosstown Rebels, Cajual, Hypercolour and many more. <br />\n<br />\nEats Everything was a raver first and foremost, spending his formative years in Bristol’s infamous clubs (like Lakota and the FireStation) where his love for music was cemented. The result is an artist who is able to establish a deep bond with the crowd in front of him, with an intuitive understanding of how to keep the dancefloor pumped all night long. Dan began playing records when he was 12 and he’s been dedicated to electronic music ever since. With his turntables set up at his bedroom window he would look out from behind the  decks and imagine playing to thousands of people. Now that dream is a reality and he’s relishing every second. <br />\n<br />\nDan’s technical ability combined with his musical knowledge - spans house, techno, disco, garage, jungle and much more. There are many sides to Eats Everything, but at his core is the essence of rave culture: cultivating the party energy that unites everyone on the dancefloor. He’s commanded the big stage at festivals, played captain on boat parties, smashed dancefloors at clubs from Brazil to Australia and everywhere in between, and appeared at a wide range of unusual locations from a butcher’s shop in the Austrian mountains, a church in Amsterdam to London’s Natural History Museum, a pizza shop,  a fish’n’chip shop in his native Bristol and most recently a hot air balloon!<br />\n<br />\nHe supported Fatboy Slim on his UK arena tour, and the two men performed their Fat Boy Eats Everything back-to-back show at Glastonbury’s Arcadia stage in 2019 as well as at Glastonbury’s Stonebridge Bar at the first History of Rave takeover.  Other highlights include his close ties with globally-respected brands at Defected and Elrow, two powerhouse rave outfits that have welcomed Eats into their respective family units. Elsewhere he has brought the house down at Warehouse Project and Watergate plus worked his way through all-night-long sets at fabric in London and Lakota in Bristol with typical Eats Everything panache. Not forgetting huge shows at Printworks in London, EDC Vegas and Boomtown. Just a snippet from the long list of clubs and festivals he’s appeared at. <br />\n<br />\nIn 2012 Dan’s prolific approach to edits led to the recording of a classic Essential Mix made up entirely of his own beefed up reworks - his second appearance on the Essential Mix that year, and the first time an artist appeared twice in the same year. More recently Dan returned to Radio One in 2023 and performed his first studio Essential Mix. Other notable mix credits include a contribution to fabric’s world-renowned series. ‘Fabric 86’ was released in 2015 picking up high praise from peers and fans alike. <br />\n<br />\nOn the label tip, he launched Edible back in 2015, followed by EI8HT in 2019. Edible focuses on good quality house music, across the board, signing artists such as Paul Woolford, Elliot Adamson, Jesse Perez, Seb Zito, Catz ‘n Dogz, Waze & Odyssey, Melé and more. Meanwhile, EI8HT takes the techno blueprint and injects it with funk and groove. Both labels continue to support new music, maintaining a constant flow of releases throughout the global shutdown and keeping fans entertained across the planet. With three decades spent on the dancefloor and in the booth, both labels benefit from Eats Everything’s experience. All the years spent raving, DJing and producing have blessed him with an incredibly refined ear and an instinctive knack for identifying what works. <br />\n<br />\nAs anyone who’s witnessed him in action will attest, both on air and on screen Dan’s gregarious personality shines through. An artist who is serious about the party but never takes himself too seriously, his wit, good nature and buoyant West Country accent have made him a favourite of fans all over the world. This led to a residency with BBC Radio 1 for 12 months in 2017, regular appearances on their Friday night shows and his integration into the Radio 1 family. Alongside this, he presented his own ‘Edible Beats’ radio show for many years, which was aired on over 70 FM radio stations around the world from Argentina to Australia.<br />\n<br />\nDespite his global success, Dan has always kept his feet firmly on the ground with an unpretentious attitude that has led to him being labelled the ‘People’s Champion’. This has been demonstrated in his charity work and events like ‘Come Rave With Me’, where he invited lucky fans to join him behind-the-scenes as he toured the UK and Ireland in 2019. Alongside the raves, he has held three ‘Food For Thought’ lectures across schools in England, talking to students about his musical journey and creative processes within the studio. Dan has also created a course for online music education platform Virtuoso, where students can learn how to ‘rebeef’ records in Eats’ inimitable style. On top of this, he has been a firm advocate for the ‘Last Night a DJ Saved My Life’ charity, raising funds to provide safe clean water across Africa and India with special NYE performances. He also played a surprise charity show in his hometown in 2017 to raise money for two local charities (Crisis Centre Ministries and LoveBristol) that work with those affected by homelessness and addiction.<br />\n<br />\n2022 saw the beginning of Dan’s events brand ‘Eats Everything presents History of Rave’. A night with a focus of allowing DJs to play the music they love but may not get to play at their usual sets. In Dan’s words: History Of Rave is not about nostalgia, not about the past, it’s an all encompassing tribute to the rave and its culture, from a minute ago to the foundations of disco & boogie. The HoR policy is play what you like and have a lovely time doing it. The first History of Rave at Glastonbury’s Stonebridge bar was the place to be on Thursday. Returning in 2023 for a second year running, once again completely full from start to finish. HoR has since appeared at fabric London, Motion, Rise Festival, Boomtown and Love Saves The Day.. Dan is incredibly excited to be taking HoR to the next level in 2024.<br />\n<br />\nGood natured and full of laughs, Eats Everything’s down-to-earth attitude belies his star status, winning him an army of loyal followers all over the world. As an artist he represents the roots of dance music culture; an open-minded selector who channels the essence of rave to cultivate an inclusive, unified feeling on the dancefloor. Despite living out his dream and achieving an array of life-affirming milestones, he remains as humble, passionate and committed as he was before success came knocking and because of that, his legacy and positive influence will endure for many years to come...",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463962_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463962_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463962_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463962_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "MrEatsEverything",
-        "instagram_user": "eatseverything",
-        "youtube_user": "eatseverything",
-        "soundcloud_user": "eatseverything"
-      },
-      "performances": [
-        {
-          "id": 250058,
-          "external_id": "865472",
-          "published": true,
-          "body": "A contemporary UK electronic music institution, Eats Everything (AKA Daniel Pearce) has a global reputation built on versatility, superlative skills and a positive outlook - core fundamentals that have made him one of the most in-demand artists around. With his roots firmly embedded in the vibrant, influential music culture of his hometown, Bristol, Eats Everything channels his broad musical palette into every aspect of his output. In 2021 the globetrotting DJ, accomplished producer, prolific remixer, label owner, radio host and mastermind behind a collection of popular party brands celebrated 10 years of his now infamous pseudonym.  His latest releases, ‘Vaccine’ and ‘Move’, showcase his eclectic taste and talent as a producer across multiple genres. Eats’ latest release on Three Six Zero, ’R&L’ is a different look for him again, emotional melodies and rolling breakbeats take the place of a thumping 4/4. A track that is dedicated to his children Ralph and Lennie. \n\nBack in 2011, when Eats arrived on the scene, he was in the last chance saloon; working a job he wasn’t enjoying, while DJing was a hobby. Had it not been for the success of ‘Entrance Song’ he might still be working in recruitment. Fortunately, he broke through and, 11 years on, has not only maintained the energy of that first release, but has surpassed it with a consistently high level of production and a diverse range of styles. Since that breakthrough his production abilities have been demonstrated time and time again across an extensive back catalogue that includes an array of infamous ‘Rebeef’ mixes, edits, original solo cuts and collaborations. \n\nRecent highlights from Dan’s discography includes recent collaborations with Shermanology with ‘Tell Me Something Good’ and ‘Bristol to Brighton’ which featured vocals from Fatboy Slim. As well as rave-tinged banger ‘Miss Honey’ on FFRR, ‘All The Ladies’ with Fatboy Slim, which landed on Southern Fried in March 2020, plus remixes of ‘My House’ by Jodie Harsh and a funked up ‘10 Years Of Eats Everything’ rework of the classic ‘God Made Me Phunky’ by MD X-Press on Defected. As well as releasing on his own Edible and EI8HT labels, Eats has been featured on Desolat, PETS, Intec, Kneaded Pains, Dirtybird, Crosstown Rebels, Cajual, Hypercolour and many more. \n\nEats Everything was a raver first and foremost, spending his formative years in Bristol’s infamous clubs (like Lakota and the FireStation) where his love for music was cemented. The result is an artist who is able to establish a deep bond with the crowd in front of him, with an intuitive understanding of how to keep the dancefloor pumped all night long. Dan began playing records when he was 12 and he’s been dedicated to electronic music ever since. With his turntables set up at his bedroom window he would look out from behind the  decks and imagine playing to thousands of people. Now that dream is a reality and he’s relishing every second. \n\nDan’s technical ability combined with his musical knowledge - spans house, techno, disco, garage, jungle and much more. There are many sides to Eats Everything, but at his core is the essence of rave culture: cultivating the party energy that unites everyone on the dancefloor. He’s commanded the big stage at festivals, played captain on boat parties, smashed dancefloors at clubs from Brazil to Australia and everywhere in between, and appeared at a wide range of unusual locations from a butcher’s shop in the Austrian mountains, a church in Amsterdam to London’s Natural History Museum, a pizza shop,  a fish’n’chip shop in his native Bristol and most recently a hot air balloon!\n\nHe supported Fatboy Slim on his UK arena tour, and the two men performed their Fat Boy Eats Everything back-to-back show at Glastonbury’s Arcadia stage in 2019 as well as at Glastonbury’s Stonebridge Bar at the first History of Rave takeover.  Other highlights include his close ties with globally-respected brands at Defected and Elrow, two powerhouse rave outfits that have welcomed Eats into their respective family units. Elsewhere he has brought the house down at Warehouse Project and Watergate plus worked his way through all-night-long sets at fabric in London and Lakota in Bristol with typical Eats Everything panache. Not forgetting huge shows at Printworks in London, EDC Vegas and Boomtown. Just a snippet from the long list of clubs and festivals he’s appeared at. \n\nIn 2012 Dan’s prolific approach to edits led to the recording of a classic Essential Mix made up entirely of his own beefed up reworks - his second appearance on the Essential Mix that year, and the first time an artist appeared twice in the same year. More recently Dan returned to Radio One in 2023 and performed his first studio Essential Mix. Other notable mix credits include a contribution to fabric’s world-renowned series. ‘Fabric 86’ was released in 2015 picking up high praise from peers and fans alike. \n\nOn the label tip, he launched Edible back in 2015, followed by EI8HT in 2019. Edible focuses on good quality house music, across the board, signing artists such as Paul Woolford, Elliot Adamson, Jesse Perez, Seb Zito, Catz ‘n Dogz, Waze & Odyssey, Melé and more. Meanwhile, EI8HT takes the techno blueprint and injects it with funk and groove. Both labels continue to support new music, maintaining a constant flow of releases throughout the global shutdown and keeping fans entertained across the planet. With three decades spent on the dancefloor and in the booth, both labels benefit from Eats Everything’s experience. All the years spent raving, DJing and producing have blessed him with an incredibly refined ear and an instinctive knack for identifying what works. \n\nAs anyone who’s witnessed him in action will attest, both on air and on screen Dan’s gregarious personality shines through. An artist who is serious about the party but never takes himself too seriously, his wit, good nature and buoyant West Country accent have made him a favourite of fans all over the world. This led to a residency with BBC Radio 1 for 12 months in 2017, regular appearances on their Friday night shows and his integration into the Radio 1 family. Alongside this, he presented his own ‘Edible Beats’ radio show for many years, which was aired on over 70 FM radio stations around the world from Argentina to Australia.\n\nDespite his global success, Dan has always kept his feet firmly on the ground with an unpretentious attitude that has led to him being labelled the ‘People’s Champion’. This has been demonstrated in his charity work and events like ‘Come Rave With Me’, where he invited lucky fans to join him behind-the-scenes as he toured the UK and Ireland in 2019. Alongside the raves, he has held three ‘Food For Thought’ lectures across schools in England, talking to students about his musical journey and creative processes within the studio. Dan has also created a course for online music education platform Virtuoso, where students can learn how to ‘rebeef’ records in Eats’ inimitable style. On top of this, he has been a firm advocate for the ‘Last Night a DJ Saved My Life’ charity, raising funds to provide safe clean water across Africa and India with special NYE performances. He also played a surprise charity show in his hometown in 2017 to raise money for two local charities (Crisis Centre Ministries and LoveBristol) that work with those affected by homelessness and addiction.\n\n2022 saw the beginning of Dan’s events brand ‘Eats Everything presents History of Rave’. A night with a focus of allowing DJs to play the music they love but may not get to play at their usual sets. In Dan’s words: History Of Rave is not about nostalgia, not about the past, it’s an all encompassing tribute to the rave and its culture, from a minute ago to the foundations of disco & boogie. The HoR policy is play what you like and have a lovely time doing it. The first History of Rave at Glastonbury’s Stonebridge bar was the place to be on Thursday. Returning in 2023 for a second year running, once again completely full from start to finish. HoR has since appeared at fabric London, Motion, Rise Festival, Boomtown and Love Saves The Day.. Dan is incredibly excited to be taking HoR to the next level in 2024.\n\nGood natured and full of laughs, Eats Everything’s down-to-earth attitude belies his star status, winning him an army of loyal followers all over the world. As an artist he represents the roots of dance music culture; an open-minded selector who channels the essence of rave to cultivate an inclusive, unified feeling on the dancefloor. Despite living out his dream and achieving an array of life-affirming milestones, he remains as humble, passionate and committed as he was before success came knocking and because of that, his legacy and positive influence will endure for many years to come...",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040679,
-          "stage_id": 12490,
-          "stage_name": "Pagoda",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T05:00:00+00:00",
-          "end_time": "2025-07-26T06:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
       "show_section_titles": true,
       "allow_favoriting": true
     },
