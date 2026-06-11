@@ -668,6 +668,117 @@
       "allow_favoriting": true
     },
     {
+      "id": 2040697,
+      "external_id": "167001",
+      "published": true,
+      "name": "Mr. B",
+      "body": "If you’ve ever adventured down to muscle beach in the last decade, you’ve probably heard the buzz of mr.b’s hive. Like most bees, he works quietly in the background facilitating the magic that brings Shambhala to life. His work can bee seen peaking out among the trees from multiple stages out all over the farm from one end to the other. As DJ, his eclectic style patterns the six points of a hexagon—jazz, funk, disco, house, techno, classic rock and all points in between.<br />\n<br />\nAfter completing an undergrad in History at the University of Victoria in 2023, he’s been developing a workshop focusing on the healing power of music and the history of dance culture—don’t miss this year’s class at the Secret Garden and a full on DJ set later in the night!",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469665_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469665_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469665_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469665_performance_500.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "djmr.bee",
+        "soundcloud_user": "mr-bizzle"
+      },
+      "performances": [
+        {
+          "id": 250074,
+          "external_id": "866222",
+          "published": true,
+          "name": "Music, Healing, and the History of Dance Culture with Brent Boychuck",
+          "body": "If you’ve ever adventured down to muscle beach in the last decade, you’ve probably heard the buzz of mr.b’s hive. Like most bees, he works quietly in the background facilitating the magic that brings Shambhala to life. His work can bee seen peaking out among the trees from multiple stages out all over the farm from one end to the other. As DJ, his eclectic style patterns the six points of a hexagon—jazz, funk, disco, house, techno, classic rock and all points in between.\n\nAfter completing an undergrad in History at the University of Victoria in 2023, he’s been developing a workshop focusing on the healing power of music and the history of dance culture—don’t miss this year’s class at the Secret Garden and a full on DJ set later in the night!",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040697,
+          "stage_id": 12492,
+          "stage_name": "Secret Garden",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T01:00:00+00:00",
+          "end_time": "2025-07-26T02:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        },
+        {
+          "id": 250077,
+          "external_id": "866080",
+          "published": true,
+          "body": "If you’ve ever adventured down to muscle beach in the last decade, you’ve probably heard the buzz of mr.b’s hive. Like most bees, he works quietly in the background facilitating the magic that brings Shambhala to life. His work can bee seen peaking out among the trees from multiple stages out all over the farm from one end to the other. As DJ, his eclectic style patterns the six points of a hexagon—jazz, funk, disco, house, techno, classic rock and all points in between.\n\nAfter completing an undergrad in History at the University of Victoria in 2023, he’s been developing a workshop focusing on the healing power of music and the history of dance culture—don’t miss this year’s class at the Secret Garden and a full on DJ set later in the night!",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040697,
+          "stage_id": 12492,
+          "stage_name": "Secret Garden",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T05:30:00+00:00",
+          "end_time": "2025-07-26T07:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2040710,
       "external_id": "1920557",
       "published": true,
@@ -26744,117 +26855,6 @@
           "preview_url": "https://p.scdn.co/mp3-preview/7efb23397c845d54cd8e1d1c403818ce0633ff0c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         }
       ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040697,
-      "external_id": "167001",
-      "published": true,
-      "name": "Mr. B",
-      "body": "If you’ve ever adventured down to muscle beach in the last decade, you’ve probably heard the buzz of mr.b’s hive. Like most bees, he works quietly in the background facilitating the magic that brings Shambhala to life. His work can bee seen peaking out among the trees from multiple stages out all over the farm from one end to the other. As DJ, his eclectic style patterns the six points of a hexagon—jazz, funk, disco, house, techno, classic rock and all points in between.<br />\n<br />\nAfter completing an undergrad in History at the University of Victoria in 2023, he’s been developing a workshop focusing on the healing power of music and the history of dance culture—don’t miss this year’s class at the Secret Garden and a full on DJ set later in the night!",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469665_performance_100.png",
-        "120": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469665_performance_120.png",
-        "250": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469665_performance_250.png",
-        "500": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469665_performance_500.png"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "djmr.bee",
-        "soundcloud_user": "mr-bizzle"
-      },
-      "performances": [
-        {
-          "id": 250074,
-          "external_id": "866222",
-          "published": true,
-          "name": "Music, Healing, and the History of Dance Culture with Brent Boychuck",
-          "body": "If you’ve ever adventured down to muscle beach in the last decade, you’ve probably heard the buzz of mr.b’s hive. Like most bees, he works quietly in the background facilitating the magic that brings Shambhala to life. His work can bee seen peaking out among the trees from multiple stages out all over the farm from one end to the other. As DJ, his eclectic style patterns the six points of a hexagon—jazz, funk, disco, house, techno, classic rock and all points in between.\n\nAfter completing an undergrad in History at the University of Victoria in 2023, he’s been developing a workshop focusing on the healing power of music and the history of dance culture—don’t miss this year’s class at the Secret Garden and a full on DJ set later in the night!",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040697,
-          "stage_id": 12492,
-          "stage_name": "Secret Garden",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T01:00:00+00:00",
-          "end_time": "2025-07-26T02:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        },
-        {
-          "id": 250077,
-          "external_id": "866080",
-          "published": true,
-          "body": "If you’ve ever adventured down to muscle beach in the last decade, you’ve probably heard the buzz of mr.b’s hive. Like most bees, he works quietly in the background facilitating the magic that brings Shambhala to life. His work can bee seen peaking out among the trees from multiple stages out all over the farm from one end to the other. As DJ, his eclectic style patterns the six points of a hexagon—jazz, funk, disco, house, techno, classic rock and all points in between.\n\nAfter completing an undergrad in History at the University of Victoria in 2023, he’s been developing a workshop focusing on the healing power of music and the history of dance culture—don’t miss this year’s class at the Secret Garden and a full on DJ set later in the night!",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040697,
-          "stage_id": 12492,
-          "stage_name": "Secret Garden",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T05:30:00+00:00",
-          "end_time": "2025-07-26T07:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
