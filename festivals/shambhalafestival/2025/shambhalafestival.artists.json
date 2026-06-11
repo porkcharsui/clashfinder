@@ -668,79 +668,46 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040697,
-      "external_id": "167001",
+      "id": 2040570,
+      "external_id": "1916465",
       "published": true,
-      "name": "Mr. B",
-      "body": "If you’ve ever adventured down to muscle beach in the last decade, you’ve probably heard the buzz of mr.b’s hive. Like most bees, he works quietly in the background facilitating the magic that brings Shambhala to life. His work can bee seen peaking out among the trees from multiple stages out all over the farm from one end to the other. As DJ, his eclectic style patterns the six points of a hexagon—jazz, funk, disco, house, techno, classic rock and all points in between.<br />\n<br />\nAfter completing an undergrad in History at the University of Victoria in 2023, he’s been developing a workshop focusing on the healing power of music and the history of dance culture—don’t miss this year’s class at the Secret Garden and a full on DJ set later in the night!",
+      "name": "AMP Live",
+      "body": "Amp Live has fuses the sounds of boom bap hip hop, bass music, melodic soul,  and reggae with a technical and classical sensibility. His hybrid production style not only transcends in the studio, but also onto the live stage. Amp has captivated audiences around the world combining a modern dj set with his \"frankenstein like\" beat machines. Amp Live has collaborated with some heavy hitting artists such as Liquid Stranger, Dirt Monkey, Mad Zach, and Subdocta. For his releases, he has also partnered with various labels, such as Ganja White Night’s Subcarbon Records, 19k Records, and Gravitas Music Recordings. Outside of Amp's own solo projects, he has also produced for Saweetie, 21 Savage, Rebelution, H.E.R., E40, Too Short, Collie Buddz, and Atmosphere, as well as an official Radiohead remix album. Amp also co-founded the hip hop duo Zion I, Unified Highway with Rebelution’s lead singer Eric Rachmany, and the Del the Funky Homosapien & Amp Live project. Amp Live is soft-spoken and polite in his demeanor, but his sounds are loud, daring, and continuously prove to be ahead of the curve.",
       "priority": 100,
       "category": "regular",
       "image": {
         "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469665_performance_100.png",
-        "120": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469665_performance_120.png",
-        "250": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469665_performance_250.png",
-        "500": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469665_performance_500.png"
+        "100": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627056_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627056_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627056_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627056_performance_500.jpeg"
       },
       "hide_image_on_overview": "never",
       "hide_image_on_detail": "never",
       "links": {
-        "facebook_page_id": "djmr.bee",
-        "soundcloud_user": "mr-bizzle"
+        "instagram_user": "AMPLIVESWORLD/",
+        "youtube_channel_id": "UCZFvYK-jkH_MwOoWJxTsFMw",
+        "soundcloud_user": "AMPLIVE",
+        "spotify_artist_id": "4WoeMzXhDQyoFCKdji4FlL"
       },
       "performances": [
         {
-          "id": 250074,
-          "external_id": "866222",
+          "id": 249949,
+          "external_id": "865523",
           "published": true,
-          "name": "Music, Healing, and the History of Dance Culture with Brent Boychuck",
-          "body": "If you’ve ever adventured down to muscle beach in the last decade, you’ve probably heard the buzz of mr.b’s hive. Like most bees, he works quietly in the background facilitating the magic that brings Shambhala to life. His work can bee seen peaking out among the trees from multiple stages out all over the farm from one end to the other. As DJ, his eclectic style patterns the six points of a hexagon—jazz, funk, disco, house, techno, classic rock and all points in between.\n\nAfter completing an undergrad in History at the University of Victoria in 2023, he’s been developing a workshop focusing on the healing power of music and the history of dance culture—don’t miss this year’s class at the Secret Garden and a full on DJ set later in the night!",
+          "body": "Amp Live has fuses the sounds of boom bap hip hop, bass music, melodic soul,  and reggae with a technical and classical sensibility. His hybrid production style not only transcends in the studio, but also onto the live stage. Amp has captivated audiences around the world combining a modern dj set with his \"frankenstein like\" beat machines. Amp Live has collaborated with some heavy hitting artists such as Liquid Stranger, Dirt Monkey, Mad Zach, and Subdocta. For his releases, he has also partnered with various labels, such as Ganja White Night’s Subcarbon Records, 19k Records, and Gravitas Music Recordings. Outside of Amp's own solo projects, he has also produced for Saweetie, 21 Savage, Rebelution, H.E.R., E40, Too Short, Collie Buddz, and Atmosphere, as well as an official Radiohead remix album. Amp also co-founded the hip hop duo Zion I, Unified Highway with Rebelution’s lead singer Eric Rachmany, and the Del the Funky Homosapien & Amp Live project. Amp Live is soft-spoken and polite in his demeanor, but his sounds are loud, daring, and continuously prove to be ahead of the curve.",
           "priority": 100,
           "sold_out": false,
-          "artist_id": 2040697,
-          "stage_id": 12492,
-          "stage_name": "Secret Garden",
-          "date_id": 3938,
+          "artist_id": 2040570,
+          "stage_id": 12479,
+          "stage_name": "AMP",
+          "date_id": 4325,
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
           "show_in_search": false,
-          "start_time": "2025-07-26T01:00:00+00:00",
-          "end_time": "2025-07-26T02:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        },
-        {
-          "id": 250077,
-          "external_id": "866080",
-          "published": true,
-          "body": "If you’ve ever adventured down to muscle beach in the last decade, you’ve probably heard the buzz of mr.b’s hive. Like most bees, he works quietly in the background facilitating the magic that brings Shambhala to life. His work can bee seen peaking out among the trees from multiple stages out all over the farm from one end to the other. As DJ, his eclectic style patterns the six points of a hexagon—jazz, funk, disco, house, techno, classic rock and all points in between.\n\nAfter completing an undergrad in History at the University of Victoria in 2023, he’s been developing a workshop focusing on the healing power of music and the history of dance culture—don’t miss this year’s class at the Secret Garden and a full on DJ set later in the night!",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040697,
-          "stage_id": 12492,
-          "stage_name": "Secret Garden",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T05:30:00+00:00",
-          "end_time": "2025-07-26T07:00:00+00:00",
+          "start_time": "2025-07-25T00:30:00+00:00",
+          "end_time": "2025-07-25T01:30:00+00:00",
           "show_image_in_schedule": true,
           "hide_start_time": false,
           "hide_end_time": false,
@@ -771,7 +738,98 @@
           "color": "#7896FF"
         }
       ],
-      "tracks": [],
+      "tracks": [
+        {
+          "track_id": "1nj3fP1BRNJWfWZOFZ56nu",
+          "streaming_service": "spotify",
+          "title": "One Thing (feat. Cristina Soto) - Amp Live Remix",
+          "artist_name": "Psymbionic, Amp Live, Cristina Soto",
+          "duration": 261401,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0224be3555331912eb0951d44e",
+          "preview_url": "https://p.scdn.co/mp3-preview/4dfc24b7041cac2801630f6aa27a4e941923d569?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3vzLGvRFJgPtLIaNZcKxpw",
+          "streaming_service": "spotify",
+          "title": "Flight in G Minor",
+          "artist_name": "Amp Live, Dirty Cello",
+          "duration": 244421,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e96ddab290dc50d01a1a871e",
+          "preview_url": "https://p.scdn.co/mp3-preview/f494fd72377daf6313b9f2862bbfe2bda6f6ca97?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "30rmz7OJYaDnYrgxkzpsS1",
+          "streaming_service": "spotify",
+          "title": "Penny Nickel Dime",
+          "artist_name": "Amp Live, Anya, Prof",
+          "duration": 232483,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e96ddab290dc50d01a1a871e",
+          "preview_url": "https://p.scdn.co/mp3-preview/a877bfdf0fb9ee833e378bcddfaf555a74cb4918?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "51T88D2jWZjltP0BmAS0eq",
+          "streaming_service": "spotify",
+          "title": "1940 - AmpLive Remix",
+          "artist_name": "The Submarines, Amp Live",
+          "duration": 194880,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0259788932355148a9608ababa",
+          "preview_url": "https://p.scdn.co/mp3-preview/97dfb5cb81cc15235109b4e2c02b0023845938e8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "29utx3aQRREuzabvXM5D1O",
+          "streaming_service": "spotify",
+          "title": "Sit Ya Ass Down",
+          "artist_name": "Amp Live, Del The Funky Homosapien",
+          "duration": 212783,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02220fb44e1c2d5214544da4c8",
+          "preview_url": "https://p.scdn.co/mp3-preview/ffa93a2081a954d10e71d3eccdecf1da699fad66?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "50VJIl48B7gVlY4mTrLwG4",
+          "streaming_service": "spotify",
+          "title": "I Got 5",
+          "artist_name": "Amp Live",
+          "duration": 185217,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0223795f38b3fad5e64b53d2f1",
+          "preview_url": "https://p.scdn.co/mp3-preview/6fee0f3dfc9aa8436031b54b7e43c97a87cff032?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "21lk4LSxItVHNNOUOZyWPR",
+          "streaming_service": "spotify",
+          "title": "Rolling Down The Street",
+          "artist_name": "Amp Live",
+          "duration": 134400,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0223795f38b3fad5e64b53d2f1",
+          "preview_url": "https://p.scdn.co/mp3-preview/c550633af6b5435a33cd27bf67103c6b8b985243?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3oqnSJu2wGgnR9JDQzUxP9",
+          "streaming_service": "spotify",
+          "title": "High Life",
+          "artist_name": "Morillo, Amp Live",
+          "duration": 194666,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c08bf07d667961231cb607d9",
+          "preview_url": "https://p.scdn.co/mp3-preview/82f27159c799b66dc7dfb20d01e8fc674f6085c3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1TQbzSCqQS2Gp9ASWVVUDJ",
+          "streaming_service": "spotify",
+          "title": "Flying High",
+          "artist_name": "Amp Live",
+          "duration": 121333,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e928a1ec99da4e1b5740a604",
+          "preview_url": "https://p.scdn.co/mp3-preview/b8e75929ceebe228e07c056c06f032025caef159?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5VjkmYbcLcqmg4fZHwN4T0",
+          "streaming_service": "spotify",
+          "title": "CA Love",
+          "artist_name": "Amp Live",
+          "duration": 112258,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0223795f38b3fad5e64b53d2f1",
+          "preview_url": "https://p.scdn.co/mp3-preview/2e1867185753170fcd89fdd6e23da45e84e45ace?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
@@ -779,46 +837,47 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040710,
-      "external_id": "1920557",
+      "id": 2040692,
+      "external_id": "1922476",
       "published": true,
-      "name": "Glass Beams",
-      "body": "Initially conceived through the rekindling of childhood memories relating to his father, who emigrated to Melbourne from India in the late 1970's. Glass Beams aka Rajan Silva cites one particular memory — the watching of ‘Concert for George’, a star-studded tribute to late Beatles member George Harrison performed at London's Royal Albert Hall in 2002, featuring legendary Indian sitar player Ravi Shankar with daughter Anoushka, alongside Western icons Eric Clapton, Paul McCartney and ELO’s Jeff Lynne — as being especially formative. It is this spirit of cross-pollination between East and West, of old and new, that he has sought to capture in the self produced works of Glass Beams, whose output presents a timeless fusion of cultures and sounds beamed through a prism of live instrumentation and DIY electronica, all wrapped up inside a mesmerizing and mystical visual world of their own making. Through debut EP ‘Mirage’ and recent breakout EP ‘Mahal’, Glass Beams have catapulted into the collective consciousness of millions of new followers who came to discover the serpentine, psychedelic-tinged tracks through social media, streaming services and word of mouth. Expanding from solo project to a trio for their live shows, the band have also seen phenomenal success selling out every show on both their debut European and North American tours — adding numerous additional dates and venue upgrades due to demand.",
+      "name": "John Early",
+      "body": "John Early is an author, yogi, singer-songwriter and founder of ViYarte Retreat Center in Nicaragua and cofounder of Momentom Collective. He is delighted to be back leading various workshops at Shambhala for the 6th year and to continue to add depth and playful embodiment to the wild experience that is Shambhala.<br />\n<br />\nYou can follow John’s adventures on Instagram @johntearly and for more info on his projects visit www.johnearly.ca and www.viyarte.com  <br />\n<br />\n//Brenna Bote is a personal coach and Founder of Pure Living Yoga and Sweat Chill Be. Her mission is to help bring intentional movement and healing practices into people’s life and to connect people inspiring change around their community. <br />\n<br />\nFor more info on Brenna’s projects and online classes visit www.purelivingyoga.com and www.sweatchillbe.com",
       "priority": 100,
       "category": "regular",
       "image": {
         "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463988_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463988_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463988_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463988_performance_500.jpeg"
+        "100": "https://media.appmiral.com/prod/performance/0055/67/thumb_5466999_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/67/thumb_5466999_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/67/thumb_5466999_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/67/thumb_5466999_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0055/67/thumb_5466999_performance_960.png",
+        "1080": "https://media.appmiral.com/prod/performance/0055/67/thumb_5466999_performance_1080.png",
+        "1440": "https://media.appmiral.com/prod/performance/0055/67/thumb_5466999_performance_1440.png"
       },
       "hide_image_on_overview": "never",
       "hide_image_on_detail": "never",
       "links": {
-        "instagram_user": "glass_beams",
-        "twitter_user": "glass_beams",
-        "youtube_user": "glassbeams",
-        "soundcloud_user": "glassbeams"
+        "instagram_user": "johntearly"
       },
       "performances": [
         {
-          "id": 250089,
-          "external_id": "865355",
+          "id": 250072,
+          "external_id": "866220",
           "published": true,
-          "body": "Initially conceived through the rekindling of childhood memories relating to his father, who emigrated to Melbourne from India in the late 1970's. Glass Beams aka Rajan Silva cites one particular memory — the watching of ‘Concert for George’, a star-studded tribute to late Beatles member George Harrison performed at London's Royal Albert Hall in 2002, featuring legendary Indian sitar player Ravi Shankar with daughter Anoushka, alongside Western icons Eric Clapton, Paul McCartney and ELO’s Jeff Lynne — as being especially formative. It is this spirit of cross-pollination between East and West, of old and new, that he has sought to capture in the self produced works of Glass Beams, whose output presents a timeless fusion of cultures and sounds beamed through a prism of live instrumentation and DIY electronica, all wrapped up inside a mesmerizing and mystical visual world of their own making. Through debut EP ‘Mirage’ and recent breakout EP ‘Mahal’, Glass Beams have catapulted into the collective consciousness of millions of new followers who came to discover the serpentine, psychedelic-tinged tracks through social media, streaming services and word of mouth. Expanding from solo project to a trio for their live shows, the band have also seen phenomenal success selling out every show on both their debut European and North American tours — adding numerous additional dates and venue upgrades due to demand.",
+          "name": "Fly with Friends Acro Yoga with John Early & Brenna Bote",
+          "body": "John Early is an author, yogi, singer-songwriter and founder of ViYarte Retreat Center in Nicaragua and cofounder of Momentom Collective. He is delighted to be back leading various workshops at Shambhala for the 6th year and to continue to add depth and playful embodiment to the wild experience that is Shambhala.\n\nYou can follow John’s adventures on Instagram @johntearly and for more info on his projects visit www.johnearly.ca and www.viyarte.com  \n\n//Brenna Bote is a personal coach and Founder of Pure Living Yoga and Sweat Chill Be. Her mission is to help bring intentional movement and healing practices into people’s life and to connect people inspiring change around their community. \n\nFor more info on Brenna’s projects and online classes visit www.purelivingyoga.com and www.sweatchillbe.com",
           "priority": 100,
           "sold_out": false,
-          "artist_id": 2040710,
-          "stage_id": 12496,
-          "stage_name": "Living Room",
-          "date_id": 3939,
+          "artist_id": 2040692,
+          "stage_id": 12492,
+          "stage_name": "Secret Garden",
+          "date_id": 3938,
           "show_in_schedule": true,
           "show_in_line_up": true,
           "show_in_calendar": true,
           "show_in_search": false,
-          "start_time": "2025-07-27T05:30:00+00:00",
-          "end_time": "2025-07-27T06:30:00+00:00",
+          "start_time": "2025-07-25T22:00:00+00:00",
+          "end_time": "2025-07-25T23:30:00+00:00",
           "show_image_in_schedule": true,
           "hide_start_time": false,
           "hide_end_time": false,
@@ -1011,15 +1070,716 @@
           "preview_url": "https://p.scdn.co/mp3-preview/7f3e49ea6237aecc8a166917f7c6d0fd96fa3bcb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         },
         {
-          "track_id": "6FkCciLN6ZPTPV3NP4poAw",
+          "track_id": "09MupeXaNExwE7DccfToMk",
           "streaming_service": "spotify",
-          "title": "Push n Pull",
-          "artist_name": "Mat the Alien",
-          "duration": 253714,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e9ec03551b746da5a85dd4b7",
-          "preview_url": "https://p.scdn.co/mp3-preview/52618046c4f83433d26ff9cc5053342290162060?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+          "title": "Bobo - Metafloor Remix",
+          "artist_name": "Mat the Alien, Metafloor",
+          "duration": 240375,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b1a46134a697d30721231f2e",
+          "preview_url": "https://p.scdn.co/mp3-preview/ebe7ccab0952868bab013bcee0c54ff8f97162e8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         }
       ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040706,
+      "external_id": "174113",
+      "published": true,
+      "name": "EVeryman",
+      "body": "Evan Shafran, A.K.A. EVeryman, is a multi-talented artist who has made a name for himself in the worlds of comedy, acting, and music. His unique blend of talents has made him a versatile performer, allowing him to entertain audiences around the world in a variety of mediums.<br />\nAs a comedian, Shafran has been praised for his ability to bring humor to complex social issues.<br />\n<br />\nHis stand-up sets are characterized by their insightful and thought-provoking commentary, often touching on topics such as politics, race, and inequality.In addition to his work as a comedian, Shafran has also appeared in a number of films and television shows. <br />\n<br />\nThrough his work in comedy, acting, and music, Shafran has established himself as a unique and versatile performer. He has used his EVeryman Music platform to speak out about important social and environmental issues, and his dedication to promoting diversity and representation in media has made him a respected figure in the entertainment industry.<br />\n<br />\nEVeryman: An American rapper and lyricist known for his work with Little Giant Acorn Records, a record label set up to honor his friend Pumpkin. EVeryman collaborates with various producers and artists to create music that blends hip-hop with other genres. He has released multiple tracks and albums under Little Giant Acorn Records, including \"People In The Front (Jet Boot Jack Remix)\" and \"HAVE A GOOD DAY\" with Operator Unknown. A portion of the profits from his music sales goes to The Little Giant Acorn Foundation for The Arts, which helps children get started in music or the performing arts who otherwise could not afford to do so.<br />\n<br />\nRest in Peace to Pumpkin…<br />\n<br />\nPumpkin: Nick Alvarado, a Los Angeles-based producer who tragically passed away on March 25th, 2016. EVeryman and Pumpkin formed Little Giants, a musical duo that aimed to make proper hip-hop music for the mind, body, and soul.<br />\n<br />\nLittle Giant Acorn Records: An independent record label established by EVeryman to honor Pumpkin and support the Little Giant Acorn Foundation for The Arts, which helps children get started in music or the performing arts who otherwise could not afford to do so.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463984_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463984_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463984_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463984_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "everyman.music",
+        "instagram_user": "evanshafran_everyman/",
+        "youtube_user": "channel/UCzrfi8hdwCFC55v4HP2Eh0w",
+        "soundcloud_user": "everyman_music",
+        "spotify_artist_id": "6krNDVOGgGBzGJdhevtPiP"
+      },
+      "performances": [
+        {
+          "id": 250085,
+          "external_id": "865703",
+          "published": true,
+          "body": "Evan Shafran, A.K.A. EVeryman, is a multi-talented artist who has made a name for himself in the worlds of comedy, acting, and music. His unique blend of talents has made him a versatile performer, allowing him to entertain audiences around the world in a variety of mediums.\nAs a comedian, Shafran has been praised for his ability to bring humor to complex social issues.\n\nHis stand-up sets are characterized by their insightful and thought-provoking commentary, often touching on topics such as politics, race, and inequality.In addition to his work as a comedian, Shafran has also appeared in a number of films and television shows. \n\nThrough his work in comedy, acting, and music, Shafran has established himself as a unique and versatile performer. He has used his EVeryman Music platform to speak out about important social and environmental issues, and his dedication to promoting diversity and representation in media has made him a respected figure in the entertainment industry.\n\nEVeryman: An American rapper and lyricist known for his work with Little Giant Acorn Records, a record label set up to honor his friend Pumpkin. EVeryman collaborates with various producers and artists to create music that blends hip-hop with other genres. He has released multiple tracks and albums under Little Giant Acorn Records, including \"People In The Front (Jet Boot Jack Remix)\" and \"HAVE A GOOD DAY\" with Operator Unknown. A portion of the profits from his music sales goes to The Little Giant Acorn Foundation for The Arts, which helps children get started in music or the performing arts who otherwise could not afford to do so.\n\nRest in Peace to Pumpkin…\n\nPumpkin: Nick Alvarado, a Los Angeles-based producer who tragically passed away on March 25th, 2016. EVeryman and Pumpkin formed Little Giants, a musical duo that aimed to make proper hip-hop music for the mind, body, and soul.\n\nLittle Giant Acorn Records: An independent record label established by EVeryman to honor Pumpkin and support the Little Giant Acorn Foundation for The Arts, which helps children get started in music or the performing arts who otherwise could not afford to do so.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040706,
+          "stage_id": 12496,
+          "stage_name": "Living Room",
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-27T02:15:00+00:00",
+          "end_time": "2025-07-27T02:45:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "7kLoHBrMVQrBiz9QlUXQX4",
+          "streaming_service": "spotify",
+          "title": "Summertime Jam",
+          "artist_name": "George Stephenson, Lee James, Sonny Chunk, Everyman",
+          "duration": 135644,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c5d6b951005689bfc714c3af",
+          "preview_url": "https://p.scdn.co/mp3-preview/9d9f84c677f08e08f1deceffa3e951d5afc99388?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5CanJLi7QzCGXetz6HS2Bf",
+          "streaming_service": "spotify",
+          "title": "GET FREE",
+          "artist_name": "Everyman, Beat Fatigue",
+          "duration": 278639,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a94637a7cd58ba470ad6bcfd",
+          "preview_url": "https://p.scdn.co/mp3-preview/b5aa1192f23eb86c0252d42eebfc8f11959e5a41?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7HOf9mlVhGTBi2Px5fWI6n",
+          "streaming_service": "spotify",
+          "title": "Space Bass",
+          "artist_name": "Munchkin Kat, Everyman",
+          "duration": 206117,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02078f92df24395236a299d3c1",
+          "preview_url": "https://p.scdn.co/mp3-preview/6231ec1aa58f2db3504af2e30465c9df94899ce3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7bDx6O8wWiH9aFdyARUFSF",
+          "streaming_service": "spotify",
+          "title": "The Bass Slappin",
+          "artist_name": "Basement Freaks, Everyman",
+          "duration": 184801,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0256bcb5956dff6bbb77a2952b",
+          "preview_url": "https://p.scdn.co/mp3-preview/dea5ffe9142d62e0b957baac3a8198553b5307bf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6WK660s3SYgEWNpnwVIZxZ",
+          "streaming_service": "spotify",
+          "title": "CROOKLYN CATS",
+          "artist_name": "Munchkin Kat, Everyman",
+          "duration": 213913,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
+          "preview_url": "https://p.scdn.co/mp3-preview/5d343f523cb48ede0ddfb3cbc8dc41a88eccc736?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2d0pnUzvoqpfL7VXSIF1r1",
+          "streaming_service": "spotify",
+          "title": "High for This",
+          "artist_name": "Munchkin Kat, Everyman",
+          "duration": 223820,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
+          "preview_url": "https://p.scdn.co/mp3-preview/9be1540878a7c1d2c06e8476de167aa13c21a0fe?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "36yoaUj4gcZw8sYiOs5utm",
+          "streaming_service": "spotify",
+          "title": "Vision",
+          "artist_name": "Munchkin Kat, Everyman",
+          "duration": 205333,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
+          "preview_url": "https://p.scdn.co/mp3-preview/f8f741ad3a6feba0f90c5bace641bc4eb493fd46?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3tHviarjk6Q4TyU4RrtEWT",
+          "streaming_service": "spotify",
+          "title": "Space Bass",
+          "artist_name": "Munchkin Kat, Everyman",
+          "duration": 200470,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
+          "preview_url": "https://p.scdn.co/mp3-preview/7944ffd8701f7c89c65e052afcf8207f4da489b7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5k1H111emRjmkRMV8IcPak",
+          "streaming_service": "spotify",
+          "title": "Taste the Flow",
+          "artist_name": "Munchkin Kat, Everyman",
+          "duration": 217731,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
+          "preview_url": "https://p.scdn.co/mp3-preview/ccde9566f2683557184a20bc763cea5cd3f8f737?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4iq71SMV5sT4hjRBLC67TZ",
+          "streaming_service": "spotify",
+          "title": "Bern It Down Or The People's Revolution",
+          "artist_name": "Everyman, Joe Con",
+          "duration": 210988,
+          "image_url": "https://i.scdn.co/image/af74b9e437822e5a2b55f48acb28c039b4413edd",
+          "preview_url": "https://p.scdn.co/mp3-preview/cff9e17e0b4a8258dd4e50c63080de0dfaef33c4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040650,
+      "external_id": "167130",
+      "published": true,
+      "name": "JPOD",
+      "body": "Ever since his first heartbeat JPOD has had music in his soul. His natural sense of rhythm and movement led to a genuine love for dancing. Equipped with creative motivation and armed with technical knowledge he continues to articulate an original sound rich with flavor. To keep him dancing JPOD consistently makes music with punchy beats and bouncy basslines. <br />\n<br />\nHis strong commitment to music with soul, incorporating vintage funk, world, reggae, swing, blues, folk, bluegrass, Latin, Motown, and more! With such a range of styles, JPOD always takes you on a diverse journey that transforms the dance floor. What could be better than smiling and dancing?",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463922_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463922_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463922_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463922_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463922_performance_960.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "jpodtbc/",
+        "instagram_user": "jpodtbc/",
+        "twitter_user": "JPODMUSIC",
+        "youtube_user": "user/jpodmusic",
+        "soundcloud_user": "stomponclowncloud",
+        "spotify_artist_id": "1yE78yYlzOvZQBvFH1KhgY"
+      },
+      "performances": [
+        {
+          "id": 250028,
+          "external_id": "865551",
+          "published": true,
+          "body": "Ever since his first heartbeat JPOD has had music in his soul. His natural sense of rhythm and movement led to a genuine love for dancing. Equipped with creative motivation and armed with technical knowledge he continues to articulate an original sound rich with flavor. To keep him dancing JPOD consistently makes music with punchy beats and bouncy basslines. \n\nHis strong commitment to music with soul, incorporating vintage funk, world, reggae, swing, blues, folk, bluegrass, Latin, Motown, and more! With such a range of styles, JPOD always takes you on a diverse journey that transforms the dance floor. What could be better than smiling and dancing?",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040650,
+          "stage_id": 12488,
+          "stage_name": "Grove",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-25T22:00:00+00:00",
+          "end_time": "2025-07-25T23:15:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "5rTrTzGFh6Emhy5fQ5mvBf",
+          "streaming_service": "spotify",
+          "title": "Like That",
+          "artist_name": "Vokab Kompany, Jpod",
+          "duration": 265411,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b10e24483761e03e750320cc",
+          "preview_url": "https://p.scdn.co/mp3-preview/4b24ae9b5aff0edbaa54c89e182dec19daa8b8b7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "36tsSMU9m3pyAHSSlST8ry",
+          "streaming_service": "spotify",
+          "title": "Turning Tides",
+          "artist_name": "Jpod",
+          "duration": 260966,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0208c766465879a41a229f2a51",
+          "preview_url": "https://p.scdn.co/mp3-preview/5748aceb697dde08c524289a42e666fa520ed225?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3ABVwSj3dEHXC6cDt4mNUm",
+          "streaming_service": "spotify",
+          "title": "Bamboo Juice - Original Mix",
+          "artist_name": "Jpod",
+          "duration": 249492,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021081b6821ce6f63bb9b9dfc1",
+          "preview_url": "https://p.scdn.co/mp3-preview/f5f45b71cc80927a473280db7971c73fd2ae0dc5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6Cu37AsUOEpPilF9otu7jS",
+          "streaming_service": "spotify",
+          "title": "Dusted Sunset",
+          "artist_name": "Jpod",
+          "duration": 226458,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e022a8333fa6f5adc7253252a79",
+          "preview_url": "https://p.scdn.co/mp3-preview/e322dbe63d36a52a0767c28cc122a5c2c9be229a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6y6UlkbFdKSkPR5UgyI8rG",
+          "streaming_service": "spotify",
+          "title": "Midnight Oil",
+          "artist_name": "Jpod",
+          "duration": 343619,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02cfd07970f3c3c108e74df582",
+          "preview_url": "https://p.scdn.co/mp3-preview/f4e5c27646b13cd8db9f321cc61d0465be7e7d11?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3BjdyxNvmvcUq7ems1RHGl",
+          "streaming_service": "spotify",
+          "title": "System Is Broke - Original Mix",
+          "artist_name": "Jpod, The Root Sellers",
+          "duration": 263010,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e986e649386091b077fc9ddf",
+          "preview_url": "https://p.scdn.co/mp3-preview/39f95c9051d9319afbe12047901c76d38990abb5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2XAU04pRCkhd54UH7djwhM",
+          "streaming_service": "spotify",
+          "title": "Muggle Dub",
+          "artist_name": "Jpod",
+          "duration": 349451,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02cfd07970f3c3c108e74df582",
+          "preview_url": "https://p.scdn.co/mp3-preview/8f94db18d7ee999c3c87c5a1f6c985ef00829b2d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "64Pl8klhpTIZO9BFfZRJYh",
+          "streaming_service": "spotify",
+          "title": "On The Cusp",
+          "artist_name": "Jpod",
+          "duration": 223065,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02cfd07970f3c3c108e74df582",
+          "preview_url": "https://p.scdn.co/mp3-preview/f00013867bb6f8e848d39779163f396aca160fbb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1C333YQblywo4hl2qC8Rhr",
+          "streaming_service": "spotify",
+          "title": "This One Sunrise - JPOD Remix",
+          "artist_name": "Luke Mandala, Jpod",
+          "duration": 354000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c1101666371f4311bc2368e7",
+          "preview_url": "https://p.scdn.co/mp3-preview/7a22a30e7882303ab8bec255bc97b8cb2d5dcf32?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4HY6mUTmfLG4FpNUaVGugf",
+          "streaming_service": "spotify",
+          "title": "Your Welcome (Jpod Remix)",
+          "artist_name": "Kingfisha, Jpod",
+          "duration": 327724,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e020428265547c1c9c0dc4e7a7b",
+          "preview_url": "https://p.scdn.co/mp3-preview/e597712415653e4d3cb1b839d67f0d4d7ad9542d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040613,
+      "external_id": "167111",
+      "published": true,
+      "name": "Fort Knox Five & Qdup",
+      "body": "Fort Knox Five and Qdup are a dynamic duo fusing funk, breaks, hip-hop, and house into an explosive, genre-bending experience.<br />\n<br />\nFort Knox Five, with Steve Raskin at the helm, have been pioneers of the funk scene for two decades, blending live instrumentation and electronic music into a captivating sonic journey.<br />\n<br />\nQdup, an acclaimed producer and DJ, brings his bass-heavy sound and innovative mixes to the collaboration, having ignited dance floors at major festivals like Shambhala and Firefly Fest.  His work has earned him recognition from Mixmag and a nomination for a Washington Area Music Award.<br />\n<br />\nTogether, they deliver high-energy sets that seamlessly weave funk, bass, hip-hop, and house into a sonic tapestry, keeping the party going from renowned clubs to massive festivals worldwide.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626097_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626097_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626097_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626097_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "FortKnoxFive",
+        "instagram_user": "fortknoxfive/",
+        "twitter_user": "QdupMusic",
+        "soundcloud_user": "qdupmusic",
+        "spotify_artist_id": "5nz5ZBNSvKegsJg11XwjC5"
+      },
+      "performances": [
+        {
+          "id": 249992,
+          "external_id": "865542",
+          "published": true,
+          "body": "Fort Knox Five and Qdup are a dynamic duo fusing funk, breaks, hip-hop, and house into an explosive, genre-bending experience.\n\nFort Knox Five, with Steve Raskin at the helm, have been pioneers of the funk scene for two decades, blending live instrumentation and electronic music into a captivating sonic journey.\n\nQdup, an acclaimed producer and DJ, brings his bass-heavy sound and innovative mixes to the collaboration, having ignited dance floors at major festivals like Shambhala and Firefly Fest.  His work has earned him recognition from Mixmag and a nomination for a Washington Area Music Award.\n\nTogether, they deliver high-energy sets that seamlessly weave funk, bass, hip-hop, and house into a sonic tapestry, keeping the party going from renowned clubs to massive festivals worldwide.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040613,
+          "stage_id": 12494,
+          "stage_name": "Fractal Forest",
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-27T10:00:00+00:00",
+          "end_time": "2025-07-27T11:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "3sIVBXZR9GSIuFtq5axSmG",
+          "streaming_service": "spotify",
+          "title": "The Brazilian Hipster - Digitally Remastered",
+          "artist_name": "Fort Knox Five",
+          "duration": 240641,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0286b8b53201f9b79b6efbec37",
+          "preview_url": "https://p.scdn.co/mp3-preview/0bbde1b735d18765e82a0b74e81f9350af37c6f3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2DRseaSh4DaV064X5qj7MR",
+          "streaming_service": "spotify",
+          "title": "Insight",
+          "artist_name": "Fort Knox Five, Asheru",
+          "duration": 238000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0286b8b53201f9b79b6efbec37",
+          "preview_url": "https://p.scdn.co/mp3-preview/43f55e01dbde947955d2c742fe70f1ad1bce6e27?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "51Exp3HbYIveiywJ3FBz2L",
+          "streaming_service": "spotify",
+          "title": "Uptown Tricks - Rodney Hunter Remake",
+          "artist_name": "Fort Knox Five",
+          "duration": 250961,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02958de742a22e9a3b0b254f3e",
+          "preview_url": "https://p.scdn.co/mp3-preview/9dc9bb3149decac85a19d36a74a2e028750b1073?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6whMNqK96PFzFEcXzPFMjo",
+          "streaming_service": "spotify",
+          "title": "Duppy Conqueror - Fort Knox Five Remix",
+          "artist_name": "Bob Marley & The Wailers, Fort Knox Five",
+          "duration": 268746,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e6b159aa2e54520ebceb6b17",
+          "preview_url": "https://p.scdn.co/mp3-preview/08e4b5e408f73d5473ae0298f7f216be32c73a42?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2Z2IqYG2v9UPhFwRu95HJc",
+          "streaming_service": "spotify",
+          "title": "Blowing up the Spot - Digitally Remastered",
+          "artist_name": "Fort Knox Five, Akil Dasan",
+          "duration": 238050,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0286b8b53201f9b79b6efbec37",
+          "preview_url": "https://p.scdn.co/mp3-preview/7432e3e918f8a450a4c90a40e3b71d65111cdcd0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "46aUXnfEs49DydNTkthNsB",
+          "streaming_service": "spotify",
+          "title": "Give It a Minute - Stickybuds Remix",
+          "artist_name": "Fort Knox Five, Bcap, Stickybuds",
+          "duration": 296189,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0257dc452040af066d45932d19",
+          "preview_url": "https://p.scdn.co/mp3-preview/9624c793c1af62ced1c5226d9d60707ec8274cf9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "36Y2RdNbyv2qRtZCUlVTp0",
+          "streaming_service": "spotify",
+          "title": "Swinging on a Rhyme (feat. Flex Mathews)",
+          "artist_name": "Fort Knox Five, Flex Mathews",
+          "duration": 246259,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028cf82a590d0cfce909c07660",
+          "preview_url": "https://p.scdn.co/mp3-preview/295a94afac19147a482bd98668c51c7de2f689e2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4KvOfKzxTSqsuL6qZ2gzJJ",
+          "streaming_service": "spotify",
+          "title": "Blowing Up the Barrio",
+          "artist_name": "Fort Knox Five",
+          "duration": 346000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f95832a80d735aa23f4b89e4",
+          "preview_url": "https://p.scdn.co/mp3-preview/7a2d3b36e49a2874b073a4b56e500c34a2cbb8d2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3q5en8sRXXEyNVBzLLTHwQ",
+          "streaming_service": "spotify",
+          "title": "The brazilian hipster",
+          "artist_name": "Fort Knox Five",
+          "duration": 227080,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0240c67f8e9807949c78750eac",
+          "preview_url": "https://p.scdn.co/mp3-preview/f29986003ae5951a141388455b361a5d20fc7ae8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1t6NJ0qqUgOsvxKBzrU0Ul",
+          "streaming_service": "spotify",
+          "title": "Reach (feat. Flex Mathews)",
+          "artist_name": "Fort Knox Five, Flex Mathews",
+          "duration": 231600,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028cf82a590d0cfce909c07660",
+          "preview_url": "https://p.scdn.co/mp3-preview/95f9a9cbb9b0e1070eb245bdfa6ce0a9fffc4bcc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040697,
+      "external_id": "167001",
+      "published": true,
+      "name": "Mr. B",
+      "body": "If you’ve ever adventured down to muscle beach in the last decade, you’ve probably heard the buzz of mr.b’s hive. Like most bees, he works quietly in the background facilitating the magic that brings Shambhala to life. His work can bee seen peaking out among the trees from multiple stages out all over the farm from one end to the other. As DJ, his eclectic style patterns the six points of a hexagon—jazz, funk, disco, house, techno, classic rock and all points in between.<br />\n<br />\nAfter completing an undergrad in History at the University of Victoria in 2023, he’s been developing a workshop focusing on the healing power of music and the history of dance culture—don’t miss this year’s class at the Secret Garden and a full on DJ set later in the night!",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469665_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469665_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469665_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/70/thumb_5469665_performance_500.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "djmr.bee",
+        "soundcloud_user": "mr-bizzle"
+      },
+      "performances": [
+        {
+          "id": 250074,
+          "external_id": "866222",
+          "published": true,
+          "name": "Music, Healing, and the History of Dance Culture with Brent Boychuck",
+          "body": "If you’ve ever adventured down to muscle beach in the last decade, you’ve probably heard the buzz of mr.b’s hive. Like most bees, he works quietly in the background facilitating the magic that brings Shambhala to life. His work can bee seen peaking out among the trees from multiple stages out all over the farm from one end to the other. As DJ, his eclectic style patterns the six points of a hexagon—jazz, funk, disco, house, techno, classic rock and all points in between.\n\nAfter completing an undergrad in History at the University of Victoria in 2023, he’s been developing a workshop focusing on the healing power of music and the history of dance culture—don’t miss this year’s class at the Secret Garden and a full on DJ set later in the night!",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040697,
+          "stage_id": 12492,
+          "stage_name": "Secret Garden",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T01:00:00+00:00",
+          "end_time": "2025-07-26T02:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        },
+        {
+          "id": 250077,
+          "external_id": "866080",
+          "published": true,
+          "body": "If you’ve ever adventured down to muscle beach in the last decade, you’ve probably heard the buzz of mr.b’s hive. Like most bees, he works quietly in the background facilitating the magic that brings Shambhala to life. His work can bee seen peaking out among the trees from multiple stages out all over the farm from one end to the other. As DJ, his eclectic style patterns the six points of a hexagon—jazz, funk, disco, house, techno, classic rock and all points in between.\n\nAfter completing an undergrad in History at the University of Victoria in 2023, he’s been developing a workshop focusing on the healing power of music and the history of dance culture—don’t miss this year’s class at the Secret Garden and a full on DJ set later in the night!",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040697,
+          "stage_id": 12492,
+          "stage_name": "Secret Garden",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T05:30:00+00:00",
+          "end_time": "2025-07-26T07:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040710,
+      "external_id": "1920557",
+      "published": true,
+      "name": "Glass Beams",
+      "body": "Initially conceived through the rekindling of childhood memories relating to his father, who emigrated to Melbourne from India in the late 1970's. Glass Beams aka Rajan Silva cites one particular memory — the watching of ‘Concert for George’, a star-studded tribute to late Beatles member George Harrison performed at London's Royal Albert Hall in 2002, featuring legendary Indian sitar player Ravi Shankar with daughter Anoushka, alongside Western icons Eric Clapton, Paul McCartney and ELO’s Jeff Lynne — as being especially formative. It is this spirit of cross-pollination between East and West, of old and new, that he has sought to capture in the self produced works of Glass Beams, whose output presents a timeless fusion of cultures and sounds beamed through a prism of live instrumentation and DIY electronica, all wrapped up inside a mesmerizing and mystical visual world of their own making. Through debut EP ‘Mirage’ and recent breakout EP ‘Mahal’, Glass Beams have catapulted into the collective consciousness of millions of new followers who came to discover the serpentine, psychedelic-tinged tracks through social media, streaming services and word of mouth. Expanding from solo project to a trio for their live shows, the band have also seen phenomenal success selling out every show on both their debut European and North American tours — adding numerous additional dates and venue upgrades due to demand.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463988_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463988_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463988_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463988_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "glass_beams",
+        "twitter_user": "glass_beams",
+        "youtube_user": "glassbeams",
+        "soundcloud_user": "glassbeams"
+      },
+      "performances": [
+        {
+          "id": 250089,
+          "external_id": "865355",
+          "published": true,
+          "body": "Initially conceived through the rekindling of childhood memories relating to his father, who emigrated to Melbourne from India in the late 1970's. Glass Beams aka Rajan Silva cites one particular memory — the watching of ‘Concert for George’, a star-studded tribute to late Beatles member George Harrison performed at London's Royal Albert Hall in 2002, featuring legendary Indian sitar player Ravi Shankar with daughter Anoushka, alongside Western icons Eric Clapton, Paul McCartney and ELO’s Jeff Lynne — as being especially formative. It is this spirit of cross-pollination between East and West, of old and new, that he has sought to capture in the self produced works of Glass Beams, whose output presents a timeless fusion of cultures and sounds beamed through a prism of live instrumentation and DIY electronica, all wrapped up inside a mesmerizing and mystical visual world of their own making. Through debut EP ‘Mirage’ and recent breakout EP ‘Mahal’, Glass Beams have catapulted into the collective consciousness of millions of new followers who came to discover the serpentine, psychedelic-tinged tracks through social media, streaming services and word of mouth. Expanding from solo project to a trio for their live shows, the band have also seen phenomenal success selling out every show on both their debut European and North American tours — adding numerous additional dates and venue upgrades due to demand.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040710,
+          "stage_id": 12496,
+          "stage_name": "Living Room",
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-27T05:30:00+00:00",
+          "end_time": "2025-07-27T06:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
@@ -1358,176 +2118,6 @@
           "duration": 142386,
           "image_url": "https://i.scdn.co/image/ab67616d00001e026305605db159e4de5994ebb2",
           "preview_url": "https://p.scdn.co/mp3-preview/719de565dd2a61857529f34e93685a3fc0dfa267?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040706,
-      "external_id": "174113",
-      "published": true,
-      "name": "EVeryman",
-      "body": "Evan Shafran, A.K.A. EVeryman, is a multi-talented artist who has made a name for himself in the worlds of comedy, acting, and music. His unique blend of talents has made him a versatile performer, allowing him to entertain audiences around the world in a variety of mediums.<br />\nAs a comedian, Shafran has been praised for his ability to bring humor to complex social issues.<br />\n<br />\nHis stand-up sets are characterized by their insightful and thought-provoking commentary, often touching on topics such as politics, race, and inequality.In addition to his work as a comedian, Shafran has also appeared in a number of films and television shows. <br />\n<br />\nThrough his work in comedy, acting, and music, Shafran has established himself as a unique and versatile performer. He has used his EVeryman Music platform to speak out about important social and environmental issues, and his dedication to promoting diversity and representation in media has made him a respected figure in the entertainment industry.<br />\n<br />\nEVeryman: An American rapper and lyricist known for his work with Little Giant Acorn Records, a record label set up to honor his friend Pumpkin. EVeryman collaborates with various producers and artists to create music that blends hip-hop with other genres. He has released multiple tracks and albums under Little Giant Acorn Records, including \"People In The Front (Jet Boot Jack Remix)\" and \"HAVE A GOOD DAY\" with Operator Unknown. A portion of the profits from his music sales goes to The Little Giant Acorn Foundation for The Arts, which helps children get started in music or the performing arts who otherwise could not afford to do so.<br />\n<br />\nRest in Peace to Pumpkin…<br />\n<br />\nPumpkin: Nick Alvarado, a Los Angeles-based producer who tragically passed away on March 25th, 2016. EVeryman and Pumpkin formed Little Giants, a musical duo that aimed to make proper hip-hop music for the mind, body, and soul.<br />\n<br />\nLittle Giant Acorn Records: An independent record label established by EVeryman to honor Pumpkin and support the Little Giant Acorn Foundation for The Arts, which helps children get started in music or the performing arts who otherwise could not afford to do so.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463984_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463984_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463984_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463984_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "everyman.music",
-        "instagram_user": "evanshafran_everyman/",
-        "youtube_user": "channel/UCzrfi8hdwCFC55v4HP2Eh0w",
-        "soundcloud_user": "everyman_music",
-        "spotify_artist_id": "6krNDVOGgGBzGJdhevtPiP"
-      },
-      "performances": [
-        {
-          "id": 250085,
-          "external_id": "865703",
-          "published": true,
-          "body": "Evan Shafran, A.K.A. EVeryman, is a multi-talented artist who has made a name for himself in the worlds of comedy, acting, and music. His unique blend of talents has made him a versatile performer, allowing him to entertain audiences around the world in a variety of mediums.\nAs a comedian, Shafran has been praised for his ability to bring humor to complex social issues.\n\nHis stand-up sets are characterized by their insightful and thought-provoking commentary, often touching on topics such as politics, race, and inequality.In addition to his work as a comedian, Shafran has also appeared in a number of films and television shows. \n\nThrough his work in comedy, acting, and music, Shafran has established himself as a unique and versatile performer. He has used his EVeryman Music platform to speak out about important social and environmental issues, and his dedication to promoting diversity and representation in media has made him a respected figure in the entertainment industry.\n\nEVeryman: An American rapper and lyricist known for his work with Little Giant Acorn Records, a record label set up to honor his friend Pumpkin. EVeryman collaborates with various producers and artists to create music that blends hip-hop with other genres. He has released multiple tracks and albums under Little Giant Acorn Records, including \"People In The Front (Jet Boot Jack Remix)\" and \"HAVE A GOOD DAY\" with Operator Unknown. A portion of the profits from his music sales goes to The Little Giant Acorn Foundation for The Arts, which helps children get started in music or the performing arts who otherwise could not afford to do so.\n\nRest in Peace to Pumpkin…\n\nPumpkin: Nick Alvarado, a Los Angeles-based producer who tragically passed away on March 25th, 2016. EVeryman and Pumpkin formed Little Giants, a musical duo that aimed to make proper hip-hop music for the mind, body, and soul.\n\nLittle Giant Acorn Records: An independent record label established by EVeryman to honor Pumpkin and support the Little Giant Acorn Foundation for The Arts, which helps children get started in music or the performing arts who otherwise could not afford to do so.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040706,
-          "stage_id": 12496,
-          "stage_name": "Living Room",
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-27T02:15:00+00:00",
-          "end_time": "2025-07-27T02:45:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "7kLoHBrMVQrBiz9QlUXQX4",
-          "streaming_service": "spotify",
-          "title": "Summertime Jam",
-          "artist_name": "George Stephenson, Lee James, Sonny Chunk, Everyman",
-          "duration": 135644,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c5d6b951005689bfc714c3af",
-          "preview_url": "https://p.scdn.co/mp3-preview/9d9f84c677f08e08f1deceffa3e951d5afc99388?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5CanJLi7QzCGXetz6HS2Bf",
-          "streaming_service": "spotify",
-          "title": "GET FREE",
-          "artist_name": "Everyman, Beat Fatigue",
-          "duration": 278639,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a94637a7cd58ba470ad6bcfd",
-          "preview_url": "https://p.scdn.co/mp3-preview/b5aa1192f23eb86c0252d42eebfc8f11959e5a41?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7HOf9mlVhGTBi2Px5fWI6n",
-          "streaming_service": "spotify",
-          "title": "Space Bass",
-          "artist_name": "Munchkin Kat, Everyman",
-          "duration": 206117,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02078f92df24395236a299d3c1",
-          "preview_url": "https://p.scdn.co/mp3-preview/6231ec1aa58f2db3504af2e30465c9df94899ce3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4edxeMQyvwsshYoTD25JlR",
-          "streaming_service": "spotify",
-          "title": "Drift Away But Stay",
-          "artist_name": "Basement Freaks, Everyman",
-          "duration": 229135,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028b5796eb23aabc3ffc41196b",
-          "preview_url": "https://p.scdn.co/mp3-preview/e017b6ced5bd004e866b23a7f36a574009a87ec1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7bDx6O8wWiH9aFdyARUFSF",
-          "streaming_service": "spotify",
-          "title": "The Bass Slappin",
-          "artist_name": "Basement Freaks, Everyman",
-          "duration": 184801,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0256bcb5956dff6bbb77a2952b",
-          "preview_url": "https://p.scdn.co/mp3-preview/dea5ffe9142d62e0b957baac3a8198553b5307bf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6WK660s3SYgEWNpnwVIZxZ",
-          "streaming_service": "spotify",
-          "title": "CROOKLYN CATS",
-          "artist_name": "Munchkin Kat, Everyman",
-          "duration": 213913,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
-          "preview_url": "https://p.scdn.co/mp3-preview/5d343f523cb48ede0ddfb3cbc8dc41a88eccc736?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2d0pnUzvoqpfL7VXSIF1r1",
-          "streaming_service": "spotify",
-          "title": "High for This",
-          "artist_name": "Munchkin Kat, Everyman",
-          "duration": 223820,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
-          "preview_url": "https://p.scdn.co/mp3-preview/9be1540878a7c1d2c06e8476de167aa13c21a0fe?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "36yoaUj4gcZw8sYiOs5utm",
-          "streaming_service": "spotify",
-          "title": "Vision",
-          "artist_name": "Munchkin Kat, Everyman",
-          "duration": 205333,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
-          "preview_url": "https://p.scdn.co/mp3-preview/f8f741ad3a6feba0f90c5bace641bc4eb493fd46?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3tHviarjk6Q4TyU4RrtEWT",
-          "streaming_service": "spotify",
-          "title": "Space Bass",
-          "artist_name": "Munchkin Kat, Everyman",
-          "duration": 200470,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
-          "preview_url": "https://p.scdn.co/mp3-preview/7944ffd8701f7c89c65e052afcf8207f4da489b7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5k1H111emRjmkRMV8IcPak",
-          "streaming_service": "spotify",
-          "title": "Taste the Flow",
-          "artist_name": "Munchkin Kat, Everyman",
-          "duration": 217731,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
-          "preview_url": "https://p.scdn.co/mp3-preview/ccde9566f2683557184a20bc763cea5cd3f8f737?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         }
       ],
       "show_in_search": true,
@@ -6135,175 +6725,6 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040570,
-      "external_id": "1916465",
-      "published": true,
-      "name": "AMP Live",
-      "body": "Amp Live has fuses the sounds of boom bap hip hop, bass music, melodic soul,  and reggae with a technical and classical sensibility. His hybrid production style not only transcends in the studio, but also onto the live stage. Amp has captivated audiences around the world combining a modern dj set with his \"frankenstein like\" beat machines. Amp Live has collaborated with some heavy hitting artists such as Liquid Stranger, Dirt Monkey, Mad Zach, and Subdocta. For his releases, he has also partnered with various labels, such as Ganja White Night’s Subcarbon Records, 19k Records, and Gravitas Music Recordings. Outside of Amp's own solo projects, he has also produced for Saweetie, 21 Savage, Rebelution, H.E.R., E40, Too Short, Collie Buddz, and Atmosphere, as well as an official Radiohead remix album. Amp also co-founded the hip hop duo Zion I, Unified Highway with Rebelution’s lead singer Eric Rachmany, and the Del the Funky Homosapien & Amp Live project. Amp Live is soft-spoken and polite in his demeanor, but his sounds are loud, daring, and continuously prove to be ahead of the curve.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627056_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627056_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627056_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627056_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "AMPLIVESWORLD/",
-        "youtube_channel_id": "UCZFvYK-jkH_MwOoWJxTsFMw",
-        "soundcloud_user": "AMPLIVE",
-        "spotify_artist_id": "4WoeMzXhDQyoFCKdji4FlL"
-      },
-      "performances": [
-        {
-          "id": 249949,
-          "external_id": "865523",
-          "published": true,
-          "body": "Amp Live has fuses the sounds of boom bap hip hop, bass music, melodic soul,  and reggae with a technical and classical sensibility. His hybrid production style not only transcends in the studio, but also onto the live stage. Amp has captivated audiences around the world combining a modern dj set with his \"frankenstein like\" beat machines. Amp Live has collaborated with some heavy hitting artists such as Liquid Stranger, Dirt Monkey, Mad Zach, and Subdocta. For his releases, he has also partnered with various labels, such as Ganja White Night’s Subcarbon Records, 19k Records, and Gravitas Music Recordings. Outside of Amp's own solo projects, he has also produced for Saweetie, 21 Savage, Rebelution, H.E.R., E40, Too Short, Collie Buddz, and Atmosphere, as well as an official Radiohead remix album. Amp also co-founded the hip hop duo Zion I, Unified Highway with Rebelution’s lead singer Eric Rachmany, and the Del the Funky Homosapien & Amp Live project. Amp Live is soft-spoken and polite in his demeanor, but his sounds are loud, daring, and continuously prove to be ahead of the curve.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040570,
-          "stage_id": 12479,
-          "stage_name": "AMP",
-          "date_id": 4325,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-25T00:30:00+00:00",
-          "end_time": "2025-07-25T01:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "1nj3fP1BRNJWfWZOFZ56nu",
-          "streaming_service": "spotify",
-          "title": "One Thing (feat. Cristina Soto) - Amp Live Remix",
-          "artist_name": "Psymbionic, Amp Live, Cristina Soto",
-          "duration": 261401,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0224be3555331912eb0951d44e",
-          "preview_url": "https://p.scdn.co/mp3-preview/4dfc24b7041cac2801630f6aa27a4e941923d569?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3vzLGvRFJgPtLIaNZcKxpw",
-          "streaming_service": "spotify",
-          "title": "Flight in G Minor",
-          "artist_name": "Amp Live, Dirty Cello",
-          "duration": 244421,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e96ddab290dc50d01a1a871e",
-          "preview_url": "https://p.scdn.co/mp3-preview/f494fd72377daf6313b9f2862bbfe2bda6f6ca97?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "30rmz7OJYaDnYrgxkzpsS1",
-          "streaming_service": "spotify",
-          "title": "Penny Nickel Dime",
-          "artist_name": "Amp Live, Anya, Prof",
-          "duration": 232483,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e96ddab290dc50d01a1a871e",
-          "preview_url": "https://p.scdn.co/mp3-preview/a877bfdf0fb9ee833e378bcddfaf555a74cb4918?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "51T88D2jWZjltP0BmAS0eq",
-          "streaming_service": "spotify",
-          "title": "1940 - AmpLive Remix",
-          "artist_name": "The Submarines, Amp Live",
-          "duration": 194880,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0259788932355148a9608ababa",
-          "preview_url": "https://p.scdn.co/mp3-preview/97dfb5cb81cc15235109b4e2c02b0023845938e8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "29utx3aQRREuzabvXM5D1O",
-          "streaming_service": "spotify",
-          "title": "Sit Ya Ass Down",
-          "artist_name": "Amp Live, Del The Funky Homosapien",
-          "duration": 212783,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02220fb44e1c2d5214544da4c8",
-          "preview_url": "https://p.scdn.co/mp3-preview/ffa93a2081a954d10e71d3eccdecf1da699fad66?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "50VJIl48B7gVlY4mTrLwG4",
-          "streaming_service": "spotify",
-          "title": "I Got 5",
-          "artist_name": "Amp Live",
-          "duration": 185217,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0223795f38b3fad5e64b53d2f1",
-          "preview_url": "https://p.scdn.co/mp3-preview/6fee0f3dfc9aa8436031b54b7e43c97a87cff032?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "21lk4LSxItVHNNOUOZyWPR",
-          "streaming_service": "spotify",
-          "title": "Rolling Down The Street",
-          "artist_name": "Amp Live",
-          "duration": 134400,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0223795f38b3fad5e64b53d2f1",
-          "preview_url": "https://p.scdn.co/mp3-preview/c550633af6b5435a33cd27bf67103c6b8b985243?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3oqnSJu2wGgnR9JDQzUxP9",
-          "streaming_service": "spotify",
-          "title": "High Life",
-          "artist_name": "Morillo, Amp Live",
-          "duration": 194666,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c08bf07d667961231cb607d9",
-          "preview_url": "https://p.scdn.co/mp3-preview/82f27159c799b66dc7dfb20d01e8fc674f6085c3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1TQbzSCqQS2Gp9ASWVVUDJ",
-          "streaming_service": "spotify",
-          "title": "Flying High",
-          "artist_name": "Amp Live",
-          "duration": 121333,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e928a1ec99da4e1b5740a604",
-          "preview_url": "https://p.scdn.co/mp3-preview/b8e75929ceebe228e07c056c06f032025caef159?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3ob3OSqOKk1QqcnIhMBieL",
-          "streaming_service": "spotify",
-          "title": "Help",
-          "artist_name": "Amp Live, Del The Funky Homosapien, Adult Karate",
-          "duration": 220890,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02220fb44e1c2d5214544da4c8",
-          "preview_url": "https://p.scdn.co/mp3-preview/5084bff6a6b714687529bdcfb59e1ceaca96cd19?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2040579,
       "external_id": "1922369",
       "published": true,
@@ -8747,85 +9168,6 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040692,
-      "external_id": "1922476",
-      "published": true,
-      "name": "John Early",
-      "body": "John Early is an author, yogi, singer-songwriter and founder of ViYarte Retreat Center in Nicaragua and cofounder of Momentom Collective. He is delighted to be back leading various workshops at Shambhala for the 6th year and to continue to add depth and playful embodiment to the wild experience that is Shambhala.<br />\n<br />\nYou can follow John’s adventures on Instagram @johntearly and for more info on his projects visit www.johnearly.ca and www.viyarte.com  <br />\n<br />\n//Brenna Bote is a personal coach and Founder of Pure Living Yoga and Sweat Chill Be. Her mission is to help bring intentional movement and healing practices into people’s life and to connect people inspiring change around their community. <br />\n<br />\nFor more info on Brenna’s projects and online classes visit www.purelivingyoga.com and www.sweatchillbe.com",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0055/67/thumb_5466999_performance_100.png",
-        "120": "https://media.appmiral.com/prod/performance/0055/67/thumb_5466999_performance_120.png",
-        "250": "https://media.appmiral.com/prod/performance/0055/67/thumb_5466999_performance_250.png",
-        "500": "https://media.appmiral.com/prod/performance/0055/67/thumb_5466999_performance_500.png",
-        "960": "https://media.appmiral.com/prod/performance/0055/67/thumb_5466999_performance_960.png",
-        "1080": "https://media.appmiral.com/prod/performance/0055/67/thumb_5466999_performance_1080.png",
-        "1440": "https://media.appmiral.com/prod/performance/0055/67/thumb_5466999_performance_1440.png"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "johntearly"
-      },
-      "performances": [
-        {
-          "id": 250072,
-          "external_id": "866220",
-          "published": true,
-          "name": "Fly with Friends Acro Yoga with John Early & Brenna Bote",
-          "body": "John Early is an author, yogi, singer-songwriter and founder of ViYarte Retreat Center in Nicaragua and cofounder of Momentom Collective. He is delighted to be back leading various workshops at Shambhala for the 6th year and to continue to add depth and playful embodiment to the wild experience that is Shambhala.\n\nYou can follow John’s adventures on Instagram @johntearly and for more info on his projects visit www.johnearly.ca and www.viyarte.com  \n\n//Brenna Bote is a personal coach and Founder of Pure Living Yoga and Sweat Chill Be. Her mission is to help bring intentional movement and healing practices into people’s life and to connect people inspiring change around their community. \n\nFor more info on Brenna’s projects and online classes visit www.purelivingyoga.com and www.sweatchillbe.com",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040692,
-          "stage_id": 12492,
-          "stage_name": "Secret Garden",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-25T22:00:00+00:00",
-          "end_time": "2025-07-25T23:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2040676,
       "external_id": "187818",
       "published": true,
@@ -10480,176 +10822,6 @@
           "duration": 204795,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02e83b9ba9bc180a6f8a64a18f",
           "preview_url": "https://p.scdn.co/mp3-preview/31fcf136c3fcd159aea5b0d8a795fbe4d6a0c630?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040613,
-      "external_id": "167111",
-      "published": true,
-      "name": "Fort Knox Five & Qdup",
-      "body": "Fort Knox Five and Qdup are a dynamic duo fusing funk, breaks, hip-hop, and house into an explosive, genre-bending experience.<br />\n<br />\nFort Knox Five, with Steve Raskin at the helm, have been pioneers of the funk scene for two decades, blending live instrumentation and electronic music into a captivating sonic journey.<br />\n<br />\nQdup, an acclaimed producer and DJ, brings his bass-heavy sound and innovative mixes to the collaboration, having ignited dance floors at major festivals like Shambhala and Firefly Fest.  His work has earned him recognition from Mixmag and a nomination for a Washington Area Music Award.<br />\n<br />\nTogether, they deliver high-energy sets that seamlessly weave funk, bass, hip-hop, and house into a sonic tapestry, keeping the party going from renowned clubs to massive festivals worldwide.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626097_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626097_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626097_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626097_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "FortKnoxFive",
-        "instagram_user": "fortknoxfive/",
-        "twitter_user": "QdupMusic",
-        "soundcloud_user": "qdupmusic",
-        "spotify_artist_id": "5nz5ZBNSvKegsJg11XwjC5"
-      },
-      "performances": [
-        {
-          "id": 249992,
-          "external_id": "865542",
-          "published": true,
-          "body": "Fort Knox Five and Qdup are a dynamic duo fusing funk, breaks, hip-hop, and house into an explosive, genre-bending experience.\n\nFort Knox Five, with Steve Raskin at the helm, have been pioneers of the funk scene for two decades, blending live instrumentation and electronic music into a captivating sonic journey.\n\nQdup, an acclaimed producer and DJ, brings his bass-heavy sound and innovative mixes to the collaboration, having ignited dance floors at major festivals like Shambhala and Firefly Fest.  His work has earned him recognition from Mixmag and a nomination for a Washington Area Music Award.\n\nTogether, they deliver high-energy sets that seamlessly weave funk, bass, hip-hop, and house into a sonic tapestry, keeping the party going from renowned clubs to massive festivals worldwide.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040613,
-          "stage_id": 12494,
-          "stage_name": "Fractal Forest",
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-27T10:00:00+00:00",
-          "end_time": "2025-07-27T11:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "3sIVBXZR9GSIuFtq5axSmG",
-          "streaming_service": "spotify",
-          "title": "The Brazilian Hipster - Digitally Remastered",
-          "artist_name": "Fort Knox Five",
-          "duration": 240641,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0286b8b53201f9b79b6efbec37",
-          "preview_url": "https://p.scdn.co/mp3-preview/0bbde1b735d18765e82a0b74e81f9350af37c6f3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2DRseaSh4DaV064X5qj7MR",
-          "streaming_service": "spotify",
-          "title": "Insight",
-          "artist_name": "Fort Knox Five, Asheru",
-          "duration": 238000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0286b8b53201f9b79b6efbec37",
-          "preview_url": "https://p.scdn.co/mp3-preview/43f55e01dbde947955d2c742fe70f1ad1bce6e27?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "51Exp3HbYIveiywJ3FBz2L",
-          "streaming_service": "spotify",
-          "title": "Uptown Tricks - Rodney Hunter Remake",
-          "artist_name": "Fort Knox Five",
-          "duration": 250961,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02958de742a22e9a3b0b254f3e",
-          "preview_url": "https://p.scdn.co/mp3-preview/9dc9bb3149decac85a19d36a74a2e028750b1073?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3nENbCtrAlH82kEit4tESL",
-          "streaming_service": "spotify",
-          "title": "Uptown Tricks (Rodney Hunter Remix) - Mixed",
-          "artist_name": "Fort Knox Five, Mustafa Akbar, Rodney Hunter",
-          "duration": 135653,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a5f0e3defa4f015451a81dcb",
-          "preview_url": "https://p.scdn.co/mp3-preview/bf052b25651e981ef062b6f0c8dbb6720ea5b43f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6whMNqK96PFzFEcXzPFMjo",
-          "streaming_service": "spotify",
-          "title": "Duppy Conqueror - Fort Knox Five Remix",
-          "artist_name": "Bob Marley & The Wailers, Fort Knox Five",
-          "duration": 268746,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e6b159aa2e54520ebceb6b17",
-          "preview_url": "https://p.scdn.co/mp3-preview/08e4b5e408f73d5473ae0298f7f216be32c73a42?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2Z2IqYG2v9UPhFwRu95HJc",
-          "streaming_service": "spotify",
-          "title": "Blowing up the Spot - Digitally Remastered",
-          "artist_name": "Fort Knox Five, Akil Dasan",
-          "duration": 238050,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0286b8b53201f9b79b6efbec37",
-          "preview_url": "https://p.scdn.co/mp3-preview/7432e3e918f8a450a4c90a40e3b71d65111cdcd0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "46aUXnfEs49DydNTkthNsB",
-          "streaming_service": "spotify",
-          "title": "Give It a Minute - Stickybuds Remix",
-          "artist_name": "Fort Knox Five, Bcap, Stickybuds",
-          "duration": 296189,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0257dc452040af066d45932d19",
-          "preview_url": "https://p.scdn.co/mp3-preview/9624c793c1af62ced1c5226d9d60707ec8274cf9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "36Y2RdNbyv2qRtZCUlVTp0",
-          "streaming_service": "spotify",
-          "title": "Swinging on a Rhyme (feat. Flex Mathews)",
-          "artist_name": "Fort Knox Five, Flex Mathews",
-          "duration": 246259,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028cf82a590d0cfce909c07660",
-          "preview_url": "https://p.scdn.co/mp3-preview/295a94afac19147a482bd98668c51c7de2f689e2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4KvOfKzxTSqsuL6qZ2gzJJ",
-          "streaming_service": "spotify",
-          "title": "Blowing Up the Barrio",
-          "artist_name": "Fort Knox Five",
-          "duration": 346000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f95832a80d735aa23f4b89e4",
-          "preview_url": "https://p.scdn.co/mp3-preview/7a2d3b36e49a2874b073a4b56e500c34a2cbb8d2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3q5en8sRXXEyNVBzLLTHwQ",
-          "streaming_service": "spotify",
-          "title": "The brazilian hipster",
-          "artist_name": "Fort Knox Five",
-          "duration": 227080,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0240c67f8e9807949c78750eac",
-          "preview_url": "https://p.scdn.co/mp3-preview/f29986003ae5951a141388455b361a5d20fc7ae8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         }
       ],
       "show_in_search": true,
@@ -13832,178 +14004,6 @@
           "duration": 272753,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02e71c8b42452f259ee73a2015",
           "preview_url": "https://p.scdn.co/mp3-preview/0776ee39e5b268b9b6177c2fa6885866d443fab6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040650,
-      "external_id": "167130",
-      "published": true,
-      "name": "JPOD",
-      "body": "Ever since his first heartbeat JPOD has had music in his soul. His natural sense of rhythm and movement led to a genuine love for dancing. Equipped with creative motivation and armed with technical knowledge he continues to articulate an original sound rich with flavor. To keep him dancing JPOD consistently makes music with punchy beats and bouncy basslines. <br />\n<br />\nHis strong commitment to music with soul, incorporating vintage funk, world, reggae, swing, blues, folk, bluegrass, Latin, Motown, and more! With such a range of styles, JPOD always takes you on a diverse journey that transforms the dance floor. What could be better than smiling and dancing?",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463922_performance_100.png",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463922_performance_120.png",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463922_performance_250.png",
-        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463922_performance_500.png",
-        "960": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463922_performance_960.png"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "jpodtbc/",
-        "instagram_user": "jpodtbc/",
-        "twitter_user": "JPODMUSIC",
-        "youtube_user": "user/jpodmusic",
-        "soundcloud_user": "stomponclowncloud",
-        "spotify_artist_id": "1yE78yYlzOvZQBvFH1KhgY"
-      },
-      "performances": [
-        {
-          "id": 250028,
-          "external_id": "865551",
-          "published": true,
-          "body": "Ever since his first heartbeat JPOD has had music in his soul. His natural sense of rhythm and movement led to a genuine love for dancing. Equipped with creative motivation and armed with technical knowledge he continues to articulate an original sound rich with flavor. To keep him dancing JPOD consistently makes music with punchy beats and bouncy basslines. \n\nHis strong commitment to music with soul, incorporating vintage funk, world, reggae, swing, blues, folk, bluegrass, Latin, Motown, and more! With such a range of styles, JPOD always takes you on a diverse journey that transforms the dance floor. What could be better than smiling and dancing?",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040650,
-          "stage_id": 12488,
-          "stage_name": "Grove",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-25T22:00:00+00:00",
-          "end_time": "2025-07-25T23:15:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "5rTrTzGFh6Emhy5fQ5mvBf",
-          "streaming_service": "spotify",
-          "title": "Like That",
-          "artist_name": "Vokab Kompany, Jpod",
-          "duration": 265411,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b10e24483761e03e750320cc",
-          "preview_url": "https://p.scdn.co/mp3-preview/4b24ae9b5aff0edbaa54c89e182dec19daa8b8b7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "36tsSMU9m3pyAHSSlST8ry",
-          "streaming_service": "spotify",
-          "title": "Turning Tides",
-          "artist_name": "Jpod",
-          "duration": 260966,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0208c766465879a41a229f2a51",
-          "preview_url": "https://p.scdn.co/mp3-preview/5748aceb697dde08c524289a42e666fa520ed225?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3ABVwSj3dEHXC6cDt4mNUm",
-          "streaming_service": "spotify",
-          "title": "Bamboo Juice - Original Mix",
-          "artist_name": "Jpod",
-          "duration": 249492,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021081b6821ce6f63bb9b9dfc1",
-          "preview_url": "https://p.scdn.co/mp3-preview/f5f45b71cc80927a473280db7971c73fd2ae0dc5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6Cu37AsUOEpPilF9otu7jS",
-          "streaming_service": "spotify",
-          "title": "Dusted Sunset",
-          "artist_name": "Jpod",
-          "duration": 226458,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e022a8333fa6f5adc7253252a79",
-          "preview_url": "https://p.scdn.co/mp3-preview/e322dbe63d36a52a0767c28cc122a5c2c9be229a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6y6UlkbFdKSkPR5UgyI8rG",
-          "streaming_service": "spotify",
-          "title": "Midnight Oil",
-          "artist_name": "Jpod",
-          "duration": 343619,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02cfd07970f3c3c108e74df582",
-          "preview_url": "https://p.scdn.co/mp3-preview/f4e5c27646b13cd8db9f321cc61d0465be7e7d11?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3BjdyxNvmvcUq7ems1RHGl",
-          "streaming_service": "spotify",
-          "title": "System Is Broke - Original Mix",
-          "artist_name": "Jpod, The Root Sellers",
-          "duration": 263010,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e986e649386091b077fc9ddf",
-          "preview_url": "https://p.scdn.co/mp3-preview/39f95c9051d9319afbe12047901c76d38990abb5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2XAU04pRCkhd54UH7djwhM",
-          "streaming_service": "spotify",
-          "title": "Muggle Dub",
-          "artist_name": "Jpod",
-          "duration": 349451,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02cfd07970f3c3c108e74df582",
-          "preview_url": "https://p.scdn.co/mp3-preview/8f94db18d7ee999c3c87c5a1f6c985ef00829b2d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1C333YQblywo4hl2qC8Rhr",
-          "streaming_service": "spotify",
-          "title": "This One Sunrise - JPOD Remix",
-          "artist_name": "Luke Mandala, Jpod",
-          "duration": 354000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c1101666371f4311bc2368e7",
-          "preview_url": "https://p.scdn.co/mp3-preview/7a22a30e7882303ab8bec255bc97b8cb2d5dcf32?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4HY6mUTmfLG4FpNUaVGugf",
-          "streaming_service": "spotify",
-          "title": "Your Welcome (Jpod Remix)",
-          "artist_name": "Kingfisha, Jpod",
-          "duration": 327724,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e020428265547c1c9c0dc4e7a7b",
-          "preview_url": "https://p.scdn.co/mp3-preview/e597712415653e4d3cb1b839d67f0d4d7ad9542d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5THcfms276N85p80DhAxCA",
-          "streaming_service": "spotify",
-          "title": "Dubble Dribble - Original Mix",
-          "artist_name": "Jpod",
-          "duration": 394466,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021081b6821ce6f63bb9b9dfc1",
-          "preview_url": "https://p.scdn.co/mp3-preview/e6a7f69f238c6df187004d3580cb2de4eaf4c667?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         }
       ],
       "show_in_search": true,
