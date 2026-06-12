@@ -668,6 +668,1190 @@
       "allow_favoriting": true
     },
     {
+      "id": 2040717,
+      "external_id": "1920449",
+      "published": true,
+      "name": "Rohaan",
+      "body": "Rohaan, a versatile and boundary-pushing producer from York, UK, has swiftly ascended to<br />\ninternational recognition in the electronic music scene. Known for his prolific, multi-genre sound,<br />\nhe’s released on a wide range of renowned labels, including HARD Records, VISION, Hospital,<br />\nUKF/Pilot, Drum&BassArena, Sable Valley, Deadbeats, Souped Up, and Method808. His debut<br />\nLP , Bleach, captured global attention and acclaim from outlets like DJ Times and UKF , earning<br />\naccolades such as UKF's Artist of the Year and Album of the Year, along with prestigious airplay<br />\non BBC Radio One Essential Mixes, Radio One Extra, and Noisia Radio. Additionally, Rohaan<br />\nwas nominated for DJ Mag’s Breakthrough Artist and created a celebrated mix for BBC Radio 1.<br />\n<br />\nRohaan’s innovative style and aversion to sticking to any one genre has garnered him support<br />\nfrom influential figures like Four T et, Fred again.., Jamie XX, Zeds Dead, Noisia, Slander, Joker,<br />\nLORN, and What So Not. His work was featured on Mike Skinner’s fabric Presents album,<br />\nsolidifying his influence across the electronic landscape. He also made waves by becoming the<br />\nfirst artist to release music with Flowdan (Musket) following Flowdan’s hit track, Rumble, adding<br />\na unique milestone to his growing career.<br />\n<br />\nIn 2022, Rohaan made a significant impact in North America with his debut U.S. tour, starting<br />\nwith a performance at Insomniac’s HARD SUMMER Festival and spanning major festivals and<br />\nheadline shows across the continent. He wrapped up the year with an electrifying set at<br />\nInsomniac’s Countdown NYE, marking a thrilling close to a breakthrough year. His momentum<br />\ncarried into 2023 and 2024 with performances at iconic venues and festivals worldwide,<br />\nincluding Red Rocks, Locus Bali, EDC Las Vegas, Lightning in a Bottle, Rampage, Infrasound,<br />\nT omorrowland, and Electric Forest.<br />\n<br />\nRohaan’s music continues to resonate throughout the electronic community. His Boy in a Dream<br />\nEP on VISION Records, especially the single “Easy for Them,” attracted attention from top-tier<br />\nartists like Four T et and Fred Again... His recent track El Conde has received praise and airplay<br />\nfrom Jamie XX, showcasing Rohaan’s influence at the highest levels of the scene. It’s safe to<br />\nsay the future is exciting for Rohaan.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463997_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463997_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463997_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463997_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "RohaanOfficial",
+        "instagram_user": "rohaanmusic",
+        "twitter_user": "Rohaanofficial",
+        "spotify_artist_id": "7FqSU53yVH1SQAtLZ63DGS"
+      },
+      "performances": [
+        {
+          "id": 250097,
+          "external_id": "865586",
+          "published": true,
+          "body": "Rohaan, a versatile and boundary-pushing producer from York, UK, has swiftly ascended to\ninternational recognition in the electronic music scene. Known for his prolific, multi-genre sound,\nhe’s released on a wide range of renowned labels, including HARD Records, VISION, Hospital,\nUKF/Pilot, Drum&BassArena, Sable Valley, Deadbeats, Souped Up, and Method808. His debut\nLP , Bleach, captured global attention and acclaim from outlets like DJ Times and UKF , earning\naccolades such as UKF's Artist of the Year and Album of the Year, along with prestigious airplay\non BBC Radio One Essential Mixes, Radio One Extra, and Noisia Radio. Additionally, Rohaan\nwas nominated for DJ Mag’s Breakthrough Artist and created a celebrated mix for BBC Radio 1.\n\nRohaan’s innovative style and aversion to sticking to any one genre has garnered him support\nfrom influential figures like Four T et, Fred again.., Jamie XX, Zeds Dead, Noisia, Slander, Joker,\nLORN, and What So Not. His work was featured on Mike Skinner’s fabric Presents album,\nsolidifying his influence across the electronic landscape. He also made waves by becoming the\nfirst artist to release music with Flowdan (Musket) following Flowdan’s hit track, Rumble, adding\na unique milestone to his growing career.\n\nIn 2022, Rohaan made a significant impact in North America with his debut U.S. tour, starting\nwith a performance at Insomniac’s HARD SUMMER Festival and spanning major festivals and\nheadline shows across the continent. He wrapped up the year with an electrifying set at\nInsomniac’s Countdown NYE, marking a thrilling close to a breakthrough year. His momentum\ncarried into 2023 and 2024 with performances at iconic venues and festivals worldwide,\nincluding Red Rocks, Locus Bali, EDC Las Vegas, Lightning in a Bottle, Rampage, Infrasound,\nT omorrowland, and Electric Forest.\n\nRohaan’s music continues to resonate throughout the electronic community. His Boy in a Dream\nEP on VISION Records, especially the single “Easy for Them,” attracted attention from top-tier\nartists like Four T et and Fred Again... His recent track El Conde has received praise and airplay\nfrom Jamie XX, showcasing Rohaan’s influence at the highest levels of the scene. It’s safe to\nsay the future is exciting for Rohaan.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040717,
+          "stage_id": 12497,
+          "stage_name": "Pagoda",
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-27T02:30:00+00:00",
+          "end_time": "2025-07-27T03:45:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "2SN7ULJRUGp4GWFRAaWTbr",
+          "streaming_service": "spotify",
+          "title": "run away",
+          "artist_name": "Rohaan, Kelbin",
+          "duration": 192558,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c62dd594f338f99c9fd119f8",
+          "preview_url": "https://p.scdn.co/mp3-preview/c1d3d7d7513067cf8711ac594e847c5786444320?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1BVtpveXrAKmxQ3AZ8a1cf",
+          "streaming_service": "spotify",
+          "title": "Easy for them",
+          "artist_name": "Rohaan",
+          "duration": 137142,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024b33da6c79acad19d70b3ea6",
+          "preview_url": "https://p.scdn.co/mp3-preview/886ebf11a50c730a79da089219e18cd0acf1af2c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5m071hCqm8urehS1fSn2FN",
+          "streaming_service": "spotify",
+          "title": "Musket (feat. Flowdan)",
+          "artist_name": "Rohaan, Flowdan",
+          "duration": 183409,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0237aa0ac41e6c04c7ec21810e",
+          "preview_url": "https://p.scdn.co/mp3-preview/0af397a1817eb0ef5b0c9d67a72750190c1b2607?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "67sENNMbwMDaXwS0buWOQL",
+          "streaming_service": "spotify",
+          "title": "Euphoric",
+          "artist_name": "Rohaan",
+          "duration": 147907,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02183dda47d6d78833d1c88182",
+          "preview_url": "https://p.scdn.co/mp3-preview/3bc0ac040fba25a81e59e23ba17be16c24449bbe?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0peOvIy7NerouGHvXO9b0y",
+          "streaming_service": "spotify",
+          "title": "City of Ezra - Tsu Nami Remix",
+          "artist_name": "Rohaan, Tsu Nami",
+          "duration": 213333,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02862d777954567756aa467c45",
+          "preview_url": "https://p.scdn.co/mp3-preview/12f645bda5341fa13b2914db3f06f3d41fa8bc9e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7HRf6J9bInjtqPNVegIhje",
+          "streaming_service": "spotify",
+          "title": "Turbocharged",
+          "artist_name": "The Caracal Project, Rohaan",
+          "duration": 228837,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c1dde584b5fa92684025bd95",
+          "preview_url": "https://p.scdn.co/mp3-preview/cefef3d884dad2fd4ce81a1116b7d57aadd7e400?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3vrdgIcTToKlIeakWuAOcy",
+          "streaming_service": "spotify",
+          "title": "Pelican",
+          "artist_name": "Rohaan",
+          "duration": 154285,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a7396c158a2f4b21c55c44c0"
+        },
+        {
+          "track_id": "0Iy039DDtbSrPwLXO8rsru",
+          "streaming_service": "spotify",
+          "title": "I don't recognise you anymore",
+          "artist_name": "Rohaan",
+          "duration": 192000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025143f58c172dee6a44a46994",
+          "preview_url": "https://p.scdn.co/mp3-preview/c41c0521e78291c20e592b0f9f3d430bd8fffbb1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0C6kGnMDhdKre3kkODrGap",
+          "streaming_service": "spotify",
+          "title": "Shadow",
+          "artist_name": "Rohaan",
+          "duration": 156000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0214ea620449068304d4d5ed56",
+          "preview_url": "https://p.scdn.co/mp3-preview/c3403152697ca0e315b16aa0389396d721ff0d25?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4uxbFGaFDirIal7cjQ7A28",
+          "streaming_service": "spotify",
+          "title": "SATA",
+          "artist_name": "John Summit, Rohaan",
+          "duration": 182678,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02edd455c68b4f20c12a76c8c6",
+          "preview_url": "https://p.scdn.co/mp3-preview/f14cbf5b6f8465861473e7ac2cb38507907724b3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040782,
+      "external_id": "167145",
+      "published": true,
+      "name": "Mat the Alien",
+      "body": "Since the age of 14 Mat has been mixing , scratching and making mixes - beats , spanning many genres and styles but always having one thing in common -  heavy beats and bass lines which appeals to a wide variety of crowds.<br />\n<br />\nIt all started after hearing the electronic sounds being played in the warehouse party's around the northwest of England in 88. Taking it back Mats dad opened a record store in 1978 called Vibes Records (#1 independent record store in the UK) and eventually a second store Muze in Bury just out side Manchester where his parents grew up.Being around music from an early age lead to Mat taking up the drums at age 10 and it wasn't until 1988 that he stumbled upon the underground Acid House scene taking over the UK warehouses. From then on he searched out where this music was from and how it was put together on the turntables. Muze records became a store where the locals djs came to get the new underground sounds and mat began playing his first shows before he was even old enough to get into the venues. He played sets on many pirate radio shows and began doing some shows and charts on the Intallex radio show run by XTC and Marcus Intallex. Then came scratching through seeing  XTC and after hearing a tape from Dj Hype on Fantasy FM. Many nights were spent ruining records and cutting back and forth trying to figure out how Hype got those crazy transformer sounds. These were the days before internet tutorials and dvds so it was a lot more trial and error.<br />\n<br />\nIn 1995 mat and his family moved to whistler Canada to pursue his new addiction of snowboarding and he met djs like Vinyl Ritchie and Kilo Cee who were playing diverse sets dropping Hip Hop into Funk into electronic music . Whistler had mixed crowds too from all over the world and mat enjoyed doing sets where you could flip from genre to genre and add lots of cuts in there too.<br />\nDescribed by Knowledge Magazine as 'awe-inspiring' & 'some next level shit.' Mat has toured across the globe and performed in 15 countries from Miami to Moscow at Sports events such as the US Supercross , Olympic Games (Torino & Whistler) , X Games  & many of Canada largest festivals of up to 15,000 people, also pioneering club nights in Whistler & Vancouver and held down a bi-weekly club night in Las Vegas at Eye Candy (Mandalay Bay).<br />\n<br />\nMat's Original music and Remixes are coming fast and furious , they have been featured on many T.V. shows , DVDs and webisodes . His  Remixes for  Nick Thayer, South Rakkas(Featured on Diplos Mad Decent Blog) , and also original music  have received  positive feedback and plays from some of the industry’s biggest names . His skratches can be heard on tracks by Fort Knox Five, Eprom - Ill Gates , Mochipet , Sweatshop Union & EA Sports NBA Home Court 3. Now also touring with his video / DJ set and he is taking the solo DJ act to new heights,  hitting all of the senses with custom remix and video edits witnessed at the World Ski & Snowboard Festival & Shambhala to name a couple . His Jaime L’Dubstep mix cd has so far 70 000 downloads and still going and he plans on doing more in the near future.<br />\n<br />\nHis label is up and running (Really Good Recordings) and will feature his own music alongside some of Canada’s finest electronic producers .<br />\n<br />\nIn 2012 mat joined his friends Zeds Dead on a Bus tour across canada and some US dates including shows with Araab Muzik and was received with an amazing response.<br />\n<br />\nMat is also a official monster Energy DJ and can be found DJing at some of their top sporting events events alongside and often Jamming with djs  like z Trip and Nu Mark and also getting to pull out the occasional 45 set .<br />\n<br />\nCurrently mat is enjoying playing Multi genre sets with Bass heavy beats and of course lots of cuts and contrasting sounds along the way .",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626094_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626094_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626094_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626094_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "matthealienMTAfanpage/",
+        "instagram_user": "mat_the_alien/",
+        "twitter_user": "MatTheAlien",
+        "soundcloud_user": "matthealien",
+        "spotify_artist_id": "6zQuKPa4iV1QD7pLYlLv21"
+      },
+      "performances": [
+        {
+          "id": 250168,
+          "external_id": "866026",
+          "published": true,
+          "body": "Since the age of 14 Mat has been mixing , scratching and making mixes - beats , spanning many genres and styles but always having one thing in common -  heavy beats and bass lines which appeals to a wide variety of crowds.\n\nIt all started after hearing the electronic sounds being played in the warehouse party's around the northwest of England in 88. Taking it back Mats dad opened a record store in 1978 called Vibes Records (#1 independent record store in the UK) and eventually a second store Muze in Bury just out side Manchester where his parents grew up.Being around music from an early age lead to Mat taking up the drums at age 10 and it wasn't until 1988 that he stumbled upon the underground Acid House scene taking over the UK warehouses. From then on he searched out where this music was from and how it was put together on the turntables. Muze records became a store where the locals djs came to get the new underground sounds and mat began playing his first shows before he was even old enough to get into the venues. He played sets on many pirate radio shows and began doing some shows and charts on the Intallex radio show run by XTC and Marcus Intallex. Then came scratching through seeing  XTC and after hearing a tape from Dj Hype on Fantasy FM. Many nights were spent ruining records and cutting back and forth trying to figure out how Hype got those crazy transformer sounds. These were the days before internet tutorials and dvds so it was a lot more trial and error.\n\nIn 1995 mat and his family moved to whistler Canada to pursue his new addiction of snowboarding and he met djs like Vinyl Ritchie and Kilo Cee who were playing diverse sets dropping Hip Hop into Funk into electronic music . Whistler had mixed crowds too from all over the world and mat enjoyed doing sets where you could flip from genre to genre and add lots of cuts in there too.\nDescribed by Knowledge Magazine as 'awe-inspiring' & 'some next level shit.' Mat has toured across the globe and performed in 15 countries from Miami to Moscow at Sports events such as the US Supercross , Olympic Games (Torino & Whistler) , X Games  & many of Canada largest festivals of up to 15,000 people, also pioneering club nights in Whistler & Vancouver and held down a bi-weekly club night in Las Vegas at Eye Candy (Mandalay Bay).\n\nMat's Original music and Remixes are coming fast and furious , they have been featured on many T.V. shows , DVDs and webisodes . His  Remixes for  Nick Thayer, South Rakkas(Featured on Diplos Mad Decent Blog) , and also original music  have received  positive feedback and plays from some of the industry’s biggest names . His skratches can be heard on tracks by Fort Knox Five, Eprom - Ill Gates , Mochipet , Sweatshop Union & EA Sports NBA Home Court 3. Now also touring with his video / DJ set and he is taking the solo DJ act to new heights,  hitting all of the senses with custom remix and video edits witnessed at the World Ski & Snowboard Festival & Shambhala to name a couple . His Jaime L’Dubstep mix cd has so far 70 000 downloads and still going and he plans on doing more in the near future.\n\nHis label is up and running (Really Good Recordings) and will feature his own music alongside some of Canada’s finest electronic producers .\n\nIn 2012 mat joined his friends Zeds Dead on a Bus tour across canada and some US dates including shows with Araab Muzik and was received with an amazing response.\n\nMat is also a official monster Energy DJ and can be found DJing at some of their top sporting events events alongside and often Jamming with djs  like z Trip and Nu Mark and also getting to pull out the occasional 45 set .\n\nCurrently mat is enjoying playing Multi genre sets with Bass heavy beats and of course lots of cuts and contrasting sounds along the way .",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040782,
+          "stage_id": 12503,
+          "stage_name": "Living Room",
+          "date_id": 3940,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-28T03:30:00+00:00",
+          "end_time": "2025-07-28T04:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "1qx2dC4pIoS65APmE3Au4D",
+          "streaming_service": "spotify",
+          "title": "Otoro",
+          "artist_name": "Mat the Alien, ill.gates, Dash Of The Root Sellers",
+          "duration": 247347,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0206ee422fbd17d3aac8521dc0",
+          "preview_url": "https://p.scdn.co/mp3-preview/9f6d2abf891e150bd6f28aa132c87c6a8bc88de2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4K0BX6qMthqlEreKbsR1WT",
+          "streaming_service": "spotify",
+          "title": "Feel High (feat. Emotionz & Abstrakt Sonance)",
+          "artist_name": "Mat the Alien, Emotionz, Abstrakt Sonance",
+          "duration": 250285,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0257fd2e58baf2967062195778",
+          "preview_url": "https://p.scdn.co/mp3-preview/5ea7c3bc30442f911cf8f23a68e0e5736499964b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "48qYrwSHQjggKrbQHm4Ige",
+          "streaming_service": "spotify",
+          "title": "Train To Hyderbad",
+          "artist_name": "Mat the Alien",
+          "duration": 250285,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02abb60d12949318d0eb208bdc",
+          "preview_url": "https://p.scdn.co/mp3-preview/f53dd25b0e6d900f72f3a99f6b699678a7b77539?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "03qBPYRPY4PHaIg9V9ShLs",
+          "streaming_service": "spotify",
+          "title": "Lock Off",
+          "artist_name": "Reflektor, Mat the Alien, Magugu",
+          "duration": 282705,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e027893a24719f755512078b744",
+          "preview_url": "https://p.scdn.co/mp3-preview/926729400fcf10d66cdef43c09b7d7dd515a96d4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "20uu7g2MitfX2DRBq4wKNl",
+          "streaming_service": "spotify",
+          "title": "Wild Child",
+          "artist_name": "Mat the Alien",
+          "duration": 237176,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c2269ad7df510a580ad95859",
+          "preview_url": "https://p.scdn.co/mp3-preview/fa113b99a4b578503e4ae664f32d7f82d88450a7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1HyjGrG4a65ChFrFdYfKL3",
+          "streaming_service": "spotify",
+          "title": "Alien (feat. Gisto, Zes Nomis, Lady P & Woof Blitzr) [Twerkshop Vocal Version]",
+          "artist_name": "Mat the Alien, Gisto, Zes Nomis, Lady P, Woof Blitzr",
+          "duration": 211200,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0257fd2e58baf2967062195778",
+          "preview_url": "https://p.scdn.co/mp3-preview/ccfac1c348f80aa6a573e01553ca8d4cc7e89019?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5jlR1Z3jdfTpcJzmcCzpbV",
+          "streaming_service": "spotify",
+          "title": "The Otherside",
+          "artist_name": "Mat the Alien, DJ Illo, Zara Taylor, NESS NÖST",
+          "duration": 272625,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02fad23664d5c8a1f5bfbc7b5c",
+          "preview_url": "https://p.scdn.co/mp3-preview/cbf9c0fbeeaf30867ae299803501b930c9a2538e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6DoWgGkDNUaPwqe2FLsNWX",
+          "streaming_service": "spotify",
+          "title": "After Hours",
+          "artist_name": "Wraz., Mat the Alien",
+          "duration": 233147,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e020430d028fe1c70171f1b5089",
+          "preview_url": "https://p.scdn.co/mp3-preview/bb5f854a9c285ebf3531b1697e9d9fe168557c46?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "40UxST7K1M22EIjwb7p7Qj",
+          "streaming_service": "spotify",
+          "title": "Put On Your Mask",
+          "artist_name": "Mat the Alien",
+          "duration": 260571,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d7398af1e9311606b340feb9",
+          "preview_url": "https://p.scdn.co/mp3-preview/7f3e49ea6237aecc8a166917f7c6d0fd96fa3bcb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6FkCciLN6ZPTPV3NP4poAw",
+          "streaming_service": "spotify",
+          "title": "Push n Pull",
+          "artist_name": "Mat the Alien",
+          "duration": 253714,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e9ec03551b746da5a85dd4b7",
+          "preview_url": "https://p.scdn.co/mp3-preview/52618046c4f83433d26ff9cc5053342290162060?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040716,
+      "external_id": "187992",
+      "published": true,
+      "name": "SIVZ",
+      "body": "Sivz is an artist born out of relentless hard work and passion for the party. Using catchy lyric writing, intricate percussion, rhythmic vocal chops, and dominant vocals as her ultimate tools for expression, her releases on house imprints like Desert Hearts and Farris Wheel Recordings have received support from industry veterans like Chris Lake, CID, Claptone, and Low Steppa, repetitively landing in Beatport's Top 100 charts, placing in Spotify's editorial playlists, and above all — resonating with her dedicated fan base.<br />\n<br />\nAside from being an evidently talented producer to watch, Sivz is most known as a calculated selector who constantly draws inspiration trotting the globe as an avid music festival chaser. A connoisseur of all things house, you can trust in her chameleon-like ability to deliver the right vibe for any occasion and leave you in drastically different places from where you started. Her thoughtful selections and strategic set progressions have led her to performing at Canada’s most iconic clubs and festivals including Shambhala and Bass Coast, where she often takes the cake for the most talked-about house set of the weekend without fail.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627055_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627055_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627055_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627055_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "SivzMusic/",
+        "instagram_user": "sivzmusic/",
+        "twitter_user": "sivzmusic",
+        "youtube_user": "channel/UCbzr7eEE37KUd7JYqExPXGQ",
+        "soundcloud_user": "sivzmusic",
+        "spotify_artist_id": "0NUhITSw1R757ncPIm3pGq"
+      },
+      "performances": [
+        {
+          "id": 250096,
+          "external_id": "865973",
+          "published": true,
+          "name": "Sivz",
+          "body": "Sivz is an artist born out of relentless hard work and passion for the party. Using catchy lyric writing, intricate percussion, rhythmic vocal chops, and dominant vocals as her ultimate tools for expression, her releases on house imprints like Desert Hearts and Farris Wheel Recordings have received support from industry veterans like Chris Lake, CID, Claptone, and Low Steppa, repetitively landing in Beatport's Top 100 charts, placing in Spotify's editorial playlists, and above all — resonating with her dedicated fan base.\n\nAside from being an evidently talented producer to watch, Sivz is most known as a calculated selector who constantly draws inspiration trotting the globe as an avid music festival chaser. A connoisseur of all things house, you can trust in her chameleon-like ability to deliver the right vibe for any occasion and leave you in drastically different places from where you started. Her thoughtful selections and strategic set progressions have led her to performing at Canada’s most iconic clubs and festivals including Shambhala and Bass Coast, where she often takes the cake for the most talked-about house set of the weekend without fail.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040716,
+          "stage_id": 12497,
+          "stage_name": "Pagoda",
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-27T01:30:00+00:00",
+          "end_time": "2025-07-27T02:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "4O3ClmM5rvAvog5ISYu4o5",
+          "streaming_service": "spotify",
+          "title": "When You Left",
+          "artist_name": "Sivz",
+          "duration": 184761,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e027ee1734f22993ff71d306da8",
+          "preview_url": "https://p.scdn.co/mp3-preview/c0522e549318a36637a32596911a7618400fe4d7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0FSDvkgRgoWKMccGHYXcRJ",
+          "streaming_service": "spotify",
+          "title": "Stay With Me",
+          "artist_name": "Sivz",
+          "duration": 331459,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f98e7f5d488d3fa799ffdeaf",
+          "preview_url": "https://p.scdn.co/mp3-preview/20307f8915466bf3e843899223223ff4b1882fbf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2Dlg14fCKYLZS1CDQpoHGe",
+          "streaming_service": "spotify",
+          "title": "7am - Sivz Remix",
+          "artist_name": "SAM SHI, Gaspa, Sivz",
+          "duration": 377682,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e029287756f37275e27c9ec27a5",
+          "preview_url": "https://p.scdn.co/mp3-preview/20cd2ac2c7306ba4161d5fa116c6b3a4e8ff3803?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2WCA3a7LQRdsKYf93AleId",
+          "streaming_service": "spotify",
+          "title": "True Colours",
+          "artist_name": "Sivz, Tinywiings",
+          "duration": 175638,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ff68c071dd207eee5abd4fb4",
+          "preview_url": "https://p.scdn.co/mp3-preview/7b35ba3ed64d6daedbb46b883383a06000ccb460?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0Sna6Q25qsWotEM4lmdIWE",
+          "streaming_service": "spotify",
+          "title": "Make It Right",
+          "artist_name": "Sivz",
+          "duration": 184165,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0263babcbfda13db1d989e38b6",
+          "preview_url": "https://p.scdn.co/mp3-preview/2823d0a6caf7c1bf37b3070995dd0e83adde0f57?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5ngVidGItbuZcp8DF4lD8g",
+          "streaming_service": "spotify",
+          "title": "Luv The Way",
+          "artist_name": "Sivz, ATTICUS",
+          "duration": 195000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02309070562f033d977ea10c6b",
+          "preview_url": "https://p.scdn.co/mp3-preview/aa71bcbb7c35e021c4b8c22e69e8ce45bb7b1191?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2WMvK0NMI2mQm1SJDAomvd",
+          "streaming_service": "spotify",
+          "title": "Bad BTch",
+          "artist_name": "Sivz",
+          "duration": 179541,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e029d2e5b000ce9e73fbcf4a667",
+          "preview_url": "https://p.scdn.co/mp3-preview/cfb77f6fdc3b107989dfa95e65d3b104cd785253?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6p8DMlYMms0Z6NY1gMb958",
+          "streaming_service": "spotify",
+          "title": "Lemonade",
+          "artist_name": "Sivz",
+          "duration": 161749,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028421afe4e355e285ff0bc34e",
+          "preview_url": "https://p.scdn.co/mp3-preview/c56142b53b288384f7b5a400764833fa03285a45?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4250jSYbSf4IH1S9c8sVu4",
+          "streaming_service": "spotify",
+          "title": "Mad Man Thing",
+          "artist_name": "Sivz, Mood Child",
+          "duration": 221951,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0277f86900db04d2940fc6ed2d",
+          "preview_url": "https://p.scdn.co/mp3-preview/a26822bddf335746dfd46072435f7cbb181d23ba?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2ih9ImdTXx8nGBKjeByKa5",
+          "streaming_service": "spotify",
+          "title": "All Night (Allya Remix) - Radio Edit",
+          "artist_name": "Sivz, Mynxy, Allya",
+          "duration": 145920,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028f61573a6f6520776ddcb4e1",
+          "preview_url": "https://p.scdn.co/mp3-preview/39a2919c910c0a6cd418e0ed7b8f502bab1ba08c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040706,
+      "external_id": "174113",
+      "published": true,
+      "name": "EVeryman",
+      "body": "Evan Shafran, A.K.A. EVeryman, is a multi-talented artist who has made a name for himself in the worlds of comedy, acting, and music. His unique blend of talents has made him a versatile performer, allowing him to entertain audiences around the world in a variety of mediums.<br />\nAs a comedian, Shafran has been praised for his ability to bring humor to complex social issues.<br />\n<br />\nHis stand-up sets are characterized by their insightful and thought-provoking commentary, often touching on topics such as politics, race, and inequality.In addition to his work as a comedian, Shafran has also appeared in a number of films and television shows. <br />\n<br />\nThrough his work in comedy, acting, and music, Shafran has established himself as a unique and versatile performer. He has used his EVeryman Music platform to speak out about important social and environmental issues, and his dedication to promoting diversity and representation in media has made him a respected figure in the entertainment industry.<br />\n<br />\nEVeryman: An American rapper and lyricist known for his work with Little Giant Acorn Records, a record label set up to honor his friend Pumpkin. EVeryman collaborates with various producers and artists to create music that blends hip-hop with other genres. He has released multiple tracks and albums under Little Giant Acorn Records, including \"People In The Front (Jet Boot Jack Remix)\" and \"HAVE A GOOD DAY\" with Operator Unknown. A portion of the profits from his music sales goes to The Little Giant Acorn Foundation for The Arts, which helps children get started in music or the performing arts who otherwise could not afford to do so.<br />\n<br />\nRest in Peace to Pumpkin…<br />\n<br />\nPumpkin: Nick Alvarado, a Los Angeles-based producer who tragically passed away on March 25th, 2016. EVeryman and Pumpkin formed Little Giants, a musical duo that aimed to make proper hip-hop music for the mind, body, and soul.<br />\n<br />\nLittle Giant Acorn Records: An independent record label established by EVeryman to honor Pumpkin and support the Little Giant Acorn Foundation for The Arts, which helps children get started in music or the performing arts who otherwise could not afford to do so.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463984_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463984_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463984_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463984_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "everyman.music",
+        "instagram_user": "evanshafran_everyman/",
+        "youtube_user": "channel/UCzrfi8hdwCFC55v4HP2Eh0w",
+        "soundcloud_user": "everyman_music",
+        "spotify_artist_id": "6krNDVOGgGBzGJdhevtPiP"
+      },
+      "performances": [
+        {
+          "id": 250085,
+          "external_id": "865703",
+          "published": true,
+          "body": "Evan Shafran, A.K.A. EVeryman, is a multi-talented artist who has made a name for himself in the worlds of comedy, acting, and music. His unique blend of talents has made him a versatile performer, allowing him to entertain audiences around the world in a variety of mediums.\nAs a comedian, Shafran has been praised for his ability to bring humor to complex social issues.\n\nHis stand-up sets are characterized by their insightful and thought-provoking commentary, often touching on topics such as politics, race, and inequality.In addition to his work as a comedian, Shafran has also appeared in a number of films and television shows. \n\nThrough his work in comedy, acting, and music, Shafran has established himself as a unique and versatile performer. He has used his EVeryman Music platform to speak out about important social and environmental issues, and his dedication to promoting diversity and representation in media has made him a respected figure in the entertainment industry.\n\nEVeryman: An American rapper and lyricist known for his work with Little Giant Acorn Records, a record label set up to honor his friend Pumpkin. EVeryman collaborates with various producers and artists to create music that blends hip-hop with other genres. He has released multiple tracks and albums under Little Giant Acorn Records, including \"People In The Front (Jet Boot Jack Remix)\" and \"HAVE A GOOD DAY\" with Operator Unknown. A portion of the profits from his music sales goes to The Little Giant Acorn Foundation for The Arts, which helps children get started in music or the performing arts who otherwise could not afford to do so.\n\nRest in Peace to Pumpkin…\n\nPumpkin: Nick Alvarado, a Los Angeles-based producer who tragically passed away on March 25th, 2016. EVeryman and Pumpkin formed Little Giants, a musical duo that aimed to make proper hip-hop music for the mind, body, and soul.\n\nLittle Giant Acorn Records: An independent record label established by EVeryman to honor Pumpkin and support the Little Giant Acorn Foundation for The Arts, which helps children get started in music or the performing arts who otherwise could not afford to do so.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040706,
+          "stage_id": 12496,
+          "stage_name": "Living Room",
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-27T02:15:00+00:00",
+          "end_time": "2025-07-27T02:45:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "7kLoHBrMVQrBiz9QlUXQX4",
+          "streaming_service": "spotify",
+          "title": "Summertime Jam",
+          "artist_name": "George Stephenson, Lee James, Sonny Chunk, Everyman",
+          "duration": 135644,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c5d6b951005689bfc714c3af",
+          "preview_url": "https://p.scdn.co/mp3-preview/9d9f84c677f08e08f1deceffa3e951d5afc99388?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5CanJLi7QzCGXetz6HS2Bf",
+          "streaming_service": "spotify",
+          "title": "GET FREE",
+          "artist_name": "Everyman, Beat Fatigue",
+          "duration": 278639,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a94637a7cd58ba470ad6bcfd",
+          "preview_url": "https://p.scdn.co/mp3-preview/b5aa1192f23eb86c0252d42eebfc8f11959e5a41?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7HOf9mlVhGTBi2Px5fWI6n",
+          "streaming_service": "spotify",
+          "title": "Space Bass",
+          "artist_name": "Munchkin Kat, Everyman",
+          "duration": 206117,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02078f92df24395236a299d3c1",
+          "preview_url": "https://p.scdn.co/mp3-preview/6231ec1aa58f2db3504af2e30465c9df94899ce3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4edxeMQyvwsshYoTD25JlR",
+          "streaming_service": "spotify",
+          "title": "Drift Away But Stay",
+          "artist_name": "Basement Freaks, Everyman",
+          "duration": 229135,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028b5796eb23aabc3ffc41196b",
+          "preview_url": "https://p.scdn.co/mp3-preview/e017b6ced5bd004e866b23a7f36a574009a87ec1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7bDx6O8wWiH9aFdyARUFSF",
+          "streaming_service": "spotify",
+          "title": "The Bass Slappin",
+          "artist_name": "Basement Freaks, Everyman",
+          "duration": 184801,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0256bcb5956dff6bbb77a2952b",
+          "preview_url": "https://p.scdn.co/mp3-preview/dea5ffe9142d62e0b957baac3a8198553b5307bf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6WK660s3SYgEWNpnwVIZxZ",
+          "streaming_service": "spotify",
+          "title": "CROOKLYN CATS",
+          "artist_name": "Munchkin Kat, Everyman",
+          "duration": 213913,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
+          "preview_url": "https://p.scdn.co/mp3-preview/5d343f523cb48ede0ddfb3cbc8dc41a88eccc736?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2d0pnUzvoqpfL7VXSIF1r1",
+          "streaming_service": "spotify",
+          "title": "High for This",
+          "artist_name": "Munchkin Kat, Everyman",
+          "duration": 223820,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
+          "preview_url": "https://p.scdn.co/mp3-preview/9be1540878a7c1d2c06e8476de167aa13c21a0fe?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "36yoaUj4gcZw8sYiOs5utm",
+          "streaming_service": "spotify",
+          "title": "Vision",
+          "artist_name": "Munchkin Kat, Everyman",
+          "duration": 205333,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
+          "preview_url": "https://p.scdn.co/mp3-preview/f8f741ad3a6feba0f90c5bace641bc4eb493fd46?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3tHviarjk6Q4TyU4RrtEWT",
+          "streaming_service": "spotify",
+          "title": "Space Bass",
+          "artist_name": "Munchkin Kat, Everyman",
+          "duration": 200470,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
+          "preview_url": "https://p.scdn.co/mp3-preview/7944ffd8701f7c89c65e052afcf8207f4da489b7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4iq71SMV5sT4hjRBLC67TZ",
+          "streaming_service": "spotify",
+          "title": "Bern It Down Or The People's Revolution",
+          "artist_name": "Everyman, Joe Con",
+          "duration": 210988,
+          "image_url": "https://i.scdn.co/image/af74b9e437822e5a2b55f48acb28c039b4413edd",
+          "preview_url": "https://p.scdn.co/mp3-preview/cff9e17e0b4a8258dd4e50c63080de0dfaef33c4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040600,
+      "external_id": "1920450",
+      "published": true,
+      "name": "Moody Good",
+      "body": "Eddie Jefferys is your favorite producer’s, favorite producer, baby daddy, chef's kiss on the lips.<br />\nHe is the mastermind behind Moody Good and the legendary duo 16bit. Eddie’s career is a<br />\ndynamic tapestry of UK bass and groundbreaking soundscapes. From producing tracks for the<br />\nlikes of Björk to crafting exciting sound design for movies like Transformers, his work is as<br />\ndiverse as it is influential.<br />\n<br />\nEddie’s journey began with 16bit and Broken Note, where he quickly made a name for himself in<br />\nthe UK bass scene. His innovative sound design set new standards in electronic music. As<br />\nMoody Good, Eddie continued to push boundaries, blending genres and creating music that<br />\ndefies categorization.<br />\n<br />\nWhether he’s performing at festivals, collaborating with other artists, or producing tracks that<br />\nmake your neighbors question their life choices, Eddie’s passion for music is evident in every<br />\nbeat. His ability to turn noise into art has earned him a place among the elite in the music<br />\nindustry.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463869_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463869_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463869_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463869_performance_500.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "moodygoodofficial",
+        "instagram_user": "moodygood",
+        "twitter_user": "moodygood",
+        "soundcloud_user": "moodygood",
+        "spotify_artist_id": "3EN8pUGJtYWutzf2fUxrDH"
+      },
+      "performances": [
+        {
+          "id": 249979,
+          "external_id": "865582",
+          "published": true,
+          "body": "Eddie Jefferys is your favorite producer’s, favorite producer, baby daddy, chef's kiss on the lips.\nHe is the mastermind behind Moody Good and the legendary duo 16bit. Eddie’s career is a\ndynamic tapestry of UK bass and groundbreaking soundscapes. From producing tracks for the\nlikes of Björk to crafting exciting sound design for movies like Transformers, his work is as\ndiverse as it is influential.\n\nEddie’s journey began with 16bit and Broken Note, where he quickly made a name for himself in\nthe UK bass scene. His innovative sound design set new standards in electronic music. As\nMoody Good, Eddie continued to push boundaries, blending genres and creating music that\ndefies categorization.\n\nWhether he’s performing at festivals, collaborating with other artists, or producing tracks that\nmake your neighbors question their life choices, Eddie’s passion for music is evident in every\nbeat. His ability to turn noise into art has earned him a place among the elite in the music\nindustry.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040600,
+          "stage_id": 12493,
+          "stage_name": "AMP",
+          "date_id": 3939,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-27T04:30:00+00:00",
+          "end_time": "2025-07-27T06:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "1y0kCZvdRxr22scqgH6ci9",
+          "streaming_service": "spotify",
+          "title": "Mad Ting",
+          "artist_name": "Zeds Dead, Moody Good, Killa P",
+          "duration": 194685,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e029550239aebe1158c152b1b48"
+        },
+        {
+          "track_id": "4ZnVn9qCN4ED4Nq4yNzA7z",
+          "streaming_service": "spotify",
+          "title": "Fall in Love Moody Good Remix",
+          "artist_name": "Moody Good",
+          "duration": 195000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e027536522eba225e2055c1f16f",
+          "preview_url": "https://p.scdn.co/mp3-preview/5e6f20429916beed8075a13d845836fcb8d056d6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0ZPG85jFTwMOsFtqkUBu4v",
+          "streaming_service": "spotify",
+          "title": "Burial - Moody Good Remix",
+          "artist_name": "Yogi, Moody Good",
+          "duration": 241699,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02fe0fed01ad712d02242405f7",
+          "preview_url": "https://p.scdn.co/mp3-preview/e9872af27912513f54f9d9c057053900c7c224d7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "035MWW56Wl7Wqzc0zk7HzR",
+          "streaming_service": "spotify",
+          "title": "move ting",
+          "artist_name": "Skrillex, Moody Good, Nakeesha",
+          "duration": 174186,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02536925a4988e7559dafd0236",
+          "preview_url": "https://p.scdn.co/mp3-preview/3e374f95809dc5aab6d8c7549d039fd06a3235e1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7tOLzteLIKzJsJpmg1RvjT",
+          "streaming_service": "spotify",
+          "title": "Grinding",
+          "artist_name": "Moody Good",
+          "duration": 280816,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e023cb8f33816194e5da3f4a9e6"
+        },
+        {
+          "track_id": "0ZYi6XTTjoOQSDWy8Ubx5x",
+          "streaming_service": "spotify",
+          "title": "Humid",
+          "artist_name": "Moody Good",
+          "duration": 257648,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b69b95512b597bb8aea413cc"
+        },
+        {
+          "track_id": "1JG6tCIJPCvy8td4OfTOgd",
+          "streaming_service": "spotify",
+          "title": "Mouth Piece",
+          "artist_name": "Moody Good, KARAN!",
+          "duration": 203909,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02699763f012a216327a50029b"
+        },
+        {
+          "track_id": "0kB2Cl1KHj9HRKkknEuUxn",
+          "streaming_service": "spotify",
+          "title": "EYE OF ZAPHO (feat. Moody Good)",
+          "artist_name": "Getter, Moody Good",
+          "duration": 105538,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e029f9d7eb0822a023e1250bc52",
+          "preview_url": "https://p.scdn.co/mp3-preview/ef2d3277d05606e7eb67bc6405fcf42eaee1ff79?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "06Ib3OfxdvinrGtizQA5uP",
+          "streaming_service": "spotify",
+          "title": "Blurry Flurry",
+          "artist_name": "Moody Good",
+          "duration": 281142,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025b0d543fc934f895b459e846"
+        },
+        {
+          "track_id": "0rC0cxP1vRc107lzoeHUMk",
+          "streaming_service": "spotify",
+          "title": "Clap Back",
+          "artist_name": "Moody Good",
+          "duration": 236521,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025b0d543fc934f895b459e846"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040634,
+      "external_id": "174071",
+      "published": true,
+      "name": "Kursa",
+      "body": "From a very young age Oska was attending illegal raves all over London and being exposed to the pummeling sounds of the underground throughout the 90’s. Other influences include being raised on an eclectic selection of trip hop, jazz, classical, jungle and techno to name a few genres, has shaped a truly unique taste and direction in his work. <br />\n<br />\nPrepare yourself for the journey through a variety of sounds and energy at his shows that’s easily scalable to the intimate setting of smaller dance floors or main stage festival sets. On top of this, there is a completely live electronic hardware set that will be making some special appearances in the near future!<br />\n<br />\nExpect the unexpected",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463905_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463905_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463905_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463905_performance_500.png",
+        "960": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463905_performance_960.png",
+        "1080": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463905_performance_1080.png"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "kursa.music",
+        "instagram_user": "kursaaaa",
+        "soundcloud_user": "kursauk",
+        "spotify_artist_id": "7JUcFVSKC0wFC2pvkRjVl1"
+      },
+      "performances": [
+        {
+          "id": 250012,
+          "external_id": "865602",
+          "published": true,
+          "body": "From a very young age Oska was attending illegal raves all over London and being exposed to the pummeling sounds of the underground throughout the 90’s. Other influences include being raised on an eclectic selection of trip hop, jazz, classical, jungle and techno to name a few genres, has shaped a truly unique taste and direction in his work. \n\nPrepare yourself for the journey through a variety of sounds and energy at his shows that’s easily scalable to the intimate setting of smaller dance floors or main stage festival sets. On top of this, there is a completely live electronic hardware set that will be making some special appearances in the near future!\n\nExpect the unexpected",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040634,
+          "stage_id": 12486,
+          "stage_name": "AMP",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T10:00:00+00:00",
+          "end_time": "2025-07-26T11:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "2kToYWgowdvPHkjS1pNotq",
+          "streaming_service": "spotify",
+          "title": "Zero Eye Contact",
+          "artist_name": "Two Swords, Kursa, Hyroglifics",
+          "duration": 171428,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028c894f8ceeb6d8f68cba7f2b",
+          "preview_url": "https://p.scdn.co/mp3-preview/778a99792cdcddc24aa200f53fe1d715913ecb4b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5QAwK2cpKQrkEsbOSVspUH",
+          "streaming_service": "spotify",
+          "title": "Woke Up, Chose Violence",
+          "artist_name": "Kursa, Sepia",
+          "duration": 211457,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025d4fe0528603ab53d2e01776",
+          "preview_url": "https://p.scdn.co/mp3-preview/7dc61b2afdac19cdebcaf3c4c442d8f712e3fca4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5CQeVpZA4zEIHwoBjo7QJx",
+          "streaming_service": "spotify",
+          "title": "Ultra Violent Light - Original Mix",
+          "artist_name": "Kursa",
+          "duration": 200930,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0242ab35ab528fbbede78c6dca",
+          "preview_url": "https://p.scdn.co/mp3-preview/0ef1e2160a7fa1fef01f48c42f0b11c34872209f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0j7CbqjDXq46WHaxvqL8EN",
+          "streaming_service": "spotify",
+          "title": "Foam",
+          "artist_name": "Kursa, Alicia Kiah",
+          "duration": 263829,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021127c1fae34efe44b666cc47",
+          "preview_url": "https://p.scdn.co/mp3-preview/9caf00932269cc37a0183e125721e24d95ce1e6b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5Z6RaThltmuiOMAKP7VFzA",
+          "streaming_service": "spotify",
+          "title": "Sleepin'",
+          "artist_name": "Kursa, Sepia",
+          "duration": 200652,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025d4fe0528603ab53d2e01776",
+          "preview_url": "https://p.scdn.co/mp3-preview/a09f4d9e13cd1beb60139ce793b27b2087e261da?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7JMy73mfz7Nuirg2WHsWWC",
+          "streaming_service": "spotify",
+          "title": "Tune In",
+          "artist_name": "Kursa, Sepia",
+          "duration": 203450,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025d4fe0528603ab53d2e01776",
+          "preview_url": "https://p.scdn.co/mp3-preview/47479d155c5305223c96326a083f1be250fff14e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1F0vaPtoO5qMi6gz8qQRcP",
+          "streaming_service": "spotify",
+          "title": "Piercing Cold",
+          "artist_name": "Chad Dubz, Kursa",
+          "duration": 188431,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b3e597aed6cce23a82ed2ede",
+          "preview_url": "https://p.scdn.co/mp3-preview/9ed6e0a0e4b426331b540f018c76acf4a7c72fac?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3M3EwGPHB1TgEZRiVL3oTJ",
+          "streaming_service": "spotify",
+          "title": "Intent",
+          "artist_name": "Ternion Sound, Kursa",
+          "duration": 180857,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02bf30af7f0642e23045c5dcdc"
+        },
+        {
+          "track_id": "3lh16TRuu0ugXlxspQntg4",
+          "streaming_service": "spotify",
+          "title": "Got Something To Say?",
+          "artist_name": "Alicia Kiah, Kursa",
+          "duration": 282461,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021067f981ee62bc4e31a587b5",
+          "preview_url": "https://p.scdn.co/mp3-preview/7bf13c997f95b9923db2c7665ba1025367e2ee4f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3khlgLARTfgFoCoecyUCOc",
+          "streaming_service": "spotify",
+          "title": "Max Out (Kursa Remix)",
+          "artist_name": "KOAN Sound, Kursa",
+          "duration": 260000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f6aaee4368d26d1bf9280536",
+          "preview_url": "https://p.scdn.co/mp3-preview/83c6bfe3257b477ae43f892144cebfd63fc882c2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040576,
+      "external_id": "167413",
+      "published": true,
+      "name": "Longwalkshortdock",
+      "body": "Longwalkshortdock essentially started the first time Dave King heard gritty electronic music in early eighties video games. Strongly influenced by these sounds and melodies, Dave started recording and looping segments of this material and experimenting with effects and sound editing as a child. Currently, a veteran of sound design, electronic music production and Live PA performance for well over 2 decades, Longwalkshortdock's music has stepped into a genre of its own. Strongly influences by vintage analog synthesis, film and video games scores, virtually all genres of music in addition to new technologies, LWSD stacks layers of melody in his tracks until they implode and reform. For his live performances, driving drums and morphing synth lines join forces with rolling grooves and melodic lead lines to create a wide variety of dance floor friendly originals. While he may be best known by the festival crowd as a not-to-miss act for his spirited antics and bass-heavy dance music, Longwalkshortdock’s productions crosses into many territories. His vast catalogue of hundreds of compositions dives into everything from Ambient, IDM, Electro, Drum and Bass, Dubstep, Halftime, Techno, Left Field Bass, Electronica, Down tempo and Film Score work. Dave holds two degrees from the Art Institute of Burnaby for Music Recording and Production and has been continuing to improve and hone his skills since he made music his full time occupation in 2005. An ongoing resident artist at top-tier festivals such as Shambhala, Bass Coast, Electric Love and Wicked Woods, LWSD has made a name for himself putting on extremely energetic, yet personal and emotionally engaging live shows all over North America. His performances are live in every sense of the word, with Dave manning his own synthesizers, drum machines, samplers, vocals, effects, computers and lighting. In the studio LWSD is always looking to blend the old and the new combining cutting edge digital technology with his passion for the lush character and sound of vintage analog gear. Just ask him about his synth collection. With four albums and dozens of other collaborations, remixes and one-off releases to his name—not to mention countless gigs at festivals, bars and other venues across North American and beyond, Longwalkshortdock is one of the hardest-working and creative people in the electronic music scene. His raw, high energy performances and openness with his fans have created an almost cult-like following. This mix of unique performance talent and authenticity make Longwalkshortdock a one-of-a-kind artist, as anyone who has seen him play or even shaken his hand will attest.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626089_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626089_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626089_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626089_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "longwalkshortdock",
+        "instagram_user": "longwalkshortdock/",
+        "twitter_user": "LWSD9999",
+        "soundcloud_user": "longwalkshortdock",
+        "spotify_artist_id": "7idfp6RvpPr27LCuM7juVq"
+      },
+      "performances": [
+        {
+          "id": 249955,
+          "external_id": "865940",
+          "published": true,
+          "body": "Longwalkshortdock essentially started the first time Dave King heard gritty electronic music in early eighties video games. Strongly influenced by these sounds and melodies, Dave started recording and looping segments of this material and experimenting with effects and sound editing as a child. Currently, a veteran of sound design, electronic music production and Live PA performance for well over 2 decades, Longwalkshortdock's music has stepped into a genre of its own. Strongly influences by vintage analog synthesis, film and video games scores, virtually all genres of music in addition to new technologies, LWSD stacks layers of melody in his tracks until they implode and reform. For his live performances, driving drums and morphing synth lines join forces with rolling grooves and melodic lead lines to create a wide variety of dance floor friendly originals. While he may be best known by the festival crowd as a not-to-miss act for his spirited antics and bass-heavy dance music, Longwalkshortdock’s productions crosses into many territories. His vast catalogue of hundreds of compositions dives into everything from Ambient, IDM, Electro, Drum and Bass, Dubstep, Halftime, Techno, Left Field Bass, Electronica, Down tempo and Film Score work. Dave holds two degrees from the Art Institute of Burnaby for Music Recording and Production and has been continuing to improve and hone his skills since he made music his full time occupation in 2005. An ongoing resident artist at top-tier festivals such as Shambhala, Bass Coast, Electric Love and Wicked Woods, LWSD has made a name for himself putting on extremely energetic, yet personal and emotionally engaging live shows all over North America. His performances are live in every sense of the word, with Dave manning his own synthesizers, drum machines, samplers, vocals, effects, computers and lighting. In the studio LWSD is always looking to blend the old and the new combining cutting edge digital technology with his passion for the lush character and sound of vintage analog gear. Just ask him about his synth collection. With four albums and dozens of other collaborations, remixes and one-off releases to his name—not to mention countless gigs at festivals, bars and other venues across North American and beyond, Longwalkshortdock is one of the hardest-working and creative people in the electronic music scene. His raw, high energy performances and openness with his fans have created an almost cult-like following. This mix of unique performance talent and authenticity make Longwalkshortdock a one-of-a-kind artist, as anyone who has seen him play or even shaken his hand will attest.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040576,
+          "stage_id": 12479,
+          "stage_name": "AMP",
+          "date_id": 4325,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-25T08:00:00+00:00",
+          "end_time": "2025-07-25T09:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "3gx7TPEAPhHjVRzz88OMdy",
+          "streaming_service": "spotify",
+          "title": "High Expectations",
+          "artist_name": "Longwalkshortdock",
+          "duration": 351666,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02bdafa35e2a416285eb4eded6",
+          "preview_url": "https://p.scdn.co/mp3-preview/7def95877eb41b61bc82ccfd01b7a695f7a5b279?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2OUKIZ8m27Zad17jW0AdAu",
+          "streaming_service": "spotify",
+          "title": "This Is the Best",
+          "artist_name": "Longwalkshortdock",
+          "duration": 432000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02af8dde7d7c0a55e5a7bb7adb",
+          "preview_url": "https://p.scdn.co/mp3-preview/e009c5195539f15e6b25fdd68dc197abe34cec9e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1cDmo0jpRKJ6XdGpVQgjic",
+          "streaming_service": "spotify",
+          "title": "We'll See",
+          "artist_name": "Longwalkshortdock",
+          "duration": 390333,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e0fa46c314e1f7588d7a3c87",
+          "preview_url": "https://p.scdn.co/mp3-preview/3332d79a9431b9c81dadd92aace7065cc17709cc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1dcRCbu98vzaQLx7SoSHlv",
+          "streaming_service": "spotify",
+          "title": "Goodbye Horse",
+          "artist_name": "Longwalkshortdock",
+          "duration": 235813,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02af8dde7d7c0a55e5a7bb7adb",
+          "preview_url": "https://p.scdn.co/mp3-preview/03b34b6d43887a24aade5af616bf50d4d58dafdc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3qr43IIFzejwzi69i28imq",
+          "streaming_service": "spotify",
+          "title": "Lost the Will to Strive",
+          "artist_name": "Longwalkshortdock",
+          "duration": 466895,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0227229247306e043dddfd12f9",
+          "preview_url": "https://p.scdn.co/mp3-preview/21f32f77116d0dcc210b3dee9a78ef3f899107c7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6GTJDX4YJ3TU5uUTNDkNVo",
+          "streaming_service": "spotify",
+          "title": "Keep It Round",
+          "artist_name": "Longwalkshortdock",
+          "duration": 424093,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02bdafa35e2a416285eb4eded6",
+          "preview_url": "https://p.scdn.co/mp3-preview/6d7a911233e87faab1378ccb649c2b5994f1ffbb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "42GOuEX3nA06KEU5mfyWgy",
+          "streaming_service": "spotify",
+          "title": "I'm Forgetful",
+          "artist_name": "Longwalkshortdock",
+          "duration": 335624,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0227229247306e043dddfd12f9",
+          "preview_url": "https://p.scdn.co/mp3-preview/85e6ea074f53055de855e06560decbe9f08455c6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2dxWVF0QSuen6g1rRUPj4O",
+          "streaming_service": "spotify",
+          "title": "Moon Illusion - Longwalkwshortdock Remix",
+          "artist_name": "The Librarian, Longwalkshortdock",
+          "duration": 418500,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ad7f94008ceb9c3e8b059325",
+          "preview_url": "https://p.scdn.co/mp3-preview/9c76ad20287387dda6291ad2d856200bb9a69695?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "57Bv68MyBIl9EjVZdQSM29",
+          "streaming_service": "spotify",
+          "title": "I've Been So Burned Out",
+          "artist_name": "Longwalkshortdock",
+          "duration": 507453,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e0fa46c314e1f7588d7a3c87",
+          "preview_url": "https://p.scdn.co/mp3-preview/bd3679bf6bd7e5bdc2a9e404b4da24ebafd907a0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5h8X600G3SfZACQuamgbSm",
+          "streaming_service": "spotify",
+          "title": "Not Possible",
+          "artist_name": "Longwalkshortdock",
+          "duration": 360000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02af8dde7d7c0a55e5a7bb7adb",
+          "preview_url": "https://p.scdn.co/mp3-preview/94e400292c99afc04f7ddf9fe83d0edd8a57c9c7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2040590,
       "external_id": "1920549",
       "published": true,
@@ -2568,346 +3752,6 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040782,
-      "external_id": "167145",
-      "published": true,
-      "name": "Mat the Alien",
-      "body": "Since the age of 14 Mat has been mixing , scratching and making mixes - beats , spanning many genres and styles but always having one thing in common -  heavy beats and bass lines which appeals to a wide variety of crowds.<br />\n<br />\nIt all started after hearing the electronic sounds being played in the warehouse party's around the northwest of England in 88. Taking it back Mats dad opened a record store in 1978 called Vibes Records (#1 independent record store in the UK) and eventually a second store Muze in Bury just out side Manchester where his parents grew up.Being around music from an early age lead to Mat taking up the drums at age 10 and it wasn't until 1988 that he stumbled upon the underground Acid House scene taking over the UK warehouses. From then on he searched out where this music was from and how it was put together on the turntables. Muze records became a store where the locals djs came to get the new underground sounds and mat began playing his first shows before he was even old enough to get into the venues. He played sets on many pirate radio shows and began doing some shows and charts on the Intallex radio show run by XTC and Marcus Intallex. Then came scratching through seeing  XTC and after hearing a tape from Dj Hype on Fantasy FM. Many nights were spent ruining records and cutting back and forth trying to figure out how Hype got those crazy transformer sounds. These were the days before internet tutorials and dvds so it was a lot more trial and error.<br />\n<br />\nIn 1995 mat and his family moved to whistler Canada to pursue his new addiction of snowboarding and he met djs like Vinyl Ritchie and Kilo Cee who were playing diverse sets dropping Hip Hop into Funk into electronic music . Whistler had mixed crowds too from all over the world and mat enjoyed doing sets where you could flip from genre to genre and add lots of cuts in there too.<br />\nDescribed by Knowledge Magazine as 'awe-inspiring' & 'some next level shit.' Mat has toured across the globe and performed in 15 countries from Miami to Moscow at Sports events such as the US Supercross , Olympic Games (Torino & Whistler) , X Games  & many of Canada largest festivals of up to 15,000 people, also pioneering club nights in Whistler & Vancouver and held down a bi-weekly club night in Las Vegas at Eye Candy (Mandalay Bay).<br />\n<br />\nMat's Original music and Remixes are coming fast and furious , they have been featured on many T.V. shows , DVDs and webisodes . His  Remixes for  Nick Thayer, South Rakkas(Featured on Diplos Mad Decent Blog) , and also original music  have received  positive feedback and plays from some of the industry’s biggest names . His skratches can be heard on tracks by Fort Knox Five, Eprom - Ill Gates , Mochipet , Sweatshop Union & EA Sports NBA Home Court 3. Now also touring with his video / DJ set and he is taking the solo DJ act to new heights,  hitting all of the senses with custom remix and video edits witnessed at the World Ski & Snowboard Festival & Shambhala to name a couple . His Jaime L’Dubstep mix cd has so far 70 000 downloads and still going and he plans on doing more in the near future.<br />\n<br />\nHis label is up and running (Really Good Recordings) and will feature his own music alongside some of Canada’s finest electronic producers .<br />\n<br />\nIn 2012 mat joined his friends Zeds Dead on a Bus tour across canada and some US dates including shows with Araab Muzik and was received with an amazing response.<br />\n<br />\nMat is also a official monster Energy DJ and can be found DJing at some of their top sporting events events alongside and often Jamming with djs  like z Trip and Nu Mark and also getting to pull out the occasional 45 set .<br />\n<br />\nCurrently mat is enjoying playing Multi genre sets with Bass heavy beats and of course lots of cuts and contrasting sounds along the way .",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626094_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626094_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626094_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626094_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "matthealienMTAfanpage/",
-        "instagram_user": "mat_the_alien/",
-        "twitter_user": "MatTheAlien",
-        "soundcloud_user": "matthealien",
-        "spotify_artist_id": "6zQuKPa4iV1QD7pLYlLv21"
-      },
-      "performances": [
-        {
-          "id": 250168,
-          "external_id": "866026",
-          "published": true,
-          "body": "Since the age of 14 Mat has been mixing , scratching and making mixes - beats , spanning many genres and styles but always having one thing in common -  heavy beats and bass lines which appeals to a wide variety of crowds.\n\nIt all started after hearing the electronic sounds being played in the warehouse party's around the northwest of England in 88. Taking it back Mats dad opened a record store in 1978 called Vibes Records (#1 independent record store in the UK) and eventually a second store Muze in Bury just out side Manchester where his parents grew up.Being around music from an early age lead to Mat taking up the drums at age 10 and it wasn't until 1988 that he stumbled upon the underground Acid House scene taking over the UK warehouses. From then on he searched out where this music was from and how it was put together on the turntables. Muze records became a store where the locals djs came to get the new underground sounds and mat began playing his first shows before he was even old enough to get into the venues. He played sets on many pirate radio shows and began doing some shows and charts on the Intallex radio show run by XTC and Marcus Intallex. Then came scratching through seeing  XTC and after hearing a tape from Dj Hype on Fantasy FM. Many nights were spent ruining records and cutting back and forth trying to figure out how Hype got those crazy transformer sounds. These were the days before internet tutorials and dvds so it was a lot more trial and error.\n\nIn 1995 mat and his family moved to whistler Canada to pursue his new addiction of snowboarding and he met djs like Vinyl Ritchie and Kilo Cee who were playing diverse sets dropping Hip Hop into Funk into electronic music . Whistler had mixed crowds too from all over the world and mat enjoyed doing sets where you could flip from genre to genre and add lots of cuts in there too.\nDescribed by Knowledge Magazine as 'awe-inspiring' & 'some next level shit.' Mat has toured across the globe and performed in 15 countries from Miami to Moscow at Sports events such as the US Supercross , Olympic Games (Torino & Whistler) , X Games  & many of Canada largest festivals of up to 15,000 people, also pioneering club nights in Whistler & Vancouver and held down a bi-weekly club night in Las Vegas at Eye Candy (Mandalay Bay).\n\nMat's Original music and Remixes are coming fast and furious , they have been featured on many T.V. shows , DVDs and webisodes . His  Remixes for  Nick Thayer, South Rakkas(Featured on Diplos Mad Decent Blog) , and also original music  have received  positive feedback and plays from some of the industry’s biggest names . His skratches can be heard on tracks by Fort Knox Five, Eprom - Ill Gates , Mochipet , Sweatshop Union & EA Sports NBA Home Court 3. Now also touring with his video / DJ set and he is taking the solo DJ act to new heights,  hitting all of the senses with custom remix and video edits witnessed at the World Ski & Snowboard Festival & Shambhala to name a couple . His Jaime L’Dubstep mix cd has so far 70 000 downloads and still going and he plans on doing more in the near future.\n\nHis label is up and running (Really Good Recordings) and will feature his own music alongside some of Canada’s finest electronic producers .\n\nIn 2012 mat joined his friends Zeds Dead on a Bus tour across canada and some US dates including shows with Araab Muzik and was received with an amazing response.\n\nMat is also a official monster Energy DJ and can be found DJing at some of their top sporting events events alongside and often Jamming with djs  like z Trip and Nu Mark and also getting to pull out the occasional 45 set .\n\nCurrently mat is enjoying playing Multi genre sets with Bass heavy beats and of course lots of cuts and contrasting sounds along the way .",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040782,
-          "stage_id": 12503,
-          "stage_name": "Living Room",
-          "date_id": 3940,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-28T03:30:00+00:00",
-          "end_time": "2025-07-28T04:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "1qx2dC4pIoS65APmE3Au4D",
-          "streaming_service": "spotify",
-          "title": "Otoro",
-          "artist_name": "Mat the Alien, ill.gates, Dash Of The Root Sellers",
-          "duration": 247347,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0206ee422fbd17d3aac8521dc0",
-          "preview_url": "https://p.scdn.co/mp3-preview/9f6d2abf891e150bd6f28aa132c87c6a8bc88de2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4K0BX6qMthqlEreKbsR1WT",
-          "streaming_service": "spotify",
-          "title": "Feel High (feat. Emotionz & Abstrakt Sonance)",
-          "artist_name": "Mat the Alien, Emotionz, Abstrakt Sonance",
-          "duration": 250285,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0257fd2e58baf2967062195778",
-          "preview_url": "https://p.scdn.co/mp3-preview/5ea7c3bc30442f911cf8f23a68e0e5736499964b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "48qYrwSHQjggKrbQHm4Ige",
-          "streaming_service": "spotify",
-          "title": "Train To Hyderbad",
-          "artist_name": "Mat the Alien",
-          "duration": 250285,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02abb60d12949318d0eb208bdc",
-          "preview_url": "https://p.scdn.co/mp3-preview/f53dd25b0e6d900f72f3a99f6b699678a7b77539?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "03qBPYRPY4PHaIg9V9ShLs",
-          "streaming_service": "spotify",
-          "title": "Lock Off",
-          "artist_name": "Reflektor, Mat the Alien, Magugu",
-          "duration": 282705,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027893a24719f755512078b744",
-          "preview_url": "https://p.scdn.co/mp3-preview/926729400fcf10d66cdef43c09b7d7dd515a96d4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "20uu7g2MitfX2DRBq4wKNl",
-          "streaming_service": "spotify",
-          "title": "Wild Child",
-          "artist_name": "Mat the Alien",
-          "duration": 237176,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c2269ad7df510a580ad95859",
-          "preview_url": "https://p.scdn.co/mp3-preview/fa113b99a4b578503e4ae664f32d7f82d88450a7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1HyjGrG4a65ChFrFdYfKL3",
-          "streaming_service": "spotify",
-          "title": "Alien (feat. Gisto, Zes Nomis, Lady P & Woof Blitzr) [Twerkshop Vocal Version]",
-          "artist_name": "Mat the Alien, Gisto, Zes Nomis, Lady P, Woof Blitzr",
-          "duration": 211200,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0257fd2e58baf2967062195778",
-          "preview_url": "https://p.scdn.co/mp3-preview/ccfac1c348f80aa6a573e01553ca8d4cc7e89019?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5jlR1Z3jdfTpcJzmcCzpbV",
-          "streaming_service": "spotify",
-          "title": "The Otherside",
-          "artist_name": "Mat the Alien, DJ Illo, Zara Taylor, NESS NÖST",
-          "duration": 272625,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02fad23664d5c8a1f5bfbc7b5c",
-          "preview_url": "https://p.scdn.co/mp3-preview/cbf9c0fbeeaf30867ae299803501b930c9a2538e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6DoWgGkDNUaPwqe2FLsNWX",
-          "streaming_service": "spotify",
-          "title": "After Hours",
-          "artist_name": "Wraz., Mat the Alien",
-          "duration": 233147,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e020430d028fe1c70171f1b5089",
-          "preview_url": "https://p.scdn.co/mp3-preview/bb5f854a9c285ebf3531b1697e9d9fe168557c46?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "40UxST7K1M22EIjwb7p7Qj",
-          "streaming_service": "spotify",
-          "title": "Put On Your Mask",
-          "artist_name": "Mat the Alien",
-          "duration": 260571,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d7398af1e9311606b340feb9",
-          "preview_url": "https://p.scdn.co/mp3-preview/7f3e49ea6237aecc8a166917f7c6d0fd96fa3bcb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "09MupeXaNExwE7DccfToMk",
-          "streaming_service": "spotify",
-          "title": "Bobo - Metafloor Remix",
-          "artist_name": "Mat the Alien, Metafloor",
-          "duration": 240375,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b1a46134a697d30721231f2e",
-          "preview_url": "https://p.scdn.co/mp3-preview/ebe7ccab0952868bab013bcee0c54ff8f97162e8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040706,
-      "external_id": "174113",
-      "published": true,
-      "name": "EVeryman",
-      "body": "Evan Shafran, A.K.A. EVeryman, is a multi-talented artist who has made a name for himself in the worlds of comedy, acting, and music. His unique blend of talents has made him a versatile performer, allowing him to entertain audiences around the world in a variety of mediums.<br />\nAs a comedian, Shafran has been praised for his ability to bring humor to complex social issues.<br />\n<br />\nHis stand-up sets are characterized by their insightful and thought-provoking commentary, often touching on topics such as politics, race, and inequality.In addition to his work as a comedian, Shafran has also appeared in a number of films and television shows. <br />\n<br />\nThrough his work in comedy, acting, and music, Shafran has established himself as a unique and versatile performer. He has used his EVeryman Music platform to speak out about important social and environmental issues, and his dedication to promoting diversity and representation in media has made him a respected figure in the entertainment industry.<br />\n<br />\nEVeryman: An American rapper and lyricist known for his work with Little Giant Acorn Records, a record label set up to honor his friend Pumpkin. EVeryman collaborates with various producers and artists to create music that blends hip-hop with other genres. He has released multiple tracks and albums under Little Giant Acorn Records, including \"People In The Front (Jet Boot Jack Remix)\" and \"HAVE A GOOD DAY\" with Operator Unknown. A portion of the profits from his music sales goes to The Little Giant Acorn Foundation for The Arts, which helps children get started in music or the performing arts who otherwise could not afford to do so.<br />\n<br />\nRest in Peace to Pumpkin…<br />\n<br />\nPumpkin: Nick Alvarado, a Los Angeles-based producer who tragically passed away on March 25th, 2016. EVeryman and Pumpkin formed Little Giants, a musical duo that aimed to make proper hip-hop music for the mind, body, and soul.<br />\n<br />\nLittle Giant Acorn Records: An independent record label established by EVeryman to honor Pumpkin and support the Little Giant Acorn Foundation for The Arts, which helps children get started in music or the performing arts who otherwise could not afford to do so.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463984_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463984_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463984_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463984_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "everyman.music",
-        "instagram_user": "evanshafran_everyman/",
-        "youtube_user": "channel/UCzrfi8hdwCFC55v4HP2Eh0w",
-        "soundcloud_user": "everyman_music",
-        "spotify_artist_id": "6krNDVOGgGBzGJdhevtPiP"
-      },
-      "performances": [
-        {
-          "id": 250085,
-          "external_id": "865703",
-          "published": true,
-          "body": "Evan Shafran, A.K.A. EVeryman, is a multi-talented artist who has made a name for himself in the worlds of comedy, acting, and music. His unique blend of talents has made him a versatile performer, allowing him to entertain audiences around the world in a variety of mediums.\nAs a comedian, Shafran has been praised for his ability to bring humor to complex social issues.\n\nHis stand-up sets are characterized by their insightful and thought-provoking commentary, often touching on topics such as politics, race, and inequality.In addition to his work as a comedian, Shafran has also appeared in a number of films and television shows. \n\nThrough his work in comedy, acting, and music, Shafran has established himself as a unique and versatile performer. He has used his EVeryman Music platform to speak out about important social and environmental issues, and his dedication to promoting diversity and representation in media has made him a respected figure in the entertainment industry.\n\nEVeryman: An American rapper and lyricist known for his work with Little Giant Acorn Records, a record label set up to honor his friend Pumpkin. EVeryman collaborates with various producers and artists to create music that blends hip-hop with other genres. He has released multiple tracks and albums under Little Giant Acorn Records, including \"People In The Front (Jet Boot Jack Remix)\" and \"HAVE A GOOD DAY\" with Operator Unknown. A portion of the profits from his music sales goes to The Little Giant Acorn Foundation for The Arts, which helps children get started in music or the performing arts who otherwise could not afford to do so.\n\nRest in Peace to Pumpkin…\n\nPumpkin: Nick Alvarado, a Los Angeles-based producer who tragically passed away on March 25th, 2016. EVeryman and Pumpkin formed Little Giants, a musical duo that aimed to make proper hip-hop music for the mind, body, and soul.\n\nLittle Giant Acorn Records: An independent record label established by EVeryman to honor Pumpkin and support the Little Giant Acorn Foundation for The Arts, which helps children get started in music or the performing arts who otherwise could not afford to do so.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040706,
-          "stage_id": 12496,
-          "stage_name": "Living Room",
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-27T02:15:00+00:00",
-          "end_time": "2025-07-27T02:45:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "7kLoHBrMVQrBiz9QlUXQX4",
-          "streaming_service": "spotify",
-          "title": "Summertime Jam",
-          "artist_name": "George Stephenson, Lee James, Sonny Chunk, Everyman",
-          "duration": 135644,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c5d6b951005689bfc714c3af",
-          "preview_url": "https://p.scdn.co/mp3-preview/9d9f84c677f08e08f1deceffa3e951d5afc99388?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5CanJLi7QzCGXetz6HS2Bf",
-          "streaming_service": "spotify",
-          "title": "GET FREE",
-          "artist_name": "Everyman, Beat Fatigue",
-          "duration": 278639,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a94637a7cd58ba470ad6bcfd",
-          "preview_url": "https://p.scdn.co/mp3-preview/b5aa1192f23eb86c0252d42eebfc8f11959e5a41?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7HOf9mlVhGTBi2Px5fWI6n",
-          "streaming_service": "spotify",
-          "title": "Space Bass",
-          "artist_name": "Munchkin Kat, Everyman",
-          "duration": 206117,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02078f92df24395236a299d3c1",
-          "preview_url": "https://p.scdn.co/mp3-preview/6231ec1aa58f2db3504af2e30465c9df94899ce3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7bDx6O8wWiH9aFdyARUFSF",
-          "streaming_service": "spotify",
-          "title": "The Bass Slappin",
-          "artist_name": "Basement Freaks, Everyman",
-          "duration": 184801,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0256bcb5956dff6bbb77a2952b",
-          "preview_url": "https://p.scdn.co/mp3-preview/dea5ffe9142d62e0b957baac3a8198553b5307bf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6WK660s3SYgEWNpnwVIZxZ",
-          "streaming_service": "spotify",
-          "title": "CROOKLYN CATS",
-          "artist_name": "Munchkin Kat, Everyman",
-          "duration": 213913,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
-          "preview_url": "https://p.scdn.co/mp3-preview/5d343f523cb48ede0ddfb3cbc8dc41a88eccc736?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2d0pnUzvoqpfL7VXSIF1r1",
-          "streaming_service": "spotify",
-          "title": "High for This",
-          "artist_name": "Munchkin Kat, Everyman",
-          "duration": 223820,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
-          "preview_url": "https://p.scdn.co/mp3-preview/9be1540878a7c1d2c06e8476de167aa13c21a0fe?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "36yoaUj4gcZw8sYiOs5utm",
-          "streaming_service": "spotify",
-          "title": "Vision",
-          "artist_name": "Munchkin Kat, Everyman",
-          "duration": 205333,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
-          "preview_url": "https://p.scdn.co/mp3-preview/f8f741ad3a6feba0f90c5bace641bc4eb493fd46?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3tHviarjk6Q4TyU4RrtEWT",
-          "streaming_service": "spotify",
-          "title": "Space Bass",
-          "artist_name": "Munchkin Kat, Everyman",
-          "duration": 200470,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
-          "preview_url": "https://p.scdn.co/mp3-preview/7944ffd8701f7c89c65e052afcf8207f4da489b7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5k1H111emRjmkRMV8IcPak",
-          "streaming_service": "spotify",
-          "title": "Taste the Flow",
-          "artist_name": "Munchkin Kat, Everyman",
-          "duration": 217731,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
-          "preview_url": "https://p.scdn.co/mp3-preview/ccde9566f2683557184a20bc763cea5cd3f8f737?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4iq71SMV5sT4hjRBLC67TZ",
-          "streaming_service": "spotify",
-          "title": "Bern It Down Or The People's Revolution",
-          "artist_name": "Everyman, Joe Con",
-          "duration": 210988,
-          "image_url": "https://i.scdn.co/image/af74b9e437822e5a2b55f48acb28c039b4413edd",
-          "preview_url": "https://p.scdn.co/mp3-preview/cff9e17e0b4a8258dd4e50c63080de0dfaef33c4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2040650,
       "external_id": "167130",
       "published": true,
@@ -3939,176 +4783,6 @@
           "duration": 214153,
           "image_url": "https://i.scdn.co/image/ab67616d00001e025e89584177b8ff82fae5558c",
           "preview_url": "https://p.scdn.co/mp3-preview/5c4bc3538e49133c3b09871516df9616b583551c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040634,
-      "external_id": "174071",
-      "published": true,
-      "name": "Kursa",
-      "body": "From a very young age Oska was attending illegal raves all over London and being exposed to the pummeling sounds of the underground throughout the 90’s. Other influences include being raised on an eclectic selection of trip hop, jazz, classical, jungle and techno to name a few genres, has shaped a truly unique taste and direction in his work. <br />\n<br />\nPrepare yourself for the journey through a variety of sounds and energy at his shows that’s easily scalable to the intimate setting of smaller dance floors or main stage festival sets. On top of this, there is a completely live electronic hardware set that will be making some special appearances in the near future!<br />\n<br />\nExpect the unexpected",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463905_performance_100.png",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463905_performance_120.png",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463905_performance_250.png",
-        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463905_performance_500.png",
-        "960": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463905_performance_960.png",
-        "1080": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463905_performance_1080.png"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "kursa.music",
-        "instagram_user": "kursaaaa",
-        "soundcloud_user": "kursauk",
-        "spotify_artist_id": "7JUcFVSKC0wFC2pvkRjVl1"
-      },
-      "performances": [
-        {
-          "id": 250012,
-          "external_id": "865602",
-          "published": true,
-          "body": "From a very young age Oska was attending illegal raves all over London and being exposed to the pummeling sounds of the underground throughout the 90’s. Other influences include being raised on an eclectic selection of trip hop, jazz, classical, jungle and techno to name a few genres, has shaped a truly unique taste and direction in his work. \n\nPrepare yourself for the journey through a variety of sounds and energy at his shows that’s easily scalable to the intimate setting of smaller dance floors or main stage festival sets. On top of this, there is a completely live electronic hardware set that will be making some special appearances in the near future!\n\nExpect the unexpected",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040634,
-          "stage_id": 12486,
-          "stage_name": "AMP",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T10:00:00+00:00",
-          "end_time": "2025-07-26T11:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "2kToYWgowdvPHkjS1pNotq",
-          "streaming_service": "spotify",
-          "title": "Zero Eye Contact",
-          "artist_name": "Two Swords, Kursa, Hyroglifics",
-          "duration": 171428,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028c894f8ceeb6d8f68cba7f2b",
-          "preview_url": "https://p.scdn.co/mp3-preview/778a99792cdcddc24aa200f53fe1d715913ecb4b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5QAwK2cpKQrkEsbOSVspUH",
-          "streaming_service": "spotify",
-          "title": "Woke Up, Chose Violence",
-          "artist_name": "Kursa, Sepia",
-          "duration": 211457,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025d4fe0528603ab53d2e01776",
-          "preview_url": "https://p.scdn.co/mp3-preview/7dc61b2afdac19cdebcaf3c4c442d8f712e3fca4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5CQeVpZA4zEIHwoBjo7QJx",
-          "streaming_service": "spotify",
-          "title": "Ultra Violent Light - Original Mix",
-          "artist_name": "Kursa",
-          "duration": 200930,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0242ab35ab528fbbede78c6dca",
-          "preview_url": "https://p.scdn.co/mp3-preview/0ef1e2160a7fa1fef01f48c42f0b11c34872209f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5Z6RaThltmuiOMAKP7VFzA",
-          "streaming_service": "spotify",
-          "title": "Sleepin'",
-          "artist_name": "Kursa, Sepia",
-          "duration": 200652,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025d4fe0528603ab53d2e01776",
-          "preview_url": "https://p.scdn.co/mp3-preview/a09f4d9e13cd1beb60139ce793b27b2087e261da?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7JMy73mfz7Nuirg2WHsWWC",
-          "streaming_service": "spotify",
-          "title": "Tune In",
-          "artist_name": "Kursa, Sepia",
-          "duration": 203450,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025d4fe0528603ab53d2e01776",
-          "preview_url": "https://p.scdn.co/mp3-preview/47479d155c5305223c96326a083f1be250fff14e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1F0vaPtoO5qMi6gz8qQRcP",
-          "streaming_service": "spotify",
-          "title": "Piercing Cold",
-          "artist_name": "Chad Dubz, Kursa",
-          "duration": 188431,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b3e597aed6cce23a82ed2ede",
-          "preview_url": "https://p.scdn.co/mp3-preview/9ed6e0a0e4b426331b540f018c76acf4a7c72fac?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3M3EwGPHB1TgEZRiVL3oTJ",
-          "streaming_service": "spotify",
-          "title": "Intent",
-          "artist_name": "Ternion Sound, Kursa",
-          "duration": 180857,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02bf30af7f0642e23045c5dcdc"
-        },
-        {
-          "track_id": "09105bxSF4RIfE0ZamPVXa",
-          "streaming_service": "spotify",
-          "title": "Gelato Cake",
-          "artist_name": "Chad Dubz, Kursa",
-          "duration": 231357,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b3e597aed6cce23a82ed2ede",
-          "preview_url": "https://p.scdn.co/mp3-preview/5003febfb9bb14876d9b1f60b1e954da877b541b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3lh16TRuu0ugXlxspQntg4",
-          "streaming_service": "spotify",
-          "title": "Got Something To Say?",
-          "artist_name": "Alicia Kiah, Kursa",
-          "duration": 282461,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021067f981ee62bc4e31a587b5",
-          "preview_url": "https://p.scdn.co/mp3-preview/7bf13c997f95b9923db2c7665ba1025367e2ee4f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3khlgLARTfgFoCoecyUCOc",
-          "streaming_service": "spotify",
-          "title": "Max Out (Kursa Remix)",
-          "artist_name": "KOAN Sound, Kursa",
-          "duration": 260000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f6aaee4368d26d1bf9280536",
-          "preview_url": "https://p.scdn.co/mp3-preview/83c6bfe3257b477ae43f892144cebfd63fc882c2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         }
       ],
       "show_in_search": true,
@@ -9042,7 +9716,7 @@
           "track_id": "7Ki6lQlcAW565EsHfP8U7S",
           "streaming_service": "spotify",
           "title": "Galvanize - Chris Lake Remix",
-          "artist_name": "The Chemical Brothers, Chris Lake",
+          "artist_name": "The Chemical Brothers, Chris Lake, Q-Tip",
           "duration": 223618,
           "image_url": "https://i.scdn.co/image/ab67616d00001e023e20caed83591ec532dcea8c"
         },
@@ -10650,176 +11324,6 @@
           "duration": 231219,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0201998804a78c148a49f07a83",
           "preview_url": "https://p.scdn.co/mp3-preview/ef480cdf648d4003110091897b03cc4530dd3208?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040576,
-      "external_id": "167413",
-      "published": true,
-      "name": "Longwalkshortdock",
-      "body": "Longwalkshortdock essentially started the first time Dave King heard gritty electronic music in early eighties video games. Strongly influenced by these sounds and melodies, Dave started recording and looping segments of this material and experimenting with effects and sound editing as a child. Currently, a veteran of sound design, electronic music production and Live PA performance for well over 2 decades, Longwalkshortdock's music has stepped into a genre of its own. Strongly influences by vintage analog synthesis, film and video games scores, virtually all genres of music in addition to new technologies, LWSD stacks layers of melody in his tracks until they implode and reform. For his live performances, driving drums and morphing synth lines join forces with rolling grooves and melodic lead lines to create a wide variety of dance floor friendly originals. While he may be best known by the festival crowd as a not-to-miss act for his spirited antics and bass-heavy dance music, Longwalkshortdock’s productions crosses into many territories. His vast catalogue of hundreds of compositions dives into everything from Ambient, IDM, Electro, Drum and Bass, Dubstep, Halftime, Techno, Left Field Bass, Electronica, Down tempo and Film Score work. Dave holds two degrees from the Art Institute of Burnaby for Music Recording and Production and has been continuing to improve and hone his skills since he made music his full time occupation in 2005. An ongoing resident artist at top-tier festivals such as Shambhala, Bass Coast, Electric Love and Wicked Woods, LWSD has made a name for himself putting on extremely energetic, yet personal and emotionally engaging live shows all over North America. His performances are live in every sense of the word, with Dave manning his own synthesizers, drum machines, samplers, vocals, effects, computers and lighting. In the studio LWSD is always looking to blend the old and the new combining cutting edge digital technology with his passion for the lush character and sound of vintage analog gear. Just ask him about his synth collection. With four albums and dozens of other collaborations, remixes and one-off releases to his name—not to mention countless gigs at festivals, bars and other venues across North American and beyond, Longwalkshortdock is one of the hardest-working and creative people in the electronic music scene. His raw, high energy performances and openness with his fans have created an almost cult-like following. This mix of unique performance talent and authenticity make Longwalkshortdock a one-of-a-kind artist, as anyone who has seen him play or even shaken his hand will attest.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626089_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626089_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626089_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626089_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "longwalkshortdock",
-        "instagram_user": "longwalkshortdock/",
-        "twitter_user": "LWSD9999",
-        "soundcloud_user": "longwalkshortdock",
-        "spotify_artist_id": "7idfp6RvpPr27LCuM7juVq"
-      },
-      "performances": [
-        {
-          "id": 249955,
-          "external_id": "865940",
-          "published": true,
-          "body": "Longwalkshortdock essentially started the first time Dave King heard gritty electronic music in early eighties video games. Strongly influenced by these sounds and melodies, Dave started recording and looping segments of this material and experimenting with effects and sound editing as a child. Currently, a veteran of sound design, electronic music production and Live PA performance for well over 2 decades, Longwalkshortdock's music has stepped into a genre of its own. Strongly influences by vintage analog synthesis, film and video games scores, virtually all genres of music in addition to new technologies, LWSD stacks layers of melody in his tracks until they implode and reform. For his live performances, driving drums and morphing synth lines join forces with rolling grooves and melodic lead lines to create a wide variety of dance floor friendly originals. While he may be best known by the festival crowd as a not-to-miss act for his spirited antics and bass-heavy dance music, Longwalkshortdock’s productions crosses into many territories. His vast catalogue of hundreds of compositions dives into everything from Ambient, IDM, Electro, Drum and Bass, Dubstep, Halftime, Techno, Left Field Bass, Electronica, Down tempo and Film Score work. Dave holds two degrees from the Art Institute of Burnaby for Music Recording and Production and has been continuing to improve and hone his skills since he made music his full time occupation in 2005. An ongoing resident artist at top-tier festivals such as Shambhala, Bass Coast, Electric Love and Wicked Woods, LWSD has made a name for himself putting on extremely energetic, yet personal and emotionally engaging live shows all over North America. His performances are live in every sense of the word, with Dave manning his own synthesizers, drum machines, samplers, vocals, effects, computers and lighting. In the studio LWSD is always looking to blend the old and the new combining cutting edge digital technology with his passion for the lush character and sound of vintage analog gear. Just ask him about his synth collection. With four albums and dozens of other collaborations, remixes and one-off releases to his name—not to mention countless gigs at festivals, bars and other venues across North American and beyond, Longwalkshortdock is one of the hardest-working and creative people in the electronic music scene. His raw, high energy performances and openness with his fans have created an almost cult-like following. This mix of unique performance talent and authenticity make Longwalkshortdock a one-of-a-kind artist, as anyone who has seen him play or even shaken his hand will attest.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040576,
-          "stage_id": 12479,
-          "stage_name": "AMP",
-          "date_id": 4325,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-25T08:00:00+00:00",
-          "end_time": "2025-07-25T09:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "3gx7TPEAPhHjVRzz88OMdy",
-          "streaming_service": "spotify",
-          "title": "High Expectations",
-          "artist_name": "Longwalkshortdock",
-          "duration": 351666,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02bdafa35e2a416285eb4eded6",
-          "preview_url": "https://p.scdn.co/mp3-preview/7def95877eb41b61bc82ccfd01b7a695f7a5b279?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2OUKIZ8m27Zad17jW0AdAu",
-          "streaming_service": "spotify",
-          "title": "This Is the Best",
-          "artist_name": "Longwalkshortdock",
-          "duration": 432000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02af8dde7d7c0a55e5a7bb7adb",
-          "preview_url": "https://p.scdn.co/mp3-preview/e009c5195539f15e6b25fdd68dc197abe34cec9e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1cDmo0jpRKJ6XdGpVQgjic",
-          "streaming_service": "spotify",
-          "title": "We'll See",
-          "artist_name": "Longwalkshortdock",
-          "duration": 390333,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e0fa46c314e1f7588d7a3c87",
-          "preview_url": "https://p.scdn.co/mp3-preview/3332d79a9431b9c81dadd92aace7065cc17709cc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1dcRCbu98vzaQLx7SoSHlv",
-          "streaming_service": "spotify",
-          "title": "Goodbye Horse",
-          "artist_name": "Longwalkshortdock",
-          "duration": 235813,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02af8dde7d7c0a55e5a7bb7adb",
-          "preview_url": "https://p.scdn.co/mp3-preview/03b34b6d43887a24aade5af616bf50d4d58dafdc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3qr43IIFzejwzi69i28imq",
-          "streaming_service": "spotify",
-          "title": "Lost the Will to Strive",
-          "artist_name": "Longwalkshortdock",
-          "duration": 466895,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0227229247306e043dddfd12f9",
-          "preview_url": "https://p.scdn.co/mp3-preview/21f32f77116d0dcc210b3dee9a78ef3f899107c7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6GTJDX4YJ3TU5uUTNDkNVo",
-          "streaming_service": "spotify",
-          "title": "Keep It Round",
-          "artist_name": "Longwalkshortdock",
-          "duration": 424093,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02bdafa35e2a416285eb4eded6",
-          "preview_url": "https://p.scdn.co/mp3-preview/6d7a911233e87faab1378ccb649c2b5994f1ffbb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "42GOuEX3nA06KEU5mfyWgy",
-          "streaming_service": "spotify",
-          "title": "I'm Forgetful",
-          "artist_name": "Longwalkshortdock",
-          "duration": 335624,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0227229247306e043dddfd12f9",
-          "preview_url": "https://p.scdn.co/mp3-preview/85e6ea074f53055de855e06560decbe9f08455c6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2dxWVF0QSuen6g1rRUPj4O",
-          "streaming_service": "spotify",
-          "title": "Moon Illusion - Longwalkwshortdock Remix",
-          "artist_name": "The Librarian, Longwalkshortdock",
-          "duration": 418500,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ad7f94008ceb9c3e8b059325",
-          "preview_url": "https://p.scdn.co/mp3-preview/9c76ad20287387dda6291ad2d856200bb9a69695?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "57Bv68MyBIl9EjVZdQSM29",
-          "streaming_service": "spotify",
-          "title": "I've Been So Burned Out",
-          "artist_name": "Longwalkshortdock",
-          "duration": 507453,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e0fa46c314e1f7588d7a3c87",
-          "preview_url": "https://p.scdn.co/mp3-preview/bd3679bf6bd7e5bdc2a9e404b4da24ebafd907a0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6saBCddYtDsAjigJCMlIYH",
-          "streaming_service": "spotify",
-          "title": "Misbehavin",
-          "artist_name": "Longwalkshortdock",
-          "duration": 454800,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e0fa46c314e1f7588d7a3c87",
-          "preview_url": "https://p.scdn.co/mp3-preview/0d1ab27f7653039b6610730ecd1cdf26981f7601?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         }
       ],
       "show_in_search": true,
@@ -19091,170 +19595,6 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040600,
-      "external_id": "1920450",
-      "published": true,
-      "name": "Moody Good",
-      "body": "Eddie Jefferys is your favorite producer’s, favorite producer, baby daddy, chef's kiss on the lips.<br />\nHe is the mastermind behind Moody Good and the legendary duo 16bit. Eddie’s career is a<br />\ndynamic tapestry of UK bass and groundbreaking soundscapes. From producing tracks for the<br />\nlikes of Björk to crafting exciting sound design for movies like Transformers, his work is as<br />\ndiverse as it is influential.<br />\n<br />\nEddie’s journey began with 16bit and Broken Note, where he quickly made a name for himself in<br />\nthe UK bass scene. His innovative sound design set new standards in electronic music. As<br />\nMoody Good, Eddie continued to push boundaries, blending genres and creating music that<br />\ndefies categorization.<br />\n<br />\nWhether he’s performing at festivals, collaborating with other artists, or producing tracks that<br />\nmake your neighbors question their life choices, Eddie’s passion for music is evident in every<br />\nbeat. His ability to turn noise into art has earned him a place among the elite in the music<br />\nindustry.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463869_performance_100.png",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463869_performance_120.png",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463869_performance_250.png",
-        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463869_performance_500.png"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "moodygoodofficial",
-        "instagram_user": "moodygood",
-        "twitter_user": "moodygood",
-        "soundcloud_user": "moodygood",
-        "spotify_artist_id": "3EN8pUGJtYWutzf2fUxrDH"
-      },
-      "performances": [
-        {
-          "id": 249979,
-          "external_id": "865582",
-          "published": true,
-          "body": "Eddie Jefferys is your favorite producer’s, favorite producer, baby daddy, chef's kiss on the lips.\nHe is the mastermind behind Moody Good and the legendary duo 16bit. Eddie’s career is a\ndynamic tapestry of UK bass and groundbreaking soundscapes. From producing tracks for the\nlikes of Björk to crafting exciting sound design for movies like Transformers, his work is as\ndiverse as it is influential.\n\nEddie’s journey began with 16bit and Broken Note, where he quickly made a name for himself in\nthe UK bass scene. His innovative sound design set new standards in electronic music. As\nMoody Good, Eddie continued to push boundaries, blending genres and creating music that\ndefies categorization.\n\nWhether he’s performing at festivals, collaborating with other artists, or producing tracks that\nmake your neighbors question their life choices, Eddie’s passion for music is evident in every\nbeat. His ability to turn noise into art has earned him a place among the elite in the music\nindustry.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040600,
-          "stage_id": 12493,
-          "stage_name": "AMP",
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-27T04:30:00+00:00",
-          "end_time": "2025-07-27T06:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "1y0kCZvdRxr22scqgH6ci9",
-          "streaming_service": "spotify",
-          "title": "Mad Ting",
-          "artist_name": "Zeds Dead, Moody Good, Killa P",
-          "duration": 194685,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e029550239aebe1158c152b1b48"
-        },
-        {
-          "track_id": "4ZnVn9qCN4ED4Nq4yNzA7z",
-          "streaming_service": "spotify",
-          "title": "Fall in Love Moody Good Remix",
-          "artist_name": "Moody Good",
-          "duration": 195000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027536522eba225e2055c1f16f",
-          "preview_url": "https://p.scdn.co/mp3-preview/5e6f20429916beed8075a13d845836fcb8d056d6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0ZPG85jFTwMOsFtqkUBu4v",
-          "streaming_service": "spotify",
-          "title": "Burial - Moody Good Remix",
-          "artist_name": "Yogi, Moody Good",
-          "duration": 241699,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02fe0fed01ad712d02242405f7",
-          "preview_url": "https://p.scdn.co/mp3-preview/e9872af27912513f54f9d9c057053900c7c224d7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "035MWW56Wl7Wqzc0zk7HzR",
-          "streaming_service": "spotify",
-          "title": "move ting",
-          "artist_name": "Skrillex, Moody Good, Nakeesha",
-          "duration": 174186,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02536925a4988e7559dafd0236",
-          "preview_url": "https://p.scdn.co/mp3-preview/3e374f95809dc5aab6d8c7549d039fd06a3235e1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7tOLzteLIKzJsJpmg1RvjT",
-          "streaming_service": "spotify",
-          "title": "Grinding",
-          "artist_name": "Moody Good",
-          "duration": 280816,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e023cb8f33816194e5da3f4a9e6"
-        },
-        {
-          "track_id": "0ZYi6XTTjoOQSDWy8Ubx5x",
-          "streaming_service": "spotify",
-          "title": "Humid",
-          "artist_name": "Moody Good",
-          "duration": 257648,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b69b95512b597bb8aea413cc"
-        },
-        {
-          "track_id": "1JG6tCIJPCvy8td4OfTOgd",
-          "streaming_service": "spotify",
-          "title": "Mouth Piece",
-          "artist_name": "Moody Good, KARAN!",
-          "duration": 203909,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02699763f012a216327a50029b"
-        },
-        {
-          "track_id": "0kB2Cl1KHj9HRKkknEuUxn",
-          "streaming_service": "spotify",
-          "title": "EYE OF ZAPHO (feat. Moody Good)",
-          "artist_name": "Getter, Moody Good",
-          "duration": 105538,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e029f9d7eb0822a023e1250bc52",
-          "preview_url": "https://p.scdn.co/mp3-preview/ef2d3277d05606e7eb67bc6405fcf42eaee1ff79?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "06Ib3OfxdvinrGtizQA5uP",
-          "streaming_service": "spotify",
-          "title": "Blurry Flurry",
-          "artist_name": "Moody Good",
-          "duration": 281142,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025b0d543fc934f895b459e846"
-        },
-        {
-          "track_id": "0rC0cxP1vRc107lzoeHUMk",
-          "streaming_service": "spotify",
-          "title": "Clap Back",
-          "artist_name": "Moody Good",
-          "duration": 236521,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025b0d543fc934f895b459e846"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2040585,
       "external_id": "1920458",
       "published": true,
@@ -19944,178 +20284,6 @@
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": false,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040716,
-      "external_id": "187992",
-      "published": true,
-      "name": "SIVZ",
-      "body": "Sivz is an artist born out of relentless hard work and passion for the party. Using catchy lyric writing, intricate percussion, rhythmic vocal chops, and dominant vocals as her ultimate tools for expression, her releases on house imprints like Desert Hearts and Farris Wheel Recordings have received support from industry veterans like Chris Lake, CID, Claptone, and Low Steppa, repetitively landing in Beatport's Top 100 charts, placing in Spotify's editorial playlists, and above all — resonating with her dedicated fan base.<br />\n<br />\nAside from being an evidently talented producer to watch, Sivz is most known as a calculated selector who constantly draws inspiration trotting the globe as an avid music festival chaser. A connoisseur of all things house, you can trust in her chameleon-like ability to deliver the right vibe for any occasion and leave you in drastically different places from where you started. Her thoughtful selections and strategic set progressions have led her to performing at Canada’s most iconic clubs and festivals including Shambhala and Bass Coast, where she often takes the cake for the most talked-about house set of the weekend without fail.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627055_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627055_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627055_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/28/thumb_5627055_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "SivzMusic/",
-        "instagram_user": "sivzmusic/",
-        "twitter_user": "sivzmusic",
-        "youtube_user": "channel/UCbzr7eEE37KUd7JYqExPXGQ",
-        "soundcloud_user": "sivzmusic",
-        "spotify_artist_id": "0NUhITSw1R757ncPIm3pGq"
-      },
-      "performances": [
-        {
-          "id": 250096,
-          "external_id": "865973",
-          "published": true,
-          "name": "Sivz",
-          "body": "Sivz is an artist born out of relentless hard work and passion for the party. Using catchy lyric writing, intricate percussion, rhythmic vocal chops, and dominant vocals as her ultimate tools for expression, her releases on house imprints like Desert Hearts and Farris Wheel Recordings have received support from industry veterans like Chris Lake, CID, Claptone, and Low Steppa, repetitively landing in Beatport's Top 100 charts, placing in Spotify's editorial playlists, and above all — resonating with her dedicated fan base.\n\nAside from being an evidently talented producer to watch, Sivz is most known as a calculated selector who constantly draws inspiration trotting the globe as an avid music festival chaser. A connoisseur of all things house, you can trust in her chameleon-like ability to deliver the right vibe for any occasion and leave you in drastically different places from where you started. Her thoughtful selections and strategic set progressions have led her to performing at Canada’s most iconic clubs and festivals including Shambhala and Bass Coast, where she often takes the cake for the most talked-about house set of the weekend without fail.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040716,
-          "stage_id": 12497,
-          "stage_name": "Pagoda",
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-27T01:30:00+00:00",
-          "end_time": "2025-07-27T02:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "4O3ClmM5rvAvog5ISYu4o5",
-          "streaming_service": "spotify",
-          "title": "When You Left",
-          "artist_name": "Sivz",
-          "duration": 184761,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027ee1734f22993ff71d306da8",
-          "preview_url": "https://p.scdn.co/mp3-preview/c0522e549318a36637a32596911a7618400fe4d7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0FSDvkgRgoWKMccGHYXcRJ",
-          "streaming_service": "spotify",
-          "title": "Stay With Me",
-          "artist_name": "Sivz",
-          "duration": 331459,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f98e7f5d488d3fa799ffdeaf",
-          "preview_url": "https://p.scdn.co/mp3-preview/20307f8915466bf3e843899223223ff4b1882fbf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2Dlg14fCKYLZS1CDQpoHGe",
-          "streaming_service": "spotify",
-          "title": "7am - Sivz Remix",
-          "artist_name": "SAM SHI, Gaspa, Sivz",
-          "duration": 377682,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e029287756f37275e27c9ec27a5",
-          "preview_url": "https://p.scdn.co/mp3-preview/20cd2ac2c7306ba4161d5fa116c6b3a4e8ff3803?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4xQOYJvzinZlFBlM4MGlBY",
-          "streaming_service": "spotify",
-          "title": "We Movin'",
-          "artist_name": "Shane Patrick Riley, Sivz",
-          "duration": 293442,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d22bad8b78ce26498ea6aadb",
-          "preview_url": "https://p.scdn.co/mp3-preview/1af0ef2a830f0cdbed2fa7cca3ccd3bfb24004c4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2WCA3a7LQRdsKYf93AleId",
-          "streaming_service": "spotify",
-          "title": "True Colours",
-          "artist_name": "Sivz, Tinywiings",
-          "duration": 175638,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ff68c071dd207eee5abd4fb4",
-          "preview_url": "https://p.scdn.co/mp3-preview/7b35ba3ed64d6daedbb46b883383a06000ccb460?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0Sna6Q25qsWotEM4lmdIWE",
-          "streaming_service": "spotify",
-          "title": "Make It Right",
-          "artist_name": "Sivz",
-          "duration": 184165,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0263babcbfda13db1d989e38b6",
-          "preview_url": "https://p.scdn.co/mp3-preview/2823d0a6caf7c1bf37b3070995dd0e83adde0f57?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5ngVidGItbuZcp8DF4lD8g",
-          "streaming_service": "spotify",
-          "title": "Luv The Way",
-          "artist_name": "Sivz, ATTICUS",
-          "duration": 195000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02309070562f033d977ea10c6b",
-          "preview_url": "https://p.scdn.co/mp3-preview/aa71bcbb7c35e021c4b8c22e69e8ce45bb7b1191?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2WMvK0NMI2mQm1SJDAomvd",
-          "streaming_service": "spotify",
-          "title": "Bad BTch",
-          "artist_name": "Sivz",
-          "duration": 179541,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e029d2e5b000ce9e73fbcf4a667",
-          "preview_url": "https://p.scdn.co/mp3-preview/cfb77f6fdc3b107989dfa95e65d3b104cd785253?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6p8DMlYMms0Z6NY1gMb958",
-          "streaming_service": "spotify",
-          "title": "Lemonade",
-          "artist_name": "Sivz",
-          "duration": 161749,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028421afe4e355e285ff0bc34e",
-          "preview_url": "https://p.scdn.co/mp3-preview/c56142b53b288384f7b5a400764833fa03285a45?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4250jSYbSf4IH1S9c8sVu4",
-          "streaming_service": "spotify",
-          "title": "Mad Man Thing",
-          "artist_name": "Sivz, Mood Child",
-          "duration": 221951,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0277f86900db04d2940fc6ed2d",
-          "preview_url": "https://p.scdn.co/mp3-preview/a26822bddf335746dfd46072435f7cbb181d23ba?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
       "show_section_titles": true,
       "allow_favoriting": true
     },
@@ -24544,174 +24712,6 @@
           "duration": 619253,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02d223d03e6004b047abcaa942",
           "preview_url": "https://p.scdn.co/mp3-preview/cea964a0d3af74ad73e68b205480fa9105830846?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040717,
-      "external_id": "1920449",
-      "published": true,
-      "name": "Rohaan",
-      "body": "Rohaan, a versatile and boundary-pushing producer from York, UK, has swiftly ascended to<br />\ninternational recognition in the electronic music scene. Known for his prolific, multi-genre sound,<br />\nhe’s released on a wide range of renowned labels, including HARD Records, VISION, Hospital,<br />\nUKF/Pilot, Drum&BassArena, Sable Valley, Deadbeats, Souped Up, and Method808. His debut<br />\nLP , Bleach, captured global attention and acclaim from outlets like DJ Times and UKF , earning<br />\naccolades such as UKF's Artist of the Year and Album of the Year, along with prestigious airplay<br />\non BBC Radio One Essential Mixes, Radio One Extra, and Noisia Radio. Additionally, Rohaan<br />\nwas nominated for DJ Mag’s Breakthrough Artist and created a celebrated mix for BBC Radio 1.<br />\n<br />\nRohaan’s innovative style and aversion to sticking to any one genre has garnered him support<br />\nfrom influential figures like Four T et, Fred again.., Jamie XX, Zeds Dead, Noisia, Slander, Joker,<br />\nLORN, and What So Not. His work was featured on Mike Skinner’s fabric Presents album,<br />\nsolidifying his influence across the electronic landscape. He also made waves by becoming the<br />\nfirst artist to release music with Flowdan (Musket) following Flowdan’s hit track, Rumble, adding<br />\na unique milestone to his growing career.<br />\n<br />\nIn 2022, Rohaan made a significant impact in North America with his debut U.S. tour, starting<br />\nwith a performance at Insomniac’s HARD SUMMER Festival and spanning major festivals and<br />\nheadline shows across the continent. He wrapped up the year with an electrifying set at<br />\nInsomniac’s Countdown NYE, marking a thrilling close to a breakthrough year. His momentum<br />\ncarried into 2023 and 2024 with performances at iconic venues and festivals worldwide,<br />\nincluding Red Rocks, Locus Bali, EDC Las Vegas, Lightning in a Bottle, Rampage, Infrasound,<br />\nT omorrowland, and Electric Forest.<br />\n<br />\nRohaan’s music continues to resonate throughout the electronic community. His Boy in a Dream<br />\nEP on VISION Records, especially the single “Easy for Them,” attracted attention from top-tier<br />\nartists like Four T et and Fred Again... His recent track El Conde has received praise and airplay<br />\nfrom Jamie XX, showcasing Rohaan’s influence at the highest levels of the scene. It’s safe to<br />\nsay the future is exciting for Rohaan.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463997_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463997_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463997_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463997_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "RohaanOfficial",
-        "instagram_user": "rohaanmusic",
-        "twitter_user": "Rohaanofficial",
-        "spotify_artist_id": "7FqSU53yVH1SQAtLZ63DGS"
-      },
-      "performances": [
-        {
-          "id": 250097,
-          "external_id": "865586",
-          "published": true,
-          "body": "Rohaan, a versatile and boundary-pushing producer from York, UK, has swiftly ascended to\ninternational recognition in the electronic music scene. Known for his prolific, multi-genre sound,\nhe’s released on a wide range of renowned labels, including HARD Records, VISION, Hospital,\nUKF/Pilot, Drum&BassArena, Sable Valley, Deadbeats, Souped Up, and Method808. His debut\nLP , Bleach, captured global attention and acclaim from outlets like DJ Times and UKF , earning\naccolades such as UKF's Artist of the Year and Album of the Year, along with prestigious airplay\non BBC Radio One Essential Mixes, Radio One Extra, and Noisia Radio. Additionally, Rohaan\nwas nominated for DJ Mag’s Breakthrough Artist and created a celebrated mix for BBC Radio 1.\n\nRohaan’s innovative style and aversion to sticking to any one genre has garnered him support\nfrom influential figures like Four T et, Fred again.., Jamie XX, Zeds Dead, Noisia, Slander, Joker,\nLORN, and What So Not. His work was featured on Mike Skinner’s fabric Presents album,\nsolidifying his influence across the electronic landscape. He also made waves by becoming the\nfirst artist to release music with Flowdan (Musket) following Flowdan’s hit track, Rumble, adding\na unique milestone to his growing career.\n\nIn 2022, Rohaan made a significant impact in North America with his debut U.S. tour, starting\nwith a performance at Insomniac’s HARD SUMMER Festival and spanning major festivals and\nheadline shows across the continent. He wrapped up the year with an electrifying set at\nInsomniac’s Countdown NYE, marking a thrilling close to a breakthrough year. His momentum\ncarried into 2023 and 2024 with performances at iconic venues and festivals worldwide,\nincluding Red Rocks, Locus Bali, EDC Las Vegas, Lightning in a Bottle, Rampage, Infrasound,\nT omorrowland, and Electric Forest.\n\nRohaan’s music continues to resonate throughout the electronic community. His Boy in a Dream\nEP on VISION Records, especially the single “Easy for Them,” attracted attention from top-tier\nartists like Four T et and Fred Again... His recent track El Conde has received praise and airplay\nfrom Jamie XX, showcasing Rohaan’s influence at the highest levels of the scene. It’s safe to\nsay the future is exciting for Rohaan.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040717,
-          "stage_id": 12497,
-          "stage_name": "Pagoda",
-          "date_id": 3939,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-27T02:30:00+00:00",
-          "end_time": "2025-07-27T03:45:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "2SN7ULJRUGp4GWFRAaWTbr",
-          "streaming_service": "spotify",
-          "title": "run away",
-          "artist_name": "Rohaan, Kelbin",
-          "duration": 192558,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c62dd594f338f99c9fd119f8",
-          "preview_url": "https://p.scdn.co/mp3-preview/c1d3d7d7513067cf8711ac594e847c5786444320?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1BVtpveXrAKmxQ3AZ8a1cf",
-          "streaming_service": "spotify",
-          "title": "Easy for them",
-          "artist_name": "Rohaan",
-          "duration": 137142,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024b33da6c79acad19d70b3ea6",
-          "preview_url": "https://p.scdn.co/mp3-preview/886ebf11a50c730a79da089219e18cd0acf1af2c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5m071hCqm8urehS1fSn2FN",
-          "streaming_service": "spotify",
-          "title": "Musket (feat. Flowdan)",
-          "artist_name": "Rohaan, Flowdan",
-          "duration": 183409,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0237aa0ac41e6c04c7ec21810e",
-          "preview_url": "https://p.scdn.co/mp3-preview/0af397a1817eb0ef5b0c9d67a72750190c1b2607?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "67sENNMbwMDaXwS0buWOQL",
-          "streaming_service": "spotify",
-          "title": "Euphoric",
-          "artist_name": "Rohaan",
-          "duration": 147907,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02183dda47d6d78833d1c88182",
-          "preview_url": "https://p.scdn.co/mp3-preview/3bc0ac040fba25a81e59e23ba17be16c24449bbe?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0peOvIy7NerouGHvXO9b0y",
-          "streaming_service": "spotify",
-          "title": "City of Ezra - Tsu Nami Remix",
-          "artist_name": "Rohaan, Tsu Nami",
-          "duration": 213333,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02862d777954567756aa467c45",
-          "preview_url": "https://p.scdn.co/mp3-preview/12f645bda5341fa13b2914db3f06f3d41fa8bc9e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7HRf6J9bInjtqPNVegIhje",
-          "streaming_service": "spotify",
-          "title": "Turbocharged",
-          "artist_name": "The Caracal Project, Rohaan",
-          "duration": 228837,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c1dde584b5fa92684025bd95",
-          "preview_url": "https://p.scdn.co/mp3-preview/cefef3d884dad2fd4ce81a1116b7d57aadd7e400?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3vrdgIcTToKlIeakWuAOcy",
-          "streaming_service": "spotify",
-          "title": "Pelican",
-          "artist_name": "Rohaan",
-          "duration": 154285,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a7396c158a2f4b21c55c44c0"
-        },
-        {
-          "track_id": "0Iy039DDtbSrPwLXO8rsru",
-          "streaming_service": "spotify",
-          "title": "I don't recognise you anymore",
-          "artist_name": "Rohaan",
-          "duration": 192000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025143f58c172dee6a44a46994",
-          "preview_url": "https://p.scdn.co/mp3-preview/c41c0521e78291c20e592b0f9f3d430bd8fffbb1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0C6kGnMDhdKre3kkODrGap",
-          "streaming_service": "spotify",
-          "title": "Shadow",
-          "artist_name": "Rohaan",
-          "duration": 156000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0214ea620449068304d4d5ed56",
-          "preview_url": "https://p.scdn.co/mp3-preview/c3403152697ca0e315b16aa0389396d721ff0d25?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4uxbFGaFDirIal7cjQ7A28",
-          "streaming_service": "spotify",
-          "title": "SATA",
-          "artist_name": "John Summit, Rohaan",
-          "duration": 182678,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02edd455c68b4f20c12a76c8c6",
-          "preview_url": "https://p.scdn.co/mp3-preview/f14cbf5b6f8465861473e7ac2cb38507907724b3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         }
       ],
       "show_in_search": true,
