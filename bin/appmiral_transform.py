@@ -16,24 +16,29 @@ def transform(artists, stages, tz):
     # create look dictionary for all stages
     stage_dict = {}
     for s in stages['data']:
-        sid = s['id']
-        stage_dict[sid] = s['name']
+        if s.get('name'):
+            stage_dict[s['id']] = s['name']
 
     acts_list = []
 
     # loop over all artists - each artists may have 1+ acts:
     for artist in artists['data']:
+        if not artist.get('name'):
+            continue
+
         if artist.get('performances'):
             for p in artist['performances']:
-                # skip deleted performances
-                if 'deleted_at' in p:
+                # skip deleted and incomplete performances
+                if p.get('deleted_at') or not p.get('start_time') or not p.get('end_time'):
                     continue
 
                 # produce clashfinder act dict object
                 # e.g. act = {"start":"2016-06-24 18:15","end":"2016-06-24 19:15","stage":"Pyramid","act":"Jess Glynne"}
                 start_ts = arrow.get(p['start_time']).to(tz)
                 end_ts = arrow.get(p['end_time']).to(tz)
-                stage = stage_dict[p['stage_id']]
+                stage = stage_dict.get(p.get('stage_id'), p.get('stage_name'))
+                if not stage:
+                    continue
                 act = artist['name']
                 
                 if 'body' in artist:
@@ -42,6 +47,7 @@ def transform(artists, stages, tz):
                     blurb = ""
                 
                 # select a primary URL to use for the act; prefer spotify, if not found fallback to others
+                url = ""
                 if 'links' in artist:
                     if 'spotify_artist_id' in artist['links']:
                         url = f"https://open.spotify.com/artist/{artist['links']['spotify_artist_id']}"

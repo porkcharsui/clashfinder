@@ -24,28 +24,39 @@ Within the desired festival application directory, add the extracted `SESSION_KE
 SESSION_KEY=VALUE_HERE
 ```
 
+GreenCopper / Aloompa FestApp extraction currently uses the app's local SQLite database after the iOS app has run on macOS. On macOS 26, download the iOS festival app from the App Store, launch it, and let it finish updating its in-app data. This creates a Mac/iOS app container under `~/Library/Containers` with the app's preferences and `Documents/db.sqlite` database. The Lightning in a Bottle script finds that container, copies the SQLite database, exports schedule JSON, and renders Clashfinder text.
+
 ## Usage
-
-* Setup the python virtualenv using uv
-
-```bash
-uv venv
-source .venv/bin/activate
-```
 
 * Extract all scheduling data by running an extract script
 
 ```bash
 pushd festivals/shambhalafestival
-./2025.sh
+./2026.sh
 popd
+```
+
+For Lightning in a Bottle 2026, first install and run the iOS app on macOS 26, then run:
+
+```bash
+./festivals/lightninginabottle/2026.sh
+```
+
+This writes:
+
+```text
+festivals/lightninginabottle/2026/db.sqlite
+festivals/lightninginabottle/2026/lightning-in-a-bottle-2026-schedule.json
+festivals/lightninginabottle/2026/clashfinder.txt
 ```
 
 * Render the scheduling data as Clashfinder markup and paste the output from the transform script into the Clashfinder data field:
 
 ```bash
-./bin/appmiral_transform.py --tz "US/Pacific" --artists festivals/shambhalafestival/2025/shambhalafestival.artists.json --stages festivals/shambhalafestival/2025/shambhalafestival.stages.json
+uv run ./bin/appmiral_transform.py --tz "US/Pacific" --artists festivals/shambhalafestival/2026/shambhalafestival.artists.json --stages festivals/shambhalafestival/2026/shambhalafestival.stages.json
 ```
+
+`uv run` creates or updates the project environment from `pyproject.toml` and `uv.lock` before running the transform.
 
 For GreenCopper / Aloompa FestApp schedule exports:
 

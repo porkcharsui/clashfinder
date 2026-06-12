@@ -3,4 +3,6 @@
 
 db.sqlite
 
+
 *.app
+__pycache__

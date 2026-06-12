@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+
+# load session key
+[[ ! -f .env ]] && echo "ERROR: env file with session key missing" && exit 1 
+set -o allexport; source .env; set +o allexport
+
+DESTINATION_DIR=$(pwd)/2026
+
+mkdir -p "${DESTINATION_DIR}"
+
+# Fetching lineup
+curl -H 'content-type: application/json' -H 'accept: application/json' --compressed -H "x-protect: $SESSION_KEY" -H 'accept-language: en' -H 'user-agent: ShambhalaFestival-2026/497 CFNetwork/3826.500.131 Darwin/25.5.0' -H 'x-app-version: 8.0.0' -H 'x-os-version: 26.5' -H 'x-platform: ios' 'https://app.appmiral.com/api/v7/events/shambhalafestival/editions/shambhalafestival2026/artists?max_per_page=1000' | \
+  # Remove the modified_at field from the JSON data
+  jq 'del(..|.modified_at?)' > "${DESTINATION_DIR}/shambhalafestival.artists.json"
+# Fetching stages
+curl -H 'content-type: application/json' -H 'accept: application/json' --compressed -H "x-protect: $SESSION_KEY" -H 'accept-language: en' -H 'user-agent: ShambhalaFestival-2026/497 CFNetwork/3826.500.131 Darwin/25.5.0' -H 'x-app-version: 8.0.0' -H 'x-os-version: 26.5' -H 'x-platform: ios' 'https://app.appmiral.com/api/v7/events/shambhalafestival/editions/shambhalafestival2026/stages?max_per_page=500' | \
+  # Remove the modified_at field from the JSON data
+  jq 'del(..|.modified_at?)' > "${DESTINATION_DIR}/shambhalafestival.stages.json"

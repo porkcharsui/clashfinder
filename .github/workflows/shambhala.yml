@@ -3,8 +3,9 @@
 name: Shambhala schedule updates
 
 env:
-  FESTIVAL_YEAR: 2025
+  FESTIVAL_YEAR: 2026
   FESTIVAL_DATA_PATH: festivals/shambhalafestival
+  CLASHFINDER_NAME: smf2026
 
 on:
   workflow_dispatch:
@@ -12,7 +13,7 @@ on:
   schedule:
     - cron: "12 */6 * 6 *"      # At minute 12 past every 6th hour in June.
     - cron: "12 */6 1-23 7 *"   # At minute 12 past every 6th hour on every day-of-month from 1 through 23 in July.
-  
+
   push:
     branches:
       - "main"
@@ -24,7 +25,24 @@ permissions:
     contents: write
 
 jobs:
+  # GitHub's cron syntax has no year field, so gate every trigger here.
+  check_year:
+    runs-on: ubuntu-latest
+    outputs:
+      should_run: ${{ steps.year.outputs.should_run }}
+    steps:
+    - name: Check festival year
+      id: year
+      run: |
+        if [[ "$(date -u +%Y)" == "${FESTIVAL_YEAR}" ]]; then
+          echo "should_run=true" >> "${GITHUB_OUTPUT}"
+        else
+          echo "should_run=false" >> "${GITHUB_OUTPUT}"
+        fi
+
   build:
+    needs: check_year
+    if: needs.check_year.outputs.should_run == 'true'
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
@@ -53,6 +71,5 @@ jobs:
       with:
         commit_message: Automated Shambhala festival data update
         file_pattern: '*.json *.txt'
-  
-
-        
+    - name: TODO Update Clashfinder directly
+      run: echo "TODO Use CLASHFINDER_NAME=${CLASHFINDER_NAME} here to update Clashfinder directly"
