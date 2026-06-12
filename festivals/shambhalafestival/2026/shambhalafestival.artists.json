@@ -1,6 +1,324 @@
 {
   "data": [
     {
+      "id": 2103385,
+      "external_id": "188009",
+      "published": true,
+      "name": "The Sponges",
+      "body": "The Sponges have become well known for their unmistakable signature sound in dance music. The combination of tasteful 70's funk & disco samples, psychedelic sound design, heavy basslines, and 4x4 house rhythms can instantly be recognized as one of The Sponges' finely tuned productions. After having the opportunity to work with many of the artists who originally influenced them including Purple Disco Machine, GRiZ, AC Slater, Kyle Watson, Opiuo, The Floozies, Manic Focus & Lettuce, The Sponges have now established themselves as a respected act of their own in the world of electronic music. <br />\n<br />\nSince their arrival in 2019, The Sponges have achieved millions of streams, five #1 records on Beatport and a massive touring career. The duo, composed by the collective minds of Ryan Slepin and Nik Eaton, have been invited to play some of the top music festivals in the western hemisphere such as Electric Forest, Shambhala, Elements, Friendship AMF & Envision. After releasing their debut EP and completing their first ever headline tour, sights are set high for The Sponges as they continue to develop into an internationally renowned musical project.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637658_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637658_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637658_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637658_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "thespongesmusic",
+        "instagram_user": "thesponges/",
+        "twitter_user": "thespongesrback",
+        "youtube_channel_id": "UCJrWLS2B7ZPRZNawbRjvrsw",
+        "soundcloud_user": "thesponges",
+        "spotify_artist_id": "3cj6O7NrjS5l0CVo8LhpV1"
+      },
+      "performances": [
+        {
+          "id": 323324,
+          "external_id": "873886",
+          "published": true,
+          "body": "The Sponges have become well known for their unmistakable signature sound in dance music. The combination of tasteful 70's funk & disco samples, psychedelic sound design, heavy basslines, and 4x4 house rhythms can instantly be recognized as one of The Sponges' finely tuned productions. After having the opportunity to work with many of the artists who originally influenced them including Purple Disco Machine, GRiZ, AC Slater, Kyle Watson, Opiuo, The Floozies, Manic Focus & Lettuce, The Sponges have now established themselves as a respected act of their own in the world of electronic music. \n\nSince their arrival in 2019, The Sponges have achieved millions of streams, five #1 records on Beatport and a massive touring career. The duo, composed by the collective minds of Ryan Slepin and Nik Eaton, have been invited to play some of the top music festivals in the western hemisphere such as Electric Forest, Shambhala, Elements, Friendship AMF & Envision. After releasing their debut EP and completing their first ever headline tour, sights are set high for The Sponges as they continue to develop into an internationally renowned musical project.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2103385,
+          "stage_id": 17892,
+          "stage_name": "Fractal Forest",
+          "date_id": 5140,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2026-07-27T04:00:00+00:00",
+          "end_time": "2026-07-27T05:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": []
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "0w3x5R6GYuIIygALlThjn4",
+          "streaming_service": "spotify",
+          "title": "Brand New Funk",
+          "artist_name": "The Sponges, Manic Focus",
+          "duration": 198455,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02777884af099d070ba7d9dc2e",
+          "preview_url": "https://p.scdn.co/mp3-preview/b2b31b20a7287edfe38e63c6d58ca35fe54e807e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2lpk8tsodfZooXlPFbN5LK",
+          "streaming_service": "spotify",
+          "title": "All I Hear (is a funky bassline)",
+          "artist_name": "The Sponges, Father Funk",
+          "duration": 216975,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02559880eeaa6e1b19aceaa46e",
+          "preview_url": "https://p.scdn.co/mp3-preview/962a0f42e9d5e039fb2f9fcfa4e37e086737d682?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "4mArUbxKFP5k9v9Cc7dtIg",
+          "streaming_service": "spotify",
+          "title": "Honey Boy - The Sponges Remix",
+          "artist_name": "Purple Disco Machine, Benjamin Ingrosso, The Sponges, Nile Rodgers, Shenseea",
+          "duration": 219063,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02846d2184f03d991c87abe5e6",
+          "preview_url": "https://p.scdn.co/mp3-preview/655bf58acb56ef912caac83aa0176c360d62efb9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6sGDxKo6gsklfgStjQ8hp0",
+          "streaming_service": "spotify",
+          "title": "Space Funk '75",
+          "artist_name": "The Sponges",
+          "duration": 234000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024310cecb7b631d80d4129ebd",
+          "preview_url": "https://p.scdn.co/mp3-preview/679c812ea7fd40be55d76063209cc950c6afed58?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2eXrPxaW5myi0yStkhrOXW",
+          "streaming_service": "spotify",
+          "title": "Funked Up",
+          "artist_name": "The Sponges",
+          "duration": 185500,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e022dcea00ed51c2e19e3156aa3",
+          "preview_url": "https://p.scdn.co/mp3-preview/de77dfbde89ee1b36ac9b9a79cfc320f1ce5ade3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3L2XuRPY5I05htcryVLQfB",
+          "streaming_service": "spotify",
+          "title": "Jerry Brain",
+          "artist_name": "The Sponges",
+          "duration": 226038,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02efaed76c12f463f3af9ebc83",
+          "preview_url": "https://p.scdn.co/mp3-preview/5158c41b4268eb0b8a635807a82f388a59e7ea24?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0FMrESplHflUbsld0erGzr",
+          "streaming_service": "spotify",
+          "title": "You Ready?",
+          "artist_name": "The Sponges",
+          "duration": 258720,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e027a12b6cdff7c12ec31889350",
+          "preview_url": "https://p.scdn.co/mp3-preview/82698577207e91f6a4af67ef502112d9b1fd06a5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "61uWZMNzTjdnIiUii5HzOy",
+          "streaming_service": "spotify",
+          "title": "Gotta Move On - Sgt Slick's Melbourne ReCut",
+          "artist_name": "The Sponges, Sgt Slick",
+          "duration": 171000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028547543e459308c5194e2816",
+          "preview_url": "https://p.scdn.co/mp3-preview/fc9c21a642b4ffe61bc0d345c3baf219235e105f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1uMINFed2KNqZXZJO4q6Ts",
+          "streaming_service": "spotify",
+          "title": "Gotta Move On",
+          "artist_name": "The Sponges",
+          "duration": 127570,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e027d88f16fcd260d1554e80a42",
+          "preview_url": "https://p.scdn.co/mp3-preview/002c81f7f2197f126753f6704769b5d66deeb0a7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "47LmVQUk1jpoU3qbA2DmNT",
+          "streaming_service": "spotify",
+          "title": "Break of Dawn",
+          "artist_name": "The Sponges, Smalltown DJs, Skratch Bastid",
+          "duration": 229642,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025cae525d4c502141d340fd51",
+          "preview_url": "https://p.scdn.co/mp3-preview/9ea2b924765facdbd277a50c0a8e53ce4c135839?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2103446,
+      "external_id": "1926325",
+      "published": true,
+      "name": "SonReal",
+      "body": "SonReal is a Canadian recording artist and songwriter. Across his previous releases, SonReal has garnered over 350m global streams and 200m video views. He's been nominated for multiple JUNO Awards and his previous release 'Can I Get A Witness' has gone on to be certified Double-Platinum in Canada. In addition to these numbers, SonReal also has extensive touring history within North America, most recently completing a headline tour of 48 dates across USA and Canada. He's also collaborated with acclaimed artists such as, Jessie Reyez, Snotty Nose Rez Kids and toured alongside Jon Bellion and more.<br />\nMost recently, SonReal released his album All Things Aside and followed it with a steady run of new music, including 2026 singles “The Lay Up,” “Eavesdrop,” and “Peace Of Mind.” He also brought All Things Aside on tour across North America, with 26 U.S. dates followed by 22 Canadian shows. He is currently gearing up to release his next studio album ‘Honest Work’ in 2026.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637722_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637722_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637722_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637722_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "therealsonreal/",
+        "instagram_user": "sonreal/",
+        "youtube_channel_id": "UCCxCAWgTnHFBcK-fQZbkqrA",
+        "spotify_artist_id": "2OlZK0VIzr7wQYSrj9bOvF"
+      },
+      "performances": [
+        {
+          "id": 323386,
+          "external_id": "874132",
+          "published": true,
+          "body": "SonReal is a Canadian recording artist and songwriter. Across his previous releases, SonReal has garnered over 350m global streams and 200m video views. He's been nominated for multiple JUNO Awards and his previous release 'Can I Get A Witness' has gone on to be certified Double-Platinum in Canada. In addition to these numbers, SonReal also has extensive touring history within North America, most recently completing a headline tour of 48 dates across USA and Canada. He's also collaborated with acclaimed artists such as, Jessie Reyez, Snotty Nose Rez Kids and toured alongside Jon Bellion and more.\nMost recently, SonReal released his album All Things Aside and followed it with a steady run of new music, including 2026 singles “The Lay Up,” “Eavesdrop,” and “Peace Of Mind.” He also brought All Things Aside on tour across North America, with 26 U.S. dates followed by 22 Canadian shows. He is currently gearing up to release his next studio album ‘Honest Work’ in 2026.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2103446,
+          "stage_id": 17872,
+          "stage_name": "Living Room",
+          "date_id": 5137,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2026-07-24T03:00:00+00:00",
+          "end_time": "2026-07-24T04:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": []
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "1xq57PikDPbkU2M1WK4unF",
+          "streaming_service": "spotify",
+          "title": "Can I Get A Witness",
+          "artist_name": "SonReal",
+          "duration": 196253,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d83139352244e59dd557371e",
+          "preview_url": "https://p.scdn.co/mp3-preview/67346699f20d0f444cd97c4548fcfe2fff4b7ef7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0vdbvgggS673fhvHdrU34E",
+          "streaming_service": "spotify",
+          "title": "Everywhere We Go",
+          "artist_name": "SonReal",
+          "duration": 198520,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02388f022c5ab070b62f2aab42",
+          "preview_url": "https://p.scdn.co/mp3-preview/88d1d27375ef75135f3941e9dc3028337ff0e927?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "1ghHnjy79m7R5QrUeIZAdH",
+          "streaming_service": "spotify",
+          "title": "Calm Down",
+          "artist_name": "SonReal",
+          "duration": 140459,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02104cab861f0989bc77cc326c",
+          "preview_url": "https://p.scdn.co/mp3-preview/617f30046824232b6a05ac78d702e86e51856983?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7psSACGszhtNJNhbKD7DT4",
+          "streaming_service": "spotify",
+          "title": "The Lay Up",
+          "artist_name": "SonReal",
+          "duration": 177125,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f01d31d57e2b730b9e63d26c",
+          "preview_url": "https://p.scdn.co/mp3-preview/0146b6128bdf9933df80c2436cb7322e3493ae9f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3uRHavNU4Vl2OrpjXxot7o",
+          "streaming_service": "spotify",
+          "title": "Peace Of Mind (feat Bryce Vine)",
+          "artist_name": "SonReal, Bryce Vine",
+          "duration": 158142,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e023b2ce00d4e4d64bc80f34703",
+          "preview_url": "https://p.scdn.co/mp3-preview/be17a85f3d2e43c2be3a9bddf533815060d62c1f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3lVcorG2PGbrTJkwkapgkl",
+          "streaming_service": "spotify",
+          "title": "OH SHIT!!!",
+          "artist_name": "SonReal, Prof",
+          "duration": 185907,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02079b50e35fdcd92499270588",
+          "preview_url": "https://p.scdn.co/mp3-preview/0233ea02640a359e5311f70a21b7dfef199f9a79?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6dZ6EhxzxrBfW3yaDfdUFA",
+          "streaming_service": "spotify",
+          "title": "Blinders (feat. Ollie)",
+          "artist_name": "SonReal, Ollie",
+          "duration": 132000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e023b2ce00d4e4d64bc80f34703",
+          "preview_url": "https://p.scdn.co/mp3-preview/f5ab1b81a0ea95a6a47a8693e4b1b461bc3a042d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5uBTX6KZXSkJw7RWCipgPk",
+          "streaming_service": "spotify",
+          "title": "Fill My Glass (feat. Pardyalone)",
+          "artist_name": "SonReal, Pardyalone",
+          "duration": 186206,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e023b2ce00d4e4d64bc80f34703",
+          "preview_url": "https://p.scdn.co/mp3-preview/693a5c5a81db81136ab54b55cfb2258d01892e52?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0CI217FXkbPTMacvn4BQnj",
+          "streaming_service": "spotify",
+          "title": "Let's Rock",
+          "artist_name": "SonReal",
+          "duration": 151156,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02851fa99657185c6a4a83f03c",
+          "preview_url": "https://p.scdn.co/mp3-preview/7b1f751e6fbf0c9d8078501cf96435aa5048247e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5LCVoYlCuP3EZdEwelULNh",
+          "streaming_service": "spotify",
+          "title": "Run The Lot",
+          "artist_name": "SonReal",
+          "duration": 124000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ad87849a45e5c5dd4e72b165",
+          "preview_url": "https://p.scdn.co/mp3-preview/22a74f6e0d43fbe64ef5e6de18ef20543f06acd3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2111786,
       "external_id": "1927434",
       "published": true,
@@ -23124,166 +23442,6 @@
       "allow_favoriting": true
     },
     {
-      "id": 2103385,
-      "external_id": "188009",
-      "published": true,
-      "name": "The Sponges",
-      "body": "The Sponges have become well known for their unmistakable signature sound in dance music. The combination of tasteful 70's funk & disco samples, psychedelic sound design, heavy basslines, and 4x4 house rhythms can instantly be recognized as one of The Sponges' finely tuned productions. After having the opportunity to work with many of the artists who originally influenced them including Purple Disco Machine, GRiZ, AC Slater, Kyle Watson, Opiuo, The Floozies, Manic Focus & Lettuce, The Sponges have now established themselves as a respected act of their own in the world of electronic music. <br />\n<br />\nSince their arrival in 2019, The Sponges have achieved millions of streams, five #1 records on Beatport and a massive touring career. The duo, composed by the collective minds of Ryan Slepin and Nik Eaton, have been invited to play some of the top music festivals in the western hemisphere such as Electric Forest, Shambhala, Elements, Friendship AMF & Envision. After releasing their debut EP and completing their first ever headline tour, sights are set high for The Sponges as they continue to develop into an internationally renowned musical project.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637658_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637658_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637658_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637658_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "thespongesmusic",
-        "instagram_user": "thesponges/",
-        "twitter_user": "thespongesrback",
-        "youtube_channel_id": "UCJrWLS2B7ZPRZNawbRjvrsw",
-        "soundcloud_user": "thesponges",
-        "spotify_artist_id": "3cj6O7NrjS5l0CVo8LhpV1"
-      },
-      "performances": [
-        {
-          "id": 323324,
-          "external_id": "873886",
-          "published": true,
-          "body": "The Sponges have become well known for their unmistakable signature sound in dance music. The combination of tasteful 70's funk & disco samples, psychedelic sound design, heavy basslines, and 4x4 house rhythms can instantly be recognized as one of The Sponges' finely tuned productions. After having the opportunity to work with many of the artists who originally influenced them including Purple Disco Machine, GRiZ, AC Slater, Kyle Watson, Opiuo, The Floozies, Manic Focus & Lettuce, The Sponges have now established themselves as a respected act of their own in the world of electronic music. \n\nSince their arrival in 2019, The Sponges have achieved millions of streams, five #1 records on Beatport and a massive touring career. The duo, composed by the collective minds of Ryan Slepin and Nik Eaton, have been invited to play some of the top music festivals in the western hemisphere such as Electric Forest, Shambhala, Elements, Friendship AMF & Envision. After releasing their debut EP and completing their first ever headline tour, sights are set high for The Sponges as they continue to develop into an internationally renowned musical project.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2103385,
-          "stage_id": 17892,
-          "stage_name": "Fractal Forest",
-          "date_id": 5140,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2026-07-27T04:00:00+00:00",
-          "end_time": "2026-07-27T05:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": []
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "0w3x5R6GYuIIygALlThjn4",
-          "streaming_service": "spotify",
-          "title": "Brand New Funk",
-          "artist_name": "The Sponges, Manic Focus",
-          "duration": 198455,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02777884af099d070ba7d9dc2e",
-          "preview_url": "https://p.scdn.co/mp3-preview/b2b31b20a7287edfe38e63c6d58ca35fe54e807e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2lpk8tsodfZooXlPFbN5LK",
-          "streaming_service": "spotify",
-          "title": "All I Hear (is a funky bassline)",
-          "artist_name": "The Sponges, Father Funk",
-          "duration": 216975,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02559880eeaa6e1b19aceaa46e",
-          "preview_url": "https://p.scdn.co/mp3-preview/962a0f42e9d5e039fb2f9fcfa4e37e086737d682?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "4mArUbxKFP5k9v9Cc7dtIg",
-          "streaming_service": "spotify",
-          "title": "Honey Boy - The Sponges Remix",
-          "artist_name": "Purple Disco Machine, Benjamin Ingrosso, The Sponges, Nile Rodgers, Shenseea",
-          "duration": 219063,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02846d2184f03d991c87abe5e6",
-          "preview_url": "https://p.scdn.co/mp3-preview/655bf58acb56ef912caac83aa0176c360d62efb9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6sGDxKo6gsklfgStjQ8hp0",
-          "streaming_service": "spotify",
-          "title": "Space Funk '75",
-          "artist_name": "The Sponges",
-          "duration": 234000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024310cecb7b631d80d4129ebd",
-          "preview_url": "https://p.scdn.co/mp3-preview/679c812ea7fd40be55d76063209cc950c6afed58?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2eXrPxaW5myi0yStkhrOXW",
-          "streaming_service": "spotify",
-          "title": "Funked Up",
-          "artist_name": "The Sponges",
-          "duration": 185500,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e022dcea00ed51c2e19e3156aa3",
-          "preview_url": "https://p.scdn.co/mp3-preview/de77dfbde89ee1b36ac9b9a79cfc320f1ce5ade3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3L2XuRPY5I05htcryVLQfB",
-          "streaming_service": "spotify",
-          "title": "Jerry Brain",
-          "artist_name": "The Sponges",
-          "duration": 226038,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02efaed76c12f463f3af9ebc83",
-          "preview_url": "https://p.scdn.co/mp3-preview/5158c41b4268eb0b8a635807a82f388a59e7ea24?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0FMrESplHflUbsld0erGzr",
-          "streaming_service": "spotify",
-          "title": "You Ready?",
-          "artist_name": "The Sponges",
-          "duration": 258720,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027a12b6cdff7c12ec31889350",
-          "preview_url": "https://p.scdn.co/mp3-preview/82698577207e91f6a4af67ef502112d9b1fd06a5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "61uWZMNzTjdnIiUii5HzOy",
-          "streaming_service": "spotify",
-          "title": "Gotta Move On - Sgt Slick's Melbourne ReCut",
-          "artist_name": "The Sponges, Sgt Slick",
-          "duration": 171000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028547543e459308c5194e2816",
-          "preview_url": "https://p.scdn.co/mp3-preview/fc9c21a642b4ffe61bc0d345c3baf219235e105f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1uMINFed2KNqZXZJO4q6Ts",
-          "streaming_service": "spotify",
-          "title": "Gotta Move On",
-          "artist_name": "The Sponges",
-          "duration": 127570,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027d88f16fcd260d1554e80a42",
-          "preview_url": "https://p.scdn.co/mp3-preview/002c81f7f2197f126753f6704769b5d66deeb0a7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "47LmVQUk1jpoU3qbA2DmNT",
-          "streaming_service": "spotify",
-          "title": "Break of Dawn",
-          "artist_name": "The Sponges, Smalltown DJs, Skratch Bastid",
-          "duration": 229642,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025cae525d4c502141d340fd51",
-          "preview_url": "https://p.scdn.co/mp3-preview/9ea2b924765facdbd277a50c0a8e53ce4c135839?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2103386,
       "external_id": "1920567",
       "published": true,
@@ -29230,164 +29388,6 @@
     {
       "id": 2103445,
       "deleted_at": "2026-06-12T14:59:09+00:00"
-    },
-    {
-      "id": 2103446,
-      "external_id": "1926325",
-      "published": true,
-      "name": "SonReal",
-      "body": "SonReal is a Canadian recording artist and songwriter. Across his previous releases, SonReal has garnered over 350m global streams and 200m video views. He's been nominated for multiple JUNO Awards and his previous release 'Can I Get A Witness' has gone on to be certified Double-Platinum in Canada. In addition to these numbers, SonReal also has extensive touring history within North America, most recently completing a headline tour of 48 dates across USA and Canada. He's also collaborated with acclaimed artists such as, Jessie Reyez, Snotty Nose Rez Kids and toured alongside Jon Bellion and more.<br />\nMost recently, SonReal released his album All Things Aside and followed it with a steady run of new music, including 2026 singles “The Lay Up,” “Eavesdrop,” and “Peace Of Mind.” He also brought All Things Aside on tour across North America, with 26 U.S. dates followed by 22 Canadian shows. He is currently gearing up to release his next studio album ‘Honest Work’ in 2026.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637722_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637722_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637722_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637722_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "therealsonreal/",
-        "instagram_user": "sonreal/",
-        "youtube_channel_id": "UCCxCAWgTnHFBcK-fQZbkqrA",
-        "spotify_artist_id": "2OlZK0VIzr7wQYSrj9bOvF"
-      },
-      "performances": [
-        {
-          "id": 323386,
-          "external_id": "874132",
-          "published": true,
-          "body": "SonReal is a Canadian recording artist and songwriter. Across his previous releases, SonReal has garnered over 350m global streams and 200m video views. He's been nominated for multiple JUNO Awards and his previous release 'Can I Get A Witness' has gone on to be certified Double-Platinum in Canada. In addition to these numbers, SonReal also has extensive touring history within North America, most recently completing a headline tour of 48 dates across USA and Canada. He's also collaborated with acclaimed artists such as, Jessie Reyez, Snotty Nose Rez Kids and toured alongside Jon Bellion and more.\nMost recently, SonReal released his album All Things Aside and followed it with a steady run of new music, including 2026 singles “The Lay Up,” “Eavesdrop,” and “Peace Of Mind.” He also brought All Things Aside on tour across North America, with 26 U.S. dates followed by 22 Canadian shows. He is currently gearing up to release his next studio album ‘Honest Work’ in 2026.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2103446,
-          "stage_id": 17872,
-          "stage_name": "Living Room",
-          "date_id": 5137,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2026-07-24T03:00:00+00:00",
-          "end_time": "2026-07-24T04:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": []
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "1xq57PikDPbkU2M1WK4unF",
-          "streaming_service": "spotify",
-          "title": "Can I Get A Witness",
-          "artist_name": "SonReal",
-          "duration": 196253,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d83139352244e59dd557371e",
-          "preview_url": "https://p.scdn.co/mp3-preview/67346699f20d0f444cd97c4548fcfe2fff4b7ef7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0vdbvgggS673fhvHdrU34E",
-          "streaming_service": "spotify",
-          "title": "Everywhere We Go",
-          "artist_name": "SonReal",
-          "duration": 198520,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02388f022c5ab070b62f2aab42",
-          "preview_url": "https://p.scdn.co/mp3-preview/88d1d27375ef75135f3941e9dc3028337ff0e927?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "1ghHnjy79m7R5QrUeIZAdH",
-          "streaming_service": "spotify",
-          "title": "Calm Down",
-          "artist_name": "SonReal",
-          "duration": 140459,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02104cab861f0989bc77cc326c",
-          "preview_url": "https://p.scdn.co/mp3-preview/617f30046824232b6a05ac78d702e86e51856983?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7psSACGszhtNJNhbKD7DT4",
-          "streaming_service": "spotify",
-          "title": "The Lay Up",
-          "artist_name": "SonReal",
-          "duration": 177125,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f01d31d57e2b730b9e63d26c",
-          "preview_url": "https://p.scdn.co/mp3-preview/0146b6128bdf9933df80c2436cb7322e3493ae9f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3uRHavNU4Vl2OrpjXxot7o",
-          "streaming_service": "spotify",
-          "title": "Peace Of Mind (feat Bryce Vine)",
-          "artist_name": "SonReal, Bryce Vine",
-          "duration": 158142,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e023b2ce00d4e4d64bc80f34703",
-          "preview_url": "https://p.scdn.co/mp3-preview/be17a85f3d2e43c2be3a9bddf533815060d62c1f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3lVcorG2PGbrTJkwkapgkl",
-          "streaming_service": "spotify",
-          "title": "OH SHIT!!!",
-          "artist_name": "SonReal, Prof",
-          "duration": 185907,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02079b50e35fdcd92499270588",
-          "preview_url": "https://p.scdn.co/mp3-preview/0233ea02640a359e5311f70a21b7dfef199f9a79?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6dZ6EhxzxrBfW3yaDfdUFA",
-          "streaming_service": "spotify",
-          "title": "Blinders (feat. Ollie)",
-          "artist_name": "SonReal, Ollie",
-          "duration": 132000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e023b2ce00d4e4d64bc80f34703",
-          "preview_url": "https://p.scdn.co/mp3-preview/f5ab1b81a0ea95a6a47a8693e4b1b461bc3a042d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5uBTX6KZXSkJw7RWCipgPk",
-          "streaming_service": "spotify",
-          "title": "Fill My Glass (feat. Pardyalone)",
-          "artist_name": "SonReal, Pardyalone",
-          "duration": 186206,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e023b2ce00d4e4d64bc80f34703",
-          "preview_url": "https://p.scdn.co/mp3-preview/693a5c5a81db81136ab54b55cfb2258d01892e52?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0CI217FXkbPTMacvn4BQnj",
-          "streaming_service": "spotify",
-          "title": "Let's Rock",
-          "artist_name": "SonReal",
-          "duration": 151156,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02851fa99657185c6a4a83f03c",
-          "preview_url": "https://p.scdn.co/mp3-preview/7b1f751e6fbf0c9d8078501cf96435aa5048247e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5LCVoYlCuP3EZdEwelULNh",
-          "streaming_service": "spotify",
-          "title": "Run The Lot",
-          "artist_name": "SonReal",
-          "duration": 124000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ad87849a45e5c5dd4e72b165",
-          "preview_url": "https://p.scdn.co/mp3-preview/22a74f6e0d43fbe64ef5e6de18ef20543f06acd3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
     },
     {
       "id": 2103447,
