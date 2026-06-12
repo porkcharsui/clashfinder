@@ -192,8 +192,12 @@ class ClientTests(unittest.TestCase):
         ]
         session.post.return_value = response("https://clashfinder.com/s/test/?edit", "ok")
         client = clashfinder.ClashfinderClient("secret", session=session)
-        with self.assertRaisesRegex(clashfinder.ClashfinderError, "expected revision"):
+        with self.assertRaises(clashfinder.ClashfinderError) as raised:
             client.update("test", "new data", "new note")
+        message = str(raised.exception)
+        self.assertIn("Expected latest note: new note", message)
+        self.assertIn("Actual latest note: different note", message)
+        self.assertIn("Inspect revisions: https://clashfinder.com/l/test/?revs", message)
 
 
 class CliTests(unittest.TestCase):

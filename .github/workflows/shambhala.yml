@@ -65,11 +65,26 @@ jobs:
         popd
     - name: Transform data into clashfinder text format
       run: |
-        source .venv/bin/activate
-        ./bin/appmiral_transform.py --tz "US/Pacific" --artists ${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/shambhalafestival.artists.json --stages ${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/shambhalafestival.stages.json > ${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/clashfinder.txt 
+        uv run ./bin/appmiral_transform.py --tz "US/Pacific" --artists ${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/shambhalafestival.artists.json --stages ${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/shambhalafestival.stages.json > ${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/clashfinder.txt
     - uses: stefanzweifel/git-auto-commit-action@v7
+      id: auto_commit
       with:
         commit_message: Automated Shambhala festival data update
         file_pattern: '*.json *.txt'
-    - name: TODO Update Clashfinder directly
-      run: echo "TODO Use CLASHFINDER_NAME=${CLASHFINDER_NAME} here to update Clashfinder directly"
+    - name: Check whether Clashfinder data changed
+      id: clashfinder_data
+      if: steps.auto_commit.outputs.changes_detected == 'true'
+      run: |
+        if git diff --quiet HEAD^ HEAD -- "${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/clashfinder.txt"; then
+          echo "changed=false" >> "${GITHUB_OUTPUT}"
+        else
+          echo "changed=true" >> "${GITHUB_OUTPUT}"
+        fi
+    - name: Upload changed Clashfinder data
+      if: steps.clashfinder_data.outputs.changed == 'true'
+      env:
+        CLASHFINDER_COOKIE: ${{ secrets.CLASHFINDER_COOKIE }}
+      run: |
+        uv run ./bin/clashfinder.py \
+          --name "${CLASHFINDER_NAME}" \
+          --path "${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/clashfinder.txt"

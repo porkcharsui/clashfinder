@@ -14,7 +14,16 @@ Required tools for use:
 * curl
 * jq
 * uv
-* python 3+
+
+`uv` manages the project's Python version and dependencies from
+`pyproject.toml` and `uv.lock`. Create the locked project environment after
+cloning:
+
+```bash
+uv sync --locked
+```
+
+Run Python tools through `uv run`; activating `.venv` manually is not required.
 
 Extract the application session key using a MITM proxy tool like [Charles Proxy](https://www.charlesproxy.com/) or [mitmproxy](https://mitmproxy.org/).
 
@@ -66,12 +75,15 @@ festivals/lightninginabottle/2026/clashfinder.txt
 uv run ./bin/appmiral_transform.py --tz "US/Pacific" --artists festivals/shambhalafestival/2026/shambhalafestival.artists.json --stages festivals/shambhalafestival/2026/shambhalafestival.stages.json
 ```
 
-`uv run` creates or updates the project environment from `pyproject.toml` and `uv.lock` before running the transform.
+`uv run` ensures the project environment is available before running the
+transform.
 
 For GreenCopper / Aloompa FestApp schedule exports:
 
 ```bash
-./bin/greencopper_transform.py --schedule exports/lightning-in-a-bottle-2026-schedule.json > festivals/lightninginabottle/2026/clashfinder.txt
+uv run ./bin/greencopper_transform.py \
+  --schedule exports/lightning-in-a-bottle-2026-schedule.json \
+  > festivals/lightninginabottle/2026/clashfinder.txt
 ```
 
 ## Uploading to Clashfinder

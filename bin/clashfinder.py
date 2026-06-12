@@ -172,8 +172,13 @@ class ClashfinderClient:
 
         latest_note = self.latest_revision_note(name)
         if latest_note != revision_note:
+            actual_note = latest_note or "(no revision note found)"
             raise ClashfinderError(
-                "The update request completed, but the expected revision note was not found."
+                "Clashfinder accepted the update request, but the new revision could not "
+                "be verified.\n"
+                f"Expected latest note: {revision_note}\n"
+                f"Actual latest note: {actual_note}\n"
+                f"Inspect revisions: {self.revisions_url(name)}"
             )
 
 
