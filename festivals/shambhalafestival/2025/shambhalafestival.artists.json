@@ -668,6 +668,421 @@
       "allow_favoriting": true
     },
     {
+      "id": 2040590,
+      "external_id": "1920549",
+      "published": true,
+      "name": "Mfinity",
+      "body": "Think, Reminisce, and Escape.<br />\n<br />\nOriginating in the valleys of Ohio, Mfinity has perfected the craft of creating<br />\nimmersive soundscapes packed with velvety basslines and organic beats.<br />\n<br />\nWith over 75,000 monthly listeners on Spotify and more than 7.5 million<br />\nstreams across all streaming platforms, Mfinity has quietly established<br />\nhimself as a pathfinder gaining support from renowned artists such as<br />\nClozee, LSZee, and Supertask.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/31/thumb_5630127_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/31/thumb_5630127_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/31/thumb_5630127_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/31/thumb_5630127_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "MfinityMusic.Official",
+        "instagram_user": "mfinity.official",
+        "youtube_channel_id": "UCVIdNNKxh7bAFCY5JrWkAlA",
+        "soundcloud_user": "mfinityofficial",
+        "spotify_artist_id": "7FK8Hg4eKZZ4kipxWDwpV7"
+      },
+      "performances": [
+        {
+          "id": 249969,
+          "external_id": "865597",
+          "published": true,
+          "body": "Think, Reminisce, and Escape.\n\nOriginating in the valleys of Ohio, Mfinity has perfected the craft of creating\nimmersive soundscapes packed with velvety basslines and organic beats.\n\nWith over 75,000 monthly listeners on Spotify and more than 7.5 million\nstreams across all streaming platforms, Mfinity has quietly established\nhimself as a pathfinder gaining support from renowned artists such as\nClozee, LSZee, and Supertask.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040590,
+          "stage_id": 12486,
+          "stage_name": "AMP",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T02:00:00+00:00",
+          "end_time": "2025-07-26T03:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "75i02EsYnReen4LuRF7EC5",
+          "streaming_service": "spotify",
+          "title": "What I Can Do - Mfinity Remix",
+          "artist_name": "Saturna, CØNTRA, Mfinity",
+          "duration": 183000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0257d43355eb947b75d1f2bdbb",
+          "preview_url": "https://p.scdn.co/mp3-preview/bfc693225deff149522a9e9a21aed946e5a75672?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "56zMWmmP0N9ocok2l9xRbg",
+          "streaming_service": "spotify",
+          "title": "The Right Place",
+          "artist_name": "Mfinity",
+          "duration": 186165,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e029a3544d965ed19a7bbfd21cc",
+          "preview_url": "https://p.scdn.co/mp3-preview/e8613e0df9b75d5d22b0d2203e1322b02f1c8389?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7kHVZOgaWmlcWIDrDGNv31",
+          "streaming_service": "spotify",
+          "title": "Chasm",
+          "artist_name": "Mfinity",
+          "duration": 141797,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02bab1fcb0e8a4b6002cacfe14",
+          "preview_url": "https://p.scdn.co/mp3-preview/5c869627ba142065cec0135a1726d43af60770ee?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5QQTuKXZ0LolIuqOl6BWVB",
+          "streaming_service": "spotify",
+          "title": "Altitude",
+          "artist_name": "Mfinity",
+          "duration": 221875,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025b16fc2d96003507f32f2a6c",
+          "preview_url": "https://p.scdn.co/mp3-preview/030dffa0f40dfd4a16655c98cb8b1f8f35d8c4c5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5fb4YVqsj3fynY3rpJ9HZU",
+          "streaming_service": "spotify",
+          "title": "Falling Up",
+          "artist_name": "Mfinity, Swomp",
+          "duration": 209142,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0268445c6d0e4a8d39c40c397e",
+          "preview_url": "https://p.scdn.co/mp3-preview/d79c18b65e16a510068a5ed3ab317805d4faeaa4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5RBfOZjNlGcw9ozd8Pfp98",
+          "streaming_service": "spotify",
+          "title": "Aura",
+          "artist_name": "Mfinity, Supernatural",
+          "duration": 207428,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e0ed3d785646df20fe190ac7",
+          "preview_url": "https://p.scdn.co/mp3-preview/06a0aca85a5162715eee4df870229423f618083c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "504vgPtqNxtKeFR69BZBeo",
+          "streaming_service": "spotify",
+          "title": "Feel",
+          "artist_name": "Dimond Saints, Mfinity",
+          "duration": 218823,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025219a445551a012ef0913708",
+          "preview_url": "https://p.scdn.co/mp3-preview/ce858435a3b4c09778d5b9b7bf9eca2f7cfa4a8e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6WNzs686VxVqFC9mkkmrL0",
+          "streaming_service": "spotify",
+          "title": "Omnia",
+          "artist_name": "Skysia, Mfinity",
+          "duration": 228000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ebb0822bbba9e57be4c47b6d",
+          "preview_url": "https://p.scdn.co/mp3-preview/efbc0191bf9fe23e7f3bb1767f69a58664f24436?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "7EB5xbGxaI5qYoi6NE52nu",
+          "streaming_service": "spotify",
+          "title": "Mindstate",
+          "artist_name": "illoh, Mfinity",
+          "duration": 212000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e027953e62742aa7223abaa07c1",
+          "preview_url": "https://p.scdn.co/mp3-preview/d88a82d93efcf79d141bc43c9f98e0b4c46ba3f0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "2oqCO5IXhE66h1HaWjkzC7",
+          "streaming_service": "spotify",
+          "title": "Places Long Forgotten - Bronze Sun Remix",
+          "artist_name": "Josh Teed, Chmura, Mfinity, Blvck Svm, Bronze Sun",
+          "duration": 204703,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0201998804a78c148a49f07a83",
+          "preview_url": "https://p.scdn.co/mp3-preview/52342e1fc6dcd24ee6b2937dc734e2c375e2cb74?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040592,
+      "external_id": "1920453",
+      "published": true,
+      "name": "Supertask",
+      "body": "For the people who love to experience music, look no further than Supertask. With deep roots in hip-hop and a focus towards immersion, Supertask creates sonic landscapes that dance between the intensity and stillness of the human consciousness. His offerings of musical escapism are consumed by the concept of infinity, and with a background in IT, Supertask often utilizes code and programming in his artistic vision. A vision that his loyal community, the Dev Team, are directly involved in.<br />\n<br />\nBlending both analog and digital sound design, his unique approach has proven to be a driving force in the forward progression of electronic music. Through soundscapes that feel sentient, interactive live streams, and mind-bending visuals, Supertask is changing the way that we consume art.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463863_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463863_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463863_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463863_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "instagram_user": "supertask"
+      },
+      "performances": [
+        {
+          "id": 249971,
+          "external_id": "865686",
+          "published": true,
+          "body": "For the people who love to experience music, look no further than Supertask. With deep roots in hip-hop and a focus towards immersion, Supertask creates sonic landscapes that dance between the intensity and stillness of the human consciousness. His offerings of musical escapism are consumed by the concept of infinity, and with a background in IT, Supertask often utilizes code and programming in his artistic vision. A vision that his loyal community, the Dev Team, are directly involved in.\n\nBlending both analog and digital sound design, his unique approach has proven to be a driving force in the forward progression of electronic music. Through soundscapes that feel sentient, interactive live streams, and mind-bending visuals, Supertask is changing the way that we consume art.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040592,
+          "stage_id": 12486,
+          "stage_name": "AMP",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T04:00:00+00:00",
+          "end_time": "2025-07-26T05:00:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
+      "id": 2040685,
+      "external_id": "180912",
+      "published": true,
+      "name": "Stylust",
+      "body": "A longtime skateboarder and hip hop devotee, Geoff “Stylust” Reich has always been a rebel with a passion for his art form, so it’s no surprise that this Canadian DJ/producer’s talent for fusing rap hooks and heavy bass with electronic music has earned him the rep as a creative renegade carving his own path.<br />\n<br />\nTouring as Stylust, Geoff has played all over the United States, Canada, and Europe, appearing at major festivals like Shambhala, Coachella, Outlook, LIB, Envision and BassCenter to name a few. Stylust’s uncanny ability to melt multiple influences and genres has led to music that’s reached millions of listeners, earning him exciting releases and collabs with artists like Bassnectar, Minnesota, Truth and many others.<br />\n<br />\nWith a bass-heavy yet timeless sound, Stylust electrifies dancefloors with his<br />\nimpeccable mixing and high energy stage presence.",
+      "priority": 100,
+      "category": "regular",
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_500.jpeg"
+      },
+      "hide_image_on_overview": "never",
+      "hide_image_on_detail": "never",
+      "links": {
+        "facebook_page_id": "stylustbeats/",
+        "instagram_user": "stylustbeats/",
+        "twitter_user": "StylustBeats",
+        "soundcloud_user": "stylustbeats",
+        "spotify_artist_id": "2Y1LgWOVPz5m1qCuzkWEQu"
+      },
+      "performances": [
+        {
+          "id": 250064,
+          "external_id": "865594",
+          "published": true,
+          "body": "A longtime skateboarder and hip hop devotee, Geoff “Stylust” Reich has always been a rebel with a passion for his art form, so it’s no surprise that this Canadian DJ/producer’s talent for fusing rap hooks and heavy bass with electronic music has earned him the rep as a creative renegade carving his own path.\n\nTouring as Stylust, Geoff has played all over the United States, Canada, and Europe, appearing at major festivals like Shambhala, Coachella, Outlook, LIB, Envision and BassCenter to name a few. Stylust’s uncanny ability to melt multiple influences and genres has led to music that’s reached millions of listeners, earning him exciting releases and collabs with artists like Bassnectar, Minnesota, Truth and many others.\n\nWith a bass-heavy yet timeless sound, Stylust electrifies dancefloors with his\nimpeccable mixing and high energy stage presence.",
+          "priority": 100,
+          "sold_out": false,
+          "artist_id": 2040685,
+          "stage_id": 12491,
+          "stage_name": "Village",
+          "date_id": 3938,
+          "show_in_schedule": true,
+          "show_in_line_up": true,
+          "show_in_calendar": true,
+          "show_in_search": false,
+          "start_time": "2025-07-26T03:30:00+00:00",
+          "end_time": "2025-07-26T04:30:00+00:00",
+          "show_image_in_schedule": true,
+          "hide_start_time": false,
+          "hide_end_time": false,
+          "reminder_interval": 15,
+          "tags": [
+            {
+              "slug": "type-artist",
+              "name": "Artist",
+              "category": "other",
+              "priority": 100,
+              "visible": true,
+              "filter": true,
+              "show_in_search": false,
+              "color": "#7896FF"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "slug": "type-artist",
+          "name": "Artist",
+          "category": "other",
+          "priority": 100,
+          "visible": true,
+          "filter": true,
+          "show_in_search": false,
+          "color": "#7896FF"
+        }
+      ],
+      "tracks": [
+        {
+          "track_id": "0Vb2naU2kBlWsniIbfXRsG",
+          "streaming_service": "spotify",
+          "title": "Raindrops (feat. Of the Trees & Perkulat0r)",
+          "artist_name": "Stylust, Of The Trees, Perkulat0r",
+          "duration": 204000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021ca76e60751f804ef6ce2d02",
+          "preview_url": "https://p.scdn.co/mp3-preview/e1c49afa59461f7edfed85d58af5a65aea40af48?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5ai08KHbNOdG0k3Y24mHkk",
+          "streaming_service": "spotify",
+          "title": "Heavy Metal Shit (feat. Lafa Taylor & Neon Steve)",
+          "artist_name": "Stylust, Lafa Taylor, Neon Steve",
+          "duration": 177750,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021ca76e60751f804ef6ce2d02",
+          "preview_url": "https://p.scdn.co/mp3-preview/cb851d0fe2178e3db75bc08c43a15d26fc2e5ef0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5RLo69t3nlQ5YwXsJTYH5i",
+          "streaming_service": "spotify",
+          "title": "Heavyweights",
+          "artist_name": "AHEE, Stylust",
+          "duration": 184759,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e4b0f08000f873b7beba561c",
+          "preview_url": "https://p.scdn.co/mp3-preview/ddd532613d3d1abaedc2b24ade3bcd0cd66cc2e8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3h151uk2sF59N4aQHQEJEh",
+          "streaming_service": "spotify",
+          "title": "CONTROL DUB",
+          "artist_name": "Stylust",
+          "duration": 170219,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02519ce46356a3217ded712d43",
+          "preview_url": "https://p.scdn.co/mp3-preview/484208890e594027c0dad1483333ac4c3ffd6f0b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3xGPQcTd1HRvQOcEZIWgKP",
+          "streaming_service": "spotify",
+          "title": "The Elephant",
+          "artist_name": "Stylust, Ashez",
+          "duration": 215183,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ae01f7e8b40b1744f489d64b",
+          "preview_url": "https://p.scdn.co/mp3-preview/4fc5b99e3ccdc7365989fd12c2aa878eab311e36?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "6UUHSZY42nNQZVjLuDUguX",
+          "streaming_service": "spotify",
+          "title": "Feel Alive",
+          "artist_name": "Stylust",
+          "duration": 162206,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e027697cb417f8b299ca7738bf3",
+          "preview_url": "https://p.scdn.co/mp3-preview/a366822f181eba046efaf581fa5d989b47e16cea?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "3BYIRz0uicskFdJrLkcs7v",
+          "streaming_service": "spotify",
+          "title": "Stay Close",
+          "artist_name": "Stylust, Abstrakt Sonance, JLEON",
+          "duration": 238285,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025921948c0b972bf4e7c80633",
+          "preview_url": "https://p.scdn.co/mp3-preview/15117235416f1cff93735eabaec84544c28ccf49?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5TpjbRicHv3WLEleVVuhmt",
+          "streaming_service": "spotify",
+          "title": "We Run Sound",
+          "artist_name": "Ganja White Night, Stylust, PAV4N, Da Fuchaman",
+          "duration": 239914,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02442ce50eea60dc6c8feaedb9",
+          "preview_url": "https://p.scdn.co/mp3-preview/4ead03ee79f88ae57fd6b30e114f03d4946eeba3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "0BM3ETJnR59CdZUxGi2Po9",
+          "streaming_service": "spotify",
+          "title": "Oxygen",
+          "artist_name": "AHEE, Stylust",
+          "duration": 154000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e023924bfd38f7c159c633d02c3",
+          "preview_url": "https://p.scdn.co/mp3-preview/bb51cb2e07264824b42ca04cfbced6336a77e56d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        },
+        {
+          "track_id": "5cJ1HcWu1vOpDmW3NKU99J",
+          "streaming_service": "spotify",
+          "title": "Rebola",
+          "artist_name": "CØNTRA, Stylust",
+          "duration": 225995,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d98105cf49a4e455d3c198e3",
+          "preview_url": "https://p.scdn.co/mp3-preview/2c46813180ebf5c4659b9d50913be3338053f353?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
+        }
+      ],
+      "show_in_search": true,
+      "show_in_intake": true,
+      "show_in_artists": true,
+      "show_section_titles": true,
+      "allow_favoriting": true
+    },
+    {
       "id": 2040699,
       "external_id": "1922272",
       "published": true,
@@ -4802,176 +5217,6 @@
           "duration": 178285,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02b5672c379d6733b69ffc78b8",
           "preview_url": "https://p.scdn.co/mp3-preview/49e9c7c19c76b08bb1ba04f91e2d3fae5456749e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040685,
-      "external_id": "180912",
-      "published": true,
-      "name": "Stylust",
-      "body": "A longtime skateboarder and hip hop devotee, Geoff “Stylust” Reich has always been a rebel with a passion for his art form, so it’s no surprise that this Canadian DJ/producer’s talent for fusing rap hooks and heavy bass with electronic music has earned him the rep as a creative renegade carving his own path.<br />\n<br />\nTouring as Stylust, Geoff has played all over the United States, Canada, and Europe, appearing at major festivals like Shambhala, Coachella, Outlook, LIB, Envision and BassCenter to name a few. Stylust’s uncanny ability to melt multiple influences and genres has led to music that’s reached millions of listeners, earning him exciting releases and collabs with artists like Bassnectar, Minnesota, Truth and many others.<br />\n<br />\nWith a bass-heavy yet timeless sound, Stylust electrifies dancefloors with his<br />\nimpeccable mixing and high energy stage presence.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/27/thumb_5626119_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "stylustbeats/",
-        "instagram_user": "stylustbeats/",
-        "twitter_user": "StylustBeats",
-        "soundcloud_user": "stylustbeats",
-        "spotify_artist_id": "2Y1LgWOVPz5m1qCuzkWEQu"
-      },
-      "performances": [
-        {
-          "id": 250064,
-          "external_id": "865594",
-          "published": true,
-          "body": "A longtime skateboarder and hip hop devotee, Geoff “Stylust” Reich has always been a rebel with a passion for his art form, so it’s no surprise that this Canadian DJ/producer’s talent for fusing rap hooks and heavy bass with electronic music has earned him the rep as a creative renegade carving his own path.\n\nTouring as Stylust, Geoff has played all over the United States, Canada, and Europe, appearing at major festivals like Shambhala, Coachella, Outlook, LIB, Envision and BassCenter to name a few. Stylust’s uncanny ability to melt multiple influences and genres has led to music that’s reached millions of listeners, earning him exciting releases and collabs with artists like Bassnectar, Minnesota, Truth and many others.\n\nWith a bass-heavy yet timeless sound, Stylust electrifies dancefloors with his\nimpeccable mixing and high energy stage presence.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040685,
-          "stage_id": 12491,
-          "stage_name": "Village",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T03:30:00+00:00",
-          "end_time": "2025-07-26T04:30:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "0Vb2naU2kBlWsniIbfXRsG",
-          "streaming_service": "spotify",
-          "title": "Raindrops (feat. Of the Trees & Perkulat0r)",
-          "artist_name": "Stylust, Of The Trees, Perkulat0r",
-          "duration": 204000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021ca76e60751f804ef6ce2d02",
-          "preview_url": "https://p.scdn.co/mp3-preview/e1c49afa59461f7edfed85d58af5a65aea40af48?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5ai08KHbNOdG0k3Y24mHkk",
-          "streaming_service": "spotify",
-          "title": "Heavy Metal Shit (feat. Lafa Taylor & Neon Steve)",
-          "artist_name": "Stylust, Lafa Taylor, Neon Steve",
-          "duration": 177750,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021ca76e60751f804ef6ce2d02",
-          "preview_url": "https://p.scdn.co/mp3-preview/cb851d0fe2178e3db75bc08c43a15d26fc2e5ef0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5RLo69t3nlQ5YwXsJTYH5i",
-          "streaming_service": "spotify",
-          "title": "Heavyweights",
-          "artist_name": "AHEE, Stylust",
-          "duration": 184759,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e4b0f08000f873b7beba561c",
-          "preview_url": "https://p.scdn.co/mp3-preview/ddd532613d3d1abaedc2b24ade3bcd0cd66cc2e8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3h151uk2sF59N4aQHQEJEh",
-          "streaming_service": "spotify",
-          "title": "CONTROL DUB",
-          "artist_name": "Stylust",
-          "duration": 170219,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02519ce46356a3217ded712d43",
-          "preview_url": "https://p.scdn.co/mp3-preview/484208890e594027c0dad1483333ac4c3ffd6f0b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3xGPQcTd1HRvQOcEZIWgKP",
-          "streaming_service": "spotify",
-          "title": "The Elephant",
-          "artist_name": "Stylust, Ashez",
-          "duration": 215183,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ae01f7e8b40b1744f489d64b",
-          "preview_url": "https://p.scdn.co/mp3-preview/4fc5b99e3ccdc7365989fd12c2aa878eab311e36?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6UUHSZY42nNQZVjLuDUguX",
-          "streaming_service": "spotify",
-          "title": "Feel Alive",
-          "artist_name": "Stylust",
-          "duration": 162206,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027697cb417f8b299ca7738bf3",
-          "preview_url": "https://p.scdn.co/mp3-preview/a366822f181eba046efaf581fa5d989b47e16cea?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "3BYIRz0uicskFdJrLkcs7v",
-          "streaming_service": "spotify",
-          "title": "Stay Close",
-          "artist_name": "Stylust, Abstrakt Sonance, JLEON",
-          "duration": 238285,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025921948c0b972bf4e7c80633",
-          "preview_url": "https://p.scdn.co/mp3-preview/15117235416f1cff93735eabaec84544c28ccf49?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5TpjbRicHv3WLEleVVuhmt",
-          "streaming_service": "spotify",
-          "title": "We Run Sound",
-          "artist_name": "Ganja White Night, Stylust, PAV4N, Da Fuchaman",
-          "duration": 239914,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02442ce50eea60dc6c8feaedb9",
-          "preview_url": "https://p.scdn.co/mp3-preview/4ead03ee79f88ae57fd6b30e114f03d4946eeba3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "0BM3ETJnR59CdZUxGi2Po9",
-          "streaming_service": "spotify",
-          "title": "Oxygen",
-          "artist_name": "AHEE, Stylust",
-          "duration": 154000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e023924bfd38f7c159c633d02c3",
-          "preview_url": "https://p.scdn.co/mp3-preview/bb51cb2e07264824b42ca04cfbced6336a77e56d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5cJ1HcWu1vOpDmW3NKU99J",
-          "streaming_service": "spotify",
-          "title": "Rebola",
-          "artist_name": "CØNTRA, Stylust",
-          "duration": 225995,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d98105cf49a4e455d3c198e3",
-          "preview_url": "https://p.scdn.co/mp3-preview/2c46813180ebf5c4659b9d50913be3338053f353?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         }
       ],
       "show_in_search": true,
@@ -19087,176 +19332,6 @@
       "allow_favoriting": true
     },
     {
-      "id": 2040590,
-      "external_id": "1920549",
-      "published": true,
-      "name": "Mfinity",
-      "body": "Think, Reminisce, and Escape.<br />\n<br />\nOriginating in the valleys of Ohio, Mfinity has perfected the craft of creating<br />\nimmersive soundscapes packed with velvety basslines and organic beats.<br />\n<br />\nWith over 75,000 monthly listeners on Spotify and more than 7.5 million<br />\nstreams across all streaming platforms, Mfinity has quietly established<br />\nhimself as a pathfinder gaining support from renowned artists such as<br />\nClozee, LSZee, and Supertask.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/31/thumb_5630127_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/31/thumb_5630127_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/31/thumb_5630127_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/31/thumb_5630127_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "facebook_page_id": "MfinityMusic.Official",
-        "instagram_user": "mfinity.official",
-        "youtube_channel_id": "UCVIdNNKxh7bAFCY5JrWkAlA",
-        "soundcloud_user": "mfinityofficial",
-        "spotify_artist_id": "7FK8Hg4eKZZ4kipxWDwpV7"
-      },
-      "performances": [
-        {
-          "id": 249969,
-          "external_id": "865597",
-          "published": true,
-          "body": "Think, Reminisce, and Escape.\n\nOriginating in the valleys of Ohio, Mfinity has perfected the craft of creating\nimmersive soundscapes packed with velvety basslines and organic beats.\n\nWith over 75,000 monthly listeners on Spotify and more than 7.5 million\nstreams across all streaming platforms, Mfinity has quietly established\nhimself as a pathfinder gaining support from renowned artists such as\nClozee, LSZee, and Supertask.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040590,
-          "stage_id": 12486,
-          "stage_name": "AMP",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T02:00:00+00:00",
-          "end_time": "2025-07-26T03:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [
-        {
-          "track_id": "75i02EsYnReen4LuRF7EC5",
-          "streaming_service": "spotify",
-          "title": "What I Can Do - Mfinity Remix",
-          "artist_name": "Saturna, CØNTRA, Mfinity",
-          "duration": 183000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0257d43355eb947b75d1f2bdbb",
-          "preview_url": "https://p.scdn.co/mp3-preview/bfc693225deff149522a9e9a21aed946e5a75672?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "56zMWmmP0N9ocok2l9xRbg",
-          "streaming_service": "spotify",
-          "title": "The Right Place",
-          "artist_name": "Mfinity",
-          "duration": 186165,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e029a3544d965ed19a7bbfd21cc",
-          "preview_url": "https://p.scdn.co/mp3-preview/e8613e0df9b75d5d22b0d2203e1322b02f1c8389?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7kHVZOgaWmlcWIDrDGNv31",
-          "streaming_service": "spotify",
-          "title": "Chasm",
-          "artist_name": "Mfinity",
-          "duration": 141797,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02bab1fcb0e8a4b6002cacfe14",
-          "preview_url": "https://p.scdn.co/mp3-preview/5c869627ba142065cec0135a1726d43af60770ee?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5QQTuKXZ0LolIuqOl6BWVB",
-          "streaming_service": "spotify",
-          "title": "Altitude",
-          "artist_name": "Mfinity",
-          "duration": 221875,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025b16fc2d96003507f32f2a6c",
-          "preview_url": "https://p.scdn.co/mp3-preview/030dffa0f40dfd4a16655c98cb8b1f8f35d8c4c5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5fb4YVqsj3fynY3rpJ9HZU",
-          "streaming_service": "spotify",
-          "title": "Falling Up",
-          "artist_name": "Mfinity, Swomp",
-          "duration": 209142,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0268445c6d0e4a8d39c40c397e",
-          "preview_url": "https://p.scdn.co/mp3-preview/d79c18b65e16a510068a5ed3ab317805d4faeaa4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "5RBfOZjNlGcw9ozd8Pfp98",
-          "streaming_service": "spotify",
-          "title": "Aura",
-          "artist_name": "Mfinity, Supernatural",
-          "duration": 207428,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e0ed3d785646df20fe190ac7",
-          "preview_url": "https://p.scdn.co/mp3-preview/06a0aca85a5162715eee4df870229423f618083c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "504vgPtqNxtKeFR69BZBeo",
-          "streaming_service": "spotify",
-          "title": "Feel",
-          "artist_name": "Dimond Saints, Mfinity",
-          "duration": 218823,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025219a445551a012ef0913708",
-          "preview_url": "https://p.scdn.co/mp3-preview/ce858435a3b4c09778d5b9b7bf9eca2f7cfa4a8e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "6WNzs686VxVqFC9mkkmrL0",
-          "streaming_service": "spotify",
-          "title": "Omnia",
-          "artist_name": "Skysia, Mfinity",
-          "duration": 228000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ebb0822bbba9e57be4c47b6d",
-          "preview_url": "https://p.scdn.co/mp3-preview/efbc0191bf9fe23e7f3bb1767f69a58664f24436?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "7EB5xbGxaI5qYoi6NE52nu",
-          "streaming_service": "spotify",
-          "title": "Mindstate",
-          "artist_name": "illoh, Mfinity",
-          "duration": 212000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027953e62742aa7223abaa07c1",
-          "preview_url": "https://p.scdn.co/mp3-preview/d88a82d93efcf79d141bc43c9f98e0b4c46ba3f0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        },
-        {
-          "track_id": "2oqCO5IXhE66h1HaWjkzC7",
-          "streaming_service": "spotify",
-          "title": "Places Long Forgotten - Bronze Sun Remix",
-          "artist_name": "Josh Teed, Chmura, Mfinity, Blvck Svm, Bronze Sun",
-          "duration": 204703,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0201998804a78c148a49f07a83",
-          "preview_url": "https://p.scdn.co/mp3-preview/52342e1fc6dcd24ee6b2937dc734e2c375e2cb74?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
-        }
-      ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
       "id": 2040662,
       "external_id": "1909864",
       "published": true,
@@ -19419,81 +19494,6 @@
           "preview_url": "https://p.scdn.co/mp3-preview/7a5d775de928d9850588976d91fd8cd4f0de0c58?cid=a762aeaf562f4d58a9a36b6bbc1b29e3"
         }
       ],
-      "show_in_search": true,
-      "show_in_intake": true,
-      "show_in_artists": true,
-      "show_section_titles": true,
-      "allow_favoriting": true
-    },
-    {
-      "id": 2040592,
-      "external_id": "1920453",
-      "published": true,
-      "name": "Supertask",
-      "body": "For the people who love to experience music, look no further than Supertask. With deep roots in hip-hop and a focus towards immersion, Supertask creates sonic landscapes that dance between the intensity and stillness of the human consciousness. His offerings of musical escapism are consumed by the concept of infinity, and with a background in IT, Supertask often utilizes code and programming in his artistic vision. A vision that his loyal community, the Dev Team, are directly involved in.<br />\n<br />\nBlending both analog and digital sound design, his unique approach has proven to be a driving force in the forward progression of electronic music. Through soundscapes that feel sentient, interactive live streams, and mind-bending visuals, Supertask is changing the way that we consume art.",
-      "priority": 100,
-      "category": "regular",
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463863_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463863_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463863_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0055/64/thumb_5463863_performance_500.jpeg"
-      },
-      "hide_image_on_overview": "never",
-      "hide_image_on_detail": "never",
-      "links": {
-        "instagram_user": "supertask"
-      },
-      "performances": [
-        {
-          "id": 249971,
-          "external_id": "865686",
-          "published": true,
-          "body": "For the people who love to experience music, look no further than Supertask. With deep roots in hip-hop and a focus towards immersion, Supertask creates sonic landscapes that dance between the intensity and stillness of the human consciousness. His offerings of musical escapism are consumed by the concept of infinity, and with a background in IT, Supertask often utilizes code and programming in his artistic vision. A vision that his loyal community, the Dev Team, are directly involved in.\n\nBlending both analog and digital sound design, his unique approach has proven to be a driving force in the forward progression of electronic music. Through soundscapes that feel sentient, interactive live streams, and mind-bending visuals, Supertask is changing the way that we consume art.",
-          "priority": 100,
-          "sold_out": false,
-          "artist_id": 2040592,
-          "stage_id": 12486,
-          "stage_name": "AMP",
-          "date_id": 3938,
-          "show_in_schedule": true,
-          "show_in_line_up": true,
-          "show_in_calendar": true,
-          "show_in_search": false,
-          "start_time": "2025-07-26T04:00:00+00:00",
-          "end_time": "2025-07-26T05:00:00+00:00",
-          "show_image_in_schedule": true,
-          "hide_start_time": false,
-          "hide_end_time": false,
-          "reminder_interval": 15,
-          "tags": [
-            {
-              "slug": "type-artist",
-              "name": "Artist",
-              "category": "other",
-              "priority": 100,
-              "visible": true,
-              "filter": true,
-              "show_in_search": false,
-              "color": "#7896FF"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "slug": "type-artist",
-          "name": "Artist",
-          "category": "other",
-          "priority": 100,
-          "visible": true,
-          "filter": true,
-          "show_in_search": false,
-          "color": "#7896FF"
-        }
-      ],
-      "tracks": [],
       "show_in_search": true,
       "show_in_intake": true,
       "show_in_artists": true,
