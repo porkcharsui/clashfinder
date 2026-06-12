@@ -45,9 +45,9 @@ jobs:
     if: needs.check_year.outputs.should_run == 'true'
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
     - name: Install uv
-      uses: astral-sh/setup-uv@v5
+      uses: astral-sh/setup-uv@v8
       with:
         enable-cache: true
         cache-dependency-glob: "uv.lock"
@@ -67,7 +67,7 @@ jobs:
       run: |
         source .venv/bin/activate
         ./bin/appmiral_transform.py --tz "US/Pacific" --artists ${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/shambhalafestival.artists.json --stages ${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/shambhalafestival.stages.json > ${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/clashfinder.txt 
-    - uses: stefanzweifel/git-auto-commit-action@v5
+    - uses: stefanzweifel/git-auto-commit-action@v7
       with:
         commit_message: Automated Shambhala festival data update
         file_pattern: '*.json *.txt'
