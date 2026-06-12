@@ -24,6 +24,16 @@ Within the desired festival application directory, add the extracted `SESSION_KE
 SESSION_KEY=VALUE_HERE
 ```
 
+To upload generated data to Clashfinder, add the authenticated Clashfinder cookie
+to the repository-root `.env` file:
+
+```dotenv
+CLASHFINDER_COOKIE="your-cookie-value"
+```
+
+The cookie is used only for authenticated Clashfinder requests and is never
+printed by the CLI.
+
 GreenCopper / Aloompa FestApp extraction currently uses the app's local SQLite database after the iOS app has run on macOS. On macOS 26, download the iOS festival app from the App Store, launch it, and let it finish updating its in-app data. This creates a Mac/iOS app container under `~/Library/Containers` with the app's preferences and `Documents/db.sqlite` database. The Lightning in a Bottle script finds that container, copies the SQLite database, exports schedule JSON, and renders Clashfinder text.
 
 ## Usage
@@ -63,6 +73,37 @@ For GreenCopper / Aloompa FestApp schedule exports:
 ```bash
 ./bin/greencopper_transform.py --schedule exports/lightning-in-a-bottle-2026-schedule.json > festivals/lightninginabottle/2026/clashfinder.txt
 ```
+
+## Uploading to Clashfinder
+
+Upload a generated data file when the current Git commit has not already been
+published:
+
+```bash
+uv run ./bin/clashfinder.py \
+  --name smf2026 \
+  --path festivals/shambhalafestival/2026/clashfinder.txt
+```
+
+The CLI generates a revision note containing the current Git commit, then reads
+the latest revision note from Clashfinder before uploading. If Clashfinder's
+latest revision note exactly matches the note the CLI generated, the CLI
+recognizes its own previous upload and exits successfully without uploading the
+same revision again.
+
+Before comparing or uploading, the CLI verifies that `--path` points to a
+tracked file with no uncommitted changes. This ensures the commit linked in the
+revision note contains the exact Clashfinder data being uploaded. Commit changes
+to the data file before running the CLI; `--force` does not bypass this check.
+
+Uploaded revisions include the direct URL to their GitHub commit.
+
+Use `--dry-run` to compare revisions without submitting data. Use `--force` to
+upload even when the CLI recognizes its own revision note; forced revision
+notes include a local ISO timestamp so they remain unique.
+
+The input file is authoritative and replaces the Clashfinder data field while
+preserving the schedule's existing setup data and form settings.
 
 ## Clashfinder Data Format
 
