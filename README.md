@@ -1,6 +1,43 @@
-# ClashFinder
+# Clashfinder Feed Tools
 
-Tools to export raw data from festival applications and transform into [Clashfinder](https://clashfinder.com/) schedules
+**Official festival data in. One battle-tested schedule out.**
+
+Clashfinder Feed Tools extracts schedule and artist data from official festival
+apps and transforms it into feeds for
+[Clashfinder](https://clashfinder.com/).
+
+Festival apps remain the canonical source for lineup changes, set times, artist
+details, and stage information. This project does not try to replace them or
+invent another schedule ecosystem. It gives their data a more useful interface:
+the clear, consistent, easy-to-scan Clashfinder experience.
+
+## Why Clashfinder?
+
+At a festival, a schedule is operational equipment. It needs to work quickly,
+predictably, and with minimal attention when the sun is gone, the network is
+congested, and a rave dance battle is already underway.
+
+Every festival shipping another bespoke app means another unfamiliar interface,
+another account or onboarding flow, and another experience that may barely work
+when it matters most. Clashfinder offers one familiar view across festivals. It
+makes clashes obvious, supports fast planning, and puts the timetable ahead of
+everything else.
+
+The philosophy is simple:
+
+* **Trust the official app for the facts.** Its data feeds are the canonical
+  schedule and artist resource.
+* **Transform rather than duplicate.** Convert those feeds into Clashfinder
+  data instead of maintaining a competing schedule by hand.
+* **Use one dependable interface.** Learn Clashfinder once, then use it at every
+  festival.
+
+```text
+Official festival app → canonical data feed → transform → Clashfinder
+```
+
+The result combines authoritative festival data with an interface designed for
+the moment you actually need it.
 
 ## Supported Festival Platforms
 
