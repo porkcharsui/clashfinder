@@ -1,20 +1,13 @@
-# This workflow fetches new Shambhala schedule data and commit and changes back to the repo
+# This workflow fetches new Shambhala schedule data and commits changes back to the repo.
 
 name: Shambhala schedule updates
 
 env:
   FESTIVAL_YEAR: 2026
   FESTIVAL_DATA_PATH: festivals/shambhalafestival
-  CLASHFINDER_NAME: smf2026
 
 on:
   workflow_dispatch:
-    inputs:
-      upload_clashfinder:
-        description: Upload Clashfinder after build, even if clashfinder.txt did not change
-        required: false
-        default: false
-        type: boolean
   # This only runs on default branch
   schedule:
     - cron: "12 */6 * 6 *"      # At minute 12 past every 6th hour in June.
@@ -50,9 +43,6 @@ jobs:
     needs: check_year
     if: needs.check_year.outputs.should_run == 'true'
     runs-on: ubuntu-latest
-    outputs:
-      clashfinder_changed: ${{ steps.clashfinder_data.outputs.changed }}
-      build_commit: ${{ steps.build_commit.outputs.sha }}
     steps:
     - uses: actions/checkout@main
     - name: Install uv
@@ -80,41 +70,3 @@ jobs:
       with:
         commit_message: Automated Shambhala festival data update
         file_pattern: '*.json *.txt'
-    - name: Check whether Clashfinder data changed
-      id: clashfinder_data
-      run: |
-        if [[ "${{ steps.auto_commit.outputs.changes_detected }}" != "true" ]]; then
-          echo "changed=false" >> "${GITHUB_OUTPUT}"
-        elif git diff --quiet HEAD^ HEAD -- "${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/clashfinder.txt"; then
-          echo "changed=false" >> "${GITHUB_OUTPUT}"
-        else
-          echo "changed=true" >> "${GITHUB_OUTPUT}"
-        fi
-    - name: Capture build commit
-      id: build_commit
-      run: echo "sha=$(git rev-parse HEAD)" >> "${GITHUB_OUTPUT}"
-
-  upload_clashfinder:
-    needs: build
-    if: needs.build.outputs.clashfinder_changed == 'true' || (github.event_name == 'workflow_dispatch' && inputs.upload_clashfinder)
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@main
-      with:
-        ref: ${{ needs.build.outputs.build_commit }}
-    - name: Install uv
-      uses: astral-sh/setup-uv@08807647e7069bb48b6ef5acd8ec9567f424441b # v8.1.0
-      with:
-        enable-cache: true
-        cache-dependency-glob: "uv.lock"
-    - name: Install the project
-      run: uv sync --locked --all-extras --dev
-    - name: Upload Clashfinder data
-      env:
-        CLASHFINDER_COOKIE_BASE64: ${{ secrets.CLASHFINDER_COOKIE_BASE64 }}
-      run: |
-        CLASHFINDER_COOKIE="$(printf '%s' "${CLASHFINDER_COOKIE_BASE64}" | base64 -d)"
-        export CLASHFINDER_COOKIE
-        uv run ./bin/clashfinder.py \
-          --name "${CLASHFINDER_NAME}" \
-          --path "${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/clashfinder.txt"

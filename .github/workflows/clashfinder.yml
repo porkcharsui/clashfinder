@@ -1,0 +1,78 @@
+name: Clashfinder sync
+
+env:
+  FESTIVAL_YEAR: 2026
+  FESTIVAL_DATA_PATH: festivals/shambhalafestival
+  CLASHFINDER_NAME: smf2026
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
+    paths:
+      - "festivals/shambhalafestival/2026/clashfinder.txt"
+  workflow_run:
+    workflows:
+      - Shambhala schedule updates
+    types:
+      - completed
+    branches:
+      - "main"
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@main
+      with:
+        ref: main
+        fetch-depth: 0
+    - name: Check whether Clashfinder data changed
+      id: clashfinder_data
+      run: |
+        clashfinder_path="${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/clashfinder.txt"
+
+        if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+          echo "changed=true" >> "${GITHUB_OUTPUT}"
+        elif [[ "${{ github.event_name }}" == "push" ]]; then
+          before="${{ github.event.before }}"
+          if [[ "${before}" =~ ^0+$ ]] || ! git rev-parse --verify --quiet "${before}^{commit}"; then
+            echo "changed=true" >> "${GITHUB_OUTPUT}"
+          elif git diff --quiet "${before}" HEAD -- "${clashfinder_path}"; then
+            echo "changed=false" >> "${GITHUB_OUTPUT}"
+          else
+            echo "changed=true" >> "${GITHUB_OUTPUT}"
+          fi
+        elif git rev-parse --verify --quiet HEAD^; then
+          if git diff --quiet HEAD^ HEAD -- "${clashfinder_path}"; then
+            echo "changed=false" >> "${GITHUB_OUTPUT}"
+          else
+            echo "changed=true" >> "${GITHUB_OUTPUT}"
+          fi
+        else
+          echo "changed=true" >> "${GITHUB_OUTPUT}"
+        fi
+    - name: Install uv
+      if: steps.clashfinder_data.outputs.changed == 'true'
+      uses: astral-sh/setup-uv@08807647e7069bb48b6ef5acd8ec9567f424441b # v8.1.0
+      with:
+        enable-cache: true
+        cache-dependency-glob: "uv.lock"
+    - name: Install the project
+      if: steps.clashfinder_data.outputs.changed == 'true'
+      run: uv sync --locked --all-extras --dev
+    - name: Upload Clashfinder data
+      if: steps.clashfinder_data.outputs.changed == 'true'
+      env:
+        CLASHFINDER_COOKIE_BASE64: ${{ secrets.CLASHFINDER_COOKIE_BASE64 }}
+      run: |
+        CLASHFINDER_COOKIE="$(printf '%s' "${CLASHFINDER_COOKIE_BASE64}" | base64 -d)"
+        export CLASHFINDER_COOKIE
+        uv run ./bin/clashfinder.py \
+          --name "${CLASHFINDER_NAME}" \
+          --path "${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/clashfinder.txt"
