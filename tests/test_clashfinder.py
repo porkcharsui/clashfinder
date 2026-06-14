@@ -131,6 +131,23 @@ class ClientTests(unittest.TestCase):
         client = clashfinder.ClashfinderClient("userLogin=secret", session=session)
         self.assertEqual(client.latest_revision_note("test"), "Newest")
 
+    def test_latest_revision_note_preserves_spacing_before_links(self):
+        session = Mock()
+        session.headers = {}
+        session.get.return_value = response(
+            "https://clashfinder.com/l/test/?revs",
+            '<span class="revNote">Festival schedule intel dispatch · aaaaaaa · '
+            '<a href="https://github.com/porkcharsui/clashfinder/commit/aaaaaaaa">'
+            "https://github.com/porkcharsui/clashfinder/commit/aaaaaaaa</a></span>",
+        )
+        client = clashfinder.ClashfinderClient("userLogin=secret", session=session)
+
+        self.assertEqual(
+            client.latest_revision_note("test"),
+            "Festival schedule intel dispatch · aaaaaaa · "
+            "https://github.com/porkcharsui/clashfinder/commit/aaaaaaaa",
+        )
+
     def test_prepare_update_preserves_controls_and_replaces_data(self):
         session = Mock()
         session.headers = {}

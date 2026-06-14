@@ -152,7 +152,7 @@ class ClashfinderClient:
     def latest_revision_note(self, name):
         soup = BeautifulSoup(self._get(self.revisions_url(name)).text, "html.parser")
         note = soup.select_one(".revNote")
-        return note.get_text(strip=True) if note else None
+        return note.get_text(" ", strip=True) if note else None
 
     def prepare_update(self, name, schedule_data, revision_note):
         response = self._get(self.edit_url(name))
