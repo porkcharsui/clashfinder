@@ -69,8 +69,8 @@ def transform(artists, stages, tz):
     print(f"timezone = {tz}")
     print(f"// total acts found = {len(acts_list)}")
 
-    # Sort acts by stage name first, then by start time
-    acts_list.sort(key=lambda x: (x['stage'], x['start']))
+    # Sort acts deterministically so equal stage/start entries do not depend on API order.
+    acts_list.sort(key=lambda x: (x['stage'], x['start'], x['end'], x['act'], x['url'], x['blurb']))
 
     for act in acts_list:
         print(f"act = {json.dumps(act)}")
