@@ -53,7 +53,15 @@ def get_git_revision(path):
                 "Commit it before uploading."
             )
 
-        full_sha = repo.head.commit.hexsha
+        latest_file_commit = next(
+            repo.iter_commits(paths=relative_path, max_count=1), None
+        )
+        if latest_file_commit is None:
+            raise ClashfinderError(
+                "Unable to find a Git commit containing the Clashfinder data file."
+            )
+
+        full_sha = latest_file_commit.hexsha
         short_sha = full_sha[:7]
     except (InvalidGitRepositoryError, NoSuchPathError, ValueError) as exc:
         raise ClashfinderError("Unable to determine the current Git revision.") from exc

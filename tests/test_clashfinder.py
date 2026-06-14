@@ -40,7 +40,28 @@ def response(url, text, status=200):
 class RevisionTests(unittest.TestCase):
     @patch.object(clashfinder, "Repo")
     def test_git_revision_uses_repository_api(self, repo_class):
-        repo_class.return_value.head.commit.hexsha = "a" * 40
+        repo_class.return_value.iter_commits.return_value = iter([Mock(hexsha="a" * 40)])
+        repo_class.return_value.working_tree_dir = "/repo"
+        repo_class.return_value.index.entries = {("clashfinder.txt", 0): Mock()}
+        repo_class.return_value.is_dirty.return_value = False
+        with patch.object(
+            clashfinder.Path,
+            "resolve",
+            side_effect=[Path("/repo/clashfinder.txt"), Path("/repo")],
+        ):
+            with patch.object(clashfinder.Path, "is_file", return_value=True):
+                self.assertEqual(
+                    clashfinder.get_git_revision("clashfinder.txt"),
+                    ("a" * 40, "aaaaaaa"),
+                )
+        repo_class.return_value.iter_commits.assert_called_once_with(
+            paths="clashfinder.txt", max_count=1
+        )
+
+    @patch.object(clashfinder, "Repo")
+    def test_git_revision_uses_latest_commit_for_file_not_head(self, repo_class):
+        repo_class.return_value.head.commit.hexsha = "b" * 40
+        repo_class.return_value.iter_commits.return_value = iter([Mock(hexsha="a" * 40)])
         repo_class.return_value.working_tree_dir = "/repo"
         repo_class.return_value.index.entries = {("clashfinder.txt", 0): Mock()}
         repo_class.return_value.is_dirty.return_value = False

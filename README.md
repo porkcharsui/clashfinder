@@ -142,9 +142,9 @@ uv run ./bin/clashfinder.py \
   --path festivals/shambhalafestival/2026/clashfinder.txt
 ```
 
-The CLI generates a revision note containing the current Git commit, then reads
-the latest revision note from Clashfinder before uploading. If Clashfinder's
-latest revision note exactly matches the note the CLI generated, the CLI
+The CLI generates a revision note containing the latest Git commit for the
+uploaded data file, then reads the latest revision note from Clashfinder before
+uploading. If Clashfinder's latest revision note exactly matches the note the CLI
 recognizes its own previous upload and exits successfully without uploading the
 same revision again.
 
