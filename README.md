@@ -74,11 +74,16 @@ To upload generated data to Clashfinder, add the authenticated Clashfinder cooki
 to the repository-root `.env` file:
 
 ```dotenv
-CLASHFINDER_COOKIE="your-cookie-value"
+CLASHFINDER_COOKIE="userLogin=your-cookie-value"
 ```
 
 The cookie is used only for authenticated Clashfinder requests and is never
-printed by the CLI.
+printed by the CLI. Store the same `userLogin=...` value in the
+`CLASHFINDER_COOKIE` GitHub Actions secret. GitHub Actions preserves the cookie
+characters when the secret is passed through an `env:` block, so do not encode
+the value again. Response-only attributes copied from a `Set-Cookie` header,
+such as `expires`, `Max-Age`, and `path`, are not needed; the CLI strips them if
+they are present.
 
 GreenCopper / Aloompa FestApp extraction currently uses the app's local SQLite database after the iOS app has run on macOS. On macOS 26, download the iOS festival app from the App Store, launch it, and let it finish updating its in-app data. This creates a Mac/iOS app container under `~/Library/Containers` with the app's preferences and `Documents/db.sqlite` database. The Lightning in a Bottle script finds that container, copies the SQLite database, exports schedule JSON, and renders Clashfinder text.
 

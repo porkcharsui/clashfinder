@@ -9,6 +9,12 @@ env:
 
 on:
   workflow_dispatch:
+    inputs:
+      upload_clashfinder:
+        description: Upload Clashfinder after build, even if clashfinder.txt did not change
+        required: false
+        default: false
+        type: boolean
   # This only runs on default branch
   schedule:
     - cron: "12 */6 * 6 *"      # At minute 12 past every 6th hour in June.
@@ -44,6 +50,9 @@ jobs:
     needs: check_year
     if: needs.check_year.outputs.should_run == 'true'
     runs-on: ubuntu-latest
+    outputs:
+      clashfinder_changed: ${{ steps.clashfinder_data.outputs.changed }}
+      build_commit: ${{ steps.build_commit.outputs.sha }}
     steps:
     - uses: actions/checkout@main
     - name: Install uv
@@ -55,17 +64,17 @@ jobs:
       run: uv sync --locked --all-extras --dev
     -  name: Write secrets to .env file
        run: |
-        cat << EOF > ${FESTIVAL_DATA_PATH}/.env
+        cat << EOF > "${FESTIVAL_DATA_PATH}/.env"
         SESSION_KEY=${{ secrets.SHAMBHALA_SESSION_KEY }}
         EOF
     - name: Fetch latest schedule data from API
       run: |
-        pushd ${FESTIVAL_DATA_PATH}
-        ./${FESTIVAL_YEAR}.sh
+        pushd "${FESTIVAL_DATA_PATH}"
+        "./${FESTIVAL_YEAR}.sh"
         popd
     - name: Transform data into clashfinder text format
       run: |
-        uv run ./bin/appmiral_transform.py --tz "US/Pacific" --artists ${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/shambhalafestival.artists.json --stages ${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/shambhalafestival.stages.json > ${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/clashfinder.txt
+        uv run ./bin/appmiral_transform.py --tz "US/Pacific" --artists "${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/shambhalafestival.artists.json" --stages "${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/shambhalafestival.stages.json" > "${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/clashfinder.txt"
     - uses: stefanzweifel/git-auto-commit-action@v7
       id: auto_commit
       with:
@@ -73,15 +82,34 @@ jobs:
         file_pattern: '*.json *.txt'
     - name: Check whether Clashfinder data changed
       id: clashfinder_data
-      if: steps.auto_commit.outputs.changes_detected == 'true'
       run: |
-        if git diff --quiet HEAD^ HEAD -- "${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/clashfinder.txt"; then
+        if [[ "${{ steps.auto_commit.outputs.changes_detected }}" != "true" ]]; then
+          echo "changed=false" >> "${GITHUB_OUTPUT}"
+        elif git diff --quiet HEAD^ HEAD -- "${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR}/clashfinder.txt"; then
           echo "changed=false" >> "${GITHUB_OUTPUT}"
         else
           echo "changed=true" >> "${GITHUB_OUTPUT}"
         fi
-    - name: Upload changed Clashfinder data
-      if: steps.clashfinder_data.outputs.changed == 'true'
+    - name: Capture build commit
+      id: build_commit
+      run: echo "sha=$(git rev-parse HEAD)" >> "${GITHUB_OUTPUT}"
+
+  upload_clashfinder:
+    needs: build
+    if: needs.build.outputs.clashfinder_changed == 'true' || (github.event_name == 'workflow_dispatch' && inputs.upload_clashfinder)
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@main
+      with:
+        ref: ${{ needs.build.outputs.build_commit }}
+    - name: Install uv
+      uses: astral-sh/setup-uv@08807647e7069bb48b6ef5acd8ec9567f424441b # v8.1.0
+      with:
+        enable-cache: true
+        cache-dependency-glob: "uv.lock"
+    - name: Install the project
+      run: uv sync --locked --all-extras --dev
+    - name: Upload Clashfinder data
       env:
         CLASHFINDER_COOKIE: ${{ secrets.CLASHFINDER_COOKIE }}
       run: |

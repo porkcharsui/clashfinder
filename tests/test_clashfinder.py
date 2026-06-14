@@ -109,6 +109,18 @@ class ValidationTests(unittest.TestCase):
 
 
 class ClientTests(unittest.TestCase):
+    def test_client_strips_set_cookie_attributes(self):
+        session = Mock()
+        session.headers = {}
+        cookie = (
+            "userLogin=jamessmith%1234; expires=Thu, 12 Jun 2036 21:43:41 GMT; "
+            "Max-Age=315619200; path=/"
+        )
+
+        clashfinder.ClashfinderClient(cookie, session=session)
+
+        self.assertEqual(session.headers["Cookie"], "userLogin=jamessmith%1234")
+
     def test_latest_revision_note_reads_first_note(self):
         session = Mock()
         session.headers = {}
@@ -116,7 +128,7 @@ class ClientTests(unittest.TestCase):
             "https://clashfinder.com/l/test/?revs",
             '<span class="revNote">Newest</span><span class="revNote">Older</span>',
         )
-        client = clashfinder.ClashfinderClient("secret", session=session)
+        client = clashfinder.ClashfinderClient("userLogin=secret", session=session)
         self.assertEqual(client.latest_revision_note("test"), "Newest")
 
     def test_prepare_update_preserves_controls_and_replaces_data(self):
@@ -125,7 +137,7 @@ class ClientTests(unittest.TestCase):
         session.get.return_value = response(
             "https://clashfinder.com/s/test/?edit", EDIT_HTML
         )
-        client = clashfinder.ClashfinderClient("secret", session=session)
+        client = clashfinder.ClashfinderClient("userLogin=secret", session=session)
 
         action, controls = client.prepare_update("test", "new data", "new note")
 
@@ -146,7 +158,7 @@ class ClientTests(unittest.TestCase):
             "https://clashfinder.com/s/test/?edit",
             EDIT_HTML.replace("isLoggedIn: true", "isLoggedIn: false"),
         )
-        client = clashfinder.ClashfinderClient("secret", session=session)
+        client = clashfinder.ClashfinderClient("userLogin=secret", session=session)
         with self.assertRaisesRegex(clashfinder.ClashfinderError, "authentication"):
             client.prepare_update("test", "new data", "new note")
 
@@ -157,7 +169,7 @@ class ClientTests(unittest.TestCase):
             "https://clashfinder.com/s/test/?edit",
             '<script>var cg = { isLoggedIn: true };</script><form></form>',
         )
-        client = clashfinder.ClashfinderClient("secret", session=session)
+        client = clashfinder.ClashfinderClient("userLogin=secret", session=session)
         with self.assertRaisesRegex(clashfinder.ClashfinderError, "jq-input1"):
             client.prepare_update("test", "new data", "new note")
 
@@ -172,7 +184,7 @@ class ClientTests(unittest.TestCase):
             ),
         ]
         session.post.return_value = response("https://clashfinder.com/s/test/?edit", "ok")
-        client = clashfinder.ClashfinderClient("secret", session=session)
+        client = clashfinder.ClashfinderClient("userLogin=secret", session=session)
 
         client.update("test", "new data", "new note")
 
@@ -191,7 +203,7 @@ class ClientTests(unittest.TestCase):
             ),
         ]
         session.post.return_value = response("https://clashfinder.com/s/test/?edit", "ok")
-        client = clashfinder.ClashfinderClient("secret", session=session)
+        client = clashfinder.ClashfinderClient("userLogin=secret", session=session)
         with self.assertRaises(clashfinder.ClashfinderError) as raised:
             client.update("test", "new data", "new note")
         message = str(raised.exception)

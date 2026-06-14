@@ -2,6 +2,7 @@
 import os
 import re
 from datetime import datetime
+from http.cookies import CookieError, SimpleCookie
 from pathlib import Path
 from urllib.parse import urljoin
 
@@ -113,11 +114,26 @@ def replace_control(controls, name, value):
     return [(key, existing) for key, existing in controls if key != name] + [(name, value)]
 
 
+def normalize_cookie_header(cookie):
+    parsed = SimpleCookie()
+    try:
+        parsed.load(cookie.strip())
+    except CookieError as exc:
+        raise ClashfinderError("CLASHFINDER_COOKIE is not a valid cookie string.") from exc
+
+    if not parsed:
+        raise ClashfinderError("CLASHFINDER_COOKIE does not contain a cookie.")
+
+    return "; ".join(f"{name}={morsel.value}" for name, morsel in parsed.items())
+
+
 class ClashfinderClient:
     def __init__(self, cookie, session=None, base_url=CLASHFINDER_BASE_URL):
         self.base_url = base_url.rstrip("/")
         self.session = session or requests.Session()
-        self.session.headers.update({"Cookie": cookie, "User-Agent": USER_AGENT})
+        self.session.headers.update(
+            {"Cookie": normalize_cookie_header(cookie), "User-Agent": USER_AGENT}
+        )
 
     def edit_url(self, name):
         return f"{self.base_url}/s/{name}/?edit"
