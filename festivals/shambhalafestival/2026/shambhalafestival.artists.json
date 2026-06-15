@@ -11164,15 +11164,6 @@
           "track_id": "2t6MSO4QH0Cx8czh3QSLMi"
         },
         {
-          "artist_name": "N2N",
-          "duration": 185625,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02361db3c03ceada7ff68e303e",
-          "preview_url": "https://p.scdn.co/mp3-preview/4deab580798c89fee431386176b49b18e1f7c734?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Loose Unit",
-          "track_id": "3nHkrXgY61pBL5xnH39XNq"
-        },
-        {
           "artist_name": "N2N, Rob Marion, JiLLi",
           "duration": 169453,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02676b7dbd7a967608bcc3d38f",
@@ -11198,6 +11189,15 @@
           "streaming_service": "spotify",
           "title": "Tension",
           "track_id": "4gKXDKK8dqwOVkmpXxK8Ql"
+        },
+        {
+          "artist_name": "N2N, Taylr Renee",
+          "duration": 184252,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e023a4463a25e85aefb2cf05cd7",
+          "preview_url": "https://p.scdn.co/mp3-preview/22945637ab1fc51610f703ec82435b1b3a4b1b7a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Bonita",
+          "track_id": "59kUlNukiwwyJGIPt58Rpa"
         },
         {
           "artist_name": "The Jackson 5, N2N, Andie Roy",
@@ -37364,7 +37364,7 @@
       "links": {
         "website": "https://www.harveynichol.ca/"
       },
-      "name": "Harvey Nicol Santos",
+      "name": "Harvey Nichol",
       "performances": [],
       "priority": 100,
       "published": true,
@@ -37996,6 +37996,14 @@
       "hide_image_on_detail": "never",
       "hide_image_on_overview": "never",
       "id": 2110649,
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/72/thumb_5671396_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/72/thumb_5671396_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/72/thumb_5671396_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/72/thumb_5671396_performance_500.jpeg",
+        "960": "https://media.appmiral.com/prod/performance/0057/72/thumb_5671396_performance_960.jpeg"
+      },
       "links": {
         "instagram_user": "evvie_lightpirate",
         "website": "https://lightpirate.net/"
