@@ -24304,15 +24304,6 @@
           "track_id": "08Kj0lvbsqAxzeUOBYZRL6"
         },
         {
-          "artist_name": "Whethan, Flux Pavilion, MAX",
-          "duration": 205333,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e029cd0a4328101c8a169b661f5",
-          "preview_url": "https://p.scdn.co/mp3-preview/6bc744a1f6bf0843812db12c32d4684ceb46ccb7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Savage (feat. Flux Pavilion & MAX)",
-          "track_id": "0kD586ste6xyDRqUYhVlCh"
-        },
-        {
           "artist_name": "BKTHERULA, Whethan",
           "duration": 128918,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02efc66293f3b0ebf99ca2c6c2",
@@ -24355,6 +24346,15 @@
           "streaming_service": "spotify",
           "title": "MONEY ON THE DASH - SPED UP",
           "track_id": "3deZ4afG0Y4WhbSBEp97oK"
+        },
+        {
+          "artist_name": "Whethan, Oliver Tree",
+          "duration": 155498,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02da201fedce4161342e06c612",
+          "preview_url": "https://p.scdn.co/mp3-preview/5098c421b35e9a636de5e508d5fb2b3e727b6efd?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Freefall (feat. Oliver Tree)",
+          "track_id": "4OUKMfT24sce6hdAzfNTOX"
         },
         {
           "artist_name": "Whethan",
