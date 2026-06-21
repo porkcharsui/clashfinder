@@ -8489,15 +8489,6 @@
           "track_id": "0HXIqVOepJZioeDCJJbkHf"
         },
         {
-          "artist_name": "DEFIED",
-          "duration": 200350,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b261ed87d6c7711664e9ed23",
-          "preview_url": "https://p.scdn.co/mp3-preview/96f9eb059d5d40b9dba8515555fbdd1557915d97?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Hurt You",
-          "track_id": "1aVmdASxCrCNpa9vPOTsZk"
-        },
-        {
           "artist_name": "DEFIED, Ty-C",
           "duration": 192000,
           "image_url": "https://i.scdn.co/image/ab67616d00001e027efd44cb827e154697bdb69d",
@@ -8550,6 +8541,15 @@
           "streaming_service": "spotify",
           "title": "Walk the Line",
           "track_id": "71xCgrGGzWczOfSaQeV13W"
+        },
+        {
+          "artist_name": "DEFIED",
+          "duration": 166874,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02237824c219cfd50fbecebb01",
+          "preview_url": "https://p.scdn.co/mp3-preview/c2c223b40c7137b33c733fdb72d24184c96a769a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Dryden Found A Guy",
+          "track_id": "761oADlHtjDjI7AK3AWgSZ"
         },
         {
           "artist_name": "DEFIED, Ty-C",
@@ -9565,6 +9565,15 @@
       "tracks": [
         {
           "artist_name": "SonReal",
+          "duration": 128789,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d26f94aa17717a2e18e0804a",
+          "preview_url": "https://p.scdn.co/mp3-preview/d2dc416f5111dc8e2973a0ef089f1708ba84d53c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Eavesdrop",
+          "track_id": "09PvPElyHykKuJkGTrXA9L"
+        },
+        {
+          "artist_name": "SonReal",
           "duration": 151156,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02851fa99657185c6a4a83f03c",
           "preview_url": "https://p.scdn.co/mp3-preview/7b1f751e6fbf0c9d8078501cf96435aa5048247e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -9625,15 +9634,6 @@
           "streaming_service": "spotify",
           "title": "Run The Lot",
           "track_id": "5LCVoYlCuP3EZdEwelULNh"
-        },
-        {
-          "artist_name": "SonReal, Pardyalone",
-          "duration": 186206,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e023b2ce00d4e4d64bc80f34703",
-          "preview_url": "https://p.scdn.co/mp3-preview/693a5c5a81db81136ab54b55cfb2258d01892e52?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Fill My Glass (feat. Pardyalone)",
-          "track_id": "5uBTX6KZXSkJw7RWCipgPk"
         },
         {
           "artist_name": "SonReal, Ollie",
@@ -10569,6 +10569,15 @@
         },
         {
           "artist_name": "Average Citizens",
+          "duration": 341304,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e7c337f4c72fda6c9c54930f",
+          "preview_url": "https://p.scdn.co/mp3-preview/b415bb2a84e0fdb59f08aaca2ca4d5b53cf878dc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Dubplate Jump",
+          "track_id": "6qxtPrbw4xIwIUcgVEnqCX"
+        },
+        {
+          "artist_name": "Average Citizens",
           "duration": 276562,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0215023db95fd3956a7e1d40bf",
           "preview_url": "https://p.scdn.co/mp3-preview/474dc5855513254636865968d7173e5e5c5bf6c5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -10584,15 +10593,6 @@
           "streaming_service": "spotify",
           "title": "Cruel Summer - Original Mix",
           "track_id": "7AkfViu0SRDHNRHXFO0t0v"
-        },
-        {
-          "artist_name": "Average Citizens",
-          "duration": 186857,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d02d39dc87a41b3db32864eb",
-          "preview_url": "https://p.scdn.co/mp3-preview/1dc754f762cec4a50351a77b078d3a76bc127291?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Test My Luck",
-          "track_id": "7ndDUxroFf31LVo2P0evBH"
         }
       ]
     },
@@ -11908,13 +11908,13 @@
           "track_id": "77yzrdDsu0erSIA6BBdHRW"
         },
         {
-          "artist_name": "VEIL",
-          "duration": 187586,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02720635b88b23da21a94e5759",
-          "preview_url": "https://p.scdn.co/mp3-preview/fd66403479112be182bf736ae13a378645d3c201?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "VEIL, Brainrack",
+          "duration": 169600,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0261d0204a942d9e679a9a68c7",
+          "preview_url": "https://p.scdn.co/mp3-preview/b07b918ffa50b388f4703302e1ae0c900e8a303a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "WATER OF LIFE",
-          "track_id": "7bG2HCTSAU8RRDZ2BvmCLW"
+          "title": "What You Want",
+          "track_id": "7dsHwjGS0qlTPOgiUiHG49"
         },
         {
           "artist_name": "VEIL, Ruku",
@@ -13145,15 +13145,6 @@
           "track_id": "2WCA3a7LQRdsKYf93AleId"
         },
         {
-          "artist_name": "Sivz, Mynxy, Allya",
-          "duration": 145920,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028f61573a6f6520776ddcb4e1",
-          "preview_url": "https://p.scdn.co/mp3-preview/39a2919c910c0a6cd418e0ed7b8f502bab1ba08c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "All Night (Allya Remix) - Radio Edit",
-          "track_id": "2ih9ImdTXx8nGBKjeByKa5"
-        },
-        {
           "artist_name": "Sivz, Mood Child",
           "duration": 221951,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0277f86900db04d2940fc6ed2d",
@@ -13161,6 +13152,15 @@
           "streaming_service": "spotify",
           "title": "Mad Man Thing",
           "track_id": "4250jSYbSf4IH1S9c8sVu4"
+        },
+        {
+          "artist_name": "Sivz",
+          "duration": 163809,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e027f1c3fcaa112c45e5443ed25",
+          "preview_url": "https://p.scdn.co/mp3-preview/3755ff527f83b7fdc085f932544cb52e95dbe382?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Better On My Own",
+          "track_id": "4HOD7uWZ6rc0SDoIKWUgMO"
         },
         {
           "artist_name": "Sivz",
@@ -16360,13 +16360,13 @@
           "track_id": "27MYwjVjpnxVxxXf1yCNSK"
         },
         {
-          "artist_name": "Main Phase",
-          "duration": 363719,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0286ed0f4ade69b12c16863352",
-          "preview_url": "https://p.scdn.co/mp3-preview/972f9e345f0c4bf98d9b83a6f4aab74253aeea19?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "Main Phase, Talons",
+          "duration": 278260,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028e54685d837622e77367b32d",
+          "preview_url": "https://p.scdn.co/mp3-preview/cde0f6e4a846d38ea42e04485f3031f4234d27b0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Run Dancehall",
-          "track_id": "2maTRCWUHMj9FFu3NIAoim"
+          "title": "Artificial",
+          "track_id": "2DG2EhND9DmbXOsOJjOo5F"
         },
         {
           "artist_name": "ATW, Interplanetary Criminal, Main Phase",
@@ -22755,13 +22755,13 @@
           "track_id": "3krZ8tjEPnRK95lPU59YvQ"
         },
         {
-          "artist_name": "OkayJake, VCTRE",
-          "duration": 231724,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c1309916eb5c42c85a257e4c",
-          "preview_url": "https://p.scdn.co/mp3-preview/f89a4a47038b9f73d16a79a2916ec10719c2924c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "VCTRE",
+          "duration": 205714,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02dd299f78d0fca4ab9788c366",
+          "preview_url": "https://p.scdn.co/mp3-preview/064119deed1f6aa4d9dee8600461ddd260d0c788?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Acclimate",
-          "track_id": "5egQXPcopMQZGAtpN1TErc"
+          "title": "No Way Out",
+          "track_id": "5Xr0rdk8h2DCl01z5HWGtn"
         },
         {
           "artist_name": "VCTRE",
