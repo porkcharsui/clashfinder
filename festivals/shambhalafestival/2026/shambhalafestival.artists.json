@@ -1532,15 +1532,6 @@
         },
         {
           "artist_name": "Orenda",
-          "duration": 267469,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d86d7461ccb68878142d0ba9",
-          "preview_url": "https://p.scdn.co/mp3-preview/4745598ffc8492eca213cb130a8cd617fade1b0d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Dhyana",
-          "track_id": "50zr9lT38tIKbgol91WnZL"
-        },
-        {
-          "artist_name": "Orenda",
           "duration": 192000,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02ae2eeb9610ae99d11c22e942",
           "preview_url": "https://p.scdn.co/mp3-preview/742d8c6dd3fcf8514fda2642461983c75d688bfb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -1565,6 +1556,15 @@
           "streaming_service": "spotify",
           "title": "Twilight Pulse",
           "track_id": "6OTwm3NemQgJkf20aMtXtG"
+        },
+        {
+          "artist_name": "Mfinity, Orenda",
+          "duration": 222499,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02990f2b9829e49b0e91cacd17",
+          "preview_url": "https://p.scdn.co/mp3-preview/b16d7e943614ae84cf23950c9185809906cdf3d4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Eliminate The Variables",
+          "track_id": "6xWREtvAWf45ToRHPwUszh"
         },
         {
           "artist_name": "Skysia, Orenda",
@@ -4844,15 +4844,6 @@
       ],
       "tracks": [
         {
-          "artist_name": "Kaya Ko",
-          "duration": 200591,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0268d81051cf6172e95cae5eec",
-          "preview_url": "https://p.scdn.co/mp3-preview/bee706c45474900429b06904ec78f3e7d13b01fe?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Comin Down",
-          "track_id": "02oou1IvtgdMn1FIMjvZVx"
-        },
-        {
           "artist_name": "Lazy Syrup Orchestra, Kaya Ko, Abstrakt Sonance, Thomas Workshop",
           "duration": 184186,
           "image_url": "https://i.scdn.co/image/ab67616d00001e024390fb66ee326e772773737a",
@@ -4923,6 +4914,15 @@
           "streaming_service": "spotify",
           "title": "Talk Tape",
           "track_id": "4rr14MIr6XQaZs379kx2uF"
+        },
+        {
+          "artist_name": "ciscles, Kaya Ko",
+          "duration": 267467,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0270e9e0ceede296d439800b08",
+          "preview_url": "https://p.scdn.co/mp3-preview/047d8f41fc2bcd1f2eb7e490dae88ce2834a6b53?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Manic",
+          "track_id": "6DsjzHxZv9AHU4CPRst5Kq"
         },
         {
           "artist_name": "Kapok, Kaya Ko",
@@ -6398,15 +6398,6 @@
       ],
       "tracks": [
         {
-          "artist_name": "SLANDER, Crankdat, Asking Alexandria",
-          "duration": 201600,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021252f246522f354e229b8cef",
-          "preview_url": "https://p.scdn.co/mp3-preview/a214acb7a0bdc6cd02b904025a395f06ba350202?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Kneel Before Me",
-          "track_id": "0qwMoAstkTXlWE8lQJBRzY"
-        },
-        {
           "artist_name": "Crankdat, Juicy J",
           "duration": 226069,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0256ba06a6e43af5de199fd777",
@@ -6441,6 +6432,15 @@
           "streaming_service": "spotify",
           "title": "STFU",
           "track_id": "3EeX2y7vdyDYv4995qSRGy"
+        },
+        {
+          "artist_name": "Flux Pavilion, Crankdat",
+          "duration": 190801,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e022d41f016e16ab80d5acd37ac",
+          "preview_url": "https://p.scdn.co/mp3-preview/eef2ad213cc8399b490b941a5bc72edc368655ab?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Bass Cannon (Flux's Version) - Crankdat Remix",
+          "track_id": "3b7doVly0rz4na3rqZUasE"
         },
         {
           "artist_name": "Crankdat, Olivia",
@@ -8706,6 +8706,15 @@
         },
         {
           "artist_name": "EAZYBAKED, Daggz",
+          "duration": 137142,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02cadfd549aa1d0dfbea94e2e1",
+          "preview_url": "https://p.scdn.co/mp3-preview/01dfbc5307054db78c738ad4d2c55955448ef524?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "WYAWYS VIP",
+          "track_id": "2WuXRAg5ILuia2CRhsEHpm"
+        },
+        {
+          "artist_name": "EAZYBAKED, Daggz",
           "duration": 170454,
           "image_url": "https://i.scdn.co/image/ab67616d00001e028e5064f365a7aa3213607fa5",
           "preview_url": "https://p.scdn.co/mp3-preview/4d442f9e5b5914aac9d2fd3fee8f5759856e14ad?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -8766,15 +8775,6 @@
           "streaming_service": "spotify",
           "title": "Vessel",
           "track_id": "4yh4BNiFmg2WVEMRt5nGTJ"
-        },
-        {
-          "artist_name": "Caspa, EAZYBAKED",
-          "duration": 169000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024f11164c8ba99fa66ed1393e",
-          "preview_url": "https://p.scdn.co/mp3-preview/58b76695eabd221a0805844aec6397a279270015?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "No Laughing Matter",
-          "track_id": "5pK31mO2YGqgJ4B1vcOgET"
         },
         {
           "artist_name": "EAZYBAKED, MontyCler, sumthin sumthin",
@@ -11165,13 +11165,13 @@
           "track_id": "2t6MSO4QH0Cx8czh3QSLMi"
         },
         {
-          "artist_name": "N2N, Rob Marion, JiLLi",
-          "duration": 169453,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02676b7dbd7a967608bcc3d38f",
-          "preview_url": "https://p.scdn.co/mp3-preview/d3baeefe3db20bc749c836ef65399b11a93233cf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "N2N",
+          "duration": 185625,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02361db3c03ceada7ff68e303e",
+          "preview_url": "https://p.scdn.co/mp3-preview/4deab580798c89fee431386176b49b18e1f7c734?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "My Type",
-          "track_id": "3pxapRReH7gzXkcLf7ZBhs"
+          "title": "Loose Unit",
+          "track_id": "3nHkrXgY61pBL5xnH39XNq"
         },
         {
           "artist_name": "N2N",
@@ -12789,15 +12789,6 @@
       ],
       "tracks": [
         {
-          "artist_name": "Simula, Kasra",
-          "duration": 267586,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02aa5ed1e30a4fae630be6d492",
-          "preview_url": "https://p.scdn.co/mp3-preview/a3ed6fdc879fca1d808062f1757ea4bec4f95569?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Axiom",
-          "track_id": "0mfWwsSnGt4mED2vz3CBUB"
-        },
-        {
           "artist_name": "Simula, Catching Cairo",
           "duration": 267586,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0272899f5e0202cc5853962839",
@@ -12823,6 +12814,15 @@
           "streaming_service": "spotify",
           "title": "Heavy and Dark - Bou & Simula's Mix",
           "track_id": "3YtMMltS3N08YnGu0uICuE"
+        },
+        {
+          "artist_name": "Simula",
+          "duration": 263314,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d521ecce7bd369d9d6db3e8f",
+          "preview_url": "https://p.scdn.co/mp3-preview/96136c421d6d85c4e0216e8b995227942aceaeac?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Cerberus",
+          "track_id": "3i2Vdvd3TcKR8bXGcfjxMf"
         },
         {
           "artist_name": "Bru-C, Simula",
@@ -14472,15 +14472,6 @@
         },
         {
           "artist_name": "Joluca, Thomas Garcia",
-          "duration": 206079,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e029768cea99ba356b550b303e4",
-          "preview_url": "https://p.scdn.co/mp3-preview/c8d8574c32f807bf776a7e3088de28174803a6c6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Overdo",
-          "track_id": "2sArZCVRnDxi5OPDg0ePKl"
-        },
-        {
-          "artist_name": "Joluca, Thomas Garcia",
           "duration": 210468,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02ed567a245c13e70689512cad",
           "preview_url": "https://p.scdn.co/mp3-preview/1ccd0039ef0b5c13c51e5763de3fb0d18e3a6713?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -14496,6 +14487,15 @@
           "streaming_service": "spotify",
           "title": "Just Us",
           "track_id": "5Ll48MgpQXj7WdgWVtSWKu"
+        },
+        {
+          "artist_name": "Joluca, Mary Droppinz, Dedebah",
+          "duration": 261495,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e022c20cf97b439f829e4cf26fa",
+          "preview_url": "https://p.scdn.co/mp3-preview/4bf1940bbb0532efcd18530718852b177b3e53cf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Eyes On Me - Mary Droppinz Remix",
+          "track_id": "7DwzWyNYgAcSRZaFvB4egz"
         },
         {
           "artist_name": "Joluca, Thomas Garcia, Synnhaven",
@@ -18377,10 +18377,10 @@
       "id": 2103515,
       "image": {
         "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637786_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637786_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637786_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637786_performance_500.jpeg"
+        "100": "https://media.appmiral.com/prod/performance/0057/77/thumb_5676734_performance_100.png",
+        "120": "https://media.appmiral.com/prod/performance/0057/77/thumb_5676734_performance_120.png",
+        "250": "https://media.appmiral.com/prod/performance/0057/77/thumb_5676734_performance_250.png",
+        "500": "https://media.appmiral.com/prod/performance/0057/77/thumb_5676734_performance_500.png"
       },
       "links": {
         "instagram_user": "laav.music/",
@@ -18564,15 +18564,6 @@
         },
         {
           "artist_name": "Joluca, Thomas Garcia",
-          "duration": 206079,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e029768cea99ba356b550b303e4",
-          "preview_url": "https://p.scdn.co/mp3-preview/c8d8574c32f807bf776a7e3088de28174803a6c6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Overdo",
-          "track_id": "2sArZCVRnDxi5OPDg0ePKl"
-        },
-        {
-          "artist_name": "Joluca, Thomas Garcia",
           "duration": 210468,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02ed567a245c13e70689512cad",
           "preview_url": "https://p.scdn.co/mp3-preview/1ccd0039ef0b5c13c51e5763de3fb0d18e3a6713?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -18588,6 +18579,15 @@
           "streaming_service": "spotify",
           "title": "Just Us",
           "track_id": "5Ll48MgpQXj7WdgWVtSWKu"
+        },
+        {
+          "artist_name": "Joluca, Mary Droppinz, Dedebah",
+          "duration": 261495,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e022c20cf97b439f829e4cf26fa",
+          "preview_url": "https://p.scdn.co/mp3-preview/4bf1940bbb0532efcd18530718852b177b3e53cf?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Eyes On Me - Mary Droppinz Remix",
+          "track_id": "7DwzWyNYgAcSRZaFvB4egz"
         },
         {
           "artist_name": "Joluca, Thomas Garcia, Synnhaven",
@@ -19211,13 +19211,13 @@
           "track_id": "3yydZof4pq6N4zeyTzLwQk"
         },
         {
-          "artist_name": "Louis The Child, BRUX",
-          "duration": 202105,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e49e9f6b71af1244d7021a93",
-          "preview_url": "https://p.scdn.co/mp3-preview/77c5f9f5eb92307eed4e6156e6993bbd586cbb69?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "Louis The Child, Evalyn",
+          "duration": 205617,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d25a311908ccb77e387abea6",
+          "preview_url": "https://p.scdn.co/mp3-preview/adac079e5d801d63e4a26f40e301e65b5dab8eac?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "i go hard",
-          "track_id": "4zBWyLe96iTLDSu68zneAj"
+          "title": "Fire",
+          "track_id": "4g64deYSvQZ4w9uGpYz2sL"
         },
         {
           "artist_name": "Louis The Child, Quinn XCII, Chelsea Cutler",
@@ -19800,13 +19800,13 @@
           "track_id": "0HkTjwlJQoYHna7y7dAou2"
         },
         {
-          "artist_name": "Stund",
-          "duration": 221223,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02489e26f2ae85714e0b0893ed",
-          "preview_url": "https://p.scdn.co/mp3-preview/3cf7279ae6bcf1601c6b3ef2d35956d7930f0dc5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "Thomas Anthony, Stund",
+          "duration": 167619,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c439c12ee5c8e75a5773706a",
+          "preview_url": "https://p.scdn.co/mp3-preview/e1f225962dce845fc66947096e527fc0037f4ed7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Freak Machine",
-          "track_id": "0XymbFxLcMhG1oNuwczvMV"
+          "title": "Hood Go Crazy",
+          "track_id": "0Uszktpy7xhvUgVgfa7dIT"
         },
         {
           "artist_name": "Stund",
@@ -20159,13 +20159,13 @@
           "track_id": "3xGPQcTd1HRvQOcEZIWgKP"
         },
         {
-          "artist_name": "AHEE, Stylust",
-          "duration": 184759,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e4b0f08000f873b7beba561c",
-          "preview_url": "https://p.scdn.co/mp3-preview/ddd532613d3d1abaedc2b24ade3bcd0cd66cc2e8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "Truth, Stylust",
+          "duration": 256205,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0225cf860eb36f2f0eb1cd39f0",
+          "preview_url": "https://p.scdn.co/mp3-preview/192798708ff91986d3851e3c8c690be9ac6424e4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Heavyweights",
-          "track_id": "5RLo69t3nlQ5YwXsJTYH5i"
+          "title": "Closer",
+          "track_id": "46eOumtnnhXs2ZrJOsVcss"
         },
         {
           "artist_name": "Ganja White Night, Stylust, PAV4N, Da Fuchaman",
@@ -21318,12 +21318,12 @@
         },
         {
           "artist_name": "Creatura Music",
-          "duration": 311287,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0255a8b7cb5ee66a6cfae2d214",
-          "preview_url": "https://p.scdn.co/mp3-preview/4aaff1acf90610ba7ec2e72e7f7648b4832f5c78?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "duration": 307200,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e026b43fc1199877d43a5f8c6aa",
+          "preview_url": "https://p.scdn.co/mp3-preview/0624e97511e2bc90a905f6c8b0b621dc1bd0c32e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "BERLIN",
-          "track_id": "3tIwHwacxHaqaPH8O86OJR"
+          "title": "For You",
+          "track_id": "3O0j1klgqzwdpDDnWbuYd9"
         },
         {
           "artist_name": "Creatura Music, More Like Space",
@@ -29584,15 +29584,6 @@
         },
         {
           "artist_name": "ATRIP",
-          "duration": 214545,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e022a99c78b21edb526aaef1d7e",
-          "preview_url": "https://p.scdn.co/mp3-preview/f2892e12a375cb7383dfd37379c544245d4367d3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "All Night",
-          "track_id": "1soZBo7M77W55tmJ9byIgh"
-        },
-        {
-          "artist_name": "ATRIP",
           "duration": 190588,
           "image_url": "https://i.scdn.co/image/ab67616d00001e022a99c78b21edb526aaef1d7e",
           "preview_url": "https://p.scdn.co/mp3-preview/9627e2ae25b85af851dfe86d2ed0647909be7bef?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -29617,6 +29608,15 @@
           "streaming_service": "spotify",
           "title": "Sinai Ray",
           "track_id": "4A3ri9SFKKgv5ydmHMAbhQ"
+        },
+        {
+          "artist_name": "ATRIP",
+          "duration": 166384,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0212a73a566d19c34e26f4648b",
+          "preview_url": "https://p.scdn.co/mp3-preview/b88d6e6349566b4a556b32293ad00c6d10bd213e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Ginger (Feel Good)",
+          "track_id": "4uhBxLnnPffGIlLwrVjX62"
         },
         {
           "artist_name": "ATRIP",
