@@ -6064,8 +6064,8 @@
         {
           "artist_name": "Skrillex, Nitepunk",
           "duration": 204857,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02cc9ce7613345cafce244a152",
-          "preview_url": "https://p.scdn.co/mp3-preview/efbe32cc4876efff4ee20053e5e3cf198a99f1dd?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02bf0421005c1273faacc73564",
+          "preview_url": "https://p.scdn.co/mp3-preview/d813df11c367615919f98ee8ccd11914993a48ae?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
           "title": "Soma",
           "track_id": "6MVLHfS52hKHzbcLtejCWC"
@@ -11397,15 +11397,6 @@
           "track_id": "19CS9LxlK0B0w2K22cc8uy"
         },
         {
-          "artist_name": "Nitepunk, Jon Casey",
-          "duration": 197603,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024468423c9e9c4dedcd95cd74",
-          "preview_url": "https://p.scdn.co/mp3-preview/0764ff4f0163f0d21217fe3e182d9d8aa74e9cd2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Set The Flow",
-          "track_id": "1GkvXqjgnH8iLLcRuhp9m7"
-        },
-        {
           "artist_name": "Jon Casey, TroyBoi",
           "duration": 145655,
           "image_url": "https://i.scdn.co/image/ab67616d00001e022b58a963dd32167efdb0ec7b",
@@ -11449,6 +11440,15 @@
           "streaming_service": "spotify",
           "title": "Zurna",
           "track_id": "7CGB43FkEomSXAtnTNLC9n"
+        },
+        {
+          "artist_name": "Jon Casey",
+          "duration": 142588,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0203746d12ea302bf40f10f5b5",
+          "preview_url": "https://p.scdn.co/mp3-preview/72ac2797278834e1d948d0232362d31d4e5dc375?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "FAKE SMILE",
+          "track_id": "7iRJsA2udP3Kb3fsdR1VPu"
         }
       ]
     },
@@ -21318,12 +21318,12 @@
         },
         {
           "artist_name": "Creatura Music",
-          "duration": 307200,
+          "duration": 274285,
           "image_url": "https://i.scdn.co/image/ab67616d00001e026b43fc1199877d43a5f8c6aa",
-          "preview_url": "https://p.scdn.co/mp3-preview/0624e97511e2bc90a905f6c8b0b621dc1bd0c32e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "preview_url": "https://p.scdn.co/mp3-preview/159b579a5d8581e53595b84bdb210ff90b56bdba?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "For You",
-          "track_id": "3O0j1klgqzwdpDDnWbuYd9"
+          "title": "Lye Awake",
+          "track_id": "2yXSqvwXBjKvaReydf8yEf"
         },
         {
           "artist_name": "Creatura Music, More Like Space",
@@ -32791,13 +32791,13 @@
           "track_id": "0iaNTMrL6H1ihiWE0XJnaP"
         },
         {
-          "artist_name": "sbakarma, Sam Binga, Sir Hiss, AÆE",
-          "duration": 221467,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b387d9249d3a7515c2d26cc8",
-          "preview_url": "https://p.scdn.co/mp3-preview/c542078dc41924b087ab5694c5381b764d4d32f9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "Sam Binga, Fracture",
+          "duration": 266585,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02926cc25409ed9afbf7c90d48",
+          "preview_url": "https://p.scdn.co/mp3-preview/087f872820371da7bb8e49f8827e0a1f64d5ca2b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Any Weather - AÆE RMX",
-          "track_id": "0r4Wm8KmHaK6r65fdXeL1F"
+          "title": "Trippin’",
+          "track_id": "1qipL13yLU1An45mPfPn38"
         },
         {
           "artist_name": "Sam Binga, Redders, BAKEY",
