@@ -18377,10 +18377,12 @@
       "id": 2103515,
       "image": {
         "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/77/thumb_5676734_performance_100.png",
-        "120": "https://media.appmiral.com/prod/performance/0057/77/thumb_5676734_performance_120.png",
-        "250": "https://media.appmiral.com/prod/performance/0057/77/thumb_5676734_performance_250.png",
-        "500": "https://media.appmiral.com/prod/performance/0057/77/thumb_5676734_performance_500.png"
+        "100": "https://media.appmiral.com/prod/performance/0057/79/thumb_5678440_performance_100.jpeg",
+        "1080": "https://media.appmiral.com/prod/performance/0057/79/thumb_5678440_performance_1080.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/79/thumb_5678440_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/79/thumb_5678440_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/79/thumb_5678440_performance_500.jpeg",
+        "960": "https://media.appmiral.com/prod/performance/0057/79/thumb_5678440_performance_960.jpeg"
       },
       "links": {
         "instagram_user": "laav.music/",
@@ -28079,8 +28081,7 @@
         "facebook_page_id": "soohanbeats",
         "instagram_user": "soohansoohan/",
         "soundcloud_user": "soohan",
-        "spotify_artist_id": "4VFU3NYNZP40nMwmqIQSzB",
-        "youtube_channel_id": "UCJTZW-O61s86z3z6q6GGXSw"
+        "spotify_artist_id": "4VFU3NYNZP40nMwmqIQSzB"
       },
       "name": "SOOHAN",
       "performances": [
