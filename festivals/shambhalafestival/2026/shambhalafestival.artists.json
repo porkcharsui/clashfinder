@@ -8105,8 +8105,7 @@
       "links": {
         "instagram_user": "AMPLIVESWORLD/",
         "soundcloud_user": "AMPLIVE",
-        "spotify_artist_id": "4WoeMzXhDQyoFCKdji4FlL",
-        "youtube_channel_id": "UCZFvYK-jkH_MwOoWJxTsFMw"
+        "spotify_artist_id": "4WoeMzXhDQyoFCKdji4FlL"
       },
       "name": "AMP Live",
       "performances": [
@@ -24406,8 +24405,7 @@
         "facebook_page_id": "jkylxhyde",
         "instagram_user": "jkylxhyde",
         "soundcloud_user": "jkylxhyde",
-        "spotify_artist_id": "23AH13eC6V0NB0QCkV6206",
-        "youtube_channel_id": "UCqAbotSnf_gyR5XBzN9OAbA"
+        "spotify_artist_id": "23AH13eC6V0NB0QCkV6206"
       },
       "name": "Jkyl & Hyde",
       "performances": [
@@ -32793,6 +32791,15 @@
           "track_id": "0iaNTMrL6H1ihiWE0XJnaP"
         },
         {
+          "artist_name": "TOKiMONSTA, Sam Binga",
+          "duration": 292717,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025c6e9f8cb59225a55f6d8bd2",
+          "preview_url": "https://p.scdn.co/mp3-preview/97a76ca478d190c2a2186340fbdc970793221ca3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Joy Without Sound - Sam Binga Remix",
+          "track_id": "1gRuebdmI6NTVTm4LhzCyY"
+        },
+        {
           "artist_name": "Sam Binga, Redders, BAKEY",
           "duration": 232835,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02968fdec7452e364febc87b2d",
@@ -32800,15 +32807,6 @@
           "streaming_service": "spotify",
           "title": "Natural Mission - BAKEY Remix",
           "track_id": "1v2DuyPIK2akUsUPUOno4u"
-        },
-        {
-          "artist_name": "Emz, Sam Binga, BAKEY",
-          "duration": 175500,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e022d5e26ffd3193d5a03d4d9d3",
-          "preview_url": "https://p.scdn.co/mp3-preview/52e9063961cd918b7c346f0316803f259b500da6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Block & Delete - Edit",
-          "track_id": "4kKCGnkq8aLu7Rw05inBN5"
         },
         {
           "artist_name": "Sam Binga, Rider Shafique, Magugu, En:vy",
