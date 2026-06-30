@@ -3895,15 +3895,6 @@
           "track_id": "0A4W89kxZ9MX0P9XcamkHz"
         },
         {
-          "artist_name": "DJ Susan, Dave Summer",
-          "duration": 167269,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028b6d6f7863f0e85efc278835",
-          "preview_url": "https://p.scdn.co/mp3-preview/1fe11ccdd89fe0006feae29d87c4cd03df050496?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Serve Bass",
-          "track_id": "0Oiugu3SiF8lReCWKHAioD"
-        },
-        {
           "artist_name": "DJ Susan",
           "duration": 220150,
           "image_url": "https://i.scdn.co/image/ab67616d00001e021643d6e82b06f59bbff6a104",
@@ -3956,6 +3947,15 @@
           "streaming_service": "spotify",
           "title": "All Night Long",
           "track_id": "3z6iNWPSuT1YeytMUNlqkP"
+        },
+        {
+          "artist_name": "DJ Susan, Smith & Sorren, Rich DietZ",
+          "duration": 214153,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02bc1aea092a247744e65daa89",
+          "preview_url": "https://p.scdn.co/mp3-preview/819fedb4c960b38d7c306c37fdc9ef22eda35a22?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Baddie Alert",
+          "track_id": "682Ts2AokDNyre11ondDYB"
         },
         {
           "artist_name": "DJ Susan, Shift K3Y",
@@ -4213,15 +4213,6 @@
         },
         {
           "artist_name": "Thomas Anthony",
-          "duration": 162187,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ac04f29285ec7a7e8917df1f",
-          "preview_url": "https://p.scdn.co/mp3-preview/98417e583c72a2049425ab25fcd45902a8b137c7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Turn up the Volume",
-          "track_id": "2DuMiidQDXoWrdYkYImWb6"
-        },
-        {
-          "artist_name": "Thomas Anthony",
           "duration": 256000,
           "image_url": "https://i.scdn.co/image/ab67616d00001e024872cf0bcbc618d4c49067cc",
           "preview_url": "https://p.scdn.co/mp3-preview/fddc5e9c5c9ea59a02191dac97d0b3c47fdce3de?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -4239,7 +4230,7 @@
           "track_id": "3kCjlZSVK6qmeTdjko4xMq"
         },
         {
-          "artist_name": "Thomas Anthony, Palmer",
+          "artist_name": "Thomas Anthony, PALMER",
           "duration": 234545,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0289413419a9239db4f6f7d534",
           "preview_url": "https://p.scdn.co/mp3-preview/b4830c0a3e41af597a5038020e36501425b71d4b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -4248,13 +4239,22 @@
           "track_id": "4sDnA9wWPqa9zWqeEvmqS2"
         },
         {
-          "artist_name": "Thomas Anthony, Palmer",
+          "artist_name": "Thomas Anthony, PALMER",
           "duration": 292727,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0289413419a9239db4f6f7d534",
           "preview_url": "https://p.scdn.co/mp3-preview/5110ca16480b7d0fabb51e50ac466f5cc260c864?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
           "title": "Loneliness - Extended Mix",
           "track_id": "56xhYrV8tjPCMgTz2idZ5P"
+        },
+        {
+          "artist_name": "Thomas Anthony",
+          "duration": 162187,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02bf630bb5a276cf903560e1ac",
+          "preview_url": "https://p.scdn.co/mp3-preview/068dbd1710e2698be5bd9128ec287049bb9e83d9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Turn up the Volume",
+          "track_id": "5OVXXqDNfX0clduKJzHiI9"
         },
         {
           "artist_name": "Thomas Anthony, White Gypsy",
@@ -4287,7 +4287,7 @@
           "artist_name": "Thomas Anthony, We Are Robots",
           "duration": 261190,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0201b132d12c2224f9eab1e036",
-          "preview_url": "https://p.scdn.co/mp3-preview/5a62516c7ac58979013fc9b23d3c42cac9ff36f6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "preview_url": "https://p.scdn.co/mp3-preview/c7c42d9688ce8486fc4267e3cec49e40d8d48b32?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
           "title": "Underwater",
           "track_id": "7bQ9IsEEdaSO7UWEsNOc4U"
@@ -13145,6 +13145,15 @@
           "track_id": "2WCA3a7LQRdsKYf93AleId"
         },
         {
+          "artist_name": "Sivz",
+          "duration": 179541,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e029d2e5b000ce9e73fbcf4a667",
+          "preview_url": "https://p.scdn.co/mp3-preview/cfb77f6fdc3b107989dfa95e65d3b104cd785253?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Bad BTch",
+          "track_id": "2WMvK0NMI2mQm1SJDAomvd"
+        },
+        {
           "artist_name": "Sivz, Mood Child",
           "duration": 221951,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0277f86900db04d2940fc6ed2d",
@@ -13152,15 +13161,6 @@
           "streaming_service": "spotify",
           "title": "Mad Man Thing",
           "track_id": "4250jSYbSf4IH1S9c8sVu4"
-        },
-        {
-          "artist_name": "Sivz",
-          "duration": 163809,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027f1c3fcaa112c45e5443ed25",
-          "preview_url": "https://p.scdn.co/mp3-preview/3755ff527f83b7fdc085f932544cb52e95dbe382?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Better On My Own",
-          "track_id": "4HOD7uWZ6rc0SDoIKWUgMO"
         },
         {
           "artist_name": "Sivz",
@@ -17641,15 +17641,6 @@
           "track_id": "3PtLc3LZfsSREGJJXNtoKT"
         },
         {
-          "artist_name": "KR3TURE, Olivia De La Cruz",
-          "duration": 187944,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02745c0dd699b8e8458ef298d8",
-          "preview_url": "https://p.scdn.co/mp3-preview/55deb14ea3f5e859b9ad65b2337c88908b53b180?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "That Fire",
-          "track_id": "5ejmFlXhgnpU5uJ5JInPcO"
-        },
-        {
           "artist_name": "KR3TURE, Sea-Ren",
           "duration": 223142,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02773ddc1d1a46e3057fb70942",
@@ -17657,6 +17648,15 @@
           "streaming_service": "spotify",
           "title": "I Wanna Be Like You",
           "track_id": "6BjEy0AE874gwWZoFPZpwx"
+        },
+        {
+          "artist_name": "KR3TURE, Momentology, MOMNT",
+          "duration": 192000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02320b26b8eb075fcd98ec2748",
+          "preview_url": "https://p.scdn.co/mp3-preview/4ecb92163dfc717d65319b62852727712f027a07?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Owl's Nest",
+          "track_id": "6z3e1Df9LFsyb96qS6ZG6g"
         }
       ]
     },
@@ -25455,15 +25455,6 @@
           "track_id": "0K4i60xmB1OlVWcV8sizE6"
         },
         {
-          "artist_name": "The Gaff, Jamma",
-          "duration": 208166,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e71c8b42452f259ee73a2015",
-          "preview_url": "https://p.scdn.co/mp3-preview/8bc9f971165d405c4767961923f826cb5bddd6c8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Dream State - Jamma Remix",
-          "track_id": "0x9N5IVIGu86h785zU7iqy"
-        },
-        {
           "artist_name": "MVPZ, The Gaff, Amp Live",
           "duration": 195500,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0258915b951016db36f3ef9b2b",
@@ -25471,6 +25462,15 @@
           "streaming_service": "spotify",
           "title": "Think About You",
           "track_id": "1u9zdz5Jpsy5kHCj2aPpMg"
+        },
+        {
+          "artist_name": "The Harpoonist, The Gaff",
+          "duration": 322250,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d98c7cb7daf185cfe45adf2f",
+          "preview_url": "https://p.scdn.co/mp3-preview/be3ad584678d86da1fadf1069a6e432547e36752?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Good People - The Gaff Remix",
+          "track_id": "2jf6SJPPedOvyAGKJwtNKe"
         },
         {
           "artist_name": "MVPZ, Amp Live, The Gaff, Krafty Kuts, Johanna Phraze",
@@ -27212,15 +27212,6 @@
         },
         {
           "artist_name": "Ivy Lab",
-          "duration": 176561,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02020c45fc0112b1d3e1a747f3",
-          "preview_url": "https://p.scdn.co/mp3-preview/7bf6082cecf4c09a71dbb97d6c190cca4ba28db0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Gossip",
-          "track_id": "1rAVvtWzgrnWeAKBwqebu2"
-        },
-        {
-          "artist_name": "Ivy Lab",
           "duration": 205796,
           "image_url": "https://i.scdn.co/image/ab67616d00001e024144c072e3b6222b72725004",
           "preview_url": "https://p.scdn.co/mp3-preview/bd63b420707eadb3a09e90dde9c0e4413a85c36b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -27272,6 +27263,15 @@
           "streaming_service": "spotify",
           "title": "Point Five",
           "track_id": "5fOWNQF6p3Naz4QwBO71cG"
+        },
+        {
+          "artist_name": "Ivy Lab",
+          "duration": 197611,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0274249d925a1ef1a174c8e246",
+          "preview_url": "https://p.scdn.co/mp3-preview/56b94816c0c5f97319c1e16f402b8c9a07991e2e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Amber",
+          "track_id": "6BZamWG6hfyq6chn88MfA2"
         },
         {
           "artist_name": "Ivy Lab, Frank Carter III",
