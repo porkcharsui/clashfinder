@@ -1269,7 +1269,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -1422,7 +1422,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -1488,7 +1488,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -1646,7 +1646,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -1802,7 +1802,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -1960,7 +1960,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -2120,7 +2120,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -2277,7 +2277,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -2431,7 +2431,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -2587,7 +2587,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -2745,7 +2745,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -2930,7 +2930,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -3090,7 +3090,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -3249,7 +3249,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -3409,7 +3409,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -3566,7 +3566,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -3720,7 +3720,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -3879,7 +3879,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -4037,7 +4037,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -4196,7 +4196,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -4354,7 +4354,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -4511,7 +4511,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -4575,7 +4575,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -4640,7 +4640,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -4705,7 +4705,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -4770,7 +4770,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -4837,7 +4837,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -4993,7 +4993,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -5148,7 +5148,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -5214,7 +5214,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -5361,7 +5361,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -5426,7 +5426,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -5490,7 +5490,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -5558,7 +5558,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -5712,7 +5712,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -5777,7 +5777,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -5842,7 +5842,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -5909,7 +5909,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -5974,7 +5974,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -6133,7 +6133,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -6288,7 +6288,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -6391,7 +6391,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -6547,7 +6547,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -6705,7 +6705,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -6792,7 +6792,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -6883,7 +6883,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -7039,7 +7039,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -7107,7 +7107,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -7240,7 +7240,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -7304,7 +7304,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -7371,7 +7371,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -7500,7 +7500,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -7566,7 +7566,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -7635,7 +7635,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -7792,7 +7792,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -7947,7 +7947,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -8012,7 +8012,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -8080,7 +8080,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -8105,7 +8105,8 @@
       "links": {
         "instagram_user": "AMPLIVESWORLD/",
         "soundcloud_user": "AMPLIVE",
-        "spotify_artist_id": "4WoeMzXhDQyoFCKdji4FlL"
+        "spotify_artist_id": "4WoeMzXhDQyoFCKdji4FlL",
+        "youtube_channel_id": "UCZFvYK-jkH_MwOoWJxTsFMw"
       },
       "name": "AMP Live",
       "performances": [
@@ -8146,7 +8147,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -8305,7 +8306,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -8463,7 +8464,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -8620,7 +8621,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -8688,7 +8689,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -8844,7 +8845,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -8909,7 +8910,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -9068,7 +9069,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -9221,7 +9222,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -9286,7 +9287,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -9352,7 +9353,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -9418,7 +9419,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -9485,7 +9486,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -9556,7 +9557,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -9714,7 +9715,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -9780,7 +9781,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -9845,7 +9846,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -9911,7 +9912,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -10051,7 +10052,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -10121,7 +10122,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -10273,7 +10274,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -10429,7 +10430,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -10497,7 +10498,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -10655,7 +10656,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -10813,7 +10814,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -10972,7 +10973,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -11130,7 +11131,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -11285,7 +11286,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -11353,7 +11354,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -11511,7 +11512,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -11669,7 +11670,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -11828,7 +11829,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -11988,7 +11989,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -12146,7 +12147,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -12305,7 +12306,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -12465,7 +12466,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -12624,7 +12625,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -12781,7 +12782,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -12941,7 +12942,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -13101,7 +13102,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -13259,7 +13260,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -13417,7 +13418,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -13577,7 +13578,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -13736,7 +13737,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -13918,7 +13919,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -14076,7 +14077,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -14236,7 +14237,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -14418,7 +14419,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -14578,7 +14579,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -14735,7 +14736,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -14891,7 +14892,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -14957,7 +14958,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -15023,7 +15024,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -15182,7 +15183,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -15339,7 +15340,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -15407,7 +15408,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -15563,7 +15564,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -15630,7 +15631,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -15787,7 +15788,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -15947,7 +15948,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -16106,7 +16107,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -16259,7 +16260,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -16325,7 +16326,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -16481,7 +16482,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -16639,7 +16640,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -16707,7 +16708,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -16811,7 +16812,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -16966,7 +16967,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -17033,7 +17034,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -17192,7 +17193,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -17259,7 +17260,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -17334,7 +17335,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -17402,7 +17403,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -17561,7 +17562,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -17720,7 +17721,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -17876,7 +17877,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -17943,7 +17944,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -18009,7 +18010,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -18074,7 +18075,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -18139,7 +18140,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -18294,7 +18295,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -18359,7 +18360,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -18427,7 +18428,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -18512,7 +18513,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -18675,7 +18676,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -18835,7 +18836,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -18993,7 +18994,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -19151,7 +19152,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -19307,7 +19308,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -19466,7 +19467,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -19626,7 +19627,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -19785,7 +19786,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -19949,7 +19950,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -20108,7 +20109,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -20263,7 +20264,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -20332,7 +20333,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -20491,7 +20492,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -20650,7 +20651,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -20807,7 +20808,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -20961,7 +20962,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -21026,7 +21027,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -21088,7 +21089,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -21153,7 +21154,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -21218,7 +21219,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -21284,7 +21285,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -21440,7 +21441,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -21599,7 +21600,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -21675,7 +21676,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -21784,7 +21785,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -21939,7 +21940,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -22096,7 +22097,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -22255,7 +22256,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -22414,7 +22415,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -22571,7 +22572,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -22636,7 +22637,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -22704,7 +22705,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -22862,7 +22863,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -23020,7 +23021,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -23178,7 +23179,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -23338,7 +23339,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -23495,7 +23496,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -23654,7 +23655,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -23813,7 +23814,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -23972,7 +23973,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -24132,7 +24133,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -24289,7 +24290,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -24405,7 +24406,8 @@
         "facebook_page_id": "jkylxhyde",
         "instagram_user": "jkylxhyde",
         "soundcloud_user": "jkylxhyde",
-        "spotify_artist_id": "23AH13eC6V0NB0QCkV6206"
+        "spotify_artist_id": "23AH13eC6V0NB0QCkV6206",
+        "youtube_channel_id": "UCqAbotSnf_gyR5XBzN9OAbA"
       },
       "name": "Jkyl & Hyde",
       "performances": [
@@ -24446,7 +24448,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -24603,7 +24605,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -24671,7 +24673,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -24816,7 +24818,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -24882,7 +24884,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -24943,7 +24945,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -25012,7 +25014,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -25169,7 +25171,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -25234,7 +25236,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -25300,7 +25302,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -25365,7 +25367,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -25437,7 +25439,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -25597,7 +25599,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -25758,7 +25760,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -25915,7 +25917,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -26069,7 +26071,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -26228,7 +26230,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -26386,7 +26388,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -26455,7 +26457,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -26609,7 +26611,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -26675,7 +26677,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -26742,7 +26744,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -26900,7 +26902,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -26970,7 +26972,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -27038,7 +27040,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -27193,7 +27195,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -27351,7 +27353,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -27513,7 +27515,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -27670,7 +27672,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -27737,7 +27739,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -27805,7 +27807,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -27962,7 +27964,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -28121,7 +28123,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -28277,7 +28279,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -28435,7 +28437,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -28501,7 +28503,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -28659,7 +28661,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -28816,7 +28818,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -28972,7 +28974,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -29037,7 +29039,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -29104,7 +29106,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -29262,7 +29264,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -29338,7 +29340,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -29405,7 +29407,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -29558,7 +29560,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -29716,7 +29718,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -29870,7 +29872,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -30030,7 +30032,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -30184,7 +30186,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -30333,7 +30335,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -30490,7 +30492,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -30646,7 +30648,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -30711,7 +30713,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -30784,7 +30786,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -30852,7 +30854,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -31008,7 +31010,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -31164,7 +31166,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -31318,7 +31320,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -31474,7 +31476,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -31625,7 +31627,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -31782,7 +31784,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -31847,7 +31849,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -31913,7 +31915,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -31979,7 +31981,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -32139,7 +32141,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -32207,7 +32209,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -32363,7 +32365,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -32431,7 +32433,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -32590,7 +32592,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -32748,7 +32750,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -32906,7 +32908,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -33062,7 +33064,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -33129,7 +33131,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -33289,7 +33291,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -33446,7 +33448,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -33604,7 +33606,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -33764,7 +33766,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -33924,7 +33926,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -34084,7 +34086,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -34241,7 +34243,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -34306,7 +34308,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -34529,7 +34531,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -34668,7 +34670,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -34733,7 +34735,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -34867,7 +34869,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -34976,7 +34978,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -35109,7 +35111,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -35220,7 +35222,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -35331,7 +35333,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -35447,7 +35449,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -35604,7 +35606,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -35715,7 +35717,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -35849,7 +35851,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -35983,7 +35985,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -36460,7 +36462,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -36569,7 +36571,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -36634,7 +36636,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -36786,7 +36788,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -36898,7 +36900,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -36939,7 +36941,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -36980,7 +36982,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -37114,7 +37116,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -37155,7 +37157,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -37312,7 +37314,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -37421,7 +37423,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -37510,7 +37512,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -37575,7 +37577,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -37642,7 +37644,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -37741,7 +37743,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -37807,7 +37809,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -37940,7 +37942,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -38004,7 +38006,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -38076,7 +38078,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -38140,7 +38142,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -38208,7 +38210,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -38366,7 +38368,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -38433,7 +38435,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -38495,7 +38497,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -38557,7 +38559,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -38619,7 +38621,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -38687,7 +38689,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -38749,7 +38751,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -38811,7 +38813,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -38873,7 +38875,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -38935,7 +38937,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -39001,7 +39003,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -39063,7 +39065,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -39130,7 +39132,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -39288,7 +39290,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -39357,7 +39359,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -39516,7 +39518,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }
@@ -39676,7 +39678,7 @@
           "filter": true,
           "name": "Artist",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-artist",
           "visible": true
         }

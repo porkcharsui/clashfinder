@@ -110,7 +110,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -384,7 +384,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -406,7 +406,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -428,7 +428,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -454,7 +454,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
@@ -476,7 +476,7 @@
           "filter": true,
           "name": "Activities",
           "priority": 100,
-          "show_in_search": false,
+          "show_in_search": true,
           "slug": "type-activities",
           "visible": true
         }
