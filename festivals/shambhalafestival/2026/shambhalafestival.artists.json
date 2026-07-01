@@ -33883,7 +33883,8 @@
         "instagram_user": "clozeeofficial",
         "soundcloud_user": "clozee",
         "spotify_artist_id": "1496XxkytEk26FUJLfpVZr",
-        "twitter_user": "clozeeofficial"
+        "twitter_user": "clozeeofficial",
+        "youtube_channel_id": "UCzPIqYIvzikRv7gm2EWGckg"
       },
       "name": "CloZee",
       "performances": [
@@ -39373,6 +39374,15 @@
           "track_id": "0cCrsXUyzZFjmTJbhtfwY6"
         },
         {
+          "artist_name": "hoodie weather, parkbreezy, Rasp-5, Lucinda",
+          "duration": 218666,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028e7c90fc0f59ca6a7cde0b4a",
+          "preview_url": "https://p.scdn.co/mp3-preview/6385deb2c9d1b89ca1c57edf268e07539d28d6cd?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Waves",
+          "track_id": "0kZJS1sPO51gz0DVjXiBj1"
+        },
+        {
           "artist_name": "parkbreezy, Motifv",
           "duration": 179200,
           "image_url": "https://i.scdn.co/image/ab67616d00001e020c03f58b238ec7ec2b4d2060",
@@ -39416,15 +39426,6 @@
           "streaming_service": "spotify",
           "title": "Ballin",
           "track_id": "5xfw4Gtv8QZuG3e3jXwekY"
-        },
-        {
-          "artist_name": "parkbreezy, TF Marz, Alex Unger",
-          "duration": 178909,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02247e645de0593b6850a9d167",
-          "preview_url": "https://p.scdn.co/mp3-preview/5d2270643923d706aed34a5567fc28054da40a6f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Wish You Could",
-          "track_id": "7CKQ0WJYIv1qzhAQBAg68Y"
         },
         {
           "artist_name": "parkbreezy",
