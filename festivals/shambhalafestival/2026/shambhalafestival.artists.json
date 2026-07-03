@@ -1330,13 +1330,13 @@
           "track_id": "3sltsCPMrSWf12lP4IMnDU"
         },
         {
-          "artist_name": "BoyNotHome",
-          "duration": 178285,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0291f560c2707d70e873e7e062",
-          "preview_url": "https://p.scdn.co/mp3-preview/bc616e99d84a8c421b19152b683f60f26959174f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "BoyNotHome, Just John",
+          "duration": 206769,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e7d1b3f1286cfdf7af21a6a5",
+          "preview_url": "https://p.scdn.co/mp3-preview/6913a184b21cf7aee88b69566bdb4d2f973f94f4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Just Go",
-          "track_id": "5Krv0Ec1V6Y7HgBXv062yq"
+          "title": "Sleep Tight",
+          "track_id": "4KOeOI9wDPZxKdQK3gKtQg"
         },
         {
           "artist_name": "BoyNotHome, WonkyWilla",
@@ -3159,13 +3159,13 @@
           "track_id": "47LmVQUk1jpoU3qbA2DmNT"
         },
         {
-          "artist_name": "Purple Disco Machine, Benjamin Ingrosso, The Sponges, Nile Rodgers, Shenseea",
-          "duration": 219063,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02846d2184f03d991c87abe5e6",
-          "preview_url": "https://p.scdn.co/mp3-preview/655bf58acb56ef912caac83aa0176c360d62efb9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "The Sponges, Ultra Naté",
+          "duration": 249600,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0271fad9a2a87bc97648d540cb",
+          "preview_url": "https://p.scdn.co/mp3-preview/903bafefdee9197d04e9c0f7914a842872622c3c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Honey Boy - The Sponges Remix",
-          "track_id": "4mArUbxKFP5k9v9Cc7dtIg"
+          "title": "Makes Me Feel Good - Extended Mix",
+          "track_id": "4X0H6qPTeDZrzOOVmFY7Kq"
         },
         {
           "artist_name": "The Sponges, Sgt Slick",
@@ -3442,6 +3442,15 @@
           "track_id": "1oeljccOyFQGPOY8gaVnnH"
         },
         {
+          "artist_name": "Matroda, MERYLL",
+          "duration": 146195,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e020f4a70e70d638c7478e09c24",
+          "preview_url": "https://p.scdn.co/mp3-preview/dd2a23cc77a2800c56e5a543c59007f072c1303e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "No Sleep (6AM) (feat. MERYLL)",
+          "track_id": "2hpoG18R8aBXB3O5QmheJt"
+        },
+        {
           "artist_name": "Matroda, Dino DZ",
           "duration": 141120,
           "image_url": "https://i.scdn.co/image/ab67616d00001e026fbb4c896a89b20809dd8d33",
@@ -3485,15 +3494,6 @@
           "streaming_service": "spotify",
           "title": "Can't Help Myself",
           "track_id": "649WkG75AJOBLsD4wkVrTV"
-        },
-        {
-          "artist_name": "AFTER MIDNIGHT, Matroda, San Pacho",
-          "duration": 208181,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0298ab5c48f85c4572010c5ec0",
-          "preview_url": "https://p.scdn.co/mp3-preview/14d3e764ce8178b18a34615b0441b4e28ba88e7a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Feel Alright",
-          "track_id": "6fOasNBYHbgtGfmHqxSU2L"
         },
         {
           "artist_name": "Matroda",
@@ -10289,15 +10289,6 @@
           "track_id": "02t0beZG4PCPabDZTcNMAf"
         },
         {
-          "artist_name": "Cerdin, Visev",
-          "duration": 251468,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0250fbf6a6f1eb5f4caef12449",
-          "preview_url": "https://p.scdn.co/mp3-preview/92c0f3fc00188fa20ae06a1c117fc4743527eb2a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Push - Visev Remix",
-          "track_id": "16cScXCF91WH631ert2qS0"
-        },
-        {
           "artist_name": "Squired, Cerdin",
           "duration": 204413,
           "image_url": "https://i.scdn.co/image/ab67616d00001e026088b1b8b988778d5a658f6b",
@@ -10314,6 +10305,15 @@
           "streaming_service": "spotify",
           "title": "Talk",
           "track_id": "3hwW6WUL4SHd11Uz3KU38U"
+        },
+        {
+          "artist_name": "Cerdin, Virus Mafia",
+          "duration": 160000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0250fbf6a6f1eb5f4caef12449",
+          "preview_url": "https://p.scdn.co/mp3-preview/7de5e5c761f03b6558c509bb33ef2e75429cedd5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Push - Virus Mafia Remix",
+          "track_id": "4U9MUijqmwFzRUdJ9TlVEz"
         },
         {
           "artist_name": "Squired, Cerdin",
@@ -13424,6 +13424,15 @@
       ],
       "tracks": [
         {
+          "artist_name": "Sam i, Kiinjo, Petite Meller",
+          "duration": 189590,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e020bab98c361827678e31159d0",
+          "preview_url": "https://p.scdn.co/mp3-preview/805592db47b974eb03e3ebab10bc91a9d0973ab2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Love Got High (with Kiinjo & Petite Meller)",
+          "track_id": "0aXCYGrtJaYRglOnVJvWRk"
+        },
+        {
           "artist_name": "Pat Lok, Kiinjo",
           "duration": 186288,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02ce7ede5662afec1d487fbdfc",
@@ -13449,15 +13458,6 @@
           "streaming_service": "spotify",
           "title": "Body Music - Kiinjo and Nick Bike Remix",
           "track_id": "1LNoEhEcbtBhdRxdJEHE0g"
-        },
-        {
-          "artist_name": "Kiinjo, Ce Soir",
-          "duration": 207765,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0223ab3f441e20970e78e0627a",
-          "preview_url": "https://p.scdn.co/mp3-preview/0efbdd23a9c58cf4dadb2eb1470bae5684576176?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Don't Let Go (Love)",
-          "track_id": "1R7hsTclyQH9IdQ4fWg5AQ"
         },
         {
           "artist_name": "Kiinjo, Pat Lok",
@@ -21327,13 +21327,13 @@
           "track_id": "2yXSqvwXBjKvaReydf8yEf"
         },
         {
-          "artist_name": "Creatura Music",
-          "duration": 307200,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e026b43fc1199877d43a5f8c6aa",
-          "preview_url": "https://p.scdn.co/mp3-preview/0624e97511e2bc90a905f6c8b0b621dc1bd0c32e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "Creatura Music, More Like Space",
+          "duration": 306466,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0255a8b7cb5ee66a6cfae2d214",
+          "preview_url": "https://p.scdn.co/mp3-preview/bf2c863d73ca8d1ead3acb706f509ca47adf2fd7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "For You",
-          "track_id": "3O0j1klgqzwdpDDnWbuYd9"
+          "title": "EVENING",
+          "track_id": "4ch2lxB8alDHL8YD2vl7Lq"
         },
         {
           "artist_name": "Creatura Music, Tarran the Tailor",
@@ -23028,21 +23028,21 @@
       "tracks": [
         {
           "artist_name": "Atebaki",
-          "duration": 326769,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02fdb3a0ba6d9018e0b5b8e0ee",
-          "preview_url": "https://p.scdn.co/mp3-preview/743184f922f09bfa248624da19b71a9592aaf3b8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Pocket Tales",
-          "track_id": "0VB67cDa8JFgdfLWIxOvlM"
-        },
-        {
-          "artist_name": "Atebaki",
           "duration": 195450,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0223759bd9844a175b89d7fe0e",
           "preview_url": "https://p.scdn.co/mp3-preview/956454675279b913783c1dad7a0292dfe1787227?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
           "title": "Black Turtle",
           "track_id": "0Vpyei8OBDB30WJzoFkkda"
+        },
+        {
+          "artist_name": "Atebaki",
+          "duration": 195245,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021a0790d13ded5e3e8f74bedb",
+          "preview_url": "https://p.scdn.co/mp3-preview/339b29e2a8f0b35c6bff6043f7ea660ba11467bd?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Eclipse Apocalypse",
+          "track_id": "0gjCeG7raz3oKxQVJsqeNH"
         },
         {
           "artist_name": "Atebaki",
@@ -25454,6 +25454,15 @@
           "track_id": "0K4i60xmB1OlVWcV8sizE6"
         },
         {
+          "artist_name": "The Gaff, Jamma",
+          "duration": 208166,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e71c8b42452f259ee73a2015",
+          "preview_url": "https://p.scdn.co/mp3-preview/8bc9f971165d405c4767961923f826cb5bddd6c8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Dream State - Jamma Remix",
+          "track_id": "0x9N5IVIGu86h785zU7iqy"
+        },
+        {
           "artist_name": "MVPZ, The Gaff, Amp Live",
           "duration": 195500,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0258915b951016db36f3ef9b2b",
@@ -25524,15 +25533,6 @@
           "streaming_service": "spotify",
           "title": "Ong Namo",
           "track_id": "6APTX2iMYEzrRrbP9y01Xe"
-        },
-        {
-          "artist_name": "The Gaff",
-          "duration": 239348,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e71c8b42452f259ee73a2015",
-          "preview_url": "https://p.scdn.co/mp3-preview/54a6fbada02a5eff497df5d4ccc849b92c4a4f50?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Simba's Kalimba",
-          "track_id": "7m3CTVKlnIh2DqRwbP6g7f"
         }
       ]
     },
@@ -25784,6 +25784,14 @@
           "track_id": "0CaHZUniQtDRZleX6XK9p7"
         },
         {
+          "artist_name": "Maroon 5, Chromeo",
+          "duration": 259663,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c0dfc0e460eb4e561465c972",
+          "streaming_service": "spotify",
+          "title": "Wait - Chromeo Remix",
+          "track_id": "0eayB5jay6m21D816D7jF4"
+        },
+        {
           "artist_name": "Lorde, Chromeo",
           "duration": 247933,
           "image_url": "https://i.scdn.co/image/ab67616d00001e022e6cb000abc707be89b5ce7b",
@@ -25799,15 +25807,6 @@
           "streaming_service": "spotify",
           "title": "Heartbreaker",
           "track_id": "2tzlST6nuRo28UMVPZAIuR"
-        },
-        {
-          "artist_name": "Chromeo",
-          "duration": 227906,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ea9dc98a9ae5397ee3d6fb5a",
-          "preview_url": "https://p.scdn.co/mp3-preview/fbf8c797d84dd84734b8dd8df1785afd114c45fc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Old 45's",
-          "track_id": "3JEQodTFL5aWEKFz4aBjTd"
         },
         {
           "artist_name": "Chromeo",
@@ -27211,6 +27210,15 @@
         },
         {
           "artist_name": "Ivy Lab",
+          "duration": 208220,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a113204997d021d721ede5dd",
+          "preview_url": "https://p.scdn.co/mp3-preview/048e29c2f1f37e550b4c308a807dd65414fb0025?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Daily Star",
+          "track_id": "0zIwUzgdAgFq9AdUk2KB9J"
+        },
+        {
+          "artist_name": "Ivy Lab",
           "duration": 205796,
           "image_url": "https://i.scdn.co/image/ab67616d00001e024144c072e3b6222b72725004",
           "preview_url": "https://p.scdn.co/mp3-preview/bd63b420707eadb3a09e90dde9c0e4413a85c36b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -27253,15 +27261,6 @@
           "streaming_service": "spotify",
           "title": "Orange",
           "track_id": "5YSldUKXVoUVC0giG4t85B"
-        },
-        {
-          "artist_name": "Ivy Lab",
-          "duration": 205094,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0285f901bf6414787e789d1115",
-          "preview_url": "https://p.scdn.co/mp3-preview/c4195b3706945e73f34bd4abee9950f1ff51fa9e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Point Five",
-          "track_id": "5fOWNQF6p3Naz4QwBO71cG"
         },
         {
           "artist_name": "Ivy Lab",
@@ -27867,13 +27866,13 @@
           "track_id": "47qAlLxdUWdJsnM2l7gPEa"
         },
         {
-          "artist_name": "Gl0bal, BRONZY, RUN CLUB",
-          "duration": 255096,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02838d56fd886b4bdff3390724",
-          "preview_url": "https://p.scdn.co/mp3-preview/7441f32a47452c90cadd9aa6687531f6d424a5ac?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "DJ BL3ND, Gl0bal",
+          "duration": 206769,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0240e173c10e04015de40a87f2",
+          "preview_url": "https://p.scdn.co/mp3-preview/c77e5d86dd7e7e13c1ccb41807812df6632b9a88?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "See Me",
-          "track_id": "5Az7ApIibeJqX3t31xTvqj"
+          "title": "Jump Around - GL0BAL Remix",
+          "track_id": "5QEBkpfHe6IkubApedc9i7"
         },
         {
           "artist_name": "Gl0bal, So Sus, Xtina Louise",
@@ -28330,13 +28329,13 @@
           "track_id": "2SCLswvRP8hAYdIKsrLV6h"
         },
         {
-          "artist_name": "Stavroz",
-          "duration": 278003,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021ff245943d569c3286b0efd2",
-          "preview_url": "https://p.scdn.co/mp3-preview/104827198539b1777cc1f167789ef6d8255104c5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "Stavroz, Photay",
+          "duration": 348661,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e029a866084282dadb2bedde7d2",
+          "preview_url": "https://p.scdn.co/mp3-preview/914c5e2ede99844025209f00fc00afaea290f3dd?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Designer Eggs im Garten - Mixed - June 2026",
-          "track_id": "2XcWCLWAe7jKMPqkr4J7D2"
+          "title": "Indigo Dye - Photay Remix",
+          "track_id": "4RuQ11dP6Asm8xXlzgGulp"
         },
         {
           "artist_name": "Stavroz",
@@ -29112,6 +29111,15 @@
       ],
       "tracks": [
         {
+          "artist_name": "TKO, MHNUS",
+          "duration": 281580,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02612f0f6166d6342915412378",
+          "preview_url": "https://p.scdn.co/mp3-preview/2afa780b650fe3e793d70e705d35125b678ac64f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Mind & Soul",
+          "track_id": "1LDGKm4XaLZjN82P23wr78"
+        },
+        {
           "artist_name": "Longstocking, D-Tek, TKO",
           "duration": 232038,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02af42a7cd06752f635bcc2f7c",
@@ -29119,15 +29127,6 @@
           "streaming_service": "spotify",
           "title": "Smile & Wave - TKO Remix",
           "track_id": "1djEERtdtlXdAOJSHY552w"
-        },
-        {
-          "artist_name": "TKO, Ignotus",
-          "duration": 306666,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027b97f658fbde36bd46e704cd",
-          "preview_url": "https://p.scdn.co/mp3-preview/d479571c4a882327280589e966f2ec73b111b573?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Warning - Ignotus Remix",
-          "track_id": "1zeH1fgNZWkMqNMNid4on6"
         },
         {
           "artist_name": "Good Neighbor, TKO",
@@ -29364,8 +29363,7 @@
       "links": {
         "instagram_user": "stressheadmusic",
         "soundcloud_user": "9ywqeQhoCTdyA80RyV",
-        "spotify_artist_id": "1ilfLz2z62VTtvKJmxYPzs",
-        "youtube_channel_id": "UClLD2uwTNtXN5eTg5N1IK1A"
+        "spotify_artist_id": "1ilfLz2z62VTtvKJmxYPzs"
       },
       "name": "Stresshead",
       "performances": [
@@ -29776,15 +29774,6 @@
         },
         {
           "artist_name": "Lavern",
-          "duration": 141579,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e023ff93cb0f218c9ff45a09ab9",
-          "preview_url": "https://p.scdn.co/mp3-preview/799997e89e314f773930a6d8e905777207ebc045?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Golden Sunset",
-          "track_id": "679xwHGrkNsNQHh6KacLxA"
-        },
-        {
-          "artist_name": "Lavern",
           "duration": 133636,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02849caa3a666151541464c97d",
           "preview_url": "https://p.scdn.co/mp3-preview/32a4b8166593d48c2afefcb59ec73b0af1be3b12?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -29800,6 +29789,15 @@
           "streaming_service": "spotify",
           "title": "Move Me",
           "track_id": "6LptEwO1ObZvVQXlU0BPIJ"
+        },
+        {
+          "artist_name": "Lavern",
+          "duration": 117250,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d09d455694c1ac6c6ad40214",
+          "preview_url": "https://p.scdn.co/mp3-preview/500668a3493fa9784b5851f18da0320f58248f46?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Lose My Mind",
+          "track_id": "7D0n7hVXtVUCw0hil4ejek"
         },
         {
           "artist_name": "Gryffin, Lavern, AR/CO",
