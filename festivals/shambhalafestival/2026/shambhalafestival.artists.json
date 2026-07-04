@@ -6064,7 +6064,7 @@
           "artist_name": "Skrillex, Nitepunk",
           "duration": 204857,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02b80d55b7c08dc44800edf3d9",
-          "preview_url": "https://p.scdn.co/mp3-preview/d813df11c367615919f98ee8ccd11914993a48ae?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "preview_url": "https://p.scdn.co/mp3-preview/777ca8b25815850043a9fafcd0133fb85fdef918?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
           "title": "Soma",
           "track_id": "6MVLHfS52hKHzbcLtejCWC"
@@ -30515,15 +30515,6 @@
           "track_id": "2S6Yp0oUifZH2vWkVoRDHJ"
         },
         {
-          "artist_name": "Brunello, Vargas",
-          "duration": 372480,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ae67d4e1364b36f0ea8194a2",
-          "preview_url": "https://p.scdn.co/mp3-preview/5509f899d15ff2e9a54a40f7b1a2a1111751b3fd?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Ghost Dance",
-          "track_id": "3x6CEyquRREaQ9ZBbBhrGe"
-        },
-        {
           "artist_name": "Brunello",
           "duration": 192780,
           "image_url": "https://i.scdn.co/image/ab67616d00001e026cbdafe57f9c21109bfad849",
@@ -30567,6 +30558,15 @@
           "streaming_service": "spotify",
           "title": "Science Fiction",
           "track_id": "6FTveMyq8szPAloptdZ17g"
+        },
+        {
+          "artist_name": "Hilel Lev, Brunello",
+          "duration": 403200,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02af3890263333ce020cc46cae",
+          "preview_url": "https://p.scdn.co/mp3-preview/2a4aa56e6da30926304787468dd178699cf9c98d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Luv techniques - Brunello Remix",
+          "track_id": "6H9PSNZmBnfHos2vdKlRcV"
         },
         {
           "artist_name": "Brunello",
