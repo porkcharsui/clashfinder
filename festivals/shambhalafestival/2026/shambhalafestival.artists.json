@@ -35432,6 +35432,29 @@
           "stage_name": "Sunburst Canopy",
           "start_time": "2026-07-22T17:00:00+00:00",
           "tags": []
+        },
+        {
+          "artist_id": 2110031,
+          "body": "<p><span data-sheets-root=\"1\">Teaching yoga since 2016 and dancing through festivals since 2007, Raquel delivers ancient wisdom for the modern palette. She merges movement, knowledge and bass for those seeking truth, connection and inner-knowing. Offering embodied experiences for expansion and growth continues to be her mission, and teaching at festivals allows her to merge passion with my purpose.</span></p>",
+          "date_id": 5140,
+          "end_time": "2026-07-26T20:30:00+00:00",
+          "hide_end_time": false,
+          "hide_start_time": false,
+          "id": 342897,
+          "name": "Laughter Yoga",
+          "priority": 100,
+          "published": true,
+          "reminder_interval": 15,
+          "show_image_in_schedule": true,
+          "show_in_calendar": true,
+          "show_in_line_up": false,
+          "show_in_schedule": true,
+          "show_in_search": true,
+          "sold_out": false,
+          "stage_id": 18198,
+          "stage_name": "Sunburst Canopy",
+          "start_time": "2026-07-26T19:00:00+00:00",
+          "tags": []
         }
       ],
       "priority": 100,
@@ -36013,7 +36036,7 @@
           "artist_id": 2110036,
           "body": "<p><span data-sheets-root=\"1\">Join SMF Games hosts Dustin, Amanda, Jess, and Curt for a rotating lineup of delightfully interactive games, pop-up contests, and whimsical experiences designed to spark joy, laughter, and connection in the heart of Downtown Shambhala. From parachute games and UNO tournaments to bingo, karaoke, and spontaneous silliness, this is your invitation to play like a kid and vibe like a festival legend. Whether you’re competing for ridiculous prizes or just making new friends, every session brings something fresh. Inspired by the spirit of Shambhala—creative, kind, and full of surprises—these immersive activations invite you to be part of the magic. Come once or come every day. It’s different every time.</span></p>",
           "date_id": 5137,
-          "end_time": "2026-07-23T19:00:00+00:00",
+          "end_time": "2026-07-23T20:00:00+00:00",
           "hide_end_time": false,
           "hide_start_time": false,
           "id": 327765,
@@ -36029,7 +36052,7 @@
           "sold_out": false,
           "stage_id": 17876,
           "stage_name": "Riverside",
-          "start_time": "2026-07-23T18:00:00+00:00",
+          "start_time": "2026-07-23T19:00:00+00:00",
           "tags": []
         },
         {
@@ -36086,7 +36109,7 @@
           "hide_end_time": false,
           "hide_start_time": false,
           "id": 327803,
-          "name": "Art Walk - Meet at noon",
+          "name": "Art Walk - Meet at 11:30",
           "priority": 100,
           "published": true,
           "reminder_interval": 15,
@@ -36098,7 +36121,7 @@
           "sold_out": false,
           "stage_id": 18202,
           "stage_name": "Circle Garden Theatre",
-          "start_time": "2026-07-24T19:00:00+00:00",
+          "start_time": "2026-07-24T18:30:00+00:00",
           "tags": []
         },
         {
