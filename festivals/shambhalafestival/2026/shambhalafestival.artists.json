@@ -5,8 +5,8 @@
   "_meta": {
     "max_per_page": 1000,
     "page": 1,
-    "page_count": 629,
-    "total_count": 629
+    "page_count": 639,
+    "total_count": 639
   },
   "data": [
     {
@@ -39929,6 +39929,925 @@
           "track_id": "6zTbYrkYJSiNOw6jL7nM5H"
         }
       ]
+    },
+    {
+      "allow_favoriting": true,
+      "body": "Marik Prisciak, AKA Mare Bear is a rising Tech house Producer/DJ coming out of Nelson, BC, Canada. Mare Bear brings a unique style that mixes deep bass lines with fresh, experimental sounds.",
+      "category": "regular",
+      "external_id": "1927318",
+      "hide_image_on_detail": "never",
+      "hide_image_on_overview": "never",
+      "id": 2121358,
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694184_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694184_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694184_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694184_performance_500.jpeg"
+      },
+      "links": {
+        "facebook_page_id": "share/1Jc9bXkPLP/",
+        "instagram_user": "marebear_music",
+        "soundcloud_user": "udUw2SPpGFH2r05CwB",
+        "spotify_artist_id": "3MSoPOmF2Ey8wq38LL6hB4",
+        "youtube_channel_id": "UCE2o5pwjGieBRVxclrG6rTg"
+      },
+      "name": "Mare Bear",
+      "performances": [
+        {
+          "artist_id": 2121358,
+          "body": "Marik Prisciak, AKA Mare Bear is a rising Tech house Producer/DJ coming out of Nelson, BC, Canada. Mare Bear brings a unique style that mixes deep bass lines with fresh, experimental sounds.",
+          "date_id": 5137,
+          "end_time": "2026-07-24T00:30:00+00:00",
+          "external_id": "875889",
+          "hide_end_time": false,
+          "hide_start_time": false,
+          "id": 346825,
+          "priority": 100,
+          "published": true,
+          "reminder_interval": 15,
+          "show_image_in_schedule": true,
+          "show_in_calendar": true,
+          "show_in_line_up": true,
+          "show_in_schedule": true,
+          "show_in_search": false,
+          "sold_out": false,
+          "stage_id": 17876,
+          "stage_name": "Riverside",
+          "start_time": "2026-07-23T23:00:00+00:00",
+          "tags": []
+        }
+      ],
+      "priority": 100,
+      "published": true,
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "show_in_search": true,
+      "show_section_titles": true,
+      "tags": [
+        {
+          "category": "other",
+          "color": "#7896FF",
+          "filter": true,
+          "name": "Artist",
+          "priority": 100,
+          "show_in_search": true,
+          "slug": "type-artist",
+          "visible": true
+        }
+      ],
+      "tracks": [
+        {
+          "artist_name": "Mare Bear",
+          "duration": 323076,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d5653762a53b5ecd560277c1",
+          "preview_url": "https://p.scdn.co/mp3-preview/365ddb18cec17631e4bbe908720ef2026a440d39?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Work It Takes",
+          "track_id": "1Hv3iYBdMZDpUnzd3IKN4F"
+        },
+        {
+          "artist_name": "Eclipsik, Mare Bear",
+          "duration": 260952,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02de37a6f06b8fba243f2187da",
+          "preview_url": "https://p.scdn.co/mp3-preview/32b2316cc729456feb65f935a145616f9353100c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Elevate",
+          "track_id": "30YexJOJsLzkN2IUVMAYvY"
+        }
+      ]
+    },
+    {
+      "allow_favoriting": true,
+      "body": "",
+      "category": "regular",
+      "external_id": "1927319",
+      "hide_image_on_detail": "never",
+      "hide_image_on_overview": "never",
+      "id": 2121359,
+      "links": {},
+      "name": "Darren Regan",
+      "performances": [
+        {
+          "artist_id": 2121359,
+          "date_id": 5137,
+          "end_time": "2026-07-24T01:30:00+00:00",
+          "external_id": "875890",
+          "hide_end_time": false,
+          "hide_start_time": false,
+          "id": 346826,
+          "priority": 100,
+          "published": true,
+          "reminder_interval": 15,
+          "show_image_in_schedule": true,
+          "show_in_calendar": true,
+          "show_in_line_up": true,
+          "show_in_schedule": true,
+          "show_in_search": false,
+          "sold_out": false,
+          "stage_id": 17876,
+          "stage_name": "Riverside",
+          "start_time": "2026-07-24T00:30:00+00:00",
+          "tags": []
+        }
+      ],
+      "priority": 100,
+      "published": true,
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "show_in_search": true,
+      "show_section_titles": true,
+      "tags": [
+        {
+          "category": "other",
+          "color": "#7896FF",
+          "filter": true,
+          "name": "Artist",
+          "priority": 100,
+          "show_in_search": true,
+          "slug": "type-artist",
+          "visible": true
+        }
+      ],
+      "tracks": []
+    },
+    {
+      "allow_favoriting": true,
+      "body": "",
+      "category": "regular",
+      "external_id": "1927317",
+      "hide_image_on_detail": "never",
+      "hide_image_on_overview": "never",
+      "id": 2121360,
+      "links": {},
+      "name": "Casmalia",
+      "performances": [
+        {
+          "artist_id": 2121360,
+          "date_id": 5137,
+          "end_time": "2026-07-24T02:30:00+00:00",
+          "external_id": "875888",
+          "hide_end_time": false,
+          "hide_start_time": false,
+          "id": 346827,
+          "priority": 100,
+          "published": true,
+          "reminder_interval": 15,
+          "show_image_in_schedule": true,
+          "show_in_calendar": true,
+          "show_in_line_up": true,
+          "show_in_schedule": true,
+          "show_in_search": false,
+          "sold_out": false,
+          "stage_id": 17876,
+          "stage_name": "Riverside",
+          "start_time": "2026-07-24T01:30:00+00:00",
+          "tags": []
+        }
+      ],
+      "priority": 100,
+      "published": true,
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "show_in_search": true,
+      "show_section_titles": true,
+      "tags": [
+        {
+          "category": "other",
+          "color": "#7896FF",
+          "filter": true,
+          "name": "Artist",
+          "priority": 100,
+          "show_in_search": true,
+          "slug": "type-artist",
+          "visible": true
+        }
+      ],
+      "tracks": []
+    },
+    {
+      "allow_favoriting": true,
+      "body": "Raine is a DJ/producer based out of Victoria, British Columbia, Canada, known for his high-energy sets that blend house, UK garage, dubstep and drum and bass. Known for his studies in flow states and music festivals, Raine uses themes of story telling and the hero’s journey, as well as theories from flow state research, to craft sets focused on creating immersive presence and energy. Raine has had a strong presence in the western Canadian music scene over the last 10 years, with performances and work at many festivals and clubs throughout BC. Beyond music, Raine is committed to environmental science research, festival work, and emergency management, which leads Raine to donate 20% of all revenue to local non-profits and be involved in many local events/volunteering throughout Vancouver Island.",
+      "category": "regular",
+      "external_id": "1927316",
+      "hide_image_on_detail": "never",
+      "hide_image_on_overview": "never",
+      "id": 2121361,
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694185_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694185_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694185_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694185_performance_500.jpeg"
+      },
+      "links": {
+        "facebook_page_id": "gabrielrainemusic/",
+        "instagram_user": "gabrielrainemusic/",
+        "soundcloud_user": "gabrielrainemusic"
+      },
+      "name": "Raine",
+      "performances": [
+        {
+          "artist_id": 2121361,
+          "body": "Raine is a DJ/producer based out of Victoria, British Columbia, Canada, known for his high-energy sets that blend house, UK garage, dubstep and drum and bass. Known for his studies in flow states and music festivals, Raine uses themes of story telling and the hero’s journey, as well as theories from flow state research, to craft sets focused on creating immersive presence and energy. Raine has had a strong presence in the western Canadian music scene over the last 10 years, with performances and work at many festivals and clubs throughout BC. Beyond music, Raine is committed to environmental science research, festival work, and emergency management, which leads Raine to donate 20% of all revenue to local non-profits and be involved in many local events/volunteering throughout Vancouver Island.",
+          "date_id": 5137,
+          "end_time": "2026-07-24T03:30:00+00:00",
+          "external_id": "875887",
+          "hide_end_time": false,
+          "hide_start_time": false,
+          "id": 346828,
+          "priority": 100,
+          "published": true,
+          "reminder_interval": 15,
+          "show_image_in_schedule": true,
+          "show_in_calendar": true,
+          "show_in_line_up": true,
+          "show_in_schedule": true,
+          "show_in_search": false,
+          "sold_out": false,
+          "stage_id": 17876,
+          "stage_name": "Riverside",
+          "start_time": "2026-07-24T02:30:00+00:00",
+          "tags": []
+        }
+      ],
+      "priority": 100,
+      "published": true,
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "show_in_search": true,
+      "show_section_titles": true,
+      "tags": [
+        {
+          "category": "other",
+          "color": "#7896FF",
+          "filter": true,
+          "name": "Artist",
+          "priority": 100,
+          "show_in_search": true,
+          "slug": "type-artist",
+          "visible": true
+        }
+      ],
+      "tracks": []
+    },
+    {
+      "allow_favoriting": true,
+      "body": "",
+      "category": "regular",
+      "external_id": "1927404",
+      "hide_image_on_detail": "never",
+      "hide_image_on_overview": "never",
+      "id": 2121362,
+      "links": {},
+      "name": "LuxuryUS",
+      "performances": [
+        {
+          "artist_id": 2121362,
+          "date_id": 5137,
+          "end_time": "2026-07-24T04:30:00+00:00",
+          "external_id": "875991",
+          "hide_end_time": false,
+          "hide_start_time": false,
+          "id": 346829,
+          "name": "LuxuryUs",
+          "priority": 100,
+          "published": true,
+          "reminder_interval": 15,
+          "show_image_in_schedule": true,
+          "show_in_calendar": true,
+          "show_in_line_up": true,
+          "show_in_schedule": true,
+          "show_in_search": false,
+          "sold_out": false,
+          "stage_id": 17876,
+          "stage_name": "Riverside",
+          "start_time": "2026-07-24T03:30:00+00:00",
+          "tags": []
+        }
+      ],
+      "priority": 100,
+      "published": true,
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "show_in_search": true,
+      "show_section_titles": true,
+      "tags": [
+        {
+          "category": "other",
+          "color": "#7896FF",
+          "filter": true,
+          "name": "Artist",
+          "priority": 100,
+          "show_in_search": true,
+          "slug": "type-artist",
+          "visible": true
+        }
+      ],
+      "tracks": []
+    },
+    {
+      "allow_favoriting": true,
+      "body": "MVPZ is a dynamic and innovative group that brings together the talents of Amp Live and The Gaff to create a groundbreaking House music production DJ duo. MVPZ's original tracks are inspired by elements of hip-hop, funk, and soul, & turn these foundations into futuristic electronic dancefloor anthems for clubs & festivals worldwide. <br />\n<br />\nAmp Live, a highly acclaimed producer and DJ, has a reputation for pushing boundaries and exploring new sounds. His eclectic style and infectious beats have captivated audiences worldwide. The Gaff, on the other hand, is a master turntablist and skilled producer known for his impeccable scratch techniques and ability to mix different genres seamlessly. <br />\n<br />\nIn addition to their impressive musical abilities, MVPZ is dedicated to creating a positive and inclusive environment for their fans. The true mascots that fuel the fire! They believe in the power of music to bring people together. With their combined expertise and passion, MVPZ is ready to take the music world by storm. Keep an eye out for their electrifying performances and groundbreaking releases as they redefine what it means to be a DJ music partnership.",
+      "category": "regular",
+      "external_id": "1927557",
+      "hide_image_on_detail": "never",
+      "hide_image_on_overview": "never",
+      "id": 2121363,
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694186_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694186_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694186_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694186_performance_500.jpeg"
+      },
+      "links": {
+        "instagram_user": "mvpzmusic/",
+        "spotify_artist_id": "4ywCCXxTS8pE0TlbUbqryO"
+      },
+      "name": "MVPZ",
+      "performances": [
+        {
+          "artist_id": 2121363,
+          "body": "MVPZ is a dynamic and innovative group that brings together the talents of Amp Live and The Gaff to create a groundbreaking House music production DJ duo. MVPZ's original tracks are inspired by elements of hip-hop, funk, and soul, & turn these foundations into futuristic electronic dancefloor anthems for clubs & festivals worldwide. \n\nAmp Live, a highly acclaimed producer and DJ, has a reputation for pushing boundaries and exploring new sounds. His eclectic style and infectious beats have captivated audiences worldwide. The Gaff, on the other hand, is a master turntablist and skilled producer known for his impeccable scratch techniques and ability to mix different genres seamlessly. \n\nIn addition to their impressive musical abilities, MVPZ is dedicated to creating a positive and inclusive environment for their fans. The true mascots that fuel the fire! They believe in the power of music to bring people together. With their combined expertise and passion, MVPZ is ready to take the music world by storm. Keep an eye out for their electrifying performances and groundbreaking releases as they redefine what it means to be a DJ music partnership.",
+          "date_id": 5137,
+          "end_time": "2026-07-24T05:30:00+00:00",
+          "external_id": "876235",
+          "hide_end_time": false,
+          "hide_start_time": false,
+          "id": 346830,
+          "priority": 100,
+          "published": true,
+          "reminder_interval": 15,
+          "show_image_in_schedule": true,
+          "show_in_calendar": true,
+          "show_in_line_up": true,
+          "show_in_schedule": true,
+          "show_in_search": false,
+          "sold_out": false,
+          "stage_id": 17876,
+          "stage_name": "Riverside",
+          "start_time": "2026-07-24T04:30:00+00:00",
+          "tags": []
+        }
+      ],
+      "priority": 100,
+      "published": true,
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "show_in_search": true,
+      "show_section_titles": true,
+      "tags": [
+        {
+          "category": "other",
+          "color": "#7896FF",
+          "filter": true,
+          "name": "Artist",
+          "priority": 100,
+          "show_in_search": true,
+          "slug": "type-artist",
+          "visible": true
+        }
+      ],
+      "tracks": [
+        {
+          "artist_name": "MVPZ, Amp Live, The Gaff, Johanna Phraze",
+          "duration": 147984,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e026db772e7695c83f4352ab0c5",
+          "preview_url": "https://p.scdn.co/mp3-preview/d84e8a9a58b3c5028622c3ec7c4d47d5a608bcc9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Bussin",
+          "track_id": "0K4i60xmB1OlVWcV8sizE6"
+        },
+        {
+          "artist_name": "MVPZ, The Gaff, Amp Live, Dizzle Baby",
+          "duration": 215040,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024020b17c24cee35e87a9d30a",
+          "preview_url": "https://p.scdn.co/mp3-preview/cafe6a41ebeac56a754902b949899964adc766c9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Key To The City",
+          "track_id": "1QBclIyi31SOE2am2NAsYB"
+        },
+        {
+          "artist_name": "MVPZ, The Gaff, Amp Live",
+          "duration": 195500,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0258915b951016db36f3ef9b2b",
+          "preview_url": "https://p.scdn.co/mp3-preview/fdd6f3a6a9a9249f68838193d183aca58706c479?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Think About You",
+          "track_id": "1u9zdz5Jpsy5kHCj2aPpMg"
+        },
+        {
+          "artist_name": "MVPZ, Amp Live, The Gaff, Krafty Kuts, Johanna Phraze",
+          "duration": 206470,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02133210ac9da475174b079c45",
+          "preview_url": "https://p.scdn.co/mp3-preview/ced4e3f9e464e5dd47a294a8c85e685c5bafca7e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Bussin - Krafty Kuts Remix",
+          "track_id": "2ubmqHzB5zbF2Hm2d0f2bl"
+        },
+        {
+          "artist_name": "MVPZ, The Gaff, Amp Live",
+          "duration": 192000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0214872da0a12250b7f414e39c",
+          "preview_url": "https://p.scdn.co/mp3-preview/27fb3e0c63826a3dd9eb625496372610a0ec3ccd?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Rock with Ya Instrumental",
+          "track_id": "3ZUEoWKsIXUk3U9XuvpnkY"
+        },
+        {
+          "artist_name": "MVPZ, Amp Live, The Gaff, Johanna Phraze",
+          "duration": 147984,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e026db772e7695c83f4352ab0c5",
+          "preview_url": "https://p.scdn.co/mp3-preview/7ef443f566ba588d7af3b99f1cf2830d7b5f37f5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Bussin Instrumental",
+          "track_id": "3kbx3Rtt4sxkXk7ph7um6G"
+        },
+        {
+          "artist_name": "MVPZ",
+          "duration": 212682,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025910069efe5759f5462087ac",
+          "preview_url": "https://p.scdn.co/mp3-preview/b39575fecc49c191f5c2ea5c25dcce49454294de?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Walkin on the Sun - Cover",
+          "track_id": "41C26ciXBLZoTn5CdhyrmW"
+        },
+        {
+          "artist_name": "MVPZ, The Gaff, Johanna Phraze, Amp Live",
+          "duration": 144000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0201848dfa96a9ee5cc4f6a9a4",
+          "preview_url": "https://p.scdn.co/mp3-preview/baf25d712c81f3bca975c5065cdd571912981de5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Bussin - Jayceeoh Remix",
+          "track_id": "4Bu4mjekd4HCC8THjEtnDi"
+        },
+        {
+          "artist_name": "MVPZ, Prayer Handz, The Gaff, Amp Live",
+          "duration": 184380,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e1c54f8d20eed0619bd14314",
+          "preview_url": "https://p.scdn.co/mp3-preview/c168855fe07dfcb7e6b96e35b853e3c686b4ff63?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Kick Dat",
+          "track_id": "4ZAeDvGmmgp18gfeIS6nrm"
+        },
+        {
+          "artist_name": "MVPZ, The Gaff, Amp Live",
+          "duration": 192000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0214872da0a12250b7f414e39c",
+          "preview_url": "https://p.scdn.co/mp3-preview/e298662f2f086059312131fce9fa1fd742326b7a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Rock with Ya",
+          "track_id": "58zZ7jYZmgbyTfiRX6cTP6"
+        }
+      ]
+    },
+    {
+      "allow_favoriting": true,
+      "body": "Inc.Line explores the journey in electronic sound while creating original music that gets the <br />\ndancefloor moving and the listener locked in. <br />\nInc.Line is one of the most versatile producer's you know. He harnesses the ability to curate a unique experience of sound and setting, leaving an imprint on anyone who is called in for the experience. <br />\nWith a spiking interest in all genres of bass music, Inc.line is recognized by his exploration of rhythm and tempo. When He steps into the studio, he blows the roof off the place, clearing out all barriers and confinements of genre and welcoming contrast. The production ranges from bass, dubstep,DNB, rap & so much more. Expect to be taken on a cohesive journey of sound through time and space. Drifting through catchy original music, chopped up edits, remixes and memorable throwbacks. Inc.line is in possession of the key that keeps the listener engaged. As sound travels it creates a ripple effect. When Inc.Line caught traction, he started gaining momentum up a steady incline, leading him to repeat bookings in multiple cities and festivals nationwide.",
+      "category": "regular",
+      "external_id": "1927315",
+      "hide_image_on_detail": "never",
+      "hide_image_on_overview": "never",
+      "id": 2121364,
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694187_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694187_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694187_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694187_performance_500.jpeg"
+      },
+      "links": {
+        "facebook_page_id": "inclinemusic",
+        "instagram_user": "inclinebass",
+        "soundcloud_user": "3Y39dqQtFyco9i6OQr",
+        "spotify_artist_id": "5yCPnCgGQEqoPun52I5yX4"
+      },
+      "name": "INC.LINE",
+      "performances": [
+        {
+          "artist_id": 2121364,
+          "body": "Inc.Line explores the journey in electronic sound while creating original music that gets the \ndancefloor moving and the listener locked in. \nInc.Line is one of the most versatile producer's you know. He harnesses the ability to curate a unique experience of sound and setting, leaving an imprint on anyone who is called in for the experience. \nWith a spiking interest in all genres of bass music, Inc.line is recognized by his exploration of rhythm and tempo. When He steps into the studio, he blows the roof off the place, clearing out all barriers and confinements of genre and welcoming contrast. The production ranges from bass, dubstep,DNB, rap & so much more. Expect to be taken on a cohesive journey of sound through time and space. Drifting through catchy original music, chopped up edits, remixes and memorable throwbacks. Inc.line is in possession of the key that keeps the listener engaged. As sound travels it creates a ripple effect. When Inc.Line caught traction, he started gaining momentum up a steady incline, leading him to repeat bookings in multiple cities and festivals nationwide.",
+          "date_id": 5137,
+          "end_time": "2026-07-24T06:30:00+00:00",
+          "external_id": "875886",
+          "hide_end_time": false,
+          "hide_start_time": false,
+          "id": 346831,
+          "priority": 100,
+          "published": true,
+          "reminder_interval": 15,
+          "show_image_in_schedule": true,
+          "show_in_calendar": true,
+          "show_in_line_up": true,
+          "show_in_schedule": true,
+          "show_in_search": false,
+          "sold_out": false,
+          "stage_id": 17876,
+          "stage_name": "Riverside",
+          "start_time": "2026-07-24T05:30:00+00:00",
+          "tags": []
+        }
+      ],
+      "priority": 100,
+      "published": true,
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "show_in_search": true,
+      "show_section_titles": true,
+      "tags": [
+        {
+          "category": "other",
+          "color": "#7896FF",
+          "filter": true,
+          "name": "Artist",
+          "priority": 100,
+          "show_in_search": true,
+          "slug": "type-artist",
+          "visible": true
+        }
+      ],
+      "tracks": [
+        {
+          "artist_name": "Inc.Line",
+          "duration": 120464,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e020c9625c00ac4fecc9bad8a24",
+          "preview_url": "https://p.scdn.co/mp3-preview/77547e792fe5bd43577926e3cd1686cf96f99c37?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Straight Trippin",
+          "track_id": "04PBmnKiQRaRtgBAWP5fiH"
+        },
+        {
+          "artist_name": "Inc.Line, Majestic Grime",
+          "duration": 177777,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d3444b5734bd6ff7d77954d4",
+          "preview_url": "https://p.scdn.co/mp3-preview/1d786b87e04b72b8b5af5acda63c8bde7564add8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Running Out of Time",
+          "track_id": "1cEXNNLs40h77ldIohYfiB"
+        },
+        {
+          "artist_name": "Inc.Line, Makemdef",
+          "duration": 160913,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e020c9625c00ac4fecc9bad8a24",
+          "preview_url": "https://p.scdn.co/mp3-preview/525e43963543cc264e4a0152f4727190db0147ca?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Kill it",
+          "track_id": "1cuUBhwckoedjsyUkDlcaw"
+        },
+        {
+          "artist_name": "Inc.Line, Aspects",
+          "duration": 123500,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02297772b168a47901c0ae5260",
+          "preview_url": "https://p.scdn.co/mp3-preview/d8bd93b6c59147ee9514327f9cc176ddcab6556e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Tell Me Again",
+          "track_id": "2bd5NEoW04JIWqHfu39TNr"
+        },
+        {
+          "artist_name": "Inc.Line",
+          "duration": 185147,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e023b9b9fdd452409cf1f8c3315",
+          "preview_url": "https://p.scdn.co/mp3-preview/9c472b8eb7135d8d2a37579e135beb66ac661d25?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Hominids",
+          "track_id": "3T2gwVy3nH9eYJKqqwS2gY"
+        },
+        {
+          "artist_name": "Inc.Line, King Benz",
+          "duration": 183364,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ab4574d9d48e2f86e04703d0",
+          "preview_url": "https://p.scdn.co/mp3-preview/a90222e57fbbbda57a8139e74e5ff501f43d63dc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Bonkers",
+          "track_id": "3pkVjrhI57Y0CbL11zIFUH"
+        },
+        {
+          "artist_name": "Inc.Line",
+          "duration": 118288,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02fccb9b2f7fb9c86600d10f29",
+          "preview_url": "https://p.scdn.co/mp3-preview/3ad106215161a37d70690340eb970f424c8f3dca?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "City Slickerz",
+          "track_id": "58knn0MJUov33vWj9RBHCG"
+        },
+        {
+          "artist_name": "Inc.Line, King Benz, Majestic Grime",
+          "duration": 151484,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02414e74d35425b6717b4fb4c0",
+          "preview_url": "https://p.scdn.co/mp3-preview/62e73d20b55aed50f4b48bdf25583adfae8d5558?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Swayze",
+          "track_id": "5AsvvlAWZRlia4bSOCiawk"
+        },
+        {
+          "artist_name": "Inc.Line",
+          "duration": 150357,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e020c9625c00ac4fecc9bad8a24",
+          "preview_url": "https://p.scdn.co/mp3-preview/1bf5264aa299a5a1bdfc28c26cbf59a435d3970c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "The Medicine",
+          "track_id": "5XCNMx9ZcJAWyBc1aUiSEh"
+        },
+        {
+          "artist_name": "Inc.Line",
+          "duration": 272145,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f75f4f4b7f5a61fc25c753c2",
+          "preview_url": "https://p.scdn.co/mp3-preview/526b1069e3bbbd432b221b8847c900edaffd3bcb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "The Present",
+          "track_id": "6sJUx1ZZ53HRe9sYU2DyNK"
+        }
+      ]
+    },
+    {
+      "allow_favoriting": true,
+      "body": "",
+      "category": "regular",
+      "external_id": "167132",
+      "hide_image_on_detail": "never",
+      "hide_image_on_overview": "never",
+      "id": 2121365,
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694152_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694152_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694152_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694152_performance_500.jpeg"
+      },
+      "links": {
+        "facebook_page_id": "therealklab",
+        "instagram_user": "captainklab/",
+        "soundcloud_user": "klabnz",
+        "spotify_artist_id": "3y7GPPMrPAZKg9BlCO8cFA",
+        "twitter_user": "Klabmusic",
+        "youtube_user": "user/aidjwhd6342wdsax"
+      },
+      "name": "K+Lab",
+      "performances": [
+        {
+          "artist_id": 2121365,
+          "date_id": 5137,
+          "end_time": "2026-07-24T07:30:00+00:00",
+          "external_id": "875885",
+          "hide_end_time": false,
+          "hide_start_time": false,
+          "id": 346832,
+          "name": "K+Lab (DNB Set)",
+          "priority": 100,
+          "published": true,
+          "reminder_interval": 15,
+          "show_image_in_schedule": true,
+          "show_in_calendar": true,
+          "show_in_line_up": true,
+          "show_in_schedule": true,
+          "show_in_search": false,
+          "sold_out": false,
+          "stage_id": 17876,
+          "stage_name": "Riverside",
+          "start_time": "2026-07-24T06:30:00+00:00",
+          "tags": []
+        }
+      ],
+      "priority": 100,
+      "published": true,
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "show_in_search": true,
+      "show_section_titles": true,
+      "tags": [
+        {
+          "category": "other",
+          "color": "#7896FF",
+          "filter": true,
+          "name": "Artist",
+          "priority": 100,
+          "show_in_search": true,
+          "slug": "type-artist",
+          "visible": true
+        }
+      ],
+      "tracks": [
+        {
+          "artist_name": "K+Lab",
+          "duration": 218400,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d70cabf38db1d78faab813c1",
+          "preview_url": "https://p.scdn.co/mp3-preview/b4f75abb1e02a2e98ef35bb3247b3cb8ef7c2f55?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "SMOWK",
+          "track_id": "0ThIzIPCXCAqQZI0oaTht9"
+        },
+        {
+          "artist_name": "Stickybuds, K+Lab",
+          "duration": 193548,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c7e4b48c95edf77095dfbc35",
+          "preview_url": "https://p.scdn.co/mp3-preview/4a1983f1cbebbb1f69391b71a0b77ae557eedbc1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Feel The Weight",
+          "track_id": "0V5UHDHEW7XV9toqgKWVTU"
+        },
+        {
+          "artist_name": "K+Lab, Megan Hamilton",
+          "duration": 241624,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b0099fe53a2d54c925d87271",
+          "preview_url": "https://p.scdn.co/mp3-preview/e9c30c61d6af3e2acc0ba515a85307636f6bcf00?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "What's good for ya",
+          "track_id": "0YR7T2rfii4EVnk5PhrNEy"
+        },
+        {
+          "artist_name": "K+Lab, Cleva Thoughts",
+          "duration": 274480,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e023980384a862aa92adcd591f4",
+          "preview_url": "https://p.scdn.co/mp3-preview/b5eae5cb57491d41d33b6be76c54dc58378fc361?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Forever Never Feat. Cleva Thoughts",
+          "track_id": "2BBAdTvt3a0B3sFuQ2OcDG"
+        },
+        {
+          "artist_name": "Stickybuds, K+Lab, KWADI",
+          "duration": 255394,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0229359ff11f280465893ee3de",
+          "preview_url": "https://p.scdn.co/mp3-preview/eb86d5f991d921a3bd0fb817a9cb46a4eccf932a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Clap Ya Hands Now",
+          "track_id": "50KJIk36YcRAKGhPQX0bSi"
+        },
+        {
+          "artist_name": "Opiuo, K+Lab, ProbCause",
+          "duration": 237473,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0282a86ba0f01d494cb961e338",
+          "preview_url": "https://p.scdn.co/mp3-preview/45053ed44fbf055af4a71cb6cfcb27515712c815?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "MEKKE FLEX",
+          "track_id": "5N8IjG8qfhvPZdyhwbIM6x"
+        },
+        {
+          "artist_name": "K+Lab, MELODOWNZ, Mustafa Akbar",
+          "duration": 201184,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024c7e92bed22710a14f10d991",
+          "preview_url": "https://p.scdn.co/mp3-preview/35149e0ca3ed90dd6fa0674b2189806947648b83?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Pull Up",
+          "track_id": "5vzzpT0IKFUbqpksPqSLbG"
+        },
+        {
+          "artist_name": "K+Lab, pheel.",
+          "duration": 193043,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0256dec4e0d128cc9149b9d220",
+          "preview_url": "https://p.scdn.co/mp3-preview/49a3b0eca4ae67f1344681372d9deb63331991bc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Squander",
+          "track_id": "6RWzpH6iYmM2trG84WfOtL"
+        },
+        {
+          "artist_name": "K+Lab, SAÍGO",
+          "duration": 245188,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021f31656f06e0ab5686d53210",
+          "preview_url": "https://p.scdn.co/mp3-preview/0526a7eca0c2bd260e6befc74b9f9178ef4032c5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Bettur",
+          "track_id": "7bU9pCv3zaUp8Jprqkhc4G"
+        },
+        {
+          "artist_name": "Opiuo, K+Lab",
+          "duration": 194571,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02fab77d46a33cb435878d0b53",
+          "preview_url": "https://p.scdn.co/mp3-preview/70d79a6cabf1be94b0e7ec82673ef64d364c056c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "My Friends",
+          "track_id": "7wzSBLV4fx8UrEz1wHy8Gt"
+        }
+      ]
+    },
+    {
+      "allow_favoriting": true,
+      "body": "Argentinian Dj sensation, El Papachango has been at the forefront of the West Coast Bass music scene since co-founding the legendary performance and avant-garde production crew, El Circo in 2002. He brought with him a love of music from South America that he blends with west coast underground beats to create a groove that is unique and infectious wherever he goes. His sound is characterized by sexy, soulful banging Global Bass fusion, with a Latin sazon that is quintessential to his name. He has headlined the biggest Festival stages across US and Canada, such as Lightning In Bottle, Shambhala, Bass Coast, Symbiosis, and Burning Man, to name a few.",
+      "category": "regular",
+      "external_id": "1927314",
+      "hide_image_on_detail": "never",
+      "hide_image_on_overview": "never",
+      "id": 2121366,
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694188_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694188_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694188_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694188_performance_500.jpeg"
+      },
+      "links": {
+        "instagram_user": "elpapachango/",
+        "soundcloud_user": "elpapachangomusic"
+      },
+      "name": "El Papachango",
+      "performances": [
+        {
+          "artist_id": 2121366,
+          "body": "Argentinian Dj sensation, El Papachango has been at the forefront of the West Coast Bass music scene since co-founding the legendary performance and avant-garde production crew, El Circo in 2002. He brought with him a love of music from South America that he blends with west coast underground beats to create a groove that is unique and infectious wherever he goes. His sound is characterized by sexy, soulful banging Global Bass fusion, with a Latin sazon that is quintessential to his name. He has headlined the biggest Festival stages across US and Canada, such as Lightning In Bottle, Shambhala, Bass Coast, Symbiosis, and Burning Man, to name a few.",
+          "date_id": 5137,
+          "end_time": "2026-07-24T08:30:00+00:00",
+          "external_id": "876229",
+          "hide_end_time": false,
+          "hide_start_time": false,
+          "id": 346833,
+          "priority": 100,
+          "published": true,
+          "reminder_interval": 15,
+          "show_image_in_schedule": true,
+          "show_in_calendar": true,
+          "show_in_line_up": true,
+          "show_in_schedule": true,
+          "show_in_search": false,
+          "sold_out": false,
+          "stage_id": 17876,
+          "stage_name": "Riverside",
+          "start_time": "2026-07-24T07:30:00+00:00",
+          "tags": []
+        }
+      ],
+      "priority": 100,
+      "published": true,
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "show_in_search": true,
+      "show_section_titles": true,
+      "tags": [
+        {
+          "category": "other",
+          "color": "#7896FF",
+          "filter": true,
+          "name": "Artist",
+          "priority": 100,
+          "show_in_search": true,
+          "slug": "type-artist",
+          "visible": true
+        }
+      ],
+      "tracks": []
+    },
+    {
+      "allow_favoriting": true,
+      "body": "",
+      "category": "regular",
+      "external_id": "189876",
+      "hide_image_on_detail": "never",
+      "hide_image_on_overview": "never",
+      "id": 2121367,
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694153_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694153_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694153_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694153_performance_500.jpeg"
+      },
+      "links": {
+        "instagram_user": "cokacobra_/",
+        "soundcloud_user": "cokacobra"
+      },
+      "name": "Coka Cobra",
+      "performances": [
+        {
+          "artist_id": 2121367,
+          "date_id": 5137,
+          "end_time": "2026-07-24T09:30:00+00:00",
+          "external_id": "875883",
+          "hide_end_time": false,
+          "hide_start_time": false,
+          "id": 346834,
+          "priority": 100,
+          "published": true,
+          "reminder_interval": 15,
+          "show_image_in_schedule": true,
+          "show_in_calendar": true,
+          "show_in_line_up": true,
+          "show_in_schedule": true,
+          "show_in_search": false,
+          "sold_out": false,
+          "stage_id": 17876,
+          "stage_name": "Riverside",
+          "start_time": "2026-07-24T08:30:00+00:00",
+          "tags": []
+        }
+      ],
+      "priority": 100,
+      "published": true,
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "show_in_search": true,
+      "show_section_titles": true,
+      "tags": [
+        {
+          "category": "other",
+          "color": "#7896FF",
+          "filter": true,
+          "name": "Artist",
+          "priority": 100,
+          "show_in_search": true,
+          "slug": "type-artist",
+          "visible": true
+        }
+      ],
+      "tracks": []
     }
   ]
 }
