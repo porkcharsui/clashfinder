@@ -28617,8 +28617,7 @@
       "links": {
         "instagram_user": "unclewaffles_",
         "spotify_artist_id": "68McnNC9twEtiynOAJRRgZ",
-        "twitter_user": "unclewaffffles",
-        "youtube_channel_id": "UCDfH7E8iHkEjmZ6H9uQ5o1g"
+        "twitter_user": "unclewaffffles"
       },
       "name": "Uncle Waffles",
       "performances": [
@@ -40020,17 +40019,30 @@
     },
     {
       "allow_favoriting": true,
-      "body": "",
+      "body": "Darren Regan got into DJing as a teenager. He had a 3 year residency in his hometown in County Mayo while studying at Dublin City University. During his time in Dublin, he started to dabble in production and also began DJing at college events. After college he worked as a host on SPIN South West for a number of years while playing clubs and festivals across Ireland including Longitude and Electric Picnic. <br />\n<br />\nIn 2020, Regan started to focus on producing again and released his first house track under Italian label Total Freedom +. 'Get Down' got support on radio from BBC Radio 1 (Dance Anthems), KISS FM UK, RTE 2FM, Today FM and Radio 105 (Italy) to name a few. These tracks were followed up with a disco rework of 'Point Of View' which hit the Top 40 on the Irish Shazam Chart and Top 10 on the Beatport House Chart. Since then he has released music with The Cube Guys on Cube Recordings, Double Cheese Records, Sleezy Deep, Leve1 Music and Gene Farris’s label - Farris Wheel Recordings. These tracks have received support from David Penn, Claptone, Freejak, Lost Frequencies, B Jones, R3hab and many more. They have also featured on Youtube House Music channels like Blanc. <br />\n<br />\nIn August, 2024, Regan released Hungry on Be Yourself Music which got featured on Apple Music Editorial Chill House playlist, Spotify Editorial Hot New Dance & Feeling Good, Feeling Great as well as DJ Support from Alok, Bakermat, Lost Frequencies, Don Diablo, Sam Feldt, and more.<br />\n<br />\nSince relocating to Vancouver, Regan has embraced the local scene playing clubs like Celebrities and Gorgo-O-Mish. Regan has also supported Purple Disco Machine at a sold out Malkin Bowl and played festivals such as Groove In The Wild, Under The Stars and more.  <br />\n<br />\nSo far this year Regan has released a Luchadora, an underground Latin House song, along  with Rush (Ft Jaki Nelson) which was made Track Of The Week on RTE 2fm and has now over 3 million views on Instagram Reels.",
       "category": "regular",
       "external_id": "1927319",
       "hide_image_on_detail": "never",
       "hide_image_on_overview": "never",
       "id": 2121359,
-      "links": {},
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694925_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694925_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694925_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694925_performance_500.jpeg"
+      },
+      "links": {
+        "facebook_page_id": "darrenregandj",
+        "instagram_user": "darrenregandj",
+        "spotify_artist_id": "3Ogs19BK4e0AvyyApL7azx",
+        "twitter_user": "darrenregandj"
+      },
       "name": "Darren Regan",
       "performances": [
         {
           "artist_id": 2121359,
+          "body": "Darren Regan got into DJing as a teenager. He had a 3 year residency in his hometown in County Mayo while studying at Dublin City University. During his time in Dublin, he started to dabble in production and also began DJing at college events. After college he worked as a host on SPIN South West for a number of years while playing clubs and festivals across Ireland including Longitude and Electric Picnic. \n\nIn 2020, Regan started to focus on producing again and released his first house track under Italian label Total Freedom +. 'Get Down' got support on radio from BBC Radio 1 (Dance Anthems), KISS FM UK, RTE 2FM, Today FM and Radio 105 (Italy) to name a few. These tracks were followed up with a disco rework of 'Point Of View' which hit the Top 40 on the Irish Shazam Chart and Top 10 on the Beatport House Chart. Since then he has released music with The Cube Guys on Cube Recordings, Double Cheese Records, Sleezy Deep, Leve1 Music and Gene Farris’s label - Farris Wheel Recordings. These tracks have received support from David Penn, Claptone, Freejak, Lost Frequencies, B Jones, R3hab and many more. They have also featured on Youtube House Music channels like Blanc. \n\nIn August, 2024, Regan released Hungry on Be Yourself Music which got featured on Apple Music Editorial Chill House playlist, Spotify Editorial Hot New Dance & Feeling Good, Feeling Great as well as DJ Support from Alok, Bakermat, Lost Frequencies, Don Diablo, Sam Feldt, and more.\n\nSince relocating to Vancouver, Regan has embraced the local scene playing clubs like Celebrities and Gorgo-O-Mish. Regan has also supported Purple Disco Machine at a sold out Malkin Bowl and played festivals such as Groove In The Wild, Under The Stars and more.  \n\nSo far this year Regan has released a Luchadora, an underground Latin House song, along  with Rush (Ft Jaki Nelson) which was made Track Of The Week on RTE 2fm and has now over 3 million views on Instagram Reels.",
           "date_id": 5137,
           "end_time": "2026-07-24T01:30:00+00:00",
           "external_id": "875890",
@@ -40070,21 +40082,125 @@
           "visible": true
         }
       ],
-      "tracks": []
+      "tracks": [
+        {
+          "artist_name": "Darren Regan",
+          "duration": 190080,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d8558148f0fb7586a903085f",
+          "preview_url": "https://p.scdn.co/mp3-preview/2828fe3670301c6644b417780fd499f17c2be857?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Get Down - Radio Edit",
+          "track_id": "0e3Qpus9TZIA4D5W4WIvVl"
+        },
+        {
+          "artist_name": "Darren Regan, Sebb Junior",
+          "duration": 220000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e618e964d2c1edf24b4ce9a9",
+          "preview_url": "https://p.scdn.co/mp3-preview/a941b8665809cb1d0b7fd7640b892b1f94f4fd07?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Higher Ground - Sebb Junior Remix",
+          "track_id": "2N2fWtHR3dNdJA0xM9rh6i"
+        },
+        {
+          "artist_name": "Darren Regan, Tara-Lynn Sharrock",
+          "duration": 186141,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02139180696b66daab85bca493",
+          "preview_url": "https://p.scdn.co/mp3-preview/15004bc0b68ca100fd05846fa7f3659cb259875b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Point Of View - Radio Edit",
+          "track_id": "2N3RN5WiYsNCNSfW8YiknX"
+        },
+        {
+          "artist_name": "Darren Regan, Jaki Nelson",
+          "duration": 206666,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024d4c33aec33cf44e619c9101",
+          "preview_url": "https://p.scdn.co/mp3-preview/d029db66b70f2bd44eaa8b797d5476acc9b9ac05?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Rush",
+          "track_id": "2ve1W7rZ5YiVxk3hh8g1Up"
+        },
+        {
+          "artist_name": "Darren Regan, The Cube Guys",
+          "duration": 176650,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02092d8146783314fc2b8dc6a3",
+          "preview_url": "https://p.scdn.co/mp3-preview/d8071fda456bcfd6e857102100f45a6c120af002?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Dance with Me - Radio Edit",
+          "track_id": "3c58Ij3b4850cR4LoyFsD8"
+        },
+        {
+          "artist_name": "Darren Regan",
+          "duration": 171428,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02182f0f9176d9948d2cc0b9c7",
+          "preview_url": "https://p.scdn.co/mp3-preview/591cea702daa21b785c4911d29882d76c4c5a1c9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Don't Do Me Wrong",
+          "track_id": "4L8J1Xywagbt3xTGtal2et"
+        },
+        {
+          "artist_name": "Darren Regan",
+          "duration": 157741,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d76ddc48dd9c1021e244e6b2",
+          "preview_url": "https://p.scdn.co/mp3-preview/9a68077177c79ff89eb0f079daf2afa095ea72a4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Hungry",
+          "track_id": "52ZYBGCDYnCPSjYqHCQHEz"
+        },
+        {
+          "artist_name": "Darren Regan",
+          "duration": 170880,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ab9a6e40df4bdac48f349ba3",
+          "preview_url": "https://p.scdn.co/mp3-preview/756ff0533c3e540c035c1e1d5ee515c0291f8992?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Cool Cats - Radio Edit",
+          "track_id": "58SOKIVklMsGrnXfMVX5wQ"
+        },
+        {
+          "artist_name": "Darren Regan",
+          "duration": 158420,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02577decf6e33846d644c434ed",
+          "preview_url": "https://p.scdn.co/mp3-preview/e240cf847dbe9440a0f451eda5c6b567d742a642?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Sway - Edit",
+          "track_id": "5b7A5PFO7FGviQx5iqDdAv"
+        },
+        {
+          "artist_name": "Darren Regan, Melsen",
+          "duration": 172156,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a94cabc5dd6bfeddfae5bca6",
+          "preview_url": "https://p.scdn.co/mp3-preview/1b542681d839781317f14313bf61523a671b24f6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Hungry (Melsen Remix)",
+          "track_id": "75xgMpC2Vz9CguBJZT8bUY"
+        }
+      ]
     },
     {
       "allow_favoriting": true,
-      "body": "",
+      "body": "Casmalia is a Los Angeles-based producer, DJ, songwriter, and live vocalist who has become a force within the West Coast house scene. A classically trained musician with a degree in audio engineering, she has been crafting club-ready records since her 2017 debut EP on Hood Politics Records. Since then, she has released music with Insomniac Records, mau5trap, CUFF, Night Bass, Club Sweat, Box of Cats, IN/ROTATION, Farris Wheel, and more, steadily building a reputation for bass-driven, percussion-rich productions that move between minimal, melodic, and groove-forward territory.<br />\n<br />\nHer momentum has translated far beyond the studio. Casmalia was named one of 2022’s Artists to Watch by both Nightenjin and EDM Identity, and appeared as one of Beatport’s On Our Radar artists in August 2025. In November 2025, her single “Don’t Tell Me How To Rave” became the #1 trending track across all genres on SoundCloud in the United States for a full week, earning a Times Square billboard campaign sponsored by SoundCloud.<br />\n<br />\nSupported by heavyweights including David Guetta, John Summit, Patrick Topping, FISHER, Solomun, AC Slater, Green Velvet, Jamie Jones, and Marco Carola, Casmalia’s rise accelerated following her widely acclaimed 2021 release “Four Letter Word” on the mau5trap/Insomniac Records compilation. Since then, her tour schedule has remained nonstop, with standout performances at EDC Las Vegas, Coachella’s DoLab stage, Lightning In A Bottle, Zamna Festival, and Splash House, along with a b2b2b set with VNSSA and LP Giobbi on Groove Cruise and direct tour support for Kyle Watson, Noizu, and Diplo.<br />\n<br />\nDrawing inspiration from disco, Detroit techno, and ’90s hip-hop, Casmalia is known for weaving live vocals into sets built largely around her own original productions, delivering performances that feel both personal and built for peak-time impact.",
       "category": "regular",
       "external_id": "1927317",
       "hide_image_on_detail": "never",
       "hide_image_on_overview": "never",
       "id": 2121360,
-      "links": {},
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694927_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694927_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694927_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694927_performance_500.jpeg"
+      },
+      "links": {
+        "facebook_page_id": "casmaliaofficial/",
+        "instagram_user": "casmaliamusic/",
+        "soundcloud_user": "casmalia",
+        "spotify_artist_id": "0FjiqQ7BLtYmZ7ONpS7cTT"
+      },
       "name": "Casmalia",
       "performances": [
         {
           "artist_id": 2121360,
+          "body": "Casmalia is a Los Angeles-based producer, DJ, songwriter, and live vocalist who has become a force within the West Coast house scene. A classically trained musician with a degree in audio engineering, she has been crafting club-ready records since her 2017 debut EP on Hood Politics Records. Since then, she has released music with Insomniac Records, mau5trap, CUFF, Night Bass, Club Sweat, Box of Cats, IN/ROTATION, Farris Wheel, and more, steadily building a reputation for bass-driven, percussion-rich productions that move between minimal, melodic, and groove-forward territory.\n\nHer momentum has translated far beyond the studio. Casmalia was named one of 2022’s Artists to Watch by both Nightenjin and EDM Identity, and appeared as one of Beatport’s On Our Radar artists in August 2025. In November 2025, her single “Don’t Tell Me How To Rave” became the #1 trending track across all genres on SoundCloud in the United States for a full week, earning a Times Square billboard campaign sponsored by SoundCloud.\n\nSupported by heavyweights including David Guetta, John Summit, Patrick Topping, FISHER, Solomun, AC Slater, Green Velvet, Jamie Jones, and Marco Carola, Casmalia’s rise accelerated following her widely acclaimed 2021 release “Four Letter Word” on the mau5trap/Insomniac Records compilation. Since then, her tour schedule has remained nonstop, with standout performances at EDC Las Vegas, Coachella’s DoLab stage, Lightning In A Bottle, Zamna Festival, and Splash House, along with a b2b2b set with VNSSA and LP Giobbi on Groove Cruise and direct tour support for Kyle Watson, Noizu, and Diplo.\n\nDrawing inspiration from disco, Detroit techno, and ’90s hip-hop, Casmalia is known for weaving live vocals into sets built largely around her own original productions, delivering performances that feel both personal and built for peak-time impact.",
           "date_id": 5137,
           "end_time": "2026-07-24T02:30:00+00:00",
           "external_id": "875888",
@@ -40124,7 +40240,98 @@
           "visible": true
         }
       ],
-      "tracks": []
+      "tracks": [
+        {
+          "artist_name": "Casmalia",
+          "duration": 364156,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02abd04c8119e4ce33a16ff613",
+          "preview_url": "https://p.scdn.co/mp3-preview/384ca21c6449e8342990d310f51016a90b1c6f1f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Hold On",
+          "track_id": "0sgVTvqlXvl5TVjY0Q09jU"
+        },
+        {
+          "artist_name": "Casmalia",
+          "duration": 189492,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025d89ab00eebca799ca2867d5",
+          "preview_url": "https://p.scdn.co/mp3-preview/ac093f0032541703aec5fb2fba08e38520d3d9e3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Don't Tell Me How To Rave",
+          "track_id": "19CV33zmmrESlHLXBjMnCI"
+        },
+        {
+          "artist_name": "Vandelux, Casmalia",
+          "duration": 331340,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0251bd8c9f8b274ac298410fd6",
+          "preview_url": "https://p.scdn.co/mp3-preview/3d951f8658bdbf094f5fca07e89ff77e06b648d5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Know Some - Casmalia Remix",
+          "track_id": "1yxHidbOAZV9vuBtrzGtYS"
+        },
+        {
+          "artist_name": "Casmalia, Clejan",
+          "duration": 200674,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e9c94df008cc8b11ba276f81",
+          "preview_url": "https://p.scdn.co/mp3-preview/d0ea60311efae5d4a9a5e89db52bbde296b11210?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Back To Life",
+          "track_id": "2GjT9utZIGHCY9M0JRX767"
+        },
+        {
+          "artist_name": "Casmalia",
+          "duration": 314000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02700a003e7d9488dbe0ab7e72",
+          "preview_url": "https://p.scdn.co/mp3-preview/323fc89b4958506f8b91cae1345c186269ad9b01?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Make Sense",
+          "track_id": "3lKz7LXi1EZDWYAMrXgdmi"
+        },
+        {
+          "artist_name": "Casmalia",
+          "duration": 198095,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d49fe444c2a9167e209965ed",
+          "preview_url": "https://p.scdn.co/mp3-preview/5f40b7ee3dc3e165a5dd62a020d6c0095a1b91c7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Lethal",
+          "track_id": "3xXD0jGgVz9lOhiXb3B5vj"
+        },
+        {
+          "artist_name": "Casmalia",
+          "duration": 210725,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e023e5f43418c77089528a69ccd",
+          "preview_url": "https://p.scdn.co/mp3-preview/4a9905f9633c2c2840d898a132855e55a5001889?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Let It Go",
+          "track_id": "5rfVrqHeiWmpNN44m2X0kf"
+        },
+        {
+          "artist_name": "Casmalia, PINEO & LOEB",
+          "duration": 169523,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0286960cd8f4bea4a628582963",
+          "preview_url": "https://p.scdn.co/mp3-preview/8724543a5bb7861d61db44d2525ab5a7a05317e1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Get Ready",
+          "track_id": "6LEnXJyXbc9dHBpIYJBv3K"
+        },
+        {
+          "artist_name": "Casmalia",
+          "duration": 169523,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d49fe444c2a9167e209965ed",
+          "preview_url": "https://p.scdn.co/mp3-preview/d240ef329db6d30f9a737a7d8730e969be6a17b0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Ice Cream",
+          "track_id": "6N7Tq65n26SvIVGiLwSzYE"
+        },
+        {
+          "artist_name": "Casmalia, Max Low",
+          "duration": 188720,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0223e753c522b417fc0adc71ef",
+          "preview_url": "https://p.scdn.co/mp3-preview/cdcccb26595e22e093f62f5fe703311f4a9a6a1d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Everybody",
+          "track_id": "6WaTxGKcQNbiePjtVRXY97"
+        }
+      ]
     },
     {
       "allow_favoriting": true,
