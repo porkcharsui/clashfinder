@@ -40996,7 +40996,7 @@
     },
     {
       "allow_favoriting": true,
-      "body": "",
+      "body": "Coka Cobra builds high-impact, rule-breaking club records—hand-made, unpolished, and aimed at the body, not the algorithm. After signing with Tchami's prestigious Confession label in 2020, Coka Cobra has continued to drop, consistently building a dedicated following in the process. Performing throughout North America at renowned festivals like Shambhala and with artists like Valentino Khan, Malaa and Whipped Cream, Coka Cobra is for crowds bored of safe. This is danger with intent.",
       "category": "regular",
       "external_id": "189876",
       "hide_image_on_detail": "never",
@@ -41004,19 +41004,21 @@
       "id": 2121367,
       "image": {
         "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694153_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694153_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694153_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/95/thumb_5694153_performance_500.jpeg"
+        "100": "https://media.appmiral.com/prod/performance/0057/96/thumb_5695088_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/96/thumb_5695088_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/96/thumb_5695088_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/96/thumb_5695088_performance_500.jpeg"
       },
       "links": {
         "instagram_user": "cokacobra_/",
-        "soundcloud_user": "cokacobra"
+        "soundcloud_user": "cokacobra",
+        "spotify_artist_id": "6hkPxsEatcEhLl6sRPTHuC"
       },
       "name": "Coka Cobra",
       "performances": [
         {
           "artist_id": 2121367,
+          "body": "Coka Cobra builds high-impact, rule-breaking club records—hand-made, unpolished, and aimed at the body, not the algorithm. After signing with Tchami's prestigious Confession label in 2020, Coka Cobra has continued to drop, consistently building a dedicated following in the process. Performing throughout North America at renowned festivals like Shambhala and with artists like Valentino Khan, Malaa and Whipped Cream, Coka Cobra is for crowds bored of safe. This is danger with intent.",
           "date_id": 5137,
           "end_time": "2026-07-24T09:30:00+00:00",
           "external_id": "875883",
@@ -41056,7 +41058,98 @@
           "visible": true
         }
       ],
-      "tracks": []
+      "tracks": [
+        {
+          "artist_name": "Coka Cobra",
+          "duration": 126890,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02abd2cd8bef8fd5a4a40696b3",
+          "preview_url": "https://p.scdn.co/mp3-preview/b4b699e1dc2f5f4684fa79fbca6cdd8fd0c19055?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Aww Yah - Original Mix",
+          "track_id": "0lvPndf5hf3dG88dNpScVx"
+        },
+        {
+          "artist_name": "One True God, Coka Cobra",
+          "duration": 162240,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028a03e8a1674e1294408dd4e5",
+          "preview_url": "https://p.scdn.co/mp3-preview/3894f30fca0787889baa211fea5b04394c595b4d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "All or Nothing",
+          "track_id": "1YJcyiaIR12nr4sOXfNVAn"
+        },
+        {
+          "artist_name": "Coka Cobra",
+          "duration": 162005,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02bbee2590ba3bff21cf7f0c8f",
+          "preview_url": "https://p.scdn.co/mp3-preview/29d513581a85f559ff41e3dd36cace7657a717b4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Wind Up",
+          "track_id": "1a4LsdiSP2l4YFh8nRTLCF"
+        },
+        {
+          "artist_name": "Coka Cobra",
+          "duration": 195967,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02341f89f3838ba2dec3a70f57",
+          "preview_url": "https://p.scdn.co/mp3-preview/006cdd61bcc8edc1e8c31e5e742277dcf5b4f728?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Mongoose",
+          "track_id": "1mXuFDSK7eSdwPLM2bwict"
+        },
+        {
+          "artist_name": "ero808, Coka Cobra",
+          "duration": 157384,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0238a447e8e713f5826f22f5ca",
+          "preview_url": "https://p.scdn.co/mp3-preview/2c9c3986555b22e5a0e30083c210e61f9b9855b3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "DON'T LOOK DOWN",
+          "track_id": "2l2ZeA1AJDgjExAnVPZQqj"
+        },
+        {
+          "artist_name": "Coka Cobra, La'Don",
+          "duration": 186666,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0299f89d0dd58d3dfca8b62d4e",
+          "preview_url": "https://p.scdn.co/mp3-preview/cd734ab6e5bd538020a3a2878e0ee7962fc13ccc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Superloaded",
+          "track_id": "39I9q2y57jRh819NTvQ6QD"
+        },
+        {
+          "artist_name": "Coka Cobra",
+          "duration": 160952,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02bca5be2ef3e24491ad576f0c",
+          "preview_url": "https://p.scdn.co/mp3-preview/b5c92bbf52d163868c13856b0b68d5e06952454d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Wind Down",
+          "track_id": "4FNTbPF9yCCfJeKsgbQ3bU"
+        },
+        {
+          "artist_name": "NXSTY, Coka Cobra",
+          "duration": 198857,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ea3d78291dfba5c090eca28c",
+          "preview_url": "https://p.scdn.co/mp3-preview/018b1e078463fab87ff36149a47fa2bad7e39531?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Twin Fang",
+          "track_id": "4b3HzfcUhyHuq7X2Z8Emuz"
+        },
+        {
+          "artist_name": "Coka Cobra, Walschlager",
+          "duration": 140952,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c390472a02b639c6079d97e6",
+          "preview_url": "https://p.scdn.co/mp3-preview/8ba40d25ef71b9b26a2fc7d71a897fadc157e3cb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Drop This",
+          "track_id": "58FuWT6Alv9ibe3Ts3CwzB"
+        },
+        {
+          "artist_name": "One True God, Coka Cobra",
+          "duration": 146190,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a5194c4f366dfa5a8b7a558a",
+          "preview_url": "https://p.scdn.co/mp3-preview/73b0a1f2742ef5873dc9ee1f45d02241cc33eadd?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Suicidal Love",
+          "track_id": "7FY6QQTpFO6G91bjut6uld"
+        }
+      ]
     }
   ]
 }
