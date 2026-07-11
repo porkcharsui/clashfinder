@@ -15,9 +15,12 @@ def transform(artists, stages, tz):
 
     # create look dictionary for all stages
     stage_dict = {}
+    stage_priority = {}
     for s in stages['data']:
         if s.get('name'):
             stage_dict[s['id']] = s['name']
+            # store priority for sorting (default to 999 if not available)
+            stage_priority[s['name']] = s.get('priority', 999)
 
     acts_list = []
 
@@ -69,8 +72,9 @@ def transform(artists, stages, tz):
     print(f"timezone = {tz}")
     print(f"// total acts found = {len(acts_list)}")
 
-    # Sort acts deterministically so equal stage/start entries do not depend on API order.
-    acts_list.sort(key=lambda x: (x['stage'], x['start'], x['end'], x['act'], x['url'], x['blurb']))
+    # Sort acts deterministically by priority first, then stage, then time/act details.
+    # Priority uses stage_priority lookup; defaults to 999 if not found.
+    acts_list.sort(key=lambda x: (stage_priority.get(x['stage'], 999), x['stage'], x['start'], x['end'], x['act'], x['url'], x['blurb']))
 
     for act in acts_list:
         print(f"act = {json.dumps(act)}")
