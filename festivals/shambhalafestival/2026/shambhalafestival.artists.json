@@ -7328,8 +7328,7 @@
       },
       "links": {
         "instagram_user": "cheyennesapphireofficial",
-        "spotify_artist_id": "41qg98Rtpl7zKndbYXaZLL",
-        "youtube_channel_id": "UC5VhiyffyiKDg7jlpw3FNRg"
+        "spotify_artist_id": "41qg98Rtpl7zKndbYXaZLL"
       },
       "name": "Cheyenne Sapphire",
       "performances": [
@@ -15840,21 +15839,21 @@
         },
         {
           "artist_name": "Ponda",
+          "duration": 207500,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e026e2ac89d500869fff3a8ad28",
+          "preview_url": "https://p.scdn.co/mp3-preview/385448c5f810cca57655f04a46b334373e0f6cc2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Goblin Hour",
+          "track_id": "3rSzGksmTmtLK3dNxR3LXg"
+        },
+        {
+          "artist_name": "Ponda",
           "duration": 219428,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02a4727ab39dfc052d6c99fb5a",
           "preview_url": "https://p.scdn.co/mp3-preview/d178c40c16be2edc4f024395179df0ef29a9f11b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
           "title": "Nonsense",
           "track_id": "3y6YJ8M31LJEuplLa2qmA5"
-        },
-        {
-          "artist_name": "Ponda",
-          "duration": 255500,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e026e2ac89d500869fff3a8ad28",
-          "preview_url": "https://p.scdn.co/mp3-preview/af4b24f6f5baefcfefc70ee58659628614bfab88?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Manners",
-          "track_id": "4Z5UZGJOVHK0H9W1AyXNFb"
         },
         {
           "artist_name": "Ponda",
