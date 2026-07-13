@@ -7328,7 +7328,8 @@
       },
       "links": {
         "instagram_user": "cheyennesapphireofficial",
-        "spotify_artist_id": "41qg98Rtpl7zKndbYXaZLL"
+        "spotify_artist_id": "41qg98Rtpl7zKndbYXaZLL",
+        "youtube_channel_id": "UC5VhiyffyiKDg7jlpw3FNRg"
       },
       "name": "Cheyenne Sapphire",
       "performances": [
@@ -24951,7 +24952,7 @@
     },
     {
       "allow_favoriting": true,
-      "body": "A longtime skateboarder and hip hop devotee, Geoff “Stylust” Reich has always been a rebel with a passion for his art form, so it’s no surprise that this Canadian DJ/producer’s talent for fusing hip hop flavor and an endless energy with heavy bass has earned him the rep as a creative renegade carving his own path.<br />\nStylust’s uncanny ability to melt together multiple influences and genres has led to music that’s reached millions of listeners, earning him collabs with artists including Ganja White Night, Of The Trees, Truth, and Buku - and releases with labels such as Deadbeats, Deep Dark & Dangerous, Subcarbon, and Bassrush.<br />\nGeoff’s keen sense for eclectic, yet cohesive beats has also translated to the stage, building him a reputation for delivering a dynamic, standout set every time with past tours across the United States, Canada, and Europe, and appearances at major festivals such as Coachella, Shambhala, Outlook, LIB, and Envision. With a bass-heavy yet timeless sound, Stylust electrifies both the dancefloor, as well as headphones with his impeccable taste and rebellious energy.",
+      "body": "Belgian bass duo Ganja White Night is quickly setting the tone for the bass community around the globe. Members Benjamin “Bamby” Bayeul & Charlie “Erwan” Dodson continue to make waves in the electronic community with their iconic Wobble sound. With their live ensemble, the duo is able to express themselves more freely during live performances creating a truly captivating experience.<br />\nGrowing up in the humble town of Mons Belgium, the duo was in a way sheltered from the music industry of the United States allowing them to create a honest & unique sound of their own. With their musical roots ranging from early UK bass sounds to the reggae vibes, Ganja White Night has twisted together their influences and spit out something truly fresh.<br />\nAfter a near decade deep discography, Ganja White Night struck a chord with their Mr Wobble LP release cementing their iconic Wobble sound. Centered around the idea of creating their own mini universe, the duo teamed up with Ebo, a famous Belgium street artist, to bring their concepts & vision alive.<br />\nWith the debut of Wobble Master & LFO Requiem full animated music videos in 2016, the story of Mr. Wobble was birthed. Drawing similarities to the visual aspect of Gorillaz and their unique style of telling a story through their music, the duo plans to continue exploring their own universe.<br />\nOnly time will tell how big this universe is!",
       "category": "regular",
       "external_id": "167113",
       "hide_image_on_detail": "never",
@@ -24976,7 +24977,7 @@
       "performances": [
         {
           "artist_id": 2103570,
-          "body": "A longtime skateboarder and hip hop devotee, Geoff “Stylust” Reich has always been a rebel with a passion for his art form, so it’s no surprise that this Canadian DJ/producer’s talent for fusing hip hop flavor and an endless energy with heavy bass has earned him the rep as a creative renegade carving his own path.\nStylust’s uncanny ability to melt together multiple influences and genres has led to music that’s reached millions of listeners, earning him collabs with artists including Ganja White Night, Of The Trees, Truth, and Buku - and releases with labels such as Deadbeats, Deep Dark & Dangerous, Subcarbon, and Bassrush.\nGeoff’s keen sense for eclectic, yet cohesive beats has also translated to the stage, building him a reputation for delivering a dynamic, standout set every time with past tours across the United States, Canada, and Europe, and appearances at major festivals such as Coachella, Shambhala, Outlook, LIB, and Envision. With a bass-heavy yet timeless sound, Stylust electrifies both the dancefloor, as well as headphones with his impeccable taste and rebellious energy.",
+          "body": "Belgian bass duo Ganja White Night is quickly setting the tone for the bass community around the globe. Members Benjamin “Bamby” Bayeul & Charlie “Erwan” Dodson continue to make waves in the electronic community with their iconic Wobble sound. With their live ensemble, the duo is able to express themselves more freely during live performances creating a truly captivating experience.\nGrowing up in the humble town of Mons Belgium, the duo was in a way sheltered from the music industry of the United States allowing them to create a honest & unique sound of their own. With their musical roots ranging from early UK bass sounds to the reggae vibes, Ganja White Night has twisted together their influences and spit out something truly fresh.\nAfter a near decade deep discography, Ganja White Night struck a chord with their Mr Wobble LP release cementing their iconic Wobble sound. Centered around the idea of creating their own mini universe, the duo teamed up with Ebo, a famous Belgium street artist, to bring their concepts & vision alive.\nWith the debut of Wobble Master & LFO Requiem full animated music videos in 2016, the story of Mr. Wobble was birthed. Drawing similarities to the visual aspect of Gorillaz and their unique style of telling a story through their music, the duo plans to continue exploring their own universe.\nOnly time will tell how big this universe is!",
           "date_id": 5140,
           "end_time": "2026-07-27T08:45:00+00:00",
           "external_id": "873229",
@@ -25783,12 +25784,13 @@
           "track_id": "0CaHZUniQtDRZleX6XK9p7"
         },
         {
-          "artist_name": "Maroon 5, Chromeo",
-          "duration": 259663,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c0dfc0e460eb4e561465c972",
+          "artist_name": "Kesha, Chromeo",
+          "duration": 236417,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e029fefcc8125893a03d2a84df6",
+          "preview_url": "https://p.scdn.co/mp3-preview/9d339592581ad67e17256a73fbd796c82d306eee?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Wait - Chromeo Remix",
-          "track_id": "0eayB5jay6m21D816D7jF4"
+          "title": "RED FLAG. (Chromeo Remix)",
+          "track_id": "2GDcVsUdL3zD98pwCzAFxd"
         },
         {
           "artist_name": "Lorde, Chromeo",
@@ -30054,15 +30056,6 @@
         },
         {
           "artist_name": "Eli Brown",
-          "duration": 176934,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d1614cc88eca1c226017b8bd",
-          "preview_url": "https://p.scdn.co/mp3-preview/53c937c991ba769f7b98af8e3807f51b96c129b3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Crawling",
-          "track_id": "1khBnYHMABE5yXgKs5p5of"
-        },
-        {
-          "artist_name": "Eli Brown",
           "duration": 408669,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02ab748dd2eba98fcd3fae5f76",
           "preview_url": "https://p.scdn.co/mp3-preview/404c1ca728cc8cdb7e3cc8591464c0e5c7f4b159?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -30104,6 +30097,15 @@
           "streaming_service": "spotify",
           "title": "Wavey",
           "track_id": "5wJFkZDL82O4kx0N8dhoL1"
+        },
+        {
+          "artist_name": "Eli Brown",
+          "duration": 156428,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ee2ae29d860d78974cf933b7",
+          "preview_url": "https://p.scdn.co/mp3-preview/ebac8d6275653ecc2ffd24da8f95c1de758ccdbb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Electrify",
+          "track_id": "6GqRZMF2nCtYakIrnkpith"
         },
         {
           "artist_name": "Eli Brown, Pan-Pot",
@@ -40407,7 +40409,20 @@
       "hide_image_on_detail": "never",
       "hide_image_on_overview": "never",
       "id": 2121362,
-      "links": {},
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0057/96/thumb_5695805_performance_100.jpeg",
+        "1080": "https://media.appmiral.com/prod/performance/0057/96/thumb_5695805_performance_1080.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0057/96/thumb_5695805_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0057/96/thumb_5695805_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0057/96/thumb_5695805_performance_500.jpeg",
+        "960": "https://media.appmiral.com/prod/performance/0057/96/thumb_5695805_performance_960.jpeg"
+      },
+      "links": {
+        "facebook_page_id": "luxuryusmusic/",
+        "instagram_user": "luxuryusmusic/",
+        "soundcloud_user": "luxuryusmusic"
+      },
       "name": "LuxuryUS",
       "performances": [
         {
