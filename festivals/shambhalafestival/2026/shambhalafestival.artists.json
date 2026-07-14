@@ -6615,13 +6615,13 @@
           "track_id": "37iVjhBGNBnxVSuF67TX0H"
         },
         {
-          "artist_name": "Marshmello, Viperactive",
-          "duration": 167516,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e029111ddddf695c34103d385fb",
-          "preview_url": "https://p.scdn.co/mp3-preview/aa18ffd3f46b71373890de1f2dab1adb01a5f86e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "Viperactive",
+          "duration": 145600,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024de0db54cf9f628ff01fd9c3",
+          "preview_url": "https://p.scdn.co/mp3-preview/689e48b800a484e5472235c4f2fc64dc29e5b2d1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "In The Cut",
-          "track_id": "4VaQSqvF2vX7vqv8f8HLRO"
+          "title": "Mantra",
+          "track_id": "3rfMiCZPuk9m0cvixTNGh4"
         },
         {
           "artist_name": "Viperactive, NGHTMRE",
@@ -20524,14 +20524,6 @@
           "track_id": "2eU3rmE6zV2h7ixKK3dXUx"
         },
         {
-          "artist_name": "ILLENIUM, Excision, I Prevail, AlienPark",
-          "duration": 240000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e023dcc32180bb80b90dca5b454",
-          "streaming_service": "spotify",
-          "title": "Feel Something - AlienPark Remix",
-          "track_id": "49uJYG5ehXLK4peT4Uy4wI"
-        },
-        {
           "artist_name": "ILLENIUM, Excision, Wooli, Valerie Broussard",
           "duration": 284643,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0274d82676bcb3b283b1cee15c",
@@ -20556,6 +20548,15 @@
           "streaming_service": "spotify",
           "title": "Feel Something (With I Prevail)",
           "track_id": "5dAtKXyrQoQW054LZqJ5dP"
+        },
+        {
+          "artist_name": "Excision, Wooli, Codeko",
+          "duration": 245333,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025dadbc3460c5bc7feb84d6dd",
+          "preview_url": "https://p.scdn.co/mp3-preview/e10ea094ca87feb59b03f5825dfb89d53953fa41?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Don't Look Down (Hold On)",
+          "track_id": "65krG6c3veTz66mIdSU16f"
         },
         {
           "artist_name": "Gryffin, Excision, Julia Michaels",
@@ -29828,7 +29829,8 @@
       },
       "links": {
         "instagram_user": "borisbrejcha/",
-        "spotify_artist_id": "6caPJFLv1wesmM7gwK1ACy"
+        "spotify_artist_id": "6caPJFLv1wesmM7gwK1ACy",
+        "youtube_channel_id": "UCukezONa4veoJBeK9UuVZew"
       },
       "name": "Boris Brejcha",
       "performances": [
