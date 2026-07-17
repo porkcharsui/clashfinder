@@ -5,8 +5,8 @@
   "_meta": {
     "max_per_page": 1000,
     "page": 1,
-    "page_count": 639,
-    "total_count": 639
+    "page_count": 640,
+    "total_count": 640
   },
   "data": [
     {
@@ -39950,7 +39950,8 @@
         "facebook_page_id": "share/1Jc9bXkPLP/",
         "instagram_user": "marebear_music",
         "soundcloud_user": "udUw2SPpGFH2r05CwB",
-        "spotify_artist_id": "3MSoPOmF2Ey8wq38LL6hB4"
+        "spotify_artist_id": "3MSoPOmF2Ey8wq38LL6hB4",
+        "youtube_channel_id": "UCE2o5pwjGieBRVxclrG6rTg"
       },
       "name": "Mare Bear",
       "performances": [
@@ -41162,6 +41163,60 @@
           "track_id": "7FY6QQTpFO6G91bjut6uld"
         }
       ]
+    },
+    {
+      "allow_favoriting": true,
+      "body": "<p>Vancouver's ultimate Y2K queens are throwing it back Farmily style (That's Hot). Bringing you the glitz, glamour and skater-boy realness! High Camp, interactive, and always unapologetically silly! Join The Real Human Girl (first name The) and Laura Order - along with some extra special guests, in a unique Drag Show you won't forget!</p><p><b>The Real Human Girl:</b><br></p><p>The Real Human Girl is a drag performer, comedienne, and show producer based on the unceded territory of the Coast Salish peoples, including the territories of the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh (Squamish), and səlilwətaɬ (Tsleil-Waututh) Nations. Since 2021, she’s best known for her sharp crowd work, unhinged lip-syncs, and <i>not </i>knowing what version of her you’re going to get.</p>\r\n<p>She is the namesake behind <i>The Real Events. </i>Vancouver’s only weekly Sunday drag brunches, happy hours, and occasional drag race viewing parties. You can find her every weekend hosting at Downtown Vancouver’s Bar & Grill, Taylight Kitchen, Davie’s The Best, and her apartment (buzzer code 208). Humans & Girls… welcome to the stage: The Real Human Girl.</p>\r\n\r\n<p><b>Laura Order:</b><br>Originally from Saskatoon Saskatchewan, Laura Order-DUN-DUN, is also known as the Avril Lavigne Queen of Canada, has been bringing the pop-punk Icon all across the country and living in Vancouver has not stopped that! She's cute, stupid-(check out her instagram reels to find out for yourself) and overall just a rock chick! and when you hear the name Laura Order you'll know that she will forever be your Pop-punk Prairie&nbsp;princess.</p>",
+      "category": "regular",
+      "hide_image_on_detail": "never",
+      "hide_image_on_overview": "never",
+      "id": 2122224,
+      "links": {},
+      "name": "The Real Human Girl & Laura Order",
+      "performances": [
+        {
+          "artist_id": 2122224,
+          "body": "<p>Heifers & High Heels: A Barnyard Ball</p>",
+          "date_id": 5139,
+          "end_time": "2026-07-25T21:30:00+00:00",
+          "hide_end_time": false,
+          "hide_start_time": false,
+          "id": 352818,
+          "name": "Heifers & High Heels: A Barnyard Ball",
+          "priority": 100,
+          "published": true,
+          "reminder_interval": 15,
+          "show_image_in_schedule": true,
+          "show_in_calendar": true,
+          "show_in_line_up": false,
+          "show_in_schedule": true,
+          "show_in_search": true,
+          "sold_out": false,
+          "stage_id": 18202,
+          "stage_name": "Circle Garden Theatre",
+          "start_time": "2026-07-25T20:30:00+00:00",
+          "tags": []
+        }
+      ],
+      "priority": 100,
+      "published": true,
+      "show_in_artists": false,
+      "show_in_intake": true,
+      "show_in_search": true,
+      "show_section_titles": true,
+      "tags": [
+        {
+          "category": "other",
+          "color": "#7BD673",
+          "filter": true,
+          "name": "Activities",
+          "priority": 100,
+          "show_in_search": true,
+          "slug": "type-activities",
+          "visible": true
+        }
+      ],
+      "tracks": []
     }
   ]
 }
