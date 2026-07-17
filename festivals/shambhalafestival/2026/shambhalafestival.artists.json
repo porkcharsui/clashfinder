@@ -1707,13 +1707,13 @@
           "track_id": "4jW3aLSVZ2tjb1lgcXgpGJ"
         },
         {
-          "artist_name": "leet, snuffy",
-          "duration": 160000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a1db33c171488d26585dca74",
-          "preview_url": "https://p.scdn.co/mp3-preview/a457892e9915aaa2aa89d518e784d0c97770e1de?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "Player Dave, snuffy, Snowy",
+          "duration": 171520,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021ed7f351aaaa79819d653b86",
+          "preview_url": "https://p.scdn.co/mp3-preview/7794106559666c72de3de31a30d0931f52a814dc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Incoherent",
-          "track_id": "5OUlD9jBFjQY9AyGIX7bWZ"
+          "title": "Handful",
+          "track_id": "5LXYDKkVkb11XdUIL2WXJS"
         },
         {
           "artist_name": "snuffy, Untitld",
@@ -2990,13 +2990,13 @@
           "track_id": "4SmoEaWtIhPNekJdTKEEe1"
         },
         {
-          "artist_name": "SkiiTour",
-          "duration": 216875,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0297b91285e7aa24db3f0bc04f",
-          "preview_url": "https://p.scdn.co/mp3-preview/87182fb359d19f43f75559b7085b16d7062afc88?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "SkiiTour, Ray Black",
+          "duration": 260000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e026056bff1b3c904e440d04c43",
+          "preview_url": "https://p.scdn.co/mp3-preview/7574d27210e0026010efa89167364d69766de5e0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Fade",
-          "track_id": "5nr7v3tnr4ZwhBg1BFjjTi"
+          "title": "The Rave Won't Leave Me Alone - Original Mix",
+          "track_id": "4Wr7SkLSeRXdMZpyjoBAQU"
         },
         {
           "artist_name": "SkiiTour",
@@ -3903,15 +3903,6 @@
           "track_id": "0Xs0qrz4NuxtwbJ5bUQ4Zp"
         },
         {
-          "artist_name": "DJ Susan, Maximo",
-          "duration": 188437,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f425eaf389045480209632ba",
-          "preview_url": "https://p.scdn.co/mp3-preview/e4d7c643a11df80c8bf9f87fb90322f7338229e7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Can't Take It Anymore",
-          "track_id": "0kWSnUfrRvgfU6aej4joKu"
-        },
-        {
           "artist_name": "Dubdogz, DJ Susan, ceej",
           "duration": 160952,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02cc5cdd509b8b8aeb360fffd9",
@@ -3946,6 +3937,15 @@
           "streaming_service": "spotify",
           "title": "All Night Long",
           "track_id": "3z6iNWPSuT1YeytMUNlqkP"
+        },
+        {
+          "artist_name": "DJ Susan, Rich DietZ",
+          "duration": 148124,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02611c2e89d0fcf81ec3e02906",
+          "preview_url": "https://p.scdn.co/mp3-preview/84e4db5d9e8925bbc0edd707b8aa53970e24c166?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Rock N Roll Pt 3",
+          "track_id": "57vXp50V5ExwFAk6qEFeYj"
         },
         {
           "artist_name": "DJ Susan, Smith & Sorren, Rich DietZ",
@@ -9563,15 +9563,6 @@
       "tracks": [
         {
           "artist_name": "SonReal",
-          "duration": 151156,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02851fa99657185c6a4a83f03c",
-          "preview_url": "https://p.scdn.co/mp3-preview/7b1f751e6fbf0c9d8078501cf96435aa5048247e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Let's Rock",
-          "track_id": "0CI217FXkbPTMacvn4BQnj"
-        },
-        {
-          "artist_name": "SonReal",
           "duration": 198520,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02388f022c5ab070b62f2aab42",
           "preview_url": "https://p.scdn.co/mp3-preview/88d1d27375ef75135f3941e9dc3028337ff0e927?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -9641,6 +9632,15 @@
           "streaming_service": "spotify",
           "title": "Bag",
           "track_id": "5PByvbXnHOenRxu4NynJEs"
+        },
+        {
+          "artist_name": "SonReal",
+          "duration": 127714,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0290670a06a4ea8ff5c8ce2a21",
+          "preview_url": "https://p.scdn.co/mp3-preview/56739b29102f99b49e3026c3db8e5ae4ce594b6d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Old Faithful",
+          "track_id": "63jlAiycH8j67LTwwiWTwr"
         },
         {
           "artist_name": "SonReal",
@@ -10315,6 +10315,15 @@
           "track_id": "3hwW6WUL4SHd11Uz3KU38U"
         },
         {
+          "artist_name": "Cerdin, Virus Mafia",
+          "duration": 160000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0250fbf6a6f1eb5f4caef12449",
+          "preview_url": "https://p.scdn.co/mp3-preview/7de5e5c761f03b6558c509bb33ef2e75429cedd5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Push - Virus Mafia Remix",
+          "track_id": "4U9MUijqmwFzRUdJ9TlVEz"
+        },
+        {
           "artist_name": "Squired, Cerdin",
           "duration": 209142,
           "image_url": "https://i.scdn.co/image/ab67616d00001e025c0bfac6c95d87140fef9790",
@@ -10340,15 +10349,6 @@
           "streaming_service": "spotify",
           "title": "GASLEAK",
           "track_id": "5j2uk2UT56RWGbrLiAEldr"
-        },
-        {
-          "artist_name": "Maxchalant, Maiah Manser, Cerdin",
-          "duration": 193246,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028cb94b59a7fe7e174b8fd968",
-          "preview_url": "https://p.scdn.co/mp3-preview/85d6491d266c18daa545457c4aa085e68f1cf3af?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Forbidden Love - Cerdin Remix",
-          "track_id": "6qi7wJdyCoXolfpOdT9QxY"
         },
         {
           "artist_name": "Cerdin",
@@ -12992,6 +12992,15 @@
           "track_id": "1EMlWWHj4ZoY0bRr9sSK97"
         },
         {
+          "artist_name": "Freddy J",
+          "duration": 214636,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02dd5a487c7d8a609afb75fbbf",
+          "preview_url": "https://p.scdn.co/mp3-preview/3447402a99331a865d460c1377844a8f9886e85a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Like We Do",
+          "track_id": "2JspJPBGdQ5BPjddAxwMu8"
+        },
+        {
           "artist_name": "Freddy J, Wes Please",
           "duration": 260787,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02d38d4f1ed803237e60724172",
@@ -12999,15 +13008,6 @@
           "streaming_service": "spotify",
           "title": "Outta Your Mind",
           "track_id": "34AvVD6MAa7LLOCx1KJtUw"
-        },
-        {
-          "artist_name": "Freddy J, Freelikz",
-          "duration": 289705,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d38d4f1ed803237e60724172",
-          "preview_url": "https://p.scdn.co/mp3-preview/6c1e58b78a71af7640518773ec4e03ff54069539?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "HOLLYWOOD",
-          "track_id": "5NtjUjRVRzokwuEHyGNOg3"
         },
         {
           "artist_name": "Freddy J, Underdog",
@@ -15839,21 +15839,21 @@
         },
         {
           "artist_name": "Ponda",
+          "duration": 207500,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e026e2ac89d500869fff3a8ad28",
+          "preview_url": "https://p.scdn.co/mp3-preview/385448c5f810cca57655f04a46b334373e0f6cc2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Goblin Hour",
+          "track_id": "3rSzGksmTmtLK3dNxR3LXg"
+        },
+        {
+          "artist_name": "Ponda",
           "duration": 219428,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02a4727ab39dfc052d6c99fb5a",
           "preview_url": "https://p.scdn.co/mp3-preview/d178c40c16be2edc4f024395179df0ef29a9f11b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
           "title": "Nonsense",
           "track_id": "3y6YJ8M31LJEuplLa2qmA5"
-        },
-        {
-          "artist_name": "Ponda",
-          "duration": 255500,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e026e2ac89d500869fff3a8ad28",
-          "preview_url": "https://p.scdn.co/mp3-preview/af4b24f6f5baefcfefc70ee58659628614bfab88?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Manners",
-          "track_id": "4Z5UZGJOVHK0H9W1AyXNFb"
         },
         {
           "artist_name": "Ponda",
@@ -21289,6 +21289,15 @@
       ],
       "tracks": [
         {
+          "artist_name": "Creatura Music, Zunesha",
+          "duration": 403783,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a84365cc84211f72c46fba35",
+          "preview_url": "https://p.scdn.co/mp3-preview/ab9ad5e4fcae830f81138443f1c237c5bf25fc29?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "ALMA",
+          "track_id": "07Y8kkqLYIYloWxJV8L6Hu"
+        },
+        {
           "artist_name": "Creatura Music, Darlina Shader, FLYBUTTER",
           "duration": 368273,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02a84365cc84211f72c46fba35",
@@ -21314,15 +21323,6 @@
           "streaming_service": "spotify",
           "title": "For You",
           "track_id": "3O0j1klgqzwdpDDnWbuYd9"
-        },
-        {
-          "artist_name": "Creatura Music",
-          "duration": 350117,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e026b43fc1199877d43a5f8c6aa",
-          "preview_url": "https://p.scdn.co/mp3-preview/6a707802f580d232a078403e9b45da373999ec7a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Young One",
-          "track_id": "3te88eBeYL6JVuEShQsdSJ"
         },
         {
           "artist_name": "Creatura Music, More Like Space",
@@ -29174,15 +29174,6 @@
           "track_id": "5Fulck5nPLhd4yhudE0KAB"
         },
         {
-          "artist_name": "TKO, Michael Beggs",
-          "duration": 273809,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028a25417c02cda9af51a2e351",
-          "preview_url": "https://p.scdn.co/mp3-preview/44c2ecde1d2b828305da2a022de2fef70d891218?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Feel Fine",
-          "track_id": "5d7SQjV9BI85tgWj4GKSCz"
-        },
-        {
           "artist_name": "Longstocking, TKO",
           "duration": 240256,
           "image_url": "https://i.scdn.co/image/ab67616d00001e023fb92546eac2556ed94cfc30",
@@ -29199,6 +29190,15 @@
           "streaming_service": "spotify",
           "title": "Never Doubt",
           "track_id": "6B1d6CXaTrlQQMqWHiF0lj"
+        },
+        {
+          "artist_name": "Eric Mark, Kivi, TKO",
+          "duration": 233040,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0214dc5963d322daf438428485",
+          "preview_url": "https://p.scdn.co/mp3-preview/7cb7469b8d1d1916e8e69a7c7b4339c208c86154?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Dance",
+          "track_id": "6ulUiHMb0cP7xUM5trFjXi"
         }
       ]
     },
@@ -39950,8 +39950,7 @@
         "facebook_page_id": "share/1Jc9bXkPLP/",
         "instagram_user": "marebear_music",
         "soundcloud_user": "udUw2SPpGFH2r05CwB",
-        "spotify_artist_id": "3MSoPOmF2Ey8wq38LL6hB4",
-        "youtube_channel_id": "UCE2o5pwjGieBRVxclrG6rTg"
+        "spotify_artist_id": "3MSoPOmF2Ey8wq38LL6hB4"
       },
       "name": "Mare Bear",
       "performances": [
