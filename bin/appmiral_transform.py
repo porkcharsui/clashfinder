@@ -5,6 +5,29 @@ import arrow
 
 ts_format = "YYYY-MM-DD HH:mm"
 
+
+def performance_name(artist, performance):
+    """Use the scheduled event name when the parent record represents a host."""
+    if artist.get("show_in_artists") is False:
+        return performance.get("name") or artist["name"]
+    return artist["name"]
+
+
+def performance_blurb(artist, performance):
+    """Build a description from the performance body and preserve activity hosts."""
+    if artist.get("show_in_artists") is not False:
+        return artist.get("body") or ""
+
+    body = performance.get("body") or artist.get("body") or ""
+    scheduled_name = performance.get("name")
+    is_hosted_event = scheduled_name and scheduled_name != artist["name"]
+    if not is_hosted_event:
+        return body
+
+    host = f"Hosted by {artist['name']}"
+    return f"{host}<br /><br />{body}" if body else host
+
+
 @click.command()
 @click.option("--artists", required=True, type=click.File('rb'), help="Artist JSON")
 @click.option("--stages", required=True, type=click.File('rb'), help="Stage JSON")
@@ -42,12 +65,8 @@ def transform(artists, stages, tz):
                 stage = stage_dict.get(p.get('stage_id'), p.get('stage_name'))
                 if not stage:
                     continue
-                act = artist['name']
-                
-                if 'body' in artist:
-                    blurb = artist['body']
-                else: 
-                    blurb = ""
+                act = performance_name(artist, p)
+                blurb = performance_blurb(artist, p)
                 
                 # select a primary URL to use for the act; prefer spotify, if not found fallback to others
                 url = ""
