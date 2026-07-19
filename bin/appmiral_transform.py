@@ -1,9 +1,68 @@
 #!/usr/bin/env python3
-import click
 import json
+import re
+
 import arrow
+import click
+from bs4 import BeautifulSoup
 
 ts_format = "YYYY-MM-DD HH:mm"
+LINE_BREAK_MARKER = "\0line-break\0"
+PARAGRAPH_BREAK_MARKER = "\0paragraph-break\0"
+BLOCK_TAGS = (
+    "address",
+    "article",
+    "aside",
+    "blockquote",
+    "div",
+    "figcaption",
+    "figure",
+    "footer",
+    "h1",
+    "h2",
+    "h3",
+    "h4",
+    "h5",
+    "h6",
+    "header",
+    "main",
+    "nav",
+    "p",
+    "section",
+)
+
+
+def plain_text(value):
+    """Strip HTML while retaining line and paragraph breaks as plain text."""
+    if not value:
+        return ""
+
+    soup = BeautifulSoup(value, "html.parser")
+    for tag in soup.find_all("br"):
+        tag.replace_with(LINE_BREAK_MARKER)
+    for tag in soup.find_all(BLOCK_TAGS):
+        tag.append(PARAGRAPH_BREAK_MARKER)
+    for tag in soup.find_all(("li", "tr")):
+        tag.append(LINE_BREAK_MARKER)
+
+    text = soup.get_text().replace("\r\n", "\n").replace("\r", "\n")
+    text = text.replace("\N{NO-BREAK SPACE}", " ")
+    text = re.sub(
+        rf"[ \t\n]*{re.escape(LINE_BREAK_MARKER)}[ \t\n]*",
+        LINE_BREAK_MARKER,
+        text,
+    )
+    text = re.sub(
+        rf"[ \t\n]*{re.escape(PARAGRAPH_BREAK_MARKER)}[ \t\n]*",
+        PARAGRAPH_BREAK_MARKER,
+        text,
+    )
+    text = text.replace(LINE_BREAK_MARKER, "\n").replace(
+        PARAGRAPH_BREAK_MARKER, "\n\n"
+    )
+    text = re.sub(r"[ \t]+\n", "\n", text)
+    text = re.sub(r"\n[ \t]+", "\n", text)
+    return re.sub(r"\n{3,}", "\n\n", text).strip()
 
 
 def performance_name(artist, performance):
@@ -16,16 +75,16 @@ def performance_name(artist, performance):
 def performance_blurb(artist, performance):
     """Build a description from the performance body and preserve activity hosts."""
     if artist.get("show_in_artists") is not False:
-        return artist.get("body") or ""
+        return plain_text(artist.get("body"))
 
-    body = performance.get("body") or artist.get("body") or ""
+    body = plain_text(performance.get("body") or artist.get("body"))
     scheduled_name = performance.get("name")
     is_hosted_event = scheduled_name and scheduled_name != artist["name"]
     if not is_hosted_event:
         return body
 
     host = f"Hosted by {artist['name']}"
-    return f"{host}<br /><br />{body}" if body else host
+    return f"{host}\n\n{body}" if body else host
 
 
 @click.command()

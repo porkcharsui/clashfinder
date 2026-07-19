@@ -29,8 +29,19 @@ class AppmiralTransformTests(unittest.TestCase):
         )
         self.assertEqual(
             appmiral_transform.performance_blurb(artist, performance),
-            "Hosted by Damian Williams and Jayeson<br /><br />"
-            "<p>Learn the fundamentals of wire wrapping.</p>",
+            "Hosted by Damian Williams and Jayeson\n\n"
+            "Learn the fundamentals of wire wrapping.",
+        )
+
+    def test_blurb_html_is_converted_to_plain_text(self):
+        body = (
+            "<P>First line<BR>\n  Second line &amp; more</P>"
+            "<p><span>Next paragraph</span></p>"
+        )
+
+        self.assertEqual(
+            appmiral_transform.plain_text(body),
+            "First line\nSecond line & more\n\nNext paragraph",
         )
 
     def test_lineup_artist_keeps_artist_name_and_biography(self):
@@ -108,7 +119,7 @@ class AppmiralTransformCliTests(unittest.TestCase):
         self.assertEqual(result.exit_code, 0, result.output)
         self.assertIn('"act": "Wire Wrapping with Wizards"', result.output)
         self.assertIn(
-            '"blurb": "Hosted by Damian Williams and Jayeson<br /><br />'
+            '"blurb": "Hosted by Damian Williams and Jayeson\\n\\n'
             'Workshop details"',
             result.output,
         )
