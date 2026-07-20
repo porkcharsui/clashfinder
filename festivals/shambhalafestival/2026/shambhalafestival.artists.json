@@ -10506,6 +10506,15 @@
       "tracks": [
         {
           "artist_name": "Average Citizens",
+          "duration": 260307,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02aa153f7af7d358623b4b91d2",
+          "preview_url": "https://p.scdn.co/mp3-preview/18be14b4863de04c7f6a95ec8dfe787dc4911781?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Chit Chat",
+          "track_id": "1jnzQo2Oz2MjYZJfYQcIWx"
+        },
+        {
+          "artist_name": "Average Citizens",
           "duration": 240428,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02bc8f517c0ea0d91ee3f47e72",
           "preview_url": "https://p.scdn.co/mp3-preview/de68dd3d9399b98930308378beb16cc69731b103?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -10521,15 +10530,6 @@
           "streaming_service": "spotify",
           "title": "White Cobra",
           "track_id": "2wnfGMbtRU7ghvEKgr0AoE"
-        },
-        {
-          "artist_name": "Average Citizens",
-          "duration": 248769,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0201e3d6bd7c25a1baa409f7a5",
-          "preview_url": "https://p.scdn.co/mp3-preview/c6990e7158bdd021093cdef89b1b571acfa04dc0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Made a Oopsie",
-          "track_id": "3mqoAQOF3YCCcHNCzBSX2C"
         },
         {
           "artist_name": "Proper Vibe, Average Citizens, KXNE",
@@ -21292,6 +21292,15 @@
       ],
       "tracks": [
         {
+          "artist_name": "Creatura Music, Zunesha",
+          "duration": 403783,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a84365cc84211f72c46fba35",
+          "preview_url": "https://p.scdn.co/mp3-preview/ab9ad5e4fcae830f81138443f1c237c5bf25fc29?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "ALMA",
+          "track_id": "07Y8kkqLYIYloWxJV8L6Hu"
+        },
+        {
           "artist_name": "Creatura Music, Darlina Shader, FLYBUTTER",
           "duration": 368273,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02a84365cc84211f72c46fba35",
@@ -21308,15 +21317,6 @@
           "streaming_service": "spotify",
           "title": "HOLDME",
           "track_id": "1YWIWr14ImVnN7HknnzQfl"
-        },
-        {
-          "artist_name": "Creatura Music",
-          "duration": 307200,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e026b43fc1199877d43a5f8c6aa",
-          "preview_url": "https://p.scdn.co/mp3-preview/0624e97511e2bc90a905f6c8b0b621dc1bd0c32e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "For You",
-          "track_id": "3O0j1klgqzwdpDDnWbuYd9"
         },
         {
           "artist_name": "Creatura Music, More Like Space",
@@ -22766,6 +22766,15 @@
           "track_id": "3SE7g8P5feablvjj7nTO0b"
         },
         {
+          "artist_name": "VCTRE, Smigonaut",
+          "duration": 160465,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0261574711ac860280a64e8755",
+          "preview_url": "https://p.scdn.co/mp3-preview/22ddc516781bb145cd24746b1d8485b669b03cb5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "TicTac",
+          "track_id": "3krZ8tjEPnRK95lPU59YvQ"
+        },
+        {
           "artist_name": "VCTRE",
           "duration": 205714,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02dd299f78d0fca4ab9788c366",
@@ -22791,15 +22800,6 @@
           "streaming_service": "spotify",
           "title": "Morning Light",
           "track_id": "6rmQrZCQFBTD03uF8Qf2Qv"
-        },
-        {
-          "artist_name": "Integrate, VCTRE, Black Carl!",
-          "duration": 155586,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ca6e98ca2742e3b295944a6e",
-          "preview_url": "https://p.scdn.co/mp3-preview/e65bf785d319fb900da1fb164c75bae822f8ba45?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Windchimes",
-          "track_id": "7L2rZVF1ALjdzaWhkBkioo"
         }
       ]
     },
