@@ -35393,12 +35393,13 @@
         },
         {
           "artist_id": 2110031,
+          "body": "<p>Teaching yoga since 2016 and dancing through festivals since 2007, Raquel delivers ancient wisdom for the modern palette. She merges movement, knowledge and bass for those seeking truth, connection and inner-knowing. Offering embodied experiences for expansion and growth continues to be her mission, and teaching at festivals allows her to merge passion with my purpose.</p>",
           "date_id": 5137,
           "end_time": "2026-07-24T02:00:00+00:00",
           "hide_end_time": false,
           "hide_start_time": false,
           "id": 327777,
-          "name": "Evening Yoga with Raquel",
+          "name": "Evening Laughter Yoga with Raquel",
           "priority": 100,
           "published": true,
           "reminder_interval": 15,
@@ -35437,14 +35438,18 @@
           "tags": []
         },
         {
+          "deleted_at": "2026-07-20T00:09:43+00:00",
+          "id": 342897
+        },
+        {
           "artist_id": 2110031,
-          "body": "<p><span data-sheets-root=\"1\">Teaching yoga since 2016 and dancing through festivals since 2007, Raquel delivers ancient wisdom for the modern palette. She merges movement, knowledge and bass for those seeking truth, connection and inner-knowing. Offering embodied experiences for expansion and growth continues to be her mission, and teaching at festivals allows her to merge passion with my purpose.</span></p>",
-          "date_id": 5140,
-          "end_time": "2026-07-26T20:30:00+00:00",
+          "body": "<p><span data-sheets-root=\"1\">A balanced class to help recovery and keep you limber. A necessity to stay on top of the various booty shaking activities.</span></p>",
+          "date_id": 5449,
+          "end_time": "2026-07-22T02:00:00+00:00",
           "hide_end_time": false,
           "hide_start_time": false,
-          "id": 342897,
-          "name": "Laughter Yoga",
+          "id": 353271,
+          "name": "Evening Yoga with Raquel",
           "priority": 100,
           "published": true,
           "reminder_interval": 15,
@@ -35456,7 +35461,7 @@
           "sold_out": false,
           "stage_id": 18198,
           "stage_name": "Sunburst Canopy",
-          "start_time": "2026-07-26T19:00:00+00:00",
+          "start_time": "2026-07-22T01:00:00+00:00",
           "tags": []
         }
       ],
@@ -35725,6 +35730,29 @@
           "stage_id": 18198,
           "stage_name": "Sunburst Canopy",
           "start_time": "2026-07-27T01:00:00+00:00",
+          "tags": []
+        },
+        {
+          "artist_id": 2110033,
+          "body": "<p><span data-sheets-root=\"1\">Awaken your senses with Georgia Aurelia’s nurturing morning yoga session, a perfect way to prepare for a weekend of joy, movement, and connection. Celebrating her fourth year teaching at Shambhala, Georgia is thrilled to return and practice with you again. Her approach blends gentle flow, mobility, and strength-focused movement to leave you feeling refreshed, balanced, and inspired.</span></p>",
+          "date_id": 5140,
+          "end_time": "2026-07-26T18:30:00+00:00",
+          "hide_end_time": false,
+          "hide_start_time": false,
+          "id": 353270,
+          "name": "Morning Yoga",
+          "priority": 100,
+          "published": true,
+          "reminder_interval": 15,
+          "show_image_in_schedule": true,
+          "show_in_calendar": true,
+          "show_in_line_up": false,
+          "show_in_schedule": true,
+          "show_in_search": true,
+          "sold_out": false,
+          "stage_id": 18201,
+          "stage_name": "Culture Canopy",
+          "start_time": "2026-07-26T17:30:00+00:00",
           "tags": []
         }
       ],
