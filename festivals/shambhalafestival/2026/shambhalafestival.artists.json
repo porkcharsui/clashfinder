@@ -8579,7 +8579,8 @@
       },
       "links": {
         "instagram_user": "richardfingerr/",
-        "soundcloud_user": "richardfinger"
+        "soundcloud_user": "richardfinger",
+        "youtube_channel_id": "UCWOgJ1D9C3kE_lrnmypyDug"
       },
       "name": "Richard Finger",
       "performances": [
@@ -24009,6 +24010,15 @@
           "track_id": "0K6bM8wUaxWYW5OXmnL5Wf"
         },
         {
+          "artist_name": "Jkyl & Hyde, fkblnde",
+          "duration": 185777,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02419db368b9d898788bc4cf28",
+          "preview_url": "https://p.scdn.co/mp3-preview/7e366c9c6de4575ae63931829786d13ce0fcc792?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Glitter",
+          "track_id": "30sZwWmbQEej0Xg3fhdExf"
+        },
+        {
           "artist_name": "Ely Oaks, LAVINIA, Jkyl & Hyde",
           "duration": 132413,
           "image_url": "https://i.scdn.co/image/ab67616d00001e021d54ac82924c1ba1fa8b3c52",
@@ -24034,15 +24044,6 @@
           "streaming_service": "spotify",
           "title": "With You",
           "track_id": "50LgA55Oq94rxOSbPzMnwD"
-        },
-        {
-          "artist_name": "Jkyl & Hyde",
-          "duration": 185142,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02629dba94c0c29514c5c09a2a",
-          "preview_url": "https://p.scdn.co/mp3-preview/aa2bad5c3ac6c25557b23e1679127ab6d957b2a7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Tell Me Your Lies",
-          "track_id": "5HBOoRnKPPNn3NhKfcRxBf"
         },
         {
           "artist_name": "Jkyl & Hyde, D38",
