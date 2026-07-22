@@ -5,8 +5,8 @@
   "_meta": {
     "max_per_page": 1000,
     "page": 1,
-    "page_count": 640,
-    "total_count": 640
+    "page_count": 643,
+    "total_count": 643
   },
   "data": [
     {
@@ -12405,164 +12405,8 @@
       ]
     },
     {
-      "allow_favoriting": true,
-      "body": "A foundational architect of dubstep’s first global wave, Rusko helped turn a genre once rooted in London’s underground into a worldwide phenomenon — and he did it with a grin, a wobble, and absolutely no regard for the rules. Born in Leeds and raised on rave culture, Rusko emerged in the late 2000s as a singular force with the smash single “Cockney Thug,” igniting dance floors and solidifying the wobble bass as an international signature.<br />\n<br />\nTeaming up with fellow innovator Caspa, Rusko co-piloted the iconic Fabriclive 37 mix in 2007 — a release now recognized as a defining moment in dance music history. With landmark tracks like “Woo Boost,” “Hold On” (featuring Amber Coffman), and the genre-blurring albums O.M.G.! and SONGS, he built a sound that was at once heavy and euphoric — rave music for the mischief-makers.<br />\n<br />\nA true studio chameleon, Rusko’s production credits include the majority of M.I.A.’s third album MAYA, and official remixes for Lady Gaga, Kid Cudi, and Kid Sister. He was also the first dubstep artist to break onto U.S. radio with his single “Cali Anthem.”<br />\n<br />\nFrom the world’s biggest festival stages — Coachella, Ultra, EDC, Lollapalooza, and beyond — to underground sweatboxes across four continents, Rusko has always brought an infectious energy that refuses to be boxed in. His ethos? Make music that hits hard, feels good, and flips expectations on their head.<br />\n<br />\nMore than a decade in, Rusko remains a genre-bending icon — as joyful as he is raw, as experimental as he is essential. Whether through seismic basslines, rave piano vamps, or reggae-laced grooves, Rusko continues to move bodies and blow minds with every beat.",
-      "category": "regular",
-      "external_id": "180905",
-      "hide_image_on_detail": "never",
-      "hide_image_on_overview": "never",
-      "id": 2103468,
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637743_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637743_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637743_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637743_performance_500.jpeg"
-      },
-      "links": {
-        "facebook_page_id": "ruskoofficial",
-        "instagram_user": "rusko/",
-        "soundcloud_user": "rusko",
-        "spotify_artist_id": "4BTcOR2hEQZQQL5AMo5u10",
-        "twitter_user": "ruskoofficial",
-        "youtube_user": "ruskoofficial"
-      },
-      "name": "Rusko",
-      "performances": [
-        {
-          "artist_id": 2103468,
-          "body": "A foundational architect of dubstep’s first global wave, Rusko helped turn a genre once rooted in London’s underground into a worldwide phenomenon — and he did it with a grin, a wobble, and absolutely no regard for the rules. Born in Leeds and raised on rave culture, Rusko emerged in the late 2000s as a singular force with the smash single “Cockney Thug,” igniting dance floors and solidifying the wobble bass as an international signature.\n\nTeaming up with fellow innovator Caspa, Rusko co-piloted the iconic Fabriclive 37 mix in 2007 — a release now recognized as a defining moment in dance music history. With landmark tracks like “Woo Boost,” “Hold On” (featuring Amber Coffman), and the genre-blurring albums O.M.G.! and SONGS, he built a sound that was at once heavy and euphoric — rave music for the mischief-makers.\n\nA true studio chameleon, Rusko’s production credits include the majority of M.I.A.’s third album MAYA, and official remixes for Lady Gaga, Kid Cudi, and Kid Sister. He was also the first dubstep artist to break onto U.S. radio with his single “Cali Anthem.”\n\nFrom the world’s biggest festival stages — Coachella, Ultra, EDC, Lollapalooza, and beyond — to underground sweatboxes across four continents, Rusko has always brought an infectious energy that refuses to be boxed in. His ethos? Make music that hits hard, feels good, and flips expectations on their head.\n\nMore than a decade in, Rusko remains a genre-bending icon — as joyful as he is raw, as experimental as he is essential. Whether through seismic basslines, rave piano vamps, or reggae-laced grooves, Rusko continues to move bodies and blow minds with every beat.",
-          "date_id": 5138,
-          "end_time": "2026-07-25T08:30:00+00:00",
-          "external_id": "873249",
-          "hide_end_time": false,
-          "hide_start_time": false,
-          "id": 323409,
-          "priority": 100,
-          "published": true,
-          "reminder_interval": 15,
-          "show_image_in_schedule": true,
-          "show_in_calendar": true,
-          "show_in_line_up": true,
-          "show_in_schedule": true,
-          "show_in_search": false,
-          "sold_out": false,
-          "stage_id": 17877,
-          "stage_name": "AMP",
-          "start_time": "2026-07-25T07:00:00+00:00",
-          "tags": []
-        }
-      ],
-      "priority": 100,
-      "published": true,
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "show_in_search": true,
-      "show_section_titles": true,
-      "tags": [
-        {
-          "category": "other",
-          "color": "#7896FF",
-          "filter": true,
-          "name": "Artist",
-          "priority": 100,
-          "show_in_search": true,
-          "slug": "type-artist",
-          "visible": true
-        }
-      ],
-      "tracks": [
-        {
-          "artist_name": "Marco Strous, Rusko",
-          "duration": 165343,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a264e65c6f6d6c4fe9f5b9b6",
-          "preview_url": "https://p.scdn.co/mp3-preview/4e4fc9c4df9ef783fa4a1783ca897a2cb7c2d131?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Professor X feat. Rusko",
-          "track_id": "0xWW3NqCTSZUN1DNVtqxBj"
-        },
-        {
-          "artist_name": "Mozey, Rusko",
-          "duration": 186514,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e022414bf06b7ce828dac808746",
-          "preview_url": "https://p.scdn.co/mp3-preview/976245c44347557e8064effc167a427e9814d792?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Hands In The Air - VIP",
-          "track_id": "1tFJxlTWMtw2kQHUlrLMLz"
-        },
-        {
-          "artist_name": "Rusko",
-          "duration": 351085,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c512f9e0faee600f7d1e2a9e",
-          "preview_url": "https://p.scdn.co/mp3-preview/8f643ca9c9e69b0538cfd3e860798432ba27f1a9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Somebody to Love - Sigma Remix",
-          "track_id": "1vlwXwtzSPZaDd0vyKLKhW"
-        },
-        {
-          "artist_name": "Rusko, Subtronics",
-          "duration": 185473,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02893c5f0826a68d7b74ffc37b",
-          "preview_url": "https://p.scdn.co/mp3-preview/6c0301d154c1f5765904b2201881b2b074058dd5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Bounce",
-          "track_id": "2Xt6CHGKptcnbBEvdq5kLs"
-        },
-        {
-          "artist_name": "Rusko, Amber Coffman, Sub Focus",
-          "duration": 267800,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b67a70fb5ef1c166967c3350",
-          "preview_url": "https://p.scdn.co/mp3-preview/3a458b14007d3a3bffdfa39bdcc40a7b1d0e2bd3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Hold On - Sub Focus Remix",
-          "track_id": "4D1YzHNXLlBLlLlatzlyj0"
-        },
-        {
-          "artist_name": "Rusko",
-          "duration": 249480,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b67a70fb5ef1c166967c3350",
-          "preview_url": "https://p.scdn.co/mp3-preview/2ed24728b457a390b448abbe49174228432e6506?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Woo Boost",
-          "track_id": "5NqgbZeRoGf5ZV7B9Z4gcG"
-        },
-        {
-          "artist_name": "Rusko",
-          "duration": 246906,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02db4ac5a5acb45c30a8f0b1c8",
-          "preview_url": "https://p.scdn.co/mp3-preview/a91e0b3e1e4405b7abb04ea35c21de030e710d5d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Cockney Thug",
-          "track_id": "5hHSZZuCCuBlY5eZoNubHq"
-        },
-        {
-          "artist_name": "Rusko",
-          "duration": 160000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c933f644c6d962f428eb1eb8",
-          "preview_url": "https://p.scdn.co/mp3-preview/45b73269f55aeb2b71c22e4c095cc70cd6b49fd5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Rubix Cube",
-          "track_id": "6o12D6Pk42lsb6m2aYtqJr"
-        },
-        {
-          "artist_name": "Rusko, Netsky",
-          "duration": 251669,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e020bf13e850a1cbdcf4e92690e",
-          "preview_url": "https://p.scdn.co/mp3-preview/415f93093e34da89951c865b24fcd0e187730c7b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Everyday - Netsky Remix",
-          "track_id": "76kY7vDRhosNwxcml9LwTR"
-        },
-        {
-          "artist_name": "Cypress Hill, Rusko, Damian Marley",
-          "duration": 202978,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027be5184e0dbfe609a0e7419b",
-          "preview_url": "https://p.scdn.co/mp3-preview/61d2524d950ab0337d29cb5806c46d8df29bf72b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Can't Keep Me Down",
-          "track_id": "7L3j3oIW4iSXJ20iIt7L7t"
-        }
-      ]
+      "deleted_at": "2026-07-21T21:30:45+00:00",
+      "id": 2103468
     },
     {
       "allow_favoriting": true,
@@ -21385,7 +21229,7 @@
     },
     {
       "allow_favoriting": true,
-      "body": "Born and raised amidst the towering redwoods of Kings Mountain, California, and now thriving in Denver, Colorado, CØNTRA crafts a sound deeply rooted in nature and influenced by a life of exploration. With over a decade immersed in Denver’s vibrant bass music culture—one of the richest in the United States—Ezra Arenson (CØNTRA) has honed an organic style that bridges deep dubstep and world bass, that hits hard and resonates deeper, reflecting the sonic diversity of his journey.<br />\n<br />\nCØNTRA’s evolving catalog features releases on prestigious labels such as Deep Dark & Dangerous, DUPLOC, Wheel & Deal, UKF, SubCarbon, Odyzey, Gravitas, and Deadbeats. Drawing comparisons to artists like The Widdler and Pushloop, CØNTRA’s music merges deep, powerful bass with global influences. His tracks are marked by dark, spacious soundscapes that build tension, blending hypnotic low-end frequencies with subtle melodic elements. This unique fusion creates a raw, immersive experience, drawing from the atmospheric depth of dubstep and the intricate design of world bass.<br />\n<br />\nCØNTRA’s dynamic performances have graced some of the most renowned venues and festivals across the country. Most notably festivals like Lightning in a Bottle, Lost Lands, Infrasound, Wicked Woods and The Untz, with standout performances at venues like Meow Wolf and the iconic Cervantes in Denver, his shows leave a lasting impact every time.",
+      "body": "Born and raised amidst the towering redwoods of Kings Mountain, California, and now thriving in Portland, Oregon, CØNTRA crafts a sound deeply rooted in nature and influenced by a life of exploration. With over a decade immersed in Denver’s vibrant bass music culture—one of the richest in the United States—Ezra Arenson (CØNTRA) has honed an organic style that bridges deep dubstep and world bass, that hits hard and resonates deeper, reflecting the sonic diversity of his journey.<br />\n<br />\nCØNTRA’s evolving catalog features releases on prestigious labels such as Deep Dark & Dangerous, DUPLOC, Wheel & Deal, UKF, SubCarbon, Odyzey, Gravitas, and Deadbeats. Drawing comparisons to artists like The Widdler and Pushloop, CØNTRA’s music merges deep, powerful bass with global influences. His tracks are marked by dark, spacious soundscapes that build tension, blending hypnotic low-end frequencies with subtle melodic elements. This unique fusion creates a raw, immersive experience, drawing from the atmospheric depth of dubstep and the intricate design of world bass.<br />\n<br />\nCØNTRA’s dynamic performances have graced some of the most renowned venues and festivals across the country. Most notably festivals like Lightning in a Bottle, Lost Lands, Infrasound, Wicked Woods and The Untz, with standout performances at venues like Meow Wolf and the iconic Cervantes in Denver, his shows leave a lasting impact every time.",
       "category": "regular",
       "external_id": "1926208",
       "hide_image_on_detail": "never",
@@ -21406,7 +21250,7 @@
       "performances": [
         {
           "artist_id": 2103539,
-          "body": "Born and raised amidst the towering redwoods of Kings Mountain, California, and now thriving in Denver, Colorado, CØNTRA crafts a sound deeply rooted in nature and influenced by a life of exploration. With over a decade immersed in Denver’s vibrant bass music culture—one of the richest in the United States—Ezra Arenson (CØNTRA) has honed an organic style that bridges deep dubstep and world bass, that hits hard and resonates deeper, reflecting the sonic diversity of his journey.\n\nCØNTRA’s evolving catalog features releases on prestigious labels such as Deep Dark & Dangerous, DUPLOC, Wheel & Deal, UKF, SubCarbon, Odyzey, Gravitas, and Deadbeats. Drawing comparisons to artists like The Widdler and Pushloop, CØNTRA’s music merges deep, powerful bass with global influences. His tracks are marked by dark, spacious soundscapes that build tension, blending hypnotic low-end frequencies with subtle melodic elements. This unique fusion creates a raw, immersive experience, drawing from the atmospheric depth of dubstep and the intricate design of world bass.\n\nCØNTRA’s dynamic performances have graced some of the most renowned venues and festivals across the country. Most notably festivals like Lightning in a Bottle, Lost Lands, Infrasound, Wicked Woods and The Untz, with standout performances at venues like Meow Wolf and the iconic Cervantes in Denver, his shows leave a lasting impact every time.",
+          "body": "Born and raised amidst the towering redwoods of Kings Mountain, California, and now thriving in Portland, Oregon, CØNTRA crafts a sound deeply rooted in nature and influenced by a life of exploration. With over a decade immersed in Denver’s vibrant bass music culture—one of the richest in the United States—Ezra Arenson (CØNTRA) has honed an organic style that bridges deep dubstep and world bass, that hits hard and resonates deeper, reflecting the sonic diversity of his journey.\n\nCØNTRA’s evolving catalog features releases on prestigious labels such as Deep Dark & Dangerous, DUPLOC, Wheel & Deal, UKF, SubCarbon, Odyzey, Gravitas, and Deadbeats. Drawing comparisons to artists like The Widdler and Pushloop, CØNTRA’s music merges deep, powerful bass with global influences. His tracks are marked by dark, spacious soundscapes that build tension, blending hypnotic low-end frequencies with subtle melodic elements. This unique fusion creates a raw, immersive experience, drawing from the atmospheric depth of dubstep and the intricate design of world bass.\n\nCØNTRA’s dynamic performances have graced some of the most renowned venues and festivals across the country. Most notably festivals like Lightning in a Bottle, Lost Lands, Infrasound, Wicked Woods and The Untz, with standout performances at venues like Meow Wolf and the iconic Cervantes in Denver, his shows leave a lasting impact every time.",
           "date_id": 5138,
           "end_time": "2026-07-25T08:30:00+00:00",
           "external_id": "873898",
@@ -23781,7 +23625,7 @@
           "artist_id": 2103560,
           "body": "KNOW GOOD is the product of two kindred spirits bound by both blood and bass. Cousins Tanner and Sylas Morgan are the latest in a family legacy of musicians, crafting a genre-defying sound that’s as dark and dynamic as it is unexpected. Their music pulses with low frequencies woven through pop, rock, and rap elements.\nBoth veterans in their own right, Sylas has spent the past decade DJing nightclubs and bars across the U.S., known for his taste in sample selection and sharp verses, while Tanner brings versatility as a vocalist and multi-instrumentalist, mastering over ten instruments.\nSince joining forces in 2020, KNOW GOOD has created a fresh sound that’s quickly gaining traction. Their live performances blend the intensity of a DJ set with the richness of live instrumentation, incorporating drums, guitar, violin, and vocals. Set to tour nationally in 2025, KNOW GOOD is making waves with a style that’s as dynamic as it is innovative, captivating listeners and earning spins from the world’s top DJs.",
           "date_id": 5139,
-          "end_time": "2026-07-26T06:00:00+00:00",
+          "end_time": "2026-07-26T07:30:00+00:00",
           "external_id": "873500",
           "hide_end_time": false,
           "hide_start_time": false,
@@ -23797,7 +23641,7 @@
           "sold_out": false,
           "stage_id": 17884,
           "stage_name": "AMP",
-          "start_time": "2026-07-26T04:30:00+00:00",
+          "start_time": "2026-07-26T06:00:00+00:00",
           "tags": []
         }
       ],
@@ -23913,163 +23757,8 @@
       ]
     },
     {
-      "allow_favoriting": true,
-      "body": "INZO, a dynamic electronic artist based in Denver, is celebrated for his genre-defying sound that seamlessly blends luminous synths, thunderous basslines, and nostalgic vocal samples to evoke powerful emotions. Born Michael Inzano in Chicago, he cultivated a rich musical foundation through classical piano and drums before transitioning from a metal band to electronic production during college. His breakthrough came with the 2017 single “Visionaries,” which cemented his unique artistic identity, followed by the hit “Overthinker” and his acclaimed debut EP, Multiverse.<br />\n<br />\nSince then, INZO has embarked on multiple North American tours, collaborated with leading industry artists, and headlined prominent festivals and venues. His discography continues to grow with compelling releases such as Visionquest (2024) and the collaborative album NEXUM (2025) with Blookah. Known for his innovative sound and captivating live performances, INZO remains at the forefront of the electronic music scene.",
-      "category": "regular",
-      "external_id": "1926107",
-      "hide_image_on_detail": "never",
-      "hide_image_on_overview": "never",
-      "id": 2103561,
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637834_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637834_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637834_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637834_performance_500.jpeg"
-      },
-      "links": {
-        "facebook_page_id": "inzo.music.official/",
-        "instagram_user": "inzomusic/",
-        "soundcloud_user": "inzo_music",
-        "spotify_artist_id": "18Eu7uJEMPWwwt1QUdCglQ",
-        "youtube_user": "channel/UCpCMrRnVkOUJxUGXxsVhwgg"
-      },
-      "name": "INZO",
-      "performances": [
-        {
-          "artist_id": 2103561,
-          "body": "INZO, a dynamic electronic artist based in Denver, is celebrated for his genre-defying sound that seamlessly blends luminous synths, thunderous basslines, and nostalgic vocal samples to evoke powerful emotions. Born Michael Inzano in Chicago, he cultivated a rich musical foundation through classical piano and drums before transitioning from a metal band to electronic production during college. His breakthrough came with the 2017 single “Visionaries,” which cemented his unique artistic identity, followed by the hit “Overthinker” and his acclaimed debut EP, Multiverse.\n\nSince then, INZO has embarked on multiple North American tours, collaborated with leading industry artists, and headlined prominent festivals and venues. His discography continues to grow with compelling releases such as Visionquest (2024) and the collaborative album NEXUM (2025) with Blookah. Known for his innovative sound and captivating live performances, INZO remains at the forefront of the electronic music scene.",
-          "date_id": 5139,
-          "end_time": "2026-07-26T07:30:00+00:00",
-          "external_id": "873692",
-          "hide_end_time": false,
-          "hide_start_time": false,
-          "id": 323519,
-          "priority": 100,
-          "published": true,
-          "reminder_interval": 15,
-          "show_image_in_schedule": true,
-          "show_in_calendar": true,
-          "show_in_line_up": true,
-          "show_in_schedule": true,
-          "show_in_search": false,
-          "sold_out": false,
-          "stage_id": 17884,
-          "stage_name": "AMP",
-          "start_time": "2026-07-26T06:00:00+00:00",
-          "tags": []
-        }
-      ],
-      "priority": 100,
-      "published": true,
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "show_in_search": true,
-      "show_section_titles": true,
-      "tags": [
-        {
-          "category": "other",
-          "color": "#7896FF",
-          "filter": true,
-          "name": "Artist",
-          "priority": 100,
-          "show_in_search": true,
-          "slug": "type-artist",
-          "visible": true
-        }
-      ],
-      "tracks": [
-        {
-          "artist_name": "INZO, Blookah, DijahSB",
-          "duration": 232031,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e023afc86181ded8f55eb844c2e",
-          "preview_url": "https://p.scdn.co/mp3-preview/ef4a44f43764d7ef9e100c3286800af4a22b506b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Go Mode",
-          "track_id": "2D6makyG9bp5Zve7nUXUP2"
-        },
-        {
-          "artist_name": "INZO",
-          "duration": 147555,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0237923ec6b260bcd84e7a3076",
-          "preview_url": "https://p.scdn.co/mp3-preview/403fff6979408cae21e2c1390f8949b146c2d3f5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Young Majestic",
-          "track_id": "2cFHcozWQ8Kpm42bhdFqfI"
-        },
-        {
-          "artist_name": "INZO, Lhasa Petik",
-          "duration": 245823,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0237923ec6b260bcd84e7a3076",
-          "preview_url": "https://p.scdn.co/mp3-preview/8bb89ecf80915d68c2f938ab358d8f705f407ba4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Hideaway",
-          "track_id": "3KlCwaKB1IQhglDLFmNpj9"
-        },
-        {
-          "artist_name": "INZO",
-          "duration": 200869,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02838b1dbe81ee5e1504003ee7",
-          "preview_url": "https://p.scdn.co/mp3-preview/cbb63749f2cf78d41736d4fa9bb0af4f30a3aa23?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Drift Like A Cloud, Flow Like Water",
-          "track_id": "4eH90XBDNITj5M8TradkSS"
-        },
-        {
-          "artist_name": "INZO",
-          "duration": 202400,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02cbc2683fd5b6ba3cf9dcedd7",
-          "preview_url": "https://p.scdn.co/mp3-preview/a80f8e10b15e2c7a4b86e850b6f4ca143aa0dde1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Angst",
-          "track_id": "501czsZhsXGZKJXB6Qxq1t"
-        },
-        {
-          "artist_name": "INZO",
-          "duration": 185333,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a05156c5b3c4552516d3d3e1",
-          "preview_url": "https://p.scdn.co/mp3-preview/9743c76beaba90b96d66519b7ccf8129826b6a37?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Y",
-          "track_id": "5yKZg1KWvtvWBmHIoU9tzs"
-        },
-        {
-          "artist_name": "INZO, Blookah, ALIGN, Lhasa Petik",
-          "duration": 195692,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e023afc86181ded8f55eb844c2e",
-          "preview_url": "https://p.scdn.co/mp3-preview/87eb7bafa5d324a88b1cda60ac54a238a4ac58f3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Bad Timing (So Sorry)",
-          "track_id": "64w0yO4cGmkSzKJgQ00tx0"
-        },
-        {
-          "artist_name": "INZO, CloZee",
-          "duration": 284495,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025855ee9653e821b40e94b375",
-          "preview_url": "https://p.scdn.co/mp3-preview/42356be19e4d7a86db8e177d996cc765fc0e409a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Overthinker - CloZee Remix",
-          "track_id": "6Rqbg1ME7T7DinH88nd5Ig"
-        },
-        {
-          "artist_name": "INZO",
-          "duration": 268000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0275724ce25ffc9a0d2d1964f9",
-          "preview_url": "https://p.scdn.co/mp3-preview/fc0bba683b74f828ec342dc29236a1c9d9895577?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Overthinker",
-          "track_id": "7qGoMOzR9pJ1bPl4bFmTN7"
-        },
-        {
-          "artist_name": "INZO, LaMeduza",
-          "duration": 234848,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02160dfb34b0d4489bc46b0583",
-          "preview_url": "https://p.scdn.co/mp3-preview/d1841b2d4bebc32f8159fa0f4fc1107d27f13d81?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Letting You Go (feat. LaMeduza)",
-          "track_id": "7u1TNkKocXKGgsb0i2WiJI"
-        }
-      ]
+      "deleted_at": "2026-07-21T21:30:45+00:00",
+      "id": 2103561
     },
     {
       "allow_favoriting": true,
@@ -24232,160 +23921,8 @@
       ]
     },
     {
-      "allow_favoriting": true,
-      "body": "With billions of streams to his name, Whethan is a dynamic artist and producer with multiple gold and platinum certifications. By 18, he took the dance scene by storm, executive-produced rising star Oliver Tree, and orchestrated one of Coachella’s iconic moments with viral craze Mason Ramsey. Whethan’s DJ project has featured global artists (Dua Lipa, Portugal the Man, NLE Choppa, Rico Nasty, Yeat, MAX) and built momentum for almost a decade - currently with 7+ million monthly listeners and single Money on the Dash independently charting, which is now a RIAA gold certified record and charted on UK Dance and Billboard Dance Charts in 2024. <br />\n<br />\nA robust live presence complements his streaming success - with multiple appearances at marquee festivals and venues like Red Rocks, Ultra, and Lollapalooza in his hometown of Chicago. Whethan has also produced close to 100 songs for other artists, including household names Joji, Meg Thee Stallion, Kygo, X Ambassadors, etc., and full albums for Oliver Tree, The Chainsmokers, glaive, and ericdoa. He also thrives in sync, with 50+ placements across the landscape of sports, TV, film, and commercials (Apple, Euphoria, Fifty Shades of Grey, Sony Playstation, NFL). At only 24, Whethan's successes fuel his ceaseless ambitions as a producer - with a multifaceted skill set to excel in numerous genres and a unique ability to blend them, whether for other artists' projects or his own. <br />\n<br />\nIn 2024, Whethan gave fans a long-awaited return to form. Life of a Wallflower, Vol. 2 acts as more than just a nod to his roots, but a showcase of his growth from then to now. LOAW2 highlights the reflection and maturation of the sound that made Whethan what he is today. In 2024, he stopped in seven key cities across the country for his LOAW2 Tour. <br />\n<br />\nIn February 2025, after 10 years, Whethan officially released the song that changed his life forever: MssingNo XE3 (Whethan Turn). This release relaunched a new era, focusing on bass and dubstep remixes. Earlier this year, he released his WAREHOUSE.WAVS EP that includes a number of remixes such as Swag Surfin’, No Broke Boys, Sticky, Blick Sum, Nissan Altima and In Da Club. Since his resurgence into the bass and dubstep scene, Whethan’s socials have had exponential growth with over 90K new followers on Instagram and 170K on TikTok.<br />\n<br />\n<br />\nOn the live side in 2025, Whethan drew in massive crowds with surprise sets at Electric Forest and Lightning in a Bottle, and packed out underground pop-ups in Atlanta, LA, and NYC, all of which reached capacity in under 30 minutes. He did a Halloween festival run, performing at Escape, Hulaween, Mississippi Underground, and Get Freaky SLC. On top of all of that, he sold out all of his announced headline shows in less than 24 hrs on presale in Chicago (Ramova Theatre), LA (The Palladium), NYC (Webster Hall), SF (The Midway), Denver (Cervantes’ Masterpiece Ballroom), and Toronto (Noir).  He also performed at both Decadence and To The Future.<br />\n<br />\n<br />\nIn 2026, Whethan has maintained a festival-heavy touring strategy while sprinkling in select headline and shows. He will be playing festivals including EDC Las Vegas, Lollapalooza, Electric Forest, Shambhala Music Festival, Seven Stars and Veld Music Festival, while also tapping into bass-focused events like Forbidden Kingdom Festival and Wobbleland. Around these, he played a handful one-off shows at the Do LaB stage weekend 1 of Coachella and direct support for Crankdat at CRANKDOME Tacoma. On top of all of this, Whethan has his own headline tour rolling out with 25 stops in major markets across the US throughout the year and will be direct support for Zeds Dead in Montreal this summer. Overall, the year reflects a strong presence on the touring side with strategic headline stops and festival looks, reinforcing his position in the upper tier of touring electronic acts.",
-      "category": "regular",
-      "external_id": "1925899",
-      "hide_image_on_detail": "never",
-      "hide_image_on_overview": "never",
-      "id": 2103563,
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637836_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637836_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637836_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637836_performance_500.jpeg"
-      },
-      "links": {
-        "instagram_user": "whethan",
-        "soundcloud_user": "whethan",
-        "spotify_artist_id": "0vqJkZ0RpLZixt3lTmD8vP"
-      },
-      "name": "Whethan",
-      "performances": [
-        {
-          "artist_id": 2103563,
-          "body": "With billions of streams to his name, Whethan is a dynamic artist and producer with multiple gold and platinum certifications. By 18, he took the dance scene by storm, executive-produced rising star Oliver Tree, and orchestrated one of Coachella’s iconic moments with viral craze Mason Ramsey. Whethan’s DJ project has featured global artists (Dua Lipa, Portugal the Man, NLE Choppa, Rico Nasty, Yeat, MAX) and built momentum for almost a decade - currently with 7+ million monthly listeners and single Money on the Dash independently charting, which is now a RIAA gold certified record and charted on UK Dance and Billboard Dance Charts in 2024. \n\nA robust live presence complements his streaming success - with multiple appearances at marquee festivals and venues like Red Rocks, Ultra, and Lollapalooza in his hometown of Chicago. Whethan has also produced close to 100 songs for other artists, including household names Joji, Meg Thee Stallion, Kygo, X Ambassadors, etc., and full albums for Oliver Tree, The Chainsmokers, glaive, and ericdoa. He also thrives in sync, with 50+ placements across the landscape of sports, TV, film, and commercials (Apple, Euphoria, Fifty Shades of Grey, Sony Playstation, NFL). At only 24, Whethan's successes fuel his ceaseless ambitions as a producer - with a multifaceted skill set to excel in numerous genres and a unique ability to blend them, whether for other artists' projects or his own. \n\nIn 2024, Whethan gave fans a long-awaited return to form. Life of a Wallflower, Vol. 2 acts as more than just a nod to his roots, but a showcase of his growth from then to now. LOAW2 highlights the reflection and maturation of the sound that made Whethan what he is today. In 2024, he stopped in seven key cities across the country for his LOAW2 Tour. \n\nIn February 2025, after 10 years, Whethan officially released the song that changed his life forever: MssingNo XE3 (Whethan Turn). This release relaunched a new era, focusing on bass and dubstep remixes. Earlier this year, he released his WAREHOUSE.WAVS EP that includes a number of remixes such as Swag Surfin’, No Broke Boys, Sticky, Blick Sum, Nissan Altima and In Da Club. Since his resurgence into the bass and dubstep scene, Whethan’s socials have had exponential growth with over 90K new followers on Instagram and 170K on TikTok.\n\n\nOn the live side in 2025, Whethan drew in massive crowds with surprise sets at Electric Forest and Lightning in a Bottle, and packed out underground pop-ups in Atlanta, LA, and NYC, all of which reached capacity in under 30 minutes. He did a Halloween festival run, performing at Escape, Hulaween, Mississippi Underground, and Get Freaky SLC. On top of all of that, he sold out all of his announced headline shows in less than 24 hrs on presale in Chicago (Ramova Theatre), LA (The Palladium), NYC (Webster Hall), SF (The Midway), Denver (Cervantes’ Masterpiece Ballroom), and Toronto (Noir).  He also performed at both Decadence and To The Future.\n\n\nIn 2026, Whethan has maintained a festival-heavy touring strategy while sprinkling in select headline and shows. He will be playing festivals including EDC Las Vegas, Lollapalooza, Electric Forest, Shambhala Music Festival, Seven Stars and Veld Music Festival, while also tapping into bass-focused events like Forbidden Kingdom Festival and Wobbleland. Around these, he played a handful one-off shows at the Do LaB stage weekend 1 of Coachella and direct support for Crankdat at CRANKDOME Tacoma. On top of all of this, Whethan has his own headline tour rolling out with 25 stops in major markets across the US throughout the year and will be direct support for Zeds Dead in Montreal this summer. Overall, the year reflects a strong presence on the touring side with strategic headline stops and festival looks, reinforcing his position in the upper tier of touring electronic acts.",
-          "date_id": 5139,
-          "end_time": "2026-07-26T09:45:00+00:00",
-          "external_id": "873272",
-          "hide_end_time": false,
-          "hide_start_time": false,
-          "id": 323521,
-          "priority": 100,
-          "published": true,
-          "reminder_interval": 15,
-          "show_image_in_schedule": true,
-          "show_in_calendar": true,
-          "show_in_line_up": true,
-          "show_in_schedule": true,
-          "show_in_search": false,
-          "sold_out": false,
-          "stage_id": 17884,
-          "stage_name": "AMP",
-          "start_time": "2026-07-26T08:30:00+00:00",
-          "tags": []
-        }
-      ],
-      "priority": 100,
-      "published": true,
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "show_in_search": true,
-      "show_section_titles": true,
-      "tags": [
-        {
-          "category": "other",
-          "color": "#7896FF",
-          "filter": true,
-          "name": "Artist",
-          "priority": 100,
-          "show_in_search": true,
-          "slug": "type-artist",
-          "visible": true
-        }
-      ],
-      "tracks": [
-        {
-          "artist_name": "Whethan, Mascolo",
-          "duration": 165618,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02abc20d6fca3df753a2243a5f",
-          "preview_url": "https://p.scdn.co/mp3-preview/4d8ba3271eddaef52faf53c4fedffcf36a7a9b2b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Good Nights (feat. Mascolo)",
-          "track_id": "08Kj0lvbsqAxzeUOBYZRL6"
-        },
-        {
-          "artist_name": "Oliver Tree, Whethan",
-          "duration": 187754,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0287df3ac75d3fbde15aac63aa",
-          "preview_url": "https://p.scdn.co/mp3-preview/cac08e6353b582583209b928f86601331da19ef0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Do You Feel Me?",
-          "track_id": "2O7itneeXoILR304z8zzev"
-        },
-        {
-          "artist_name": "Whethan, midwxst, Yeat, Matt OX",
-          "duration": 183410,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e026fb538c986c37f4511802d64",
-          "preview_url": "https://p.scdn.co/mp3-preview/7146baee3df17d2fd43cf58caac339a6e21c5622?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "LOCK IT UP (feat. Yeat, midwxst & Matt Ox)",
-          "track_id": "3LkWdvgrJtFuM0ZoXKPlpH"
-        },
-        {
-          "artist_name": "Whethan, Dua Lipa",
-          "duration": 196706,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e026cd9798b6ace10ff98d1abdd",
-          "streaming_service": "spotify",
-          "title": "High (& Dua Lipa)",
-          "track_id": "3dD9yyYTQ73SZvyOygyKva"
-        },
-        {
-          "artist_name": "Elley Duhé, Whethan",
-          "duration": 116465,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024d9331367e160fee20bf4e4d",
-          "preview_url": "https://p.scdn.co/mp3-preview/80a70591e44ff4defcafcff6e6b97ac1d437934b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "MONEY ON THE DASH - SPED UP",
-          "track_id": "3deZ4afG0Y4WhbSBEp97oK"
-        },
-        {
-          "artist_name": "Whethan, Oliver Tree",
-          "duration": 155498,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02da201fedce4161342e06c612",
-          "preview_url": "https://p.scdn.co/mp3-preview/5098c421b35e9a636de5e508d5fb2b3e727b6efd?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Freefall (feat. Oliver Tree)",
-          "track_id": "4OUKMfT24sce6hdAzfNTOX"
-        },
-        {
-          "artist_name": "Whethan",
-          "duration": 228368,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f2395fbbb6115f69f67b6784",
-          "preview_url": "https://p.scdn.co/mp3-preview/cd03272291c2f32bf89ac668f8c8814544d6a304?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Swag Surfin'",
-          "track_id": "4orH1YqyAjXBtBr0DfsqjV"
-        },
-        {
-          "artist_name": "Whethan, Oliver Tree",
-          "duration": 164680,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c558e54cf2bf2a8dec80aa35",
-          "preview_url": "https://p.scdn.co/mp3-preview/8b31c7e6f1ac8609a05a3e7ad62ec90a1f38266d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "When I'm Down",
-          "track_id": "556l9P7WVZVyYUBjT1YFTT"
-        },
-        {
-          "artist_name": "Whethan, Waka Flocka Flame, Denzel Curry, BKTHERULA",
-          "duration": 189000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021739f19d75ea3583e290c29f",
-          "preview_url": "https://p.scdn.co/mp3-preview/2b5b2bc3771a1455c6dcdb8ac1287e72ba228b45?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "ROOSTER",
-          "track_id": "57TYQ3xAOxvKPTWFxTvZon"
-        },
-        {
-          "artist_name": "Elley Duhé, Whethan",
-          "duration": 145666,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024d9331367e160fee20bf4e4d",
-          "preview_url": "https://p.scdn.co/mp3-preview/402b906e4ee952112b42db47404d8032182e542c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "MONEY ON THE DASH",
-          "track_id": "5ccq5EjBY0kB9moDwnFIXz"
-        }
-      ]
+      "deleted_at": "2026-07-21T21:30:45+00:00",
+      "id": 2103563
     },
     {
       "allow_favoriting": true,
@@ -41248,6 +40785,476 @@
         }
       ],
       "tracks": []
+    },
+    {
+      "allow_favoriting": true,
+      "body": "Benga is a cornerstone of UK bass culture, an architect of early dubstep whose sound helped reshaped electronic music.<br />\n<br />\nRenowned for explosive, high energy DJ sets and fearless sound design, Benga continues to evolve without compromise. Alongside the ongoing Skream & Benga project, he is now unveiling a new solo electro project. Raw, driving, and uncompromising. fusing his unmistakable sonics with razor sharp rhythms built for peak time impact.<br />\n<br />\nThis is legacy re-inspired",
+      "category": "regular",
+      "external_id": "1927987",
+      "hide_image_on_detail": "never",
+      "hide_image_on_overview": "never",
+      "id": 2122475,
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0058/02/thumb_5701123_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0058/02/thumb_5701123_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0058/02/thumb_5701123_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0058/02/thumb_5701123_performance_500.jpeg"
+      },
+      "links": {
+        "facebook_page_id": "iambenga/",
+        "instagram_user": "iambenga/",
+        "soundcloud_user": "iambenga",
+        "spotify_artist_id": "6lyYDuLxgcxPLH5RjUPH5p"
+      },
+      "name": "Benga",
+      "performances": [
+        {
+          "artist_id": 2122475,
+          "body": "Benga is a cornerstone of UK bass culture, an architect of early dubstep whose sound helped reshaped electronic music.\n\nRenowned for explosive, high energy DJ sets and fearless sound design, Benga continues to evolve without compromise. Alongside the ongoing Skream & Benga project, he is now unveiling a new solo electro project. Raw, driving, and uncompromising. fusing his unmistakable sonics with razor sharp rhythms built for peak time impact.\n\nThis is legacy re-inspired",
+          "date_id": 5138,
+          "end_time": "2026-07-25T08:30:00+00:00",
+          "external_id": "876998",
+          "hide_end_time": false,
+          "hide_start_time": false,
+          "id": 354643,
+          "priority": 100,
+          "published": true,
+          "reminder_interval": 15,
+          "show_image_in_schedule": true,
+          "show_in_calendar": true,
+          "show_in_line_up": true,
+          "show_in_schedule": true,
+          "show_in_search": false,
+          "sold_out": false,
+          "stage_id": 17877,
+          "stage_name": "AMP",
+          "start_time": "2026-07-25T07:00:00+00:00",
+          "tags": []
+        }
+      ],
+      "priority": 100,
+      "published": true,
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "show_in_search": true,
+      "show_section_titles": true,
+      "tags": [
+        {
+          "category": "other",
+          "color": "#7896FF",
+          "filter": true,
+          "name": "Artist",
+          "priority": 100,
+          "show_in_search": true,
+          "slug": "type-artist",
+          "visible": true
+        }
+      ],
+      "tracks": [
+        {
+          "artist_name": "Benga, Kano",
+          "duration": 239773,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0287c85bf692a60c07c616cd24",
+          "preview_url": "https://p.scdn.co/mp3-preview/7c0dd83298b9612f1ef92bd9f84beb7c4ab63022?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Forefather",
+          "track_id": "0UZvF6KJhjpUawO1ifNvF4"
+        },
+        {
+          "artist_name": "Benga",
+          "duration": 219413,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b05f05460ff2cc2effbf9265",
+          "preview_url": "https://p.scdn.co/mp3-preview/dcb0ea543e3df4d07df0d2b81b6d9c023941eb94?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Crunked Up",
+          "track_id": "0lh4XiOhw4SCUBMqg1dc8K"
+        },
+        {
+          "artist_name": "Benga",
+          "duration": 314653,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b05f05460ff2cc2effbf9265",
+          "preview_url": "https://p.scdn.co/mp3-preview/254b71ecd5c566677e3736d5713eefdff43cc55a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Pleasure",
+          "track_id": "1DnfSqGHrMhuLluWtWaeeR"
+        },
+        {
+          "artist_name": "Benga, Marlene",
+          "duration": 207986,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a6b061b291991287024812ab",
+          "preview_url": "https://p.scdn.co/mp3-preview/9ebf58a304dd4e015c7acc03de002edfd66b843e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Pour Your Love (feat. Marlene)",
+          "track_id": "2BCw390vVFhUCxJ1K1AjU3"
+        },
+        {
+          "artist_name": "Benga",
+          "duration": 301773,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b05f05460ff2cc2effbf9265",
+          "preview_url": "https://p.scdn.co/mp3-preview/5ebd01b3a11f78456039b81143e6bc7a83673c90?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "26 Basslines",
+          "track_id": "2H9ZUD7Z5SoLqHcePi2htf"
+        },
+        {
+          "artist_name": "Benga",
+          "duration": 279120,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b05f05460ff2cc2effbf9265",
+          "preview_url": "https://p.scdn.co/mp3-preview/ad591179cb38e48fef00cb2f980620a484a92288?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "E Trips",
+          "track_id": "3TxJdSDauVdhXvmsfup1Ij"
+        },
+        {
+          "artist_name": "Skream & Benga, Skream, Benga",
+          "duration": 222000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b0b549c99fd6a1541483bb0f",
+          "preview_url": "https://p.scdn.co/mp3-preview/e8e62569e48d8d437726ff5df9b7875aa3c9beb0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Good Things Come To Those Who Wait",
+          "track_id": "3favmuDfpgYp3poSyGokVD"
+        },
+        {
+          "artist_name": "Benga, Coki",
+          "duration": 173266,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e022874c9c2f0ec7d3a28102bf8",
+          "preview_url": "https://p.scdn.co/mp3-preview/cd635818f106b0d6e64e99ac63909696708e81e6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Night (Radio Edit) [Extended]",
+          "track_id": "56rRJNtJ9NiUU6fKkHdDDN"
+        },
+        {
+          "artist_name": "Benga, Coki",
+          "duration": 356680,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b05f05460ff2cc2effbf9265",
+          "preview_url": "https://p.scdn.co/mp3-preview/0a51daed018fcc75c9fe3bf54738e94f1309289f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Night",
+          "track_id": "5wh6goFgG68FrFhpWHTumK"
+        },
+        {
+          "artist_name": "Skream & Benga, Emily Makis, Skream, Benga",
+          "duration": 232000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f0ef53d453e99b6a996757f7",
+          "preview_url": "https://p.scdn.co/mp3-preview/08f06c8878266c1b3f11b2bd1118a52f163d8e35?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Midnight Control (feat. Emily Makis)",
+          "track_id": "6nSTAGsQTciuqHFNwZ9INM"
+        }
+      ]
+    },
+    {
+      "allow_favoriting": true,
+      "body": "Paul Conversano, aka RAVENSCOON, is an electronic music producer and DJ from Atlanta, Georgia, who combines influences of punk rock, metal, and hip-hop, with experimental bass music.<br />\nRAVENSCOON’s unique flair of southern roots compliment pulsating dream-like bass lines and psychedelic arpeggios to create something uniquely fresh yet also familiarly nostalgic.<br />\nHis passion and love for electronic music is present in both his original songs and his wildly popular mixtape series. No genre goes untouched - from dubstep, wave, trance, rap, trap, drum & bass, halftime, psytrance, and more - each RAVENSCOON live set is unlike anything you’ve ever experienced before.<br />\nFrom sold out headlining shows to supporting industry-leading bass music acts - RAVENSCOON has made a statement that he’s just getting started.",
+      "category": "regular",
+      "external_id": "1928043",
+      "hide_image_on_detail": "never",
+      "hide_image_on_overview": "never",
+      "id": 2122476,
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0058/02/thumb_5701124_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0058/02/thumb_5701124_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0058/02/thumb_5701124_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0058/02/thumb_5701124_performance_500.jpeg"
+      },
+      "links": {
+        "facebook_page_id": "Ravenscoon",
+        "instagram_user": "Ravenscoon",
+        "soundcloud_user": "ravenscoon",
+        "spotify_artist_id": "7vfvYuEyJbh1Tf3QlOTAmZ"
+      },
+      "name": "RAVENSCOON",
+      "performances": [
+        {
+          "artist_id": 2122476,
+          "body": "Paul Conversano, aka RAVENSCOON, is an electronic music producer and DJ from Atlanta, Georgia, who combines influences of punk rock, metal, and hip-hop, with experimental bass music.\nRAVENSCOON’s unique flair of southern roots compliment pulsating dream-like bass lines and psychedelic arpeggios to create something uniquely fresh yet also familiarly nostalgic.\nHis passion and love for electronic music is present in both his original songs and his wildly popular mixtape series. No genre goes untouched - from dubstep, wave, trance, rap, trap, drum & bass, halftime, psytrance, and more - each RAVENSCOON live set is unlike anything you’ve ever experienced before.\nFrom sold out headlining shows to supporting industry-leading bass music acts - RAVENSCOON has made a statement that he’s just getting started.",
+          "date_id": 5139,
+          "end_time": "2026-07-26T06:00:00+00:00",
+          "external_id": "877017",
+          "hide_end_time": false,
+          "hide_start_time": false,
+          "id": 354644,
+          "priority": 100,
+          "published": true,
+          "reminder_interval": 15,
+          "show_image_in_schedule": true,
+          "show_in_calendar": true,
+          "show_in_line_up": true,
+          "show_in_schedule": true,
+          "show_in_search": false,
+          "sold_out": false,
+          "stage_id": 17884,
+          "stage_name": "AMP",
+          "start_time": "2026-07-26T04:30:00+00:00",
+          "tags": []
+        }
+      ],
+      "priority": 100,
+      "published": true,
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "show_in_search": true,
+      "show_section_titles": true,
+      "tags": [
+        {
+          "category": "other",
+          "color": "#7896FF",
+          "filter": true,
+          "name": "Artist",
+          "priority": 100,
+          "show_in_search": true,
+          "slug": "type-artist",
+          "visible": true
+        }
+      ],
+      "tracks": [
+        {
+          "artist_name": "Ravenscoon",
+          "duration": 212571,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a8b2a19cfccc9ce74617f079",
+          "preview_url": "https://p.scdn.co/mp3-preview/1976e86032ed89542736702575820cc439230355?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "CHECKMATE",
+          "track_id": "0m8CE1UFc74Wc3riDndylS"
+        },
+        {
+          "artist_name": "Ravenscoon, Flozone",
+          "duration": 153600,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a8b2a19cfccc9ce74617f079",
+          "preview_url": "https://p.scdn.co/mp3-preview/9f7fc0106bc9dac58accc95fff3a91cc44b6db7f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "BANG",
+          "track_id": "1gzIEqwd4ujKX2Ra6j9E7l"
+        },
+        {
+          "artist_name": "Ravenscoon, Gardella, Al Kapone",
+          "duration": 198620,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e023ec3fea2d522182348c19f5d",
+          "preview_url": "https://p.scdn.co/mp3-preview/e548ed82f9cc467517add5dd3c1c4b1393dac279?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Pressure",
+          "track_id": "2xbEZ4SVXvjfC7Pmv4MOTP"
+        },
+        {
+          "artist_name": "Ravenscoon, ZEKE BEATS, Born I, Seeka",
+          "duration": 142000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028049f8927ffae0f4f2f5bdb5",
+          "preview_url": "https://p.scdn.co/mp3-preview/0cd5e8f304908433fa86b8d5d5c80c479009d95d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "SOUL - VIP",
+          "track_id": "2zRWhgtP9FAS6LNEbEb9Yu"
+        },
+        {
+          "artist_name": "Ravenscoon, Kambii",
+          "duration": 220201,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a8b2a19cfccc9ce74617f079",
+          "preview_url": "https://p.scdn.co/mp3-preview/56c45d241762266d394f944fc95fbb1a438e7311?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "GLASS ORCHID",
+          "track_id": "4duLvsujL6VfGi3SIKWGtc"
+        },
+        {
+          "artist_name": "Ravenscoon, yevhenny, Born I",
+          "duration": 358956,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0203b815428f0ed3f66da10d5b",
+          "preview_url": "https://p.scdn.co/mp3-preview/8a242b6b28fb5bab12aa54c9ccc029de2479c61e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Mind",
+          "track_id": "4qostkbIVbMzfdIS9uJky2"
+        },
+        {
+          "artist_name": "Ravenscoon",
+          "duration": 356571,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02cf0910fa3ed48647652ab59c",
+          "preview_url": "https://p.scdn.co/mp3-preview/27744b543af17c6085973cf2137d37a025fdf722?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Inertia",
+          "track_id": "5GqifRiXo1nKiqLnsNkvNQ"
+        },
+        {
+          "artist_name": "Ravenscoon",
+          "duration": 150857,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a8b2a19cfccc9ce74617f079",
+          "preview_url": "https://p.scdn.co/mp3-preview/a53f425860cce30766d4bf4f5159f7e171991919?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "DJJJJJJJJJ",
+          "track_id": "5aJnl3PVYb1svAjOzSqQHS"
+        },
+        {
+          "artist_name": "Ravenscoon, Wiley",
+          "duration": 174857,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ff1af4847449268eab3eb39f",
+          "preview_url": "https://p.scdn.co/mp3-preview/2c88b6ef4fb3d858d722eedb9e973b024c41553f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "STOMP OUT",
+          "track_id": "6O1YbnOUVTS8Zl1NsVuvO7"
+        },
+        {
+          "artist_name": "Jantsen, Ravenscoon",
+          "duration": 211862,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a8a2b373512c827e96b5856d",
+          "streaming_service": "spotify",
+          "title": "FULL SEND",
+          "track_id": "7uSupgnScNSahebyEiRitY"
+        }
+      ]
+    },
+    {
+      "allow_favoriting": true,
+      "body": "William Allocca, a.k.a. Cool Customer, is a 25 year old producer hailing from New York, currently based in Florida. After debuting at Secret Dreams Festival in the summer of 2022, tangible excitement has continued to build around the project through a steady run of releases, touring, and grassroots fan engagement.<br />\nArmed with a stack of highly anticipated music, including his recent EP, Thank You For Holding, Cool Customer’s rapidly growing base of early supporters has followed his evolution closely. Blending the worlds of hip-hop and electronic music, his sound is glitchy, percussive, and wildly unique, offering a refreshing and character-driven take on experimental bass.<br />\nBacked by co-signs from Zeds Dead, Subtronics, and Jade Cicada, and recent appearances at Red Rocks, GRiZ’s Seven Stars Festival, and on national tour with Tape B and OPIUO, Cool Customer is quickly emerging as one of the most exciting new voices shaping the next wave of left-field electronic music.",
+      "category": "regular",
+      "external_id": "1928021",
+      "hide_image_on_detail": "never",
+      "hide_image_on_overview": "never",
+      "id": 2122477,
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0058/02/thumb_5701125_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0058/02/thumb_5701125_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0058/02/thumb_5701125_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0058/02/thumb_5701125_performance_500.jpeg"
+      },
+      "links": {
+        "facebook_page_id": "thecoolcustomer/",
+        "instagram_user": "_coolcustomer/",
+        "soundcloud_user": "cool-customer",
+        "spotify_artist_id": "2zP6x0auCdwbZrzWFVq1fO"
+      },
+      "name": "Cool Customer",
+      "performances": [
+        {
+          "artist_id": 2122477,
+          "body": "William Allocca, a.k.a. Cool Customer, is a 25 year old producer hailing from New York, currently based in Florida. After debuting at Secret Dreams Festival in the summer of 2022, tangible excitement has continued to build around the project through a steady run of releases, touring, and grassroots fan engagement.\nArmed with a stack of highly anticipated music, including his recent EP, Thank You For Holding, Cool Customer’s rapidly growing base of early supporters has followed his evolution closely. Blending the worlds of hip-hop and electronic music, his sound is glitchy, percussive, and wildly unique, offering a refreshing and character-driven take on experimental bass.\nBacked by co-signs from Zeds Dead, Subtronics, and Jade Cicada, and recent appearances at Red Rocks, GRiZ’s Seven Stars Festival, and on national tour with Tape B and OPIUO, Cool Customer is quickly emerging as one of the most exciting new voices shaping the next wave of left-field electronic music.",
+          "date_id": 5139,
+          "end_time": "2026-07-26T09:45:00+00:00",
+          "external_id": "877016",
+          "hide_end_time": false,
+          "hide_start_time": false,
+          "id": 354645,
+          "priority": 100,
+          "published": true,
+          "reminder_interval": 15,
+          "show_image_in_schedule": true,
+          "show_in_calendar": true,
+          "show_in_line_up": true,
+          "show_in_schedule": true,
+          "show_in_search": false,
+          "sold_out": false,
+          "stage_id": 17884,
+          "stage_name": "AMP",
+          "start_time": "2026-07-26T08:30:00+00:00",
+          "tags": []
+        }
+      ],
+      "priority": 100,
+      "published": true,
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "show_in_search": true,
+      "show_section_titles": true,
+      "tags": [
+        {
+          "category": "other",
+          "color": "#7896FF",
+          "filter": true,
+          "name": "Artist",
+          "priority": 100,
+          "show_in_search": true,
+          "slug": "type-artist",
+          "visible": true
+        }
+      ],
+      "tracks": [
+        {
+          "artist_name": "Cool Customer",
+          "duration": 173333,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02faf16833997ece18ff5f08cb",
+          "preview_url": "https://p.scdn.co/mp3-preview/70d12297b0b89d3eb47b849f1ca4cc971a907ae5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Hunky Dory",
+          "track_id": "1ggXGehTqW3Zy1r7HvcrHl"
+        },
+        {
+          "artist_name": "Cool Customer",
+          "duration": 277714,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e022c1be690ec9800f515a7e2bd",
+          "preview_url": "https://p.scdn.co/mp3-preview/54e38dc7a7a704510810accb13e40a35ecb395ce?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Peppermint",
+          "track_id": "3oO26OMKFDDko6ouX4rQVC"
+        },
+        {
+          "artist_name": "Cool Customer",
+          "duration": 213333,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028c63706da4a2c019048fee4f",
+          "preview_url": "https://p.scdn.co/mp3-preview/b72b9719e3f971fea70c29c18792903be3facc0e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "The M.F.",
+          "track_id": "515qwaRkRuqC33kRDi7Vbs"
+        },
+        {
+          "artist_name": "Cool Customer",
+          "duration": 182897,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a6e2ab58348a386e000838b6",
+          "preview_url": "https://p.scdn.co/mp3-preview/bdf079d3d88ecb5c1401e6d0969419b4f51bcd32?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "In Your Face",
+          "track_id": "5P8psKqs3WYy5a3xKhKS5D"
+        },
+        {
+          "artist_name": "Cool Customer",
+          "duration": 186818,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02081858dba1caa08732dcf008",
+          "preview_url": "https://p.scdn.co/mp3-preview/e588f4f96c8fa5fa56f226d851205f74d7e9b698?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Check It Out",
+          "track_id": "5S7xMP5cwBTlyt8FtlvLSf"
+        },
+        {
+          "artist_name": "Cool Customer",
+          "duration": 193581,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e027d41cdd243539632df8798d9",
+          "preview_url": "https://p.scdn.co/mp3-preview/30808104efb971daa39e3d3dc4864fc0502d33ec?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Take 'Em Back",
+          "track_id": "5w4u3j8Tt6zjIVeSI0cDVa"
+        },
+        {
+          "artist_name": "Cool Customer",
+          "duration": 185624,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f83e668a82d6eb72e2181827",
+          "streaming_service": "spotify",
+          "title": "Wack",
+          "track_id": "6C8vXyTvYOB7XRBHF9XWWi"
+        },
+        {
+          "artist_name": "Cool Customer",
+          "duration": 214076,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02bb38a483577bf9b1330c8a66",
+          "preview_url": "https://p.scdn.co/mp3-preview/dbbb9aeec0f25eea96821d6d5f1f35c4e334a2fc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Blow Ya Mind",
+          "track_id": "6yeAVqoLT7iyAMfhZnaMhr"
+        },
+        {
+          "artist_name": "Cool Customer",
+          "duration": 234666,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f83e668a82d6eb72e2181827",
+          "streaming_service": "spotify",
+          "title": "Patience",
+          "track_id": "7dLG0Kj55vOzSjleUQkPMp"
+        },
+        {
+          "artist_name": "Cool Customer",
+          "duration": 218522,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f83e668a82d6eb72e2181827",
+          "streaming_service": "spotify",
+          "title": "Word To The Mother",
+          "track_id": "7zDpTCasugFxkJLI4qDff5"
+        }
+      ]
     }
   ]
 }
