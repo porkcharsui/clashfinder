@@ -8579,8 +8579,7 @@
       },
       "links": {
         "instagram_user": "richardfingerr/",
-        "soundcloud_user": "richardfinger",
-        "youtube_channel_id": "UCWOgJ1D9C3kE_lrnmypyDug"
+        "soundcloud_user": "richardfinger"
       },
       "name": "Richard Finger",
       "performances": [
@@ -10506,21 +10505,21 @@
       "tracks": [
         {
           "artist_name": "Average Citizens",
+          "duration": 260307,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02aa153f7af7d358623b4b91d2",
+          "preview_url": "https://p.scdn.co/mp3-preview/18be14b4863de04c7f6a95ec8dfe787dc4911781?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Chit Chat",
+          "track_id": "1jnzQo2Oz2MjYZJfYQcIWx"
+        },
+        {
+          "artist_name": "Average Citizens",
           "duration": 240428,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02bc8f517c0ea0d91ee3f47e72",
           "preview_url": "https://p.scdn.co/mp3-preview/de68dd3d9399b98930308378beb16cc69731b103?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
           "title": "Fast Alice",
           "track_id": "2Z6yk6YgPlBXZvkj4fyDMb"
-        },
-        {
-          "artist_name": "Average Citizens, Coka Cobra",
-          "duration": 175254,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b77923d1f50f5b18ef45065a",
-          "preview_url": "https://p.scdn.co/mp3-preview/ad80bc69706a14327c81dd931b4368ea87a5c8ce?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "White Cobra",
-          "track_id": "2wnfGMbtRU7ghvEKgr0AoE"
         },
         {
           "artist_name": "Average Citizens",
@@ -10858,15 +10857,6 @@
         },
         {
           "artist_name": "Case of the Mondays",
-          "duration": 326399,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02534754964c3589c43cac813e",
-          "preview_url": "https://p.scdn.co/mp3-preview/b6ef2014d682e0a5efe3688687e58c8116a0b548?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Baddies",
-          "track_id": "317tCoKtigSW9YMwOUyOVD"
-        },
-        {
-          "artist_name": "Case of the Mondays",
           "duration": 298153,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02127b28e073b4244049f478b4",
           "preview_url": "https://p.scdn.co/mp3-preview/956cbbd3133ddda845b800bc5d1a5daf48953a23?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -10891,6 +10881,15 @@
           "streaming_service": "spotify",
           "title": "The Groove",
           "track_id": "595yJfLAZRQJ2SbTofdhFu"
+        },
+        {
+          "artist_name": "Case of the Mondays",
+          "duration": 201813,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d3c6d7c65f06a05f64f5f992",
+          "preview_url": "https://p.scdn.co/mp3-preview/edcb194498ddfcc7a77f4290e733702e33e6c082?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Like Me",
+          "track_id": "6nSF7VELaMJ06PUzn04bmQ"
         },
         {
           "artist_name": "Case of the Mondays",
@@ -12971,6 +12970,15 @@
           "track_id": "0Sna6Q25qsWotEM4lmdIWE"
         },
         {
+          "artist_name": "Sivz",
+          "duration": 369761,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0220c573a67577c0bb996d6ea0",
+          "preview_url": "https://p.scdn.co/mp3-preview/a229af1d2ec5b65e875aa06b9fbe0d9d6ae253d4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "When You Left - Club Mix",
+          "track_id": "1iUjzZ2csJy0oLLWfYO0Q7"
+        },
+        {
           "artist_name": "SAM SHI, Gaspa, Sivz",
           "duration": 377682,
           "image_url": "https://i.scdn.co/image/ab67616d00001e029287756f37275e27c9ec27a5",
@@ -13014,15 +13022,6 @@
           "streaming_service": "spotify",
           "title": "When You Left",
           "track_id": "4O3ClmM5rvAvog5ISYu4o5"
-        },
-        {
-          "artist_name": "Shane Patrick Riley, Sivz",
-          "duration": 293442,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d22bad8b78ce26498ea6aadb",
-          "preview_url": "https://p.scdn.co/mp3-preview/1af0ef2a830f0cdbed2fa7cca3ccd3bfb24004c4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "We Movin'",
-          "track_id": "4xQOYJvzinZlFBlM4MGlBY"
         },
         {
           "artist_name": "Sivz, ATTICUS",
@@ -17591,6 +17590,15 @@
           "track_id": "36yoaUj4gcZw8sYiOs5utm"
         },
         {
+          "artist_name": "Munchkin Kat, Everyman",
+          "duration": 200470,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
+          "preview_url": "https://p.scdn.co/mp3-preview/7944ffd8701f7c89c65e052afcf8207f4da489b7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Space Bass",
+          "track_id": "3tHviarjk6Q4TyU4RrtEWT"
+        },
+        {
           "artist_name": "Neil To No-One, Everyman",
           "duration": 224000,
           "image_url": "https://i.scdn.co/image/ab67616d00001e028c277156ed2e7eb9f0ab4a8d",
@@ -17598,15 +17606,6 @@
           "streaming_service": "spotify",
           "title": "Go Do Dat",
           "track_id": "4PssFFutGAGdhSv7in9EF5"
-        },
-        {
-          "artist_name": "Basement Freaks, Everyman",
-          "duration": 229135,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028b5796eb23aabc3ffc41196b",
-          "preview_url": "https://p.scdn.co/mp3-preview/e017b6ced5bd004e866b23a7f36a574009a87ec1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Drift Away But Stay",
-          "track_id": "4edxeMQyvwsshYoTD25JlR"
         },
         {
           "artist_name": "Everyman, Joe Con",
@@ -19647,15 +19646,6 @@
           "track_id": "0HkTjwlJQoYHna7y7dAou2"
         },
         {
-          "artist_name": "Thomas Anthony, Stund",
-          "duration": 167619,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c439c12ee5c8e75a5773706a",
-          "preview_url": "https://p.scdn.co/mp3-preview/e1f225962dce845fc66947096e527fc0037f4ed7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Hood Go Crazy",
-          "track_id": "0Uszktpy7xhvUgVgfa7dIT"
-        },
-        {
           "artist_name": "Stund",
           "duration": 221223,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02489e26f2ae85714e0b0893ed",
@@ -19708,6 +19698,15 @@
           "streaming_service": "spotify",
           "title": "Addicted - Radio Edit",
           "track_id": "4Vwc0eFcF0bB8bZxw5445r"
+        },
+        {
+          "artist_name": "Stund, Tasha Kett",
+          "duration": 204190,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e026783d57412a074fa8bc66242",
+          "preview_url": "https://p.scdn.co/mp3-preview/e24a2a37beb869b78df46be35028b49b6300a9a1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Space Walk",
+          "track_id": "5rQWmnBCDuhcpAZRq48VMG"
         },
         {
           "artist_name": "Father Funk, Stund",
@@ -22936,6 +22935,15 @@
         },
         {
           "artist_name": "Atebaki",
+          "duration": 184062,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0223759bd9844a175b89d7fe0e",
+          "preview_url": "https://p.scdn.co/mp3-preview/a5c1c9e6c83539c8e9b4a965f0fe669315699230?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Smug Smirk",
+          "track_id": "3G0orErwKgQEggr5DZoJQx"
+        },
+        {
+          "artist_name": "Atebaki",
           "duration": 212437,
           "image_url": "https://i.scdn.co/image/ab67616d00001e029aca57e3093ffce95d7ff2e4",
           "preview_url": "https://p.scdn.co/mp3-preview/7264f2b3ccae6b7c74c4e29ed38826ef818d3e00?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -22951,15 +22959,6 @@
           "streaming_service": "spotify",
           "title": "Butter Hearts",
           "track_id": "5wrqvGFH5vdYze5cAY5M5K"
-        },
-        {
-          "artist_name": "Atebaki",
-          "duration": 155646,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021d32be206e22d9225ac2f0f7",
-          "preview_url": "https://p.scdn.co/mp3-preview/15cfee49a98269ecc86975f9f2f82e62942bf04f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Ophiuchus",
-          "track_id": "79NVeZiA3pOqH85WNYV5P4"
         }
       ]
     },
@@ -40704,15 +40703,6 @@
           "track_id": "4FNTbPF9yCCfJeKsgbQ3bU"
         },
         {
-          "artist_name": "NXSTY, Coka Cobra",
-          "duration": 198857,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ea3d78291dfba5c090eca28c",
-          "preview_url": "https://p.scdn.co/mp3-preview/018b1e078463fab87ff36149a47fa2bad7e39531?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Twin Fang",
-          "track_id": "4b3HzfcUhyHuq7X2Z8Emuz"
-        },
-        {
           "artist_name": "Coka Cobra, Walschlager",
           "duration": 140952,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02c390472a02b639c6079d97e6",
@@ -40720,6 +40710,15 @@
           "streaming_service": "spotify",
           "title": "Drop This",
           "track_id": "58FuWT6Alv9ibe3Ts3CwzB"
+        },
+        {
+          "artist_name": "Coka Cobra, Average Citizens",
+          "duration": 188444,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ff8d8e65632d375d340a75ee",
+          "preview_url": "https://p.scdn.co/mp3-preview/8cca609921e7fbd5e162ddf97cbca4819929e7bc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Ride The Roller",
+          "track_id": "6jJjNmaOr7b3Ej8UHHnv7O"
         },
         {
           "artist_name": "One True God, Coka Cobra",
