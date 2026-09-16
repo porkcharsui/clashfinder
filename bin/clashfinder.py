@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import os
 import re
+import subprocess
 from datetime import datetime
 from http.cookies import CookieError, SimpleCookie
 from pathlib import Path
@@ -10,7 +11,6 @@ import click
 import requests
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
-from git import InvalidGitRepositoryError, NoSuchPathError, Repo
 
 
 CLASHFINDER_BASE_URL = "https://clashfinder.com"
@@ -28,45 +28,59 @@ class ClashfinderError(Exception):
 
 
 def get_git_revision(path):
+    file_path = Path(path).resolve()
+    if not file_path.is_file():
+        raise ClashfinderError(f"The Clashfinder data path is not a file: {path}")
+
+    repo_result = run_git(["rev-parse", "--show-toplevel"], file_path.parent)
+    if repo_result.returncode:
+        raise ClashfinderError("Unable to determine the current Git revision.")
+
+    repo_root = Path(repo_result.stdout.strip()).resolve()
     try:
-        file_path = Path(path).resolve()
-        if not file_path.is_file():
-            raise ClashfinderError(f"The Clashfinder data path is not a file: {path}")
+        relative_path = file_path.relative_to(repo_root).as_posix()
+    except ValueError as exc:
+        raise ClashfinderError(
+            "The Clashfinder data file is outside the Git working tree."
+        ) from exc
 
-        repo = Repo(file_path.parent, search_parent_directories=True)
-        repo_root = Path(repo.working_tree_dir).resolve()
-        try:
-            relative_path = file_path.relative_to(repo_root).as_posix()
-        except ValueError as exc:
-            raise ClashfinderError(
-                "The Clashfinder data file is outside the Git working tree."
-            ) from exc
-
-        tracked_paths = {entry[0] for entry in repo.index.entries}
-        if relative_path not in tracked_paths:
-            raise ClashfinderError(
-                "The Clashfinder data file is not tracked by Git. Commit it before uploading."
-            )
-        if repo.is_dirty(path=relative_path, untracked_files=True):
-            raise ClashfinderError(
-                "The Clashfinder data file has uncommitted changes. "
-                "Commit it before uploading."
-            )
-
-        latest_file_commit = next(
-            repo.iter_commits(paths=relative_path, max_count=1), None
+    tracked_result = run_git(
+        ["ls-files", "--error-unmatch", "--", relative_path], repo_root
+    )
+    if tracked_result.returncode:
+        raise ClashfinderError(
+            "The Clashfinder data file is not tracked by Git. Commit it before uploading."
         )
-        if latest_file_commit is None:
-            raise ClashfinderError(
-                "Unable to find a Git commit containing the Clashfinder data file."
-            )
 
-        full_sha = latest_file_commit.hexsha
-        short_sha = full_sha[:7]
-    except (InvalidGitRepositoryError, NoSuchPathError, ValueError) as exc:
-        raise ClashfinderError("Unable to determine the current Git revision.") from exc
+    status_result = run_git(["status", "--porcelain", "--", relative_path], repo_root)
+    if status_result.stdout:
+        raise ClashfinderError(
+            "The Clashfinder data file has uncommitted changes. "
+            "Commit it before uploading."
+        )
+
+    commit_result = run_git(["log", "-1", "--format=%H", "--", relative_path], repo_root)
+    full_sha = commit_result.stdout.strip()
+    if commit_result.returncode or not full_sha:
+        raise ClashfinderError(
+            "Unable to find a Git commit containing the Clashfinder data file."
+        )
+    short_sha = full_sha[:7]
 
     return full_sha, short_sha
+
+
+def run_git(arguments, cwd):
+    try:
+        return subprocess.run(
+            ["git", *arguments],
+            cwd=cwd,
+            capture_output=True,
+            check=False,
+            text=True,
+        )
+    except OSError as exc:
+        raise ClashfinderError("Unable to run the Git command-line tool.") from exc
 
 
 def build_revision_note(full_sha, short_sha, force=False, now=None):
